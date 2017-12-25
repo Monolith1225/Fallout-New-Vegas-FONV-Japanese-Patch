@@ -1,0 +1,218 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc01_quest_objective_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00081938	Get to the Gala Event control panel at the top of the belltower in Salida del Sol North and activate it.
+GID00081939	Get to the Sierra Madre Main Gate and enter the casino.
+GID00081940	Thread Vera's music sequence together at the Receptionist Terminal in the Lobby.
+GID00081941	Escape the Sierra Madre Vault before your collar explodes.
+GID00081942	Discover the secrets of the Sierra Madre at the Vault's central chamber.
+GID00081943	Gain access to the Sierra Madre Vault.
+GID00081944	Defeat Elijah.
+GID00081945	(Optional) Sneak out of the Vault's chamber area undetected, trapping Elijah when he opens the vault.
+GID00081946	Track down the source of the Sierra Madre invitation.
+GID00081947	Wake up.
+GID00081948	On your feet, before I set off your collar.
+GID00081949	Look at your Pip-Boy. Listen to the audio log, follow the instructions.
+GID00081950	From now on, do as I say. It's the only way you'll leave the Sierra Madre alive.
+GID00081951	Try and run, disobey me? I'll set off your collar and find someone who knows how to listen.
+GID00081952	...and no sleeping, no waiting around, not even for an hour. Waste my time, you're useless to me.
+GID00081953	Picking up signals near your location. Detonators. Watch for traps.
+GID00081954	Villa's comm speakers have... aged poorly, like the Madre. Pre-War junk.
+GID00081955	The speakers emit a signal that'll set off your collar. Too close, too long, you'll lose your head.
+GID00081956	Some speakers may be damaged, blue ones, sparking - you can destroy those. Others, red, too well-shielded.
+GID00081957	Don't be stupid. Pay attention, keep moving. Hear your collar beep, look around.
+GID00081958	Don't go through the gate to Puesta del Sol yet, gather the others first.
+GID00081959	Leave the Salida gate alone. You're not done with the Villa yet, so don't stray.
+GID00081960	You sure have filled your Pip-Boy's archives with garbage.
+GID00081961	Mitchell... that your name, Mitchell? No, wait... previous owner, Vault 21. Vegas.
+GID00081962	No matter, not important. Probably stole this Pip-Boy from him, didn't you.
+GID00081963	Don't worry, if you're a thief, a thief is just what I need.
+GID00081964	Followed the Gala radio signal, just like I did, hoping to strike it rich?
+GID00081965	Cooperate with me, follow along, we'll crack the Sierra Madre. Together.
+GID00081966	There were others like you... turned on each other, even before the collars.
+GID00081967	Play your cards right, be smart, you'll live through this. Be dumb...
+GID00081968	..well, your head wasn't much use anyway, was it?
+GID00081969	The Villa's toxic. The more you're outside, the more you breathe...
+GID00081970	...then the Cloud wins. So move fast, don't stay outdoors too long.
+GID00081971	Outside, you may notice your vision'll pulse, get dizzy.
+GID00081972	It's the Cloud. Eats your insides, slowly. Too much exposure, death.
+GID00081973	Damn speakers at end of hall - red light means they're shielded. Must be a way to shut them off somewhere else.
+GID00081974	Collar 12's near you, in the building.
+GID00081975	Getting an odd signal near your location. Some kind of emitter, hunt for it.
+GID00081976	Lost the emitter signal. Your work, I presume?
+GID00081977	Picked up another emitter signal, then lost it.
+GID00081978	Maybe you think I wanted to send people here. To inhale toxins. Die. Kill each other.
+GID00081979	Hardly. If robots could do this, I'd have sent them in.
+GID00081980	That collar around your neck is because people are unreliable. Even chains of command - unreliable.
+GID00081981	These collars, with adjustments, work much better.
+GID00081982	Watch out for the Villa inhabitants.
+GID00081983	The Villa's inhabitants seem obsessed with Holograms. Use it to distract them.
+GID00081984	Picking up an emitter signature - watch for Security Holograms, dangerous.
+GID00081985	Main power's down. How troublesome.
+GID00081986	The ventilation system controls should be located in that building.
+GID00081987	They should help with the Cloud.
+GID00081988	Good, ventilation's back online.
+GID00081989	Deciding to explore? Curiosity kills, get back to the main path.
+GID00081990	I mean it - if you die here, then this starts all over again.
+GID00081991	Collars weren't always linked to each other. A mistake.
+GID00081992	Others who came, kept killing each other. Now, I've fixed that by linking them to each other.
+GID00081993	Keep heading West, that's where you'll need to leave the mutant.
+GID00081994	Damn power station levers need his strength to operate.
+GID00081995	You're at one of the Gala locations, you'll need to bring the mutant here.
+GID00081996	Only he has the strength to operate the levers, I've found.
+GID00081997	Head north, get to the bell tower. There is where you'll trigger the event.
+GID00081998	Provided you have everyone in place.
+GID00081999	Toxins are thick in your area. Move East, avoid the clouds.
+GID00082000	Don't test me or the Cloud... both will kill you without a second thought.
+GID00082001	Covering a lot of ground, good. Still a ways to go.
+GID00082002	Stay focused. Only one chance to do this.
+GID00082003	Salida del Sol... now a maze of toxins.
+GID00082004	Entire Villa is a deathtrap.
+GID00082005	Keep north - that's where you'll find the bell tower.
+GID00082006	Everyone needs to be in place, or it'll be a wasted trip.
+GID00082007	You're resourceful. Had a daughter, foster daughter, like you.
+GID00082008	She was willful, stubborn. But clever. She's gone now. Lost to me.
+GID00082009	We don't have time for you to explore the Villa, stick to the Gala.
+GID00082010	Are you paying attention? Roam the Villa, and you'll die.
+GID00082011	The bell tower. That's where you'll trigger the Gala Event.
+GID00082012	It's a ways up. I'm sure you'll find a way to climb up there.
+GID00082013	Take the ladder. It should still be intact.
+GID00082014	Once you're in the tower, throw the switch, then get ready to move.
+GID00082015	What are you doing?
+GID00082016	The others aren't in place yet. Get them to their stations, then return here.
+GID00082017	Leave the mute at the Switching Station - she'll know what to do.
+GID00082018	Your detours are getting tiresome.
+GID00082019	What do you expect to find? A way to escape? No, I don't think so.
+GID00082020	This must have been paradise before the war.
+GID00082021	But no, radiation and the Cloud ruined that dream.
+GID00082022	Head west, past the toxins, get to the Switching Station.
+GID00082023	So that's what happened to that one.
+GID00082024	Pray you don't end up like him. Greed killed him. Can kill you, too.
+GID00082025	Remember - you need to bring the mute girl here.
+GID00082026	If not, it's a long walk back, and time's running out.
+GID00082027	Sick of having to herd all of you through the Villa...
+GID00082028	...at least you're making more progress than the last team.
+GID00082029	Don't waste time trying to catch a glimpse of the Sierra Madre.
+GID00082030	Enough detours, get back to the task at hand.
+GID00082031	The Gala target is straight ahead - southeast on the compass.
+GID00082032	It's where you should leave the Ghoul.
+GID00082033	You're at the Gala area... now, you need someone to stay there.
+GID00082034	Bring the Ghoul... he'll do.
+GID00082035	I can hear the event firing off. Now get to the main doors, quickly.
+GID00082036	Keep moving. The doors will close unless you get there in time.
+GID00082037	Faster!
+GID00082038	What's taking you so long? Get to the casino!
+GID00082039	Get there soon or the doors will seal, and you'll be trapped outside.
+GID00082040	If you're trying to crawl-and-hide, don't turn on your Pip-Boy light...
+GID00082041	...that light? Makes it easier for... others to spot you.
+GID00082042	See if you can access that terminal.
+GID00082043	Might be some "Vending Machine" access codes you can download.
+GID00082044	Those "Vending" Machines, the ones with the blue lights. Use them to resupply.
+GID00082045	Gather any casino chips you see, take them to the machines.
+GID00082046	Followed the signal here because of that damn voice.
+GID00082047	Promising to "begin again?" Pre-War nonsense. More like "end again."
+GID00082048	That's the way out - after you break into the Sierra Madre's vault. Try to leave, I'll set off your collar.
+GID00082049	Follow my orders, freedom is yours. I promise.
+GID00082050	The gate to the Sierra Madre's sealed, locked. For now.
+GID00082051	Do as I say, and it won't be locked for much longer.
+GID00082052	Those "vending" machines... vending wasn't their intended use.
+GID00082053	They do so much more. Make the Villa self-sufficient.
+GID00082054	< Elijah says the player disobeyed his warning about cooperating with companions, so player goes boom >
+GID00082055	Now, piece together the words from her holotapes in the right sequence.
+GID00082056	The elevator to the casino vault is locked, find a way to open it.
+GID00082057	You found a way to the Vault... good. Now find a way into the Chamber.
+GID00082058	Find the mute and deal with her. She's somewhere on this floor.
+GID00082059	If that Ghoul's still alive... correct that. Or break him.
+GID00082060	Hurry up and deal with the FEV reject, he's of no use to us.
+GID00082061	Sierra Madre's still sealed up. Find a way to restore the power.
+GID00082062	Trapped now. You won't be able to deal with the turrets alone.
+GID00082063	That does it. I'm coming for you.
+GID00082064	Your collar's set to detonate. You won't get far.
+GID00082065	Door's sealed. Must be a key to the backstage. Hunt for it.
+GID00082066	He knew a way to get to the starlet's room? Backstage "pass," indeed.
+GID00082067	That starlet - Vera - must have had access the security? Maybe the audience controls...?
+GID00082068	That Holotape needs a holo-emitter. Get to the projection booth, play it, and de-activate the Security Holograms.
+GID00082069	Now, deal with the Ghoul. This has gone on long enough.
+GID00082070	Now - find the voice fragment and escape before your collar explodes. Move!
+GID00082071	Talk all you want, I don't trust him. At least you can leave now.
+GID00082072	Get to the door before the collar explodes, move!
+GID00082073	The Ghoul's your burden - find the Holotape fragment, and keep it to yourself.
+GID00082074	Until you deal with the Holograms, you can't reach the Ghoul - find a way to de-activate the Security Holograms.
+GID00082075	Doors'll sealed until power's back.
+GID00082076	The door won't open until you restore power. Check the main casino.
+GID00082077	Power first, then the door unlocks. Understand?
+GID00082078	Must be a back entrance to the kitchen - check the main casino side corridors. Find it.
+GID00082079	Shut off the gas valves, or that idiot'll kill us all.
+GID00082080	Good, now keep moving. You still need to unlock the elevator to the vault.
+GID00082081	Put him down, good. Now get out, before your collar blows.
+GID00082082	Fix the valves and get out of there before his collar blows!
+GID00082083	Good, now keep moving. Take the elevator to the vault.
+GID00082084	Sounds like she's going to be difficult. Handle it.
+GID00082085	Floor's buzzing with emitter signatures. Watch out for Holograms.
+GID00082086	Find a way past the Hologram Security and get to the power switch.
+GID00082087	Lot of power lines... leading to a room near the cashier's counter. Check it out.
+GID00082088	The vault has an audio lock. And it responds to the starlet's voice. We need to find more samples.
+GID00082089	A theater... it may have the recordings of the Starlet's voice we need.
+GID00082090	Gas leak has stopped - now, for the mutant.
+GID00082091	He broke one of the valves. Wait for him to leave, then fix it.
+GID00082092	The door to the vault is voice-activated. Which means we need the starlet's voice. Or recordings of it.
+GID00082093	The holotape... the starlet's voice is the key to the vault, look for more fragments.
+GID00082094	What is wrong? Maybe... maybe you need to splice the fragment to make the phrase.
+GID00082095	The Theater should have the tools you need to edit the tapes. Look around.
+GID00082096	Ah, that's it. Try it out in the Suites at once.
+GID00082097	That's it for the mutant reject. Now for the others.
+GID00082098	Search for more recordings of the starlet. Maybe she had an admirer here, among the staff.
+GID00082099	Look for more voice recordings. Might be something in her possessions.
+GID00082100	That idiot's opened the gas valves! A single spark - or he sets off his collar, the casino's going to burn. Us along with him.
+GID00082101	The gas leak's sealed the main kitchen door. Check for an emergency entrance - the casino side corridors, look there.
+GID00082102	Don't let him spot you! If he does, talk him down before he has a chance to ignite the gas.
+GID00082103	Quick! Talk him down before he ignites the gas!
+GID00082104	Find Dog at the Police Station in the Villa.
+GID00082105	Search the basement of the Police Station for a way to free Dog from his cell.
+GID00082106	Play the basement audio log on your Pip-Boy near Dog's cell.
+GID00082107	Recruit Dog.
+GID00082108	Get to Dean Domino at his hideout in the Residential District.
+GID00082109	Recruit Dean Domino.
+GID00082110	Search for Christine in the Clinic in the Medical District.
+GID00082111	Get into the Clinic Basement and turn off the power to Shielded Speakers in the Auto-Doc wing.
+GID00082112	Find Christine in the Auto-Doc wing of the Clinic.
+GID00082113	Recruit Christine.
+GID00082114	Retrieve the Emergency Door key to the Cantina Madrid kitchen.
+GID00082115	Repair the three broken gas valves in the kitchen without being spotted by Dog.
+GID00082116	Confront Dog and convince him to back down - one way or another.
+GID00082117	Access the Cantina Madrid kitchen via the Emergency Door in the Casino.
+GID00082118	Kill Dog.
+GID00082119	Get out of the kitchen before Dog's collar detonates - and detonates yours, in turn.
+GID00082120	Gain access to the Casino electrical closet and restore power to the rest of the Sierra Madre.
+GID00082121	Travel to the Puesta del Sol Switching Station with Christine.
+GID00082122	Repair the electrical box to gain access to the rest of the Switching Station.
+GID00082123	Get Christine to the elevator to the Manual Override Chamber.
+GID00082124	Ask Christine to take the elevator down into the Manual Override Chamber.
+GID00082125	Gain access to the Remote Maintenance Terminal for Christine.
+GID00082126	Use the elevator controls to send Christine down into the Manual Override Chamber.
+GID00082127	Get Christine to the Remote Maintenance Terminal and let her know it can be used.
+GID00082128	Get Dog to the Switching Substation in Salida del Sol.
+GID00082129	Get Dog to wait in the Switching Substation.
+GID00082130	Find two slabs of Ghost Harvester remains to convince Dog to stay in the Switching Substation.
+GID00082131	(Optional) Use the Switching Substation terminal to lock Dog inside and force him to do his part of the Gala.
+GID00082132	Speak to Elijah at the Fountain for further instructions.
+GID00082133	Return to Dog with the Ghost Harvester remains.
+GID00082134	Get Dean to the Puesta del Sol South rooftop.
+GID00082135	Tell Dean to stay in position and fire off his part of the Gala Event.
+GID00082136	Turn on both Security Holograms to guard the courtyard below Dean.
+GID00082137	Let Dean know it's safe for him to get to his Gala position.
+GID00082138	Return to the Puesta del Sol South rooftop with Dean.
+GID00082139	Look for Dean in the Tampico Theater.
+GID00082140	Find a way to disable the Tampico's hologram security.
+GID00082141	Play Dean's Holotape at the Tampico's Holotape Projector.
+GID00082142	Head to the Tampico's backstage and deal with Dean.
+GID00082143	Search for the backstage key.
+GID00082144	Kill Dean Domino.
+GID00082145	Escape the Tampico before Dean's collar sets off your own.
+GID00082146	Find Christine in the Executive Suites.
+GID00082147	Kill Christine.
+GID00082148	Escape the Executive Suites before Christine's collar sets off your own.
+GID00082149	Gain access to the Casino electrical closet.
+GID00082150	Restore power to the rest of the Sierra Madre.
+GID00082151	Return to the Fountain and speak to Elijah to get your next tasks.

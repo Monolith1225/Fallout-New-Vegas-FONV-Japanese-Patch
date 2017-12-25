@@ -1,0 +1,36 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc03_activation_text_override_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00097950	飲む
+GID00097951	飲む
+GID00097952	飲む
+GID00097953	飲む
+GID00097954	発砲テストを実施
+GID00097955	近接センサーをオフ
+GID00097956	Mutant Cave Fungus を摘み取る
+GID00097957	Christine's COS Silencer Rifle を取る
+GID00097958	Elijah's Advanced LAER を取る
+GID00097959	Elijah's Jury-Rigged Tesla Cannon を取る
+GID00097960	Sterilizer Glove を取る
+GID00097961	飲む
+GID00097962	Hazmat Suit を取る
+GID00097963	集める
+GID00097964	損傷した試作品
+GID00097965	Corrosive Glove を取る
+GID00097966	X-2 Antenna を取る
+GID00097967	Z-43 Innovative Toxins Plant へのドアを開く
+GID00097968	Big MT に出る
+GID00097969	Big MT へのゲートを開く
+GID00097970	Z-38 Lightwave Dynamics Research へのドアを開く
+GID00097971	Big MT に出る
+GID00097972	The Cuckoo's Nest に入る
+GID00097973	Hanging Meat を集める
+GID00097974	Hanging Meat を集める
+GID00097975	Hanging Meat を集める
+GID00097976	Hanging Meat を集める
+GID00097977	Big MT に出る
+GID00097978	Elijah's Advanced LAER を取る
+GID00097979	Big MT に出る
+GID00097980	Ulysses' Point に入る
+GID00097981	Big MT へのドアを開く

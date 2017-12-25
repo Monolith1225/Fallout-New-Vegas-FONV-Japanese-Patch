@@ -1,0 +1,6 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc06_message_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00098376	Mojave Wasteland における継続した紛争は武器製造会社を高品質へと跳ね上げています!部族におけるすべての大中の武器商人たちは、新しい武器たち、弾薬の種類、そしてMODに勢いを得ています。製品を吟味するためもっとも近くの関連した売り場に向かいましょう!
+GID00098378	Gun Runners' Arsenal はすでにロードされています。

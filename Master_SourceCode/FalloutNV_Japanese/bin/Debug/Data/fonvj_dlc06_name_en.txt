@@ -1,0 +1,209 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc06_name_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00098380	Recharger Rifle
+GID00098381	Frag Grenade
+GID00098382	10mm Pistol
+GID00098383	Sack
+GID00098384	Sack
+GID00098385	Sack
+GID00098386	Sack
+GID00098387	Sack
+GID00098388	Mentats Test Level
+GID00098389	New Vegas Buried Vendor Chests
+GID00098390	The Faderator
+GID00098391	MF Hyperbreeder Alpha (GRA)
+GID00098392	Sprtel-Wood 9700 (GRA)
+GID00098393	Esther (GRA)
+GID00098394	Li'l Devil (GRA)
+GID00098395	Bozar (GRA)
+GID00098396	Nuka-Breaker (GRA)
+GID00098397	Embrace of the Mantis King! (GRA)
+GID00098398	Two-Step Goodbye (GRA)
+GID00098399	The Smitty Special (GRA)
+GID00098400	Cleansing Flame (GRA)
+GID00098401	Paciencia (GRA)
+GID00098402	Sleepytyme (GRA)
+GID00098403	Medicine Stick (GRA)
+GID00098404	Gehenna (GRA)
+GID00098405	Greased Lightning (GRA)
+GID00098406	Time Bomb, High Yield (Mad Bomber) (GRA)
+GID00098407	Battle Rifle (GRA)
+GID00098408	5.56mm Pistol (GRA)
+GID00098409	Tin Grenade (Mad Bomber) (GRA)
+GID00098410	Fat Mine (Mad Bomber) (GRA)
+GID00098411	Katana (GRA)
+GID00098412	Nuka-Grenade (Mad Bomber) (GRA)
+GID00098414	25mm Grenade APW (GRA)
+GID00098416	12.7mm SMG Laser Sight
+GID00098417	12.7mm SMG Stacked Magazine
+GID00098418	12.7mm SMG Suppressor
+GID00098419	25mm G. APW Exp. Drum
+GID00098420	25mm G. APW Long Barrel
+GID00098421	25mm G. APW Upgraded Int.
+GID00098422	Anti-Mat. Rifle CF Parts
+GID00098423	Anti-Mat. Rifle Custom Bolt
+GID00098424	Anti-Mat. Rifle Suppressor
+GID00098425	Assault Carb. Ext. Mags
+GID00098426	Assault Carb. Forged Receiver
+GID00098427	Assault Carb. Light Bolt
+GID00098428	Baseball Bat Cork Core
+GID00098429	Baseball Bat Maple Body
+GID00098430	Baseball Bat Nails
+GID00098431	Chainsaw Alloy Frame
+GID00098432	Chainsaw Carbide Teeth
+GID00098433	Chainsaw HD Chain
+GID00098434	Hunting Rev. Match Barrel
+GID00098435	Hunting Rev. 6-Shot Cylinder
+GID00098436	Katana Authentic Blade
+GID00098437	Katana Balanced Grip
+GID00098438	Katana Protective Sheath
+GID00098439	Laser Pistol Combat Sights
+GID00098440	Laser Pistol Focus Optics
+GID00098441	Laser Pistol Recycler
+GID00098442	Plasma Def. Hi-Cap Terminal
+GID00098443	Plasma Def. Scope
+GID00098444	Plasma Def. Sheath Stabilizer
+GID00098445	Plas. Pistol Hi-Energy Ionizer
+GID00098446	Plas. Pistol Mag. Accelerator
+GID00098447	Plas. Pistol Recycler
+GID00098448	Power Fist Chromed Tubes
+GID00098449	Power Fist Hi-Cap Valves
+GID00098450	Power Fist Ported Chambers
+GID00098451	Ripper Carbide Teeth
+GID00098452	Ripper HD Chain
+GID00098453	Tri-beam LR Focus Optics
+GID00098454	Tri-beam LR HD Caps
+GID00098455	Tri-beam LR Hi-Cap Terminal
+GID00098456	Baseball Bat (GRA)
+GID00098457	Laser Pistol (GRA)
+GID00098458	12.7mm Submachine Gun (GRA)
+GID00098459	Anti-Materiel Rifle (GRA)
+GID00098460	Assault Carbine (GRA)
+GID00098461	Chainsaw (GRA)
+GID00098462	Hunting Revolver (GRA)
+GID00098463	Plasma Defender (GRA)
+GID00098464	Tri-beam Laser Rifle (GRA)
+GID00098465	Plasma Pistol (GRA)
+GID00098466	Power Fist (GRA)
+GID00098467	Ripper (GRA)
+GID00098468	.50 MG, Explosive (GRA)
+GID00098469	20 Gauge, Pulse Slug (GRA)
+GID00098470	12 Gauge, Pulse Slug (GRA)
+GID00098471	12 Gauge, Flechette (GRA)
+GID00098472	12 Gauge, Dragon's Breath (GRA)
+GID00098473	20 Gauge, 3/0 Buck (GRA)
+GID00098474	12 Gauge, 4/0 Buck (GRA)
+GID00098475	12 Gauge, 4/0 Buck Mag. (Hand Loader) (GRA)
+GID00098476	20 Gauge, 3/0 Buck Mag. (Hand Loader) (GRA)
+GID00098477	Missile, Hive (GRA)
+GID00098478	Mini Nuke, Low Yield (GRA)
+GID00098479	Mini Nuke, Timed (GRA)
+GID00098480	Mini Nuke, Big Kid (GRA)
+GID00098481	25mm Grenade, Timed (GRA)
+GID00098482	25mm Grenade, Pulse (GRA)
+GID00098483	25mm Grenade, Plasma (GRA)
+GID00098484	40mm Grenade, Pulse (GRA)
+GID00098485	40mm Grenade, Plasma (GRA)
+GID00098486	5.56mm, Match (Hand Load) (GRA)
+GID00098487	9mm, JHP (Hand Load) (GRA)
+GID00098488	5mm, JSP (Hand Load) (GRA)
+GID00098489	Energy Cell, Optimized (Vigilant Recycler) (GRA)
+GID00098490	Microfusion Cell, Optimized (Vigilant Recycler) (GRA)
+GID00098491	Electron Charge Pack, Optimized (Vigilant Recycler) (GRA)
+GID00098492	Flamer Fuel, Optimized (Vigilant Recycler) (GRA)
+GID00098497	MFC Grenade (Mad Bomber) (GRA)
+GID00098498	MFC Cluster (Mad Bomber) (GRA)
+GID00098503	Flechette DT Reduction
+GID00098504	Dam. Thresh. Reduction
+GID00098505	Magnum Damage Bonus
+GID00098506	Magnum COND Penalty
+GID00098526	Damage Bonus
+GID00098527	Spread Reduction
+GID00098528	COND Decay Increase
+GID00098529	Damage Bonus
+GID00098530	Damage Bonus
+GID00098531	Dam. Thresh. Increase
+GID00098534	COND Decay Increase
+GID00098535	Damage Bonus
+GID00098536	DT Bypass
+GID00098537	Electron Charge Pack, Optimized (GRA)
+GID00098538	Microfusion Cell, Optimized (GRA)
+GID00098539	Energy Cell, Optimized (GRA)
+GID00098540	Flamer Fuel, Optimized (GRA)
+GID00098541	5.56mm, Match Hand Load (GRA)
+GID00098542	9mm, JHP Hand Load (GRA)
+GID00098543	5mm, JSP Hand Load (GRA)
+GID00098544	Dam. Thresh. Reduction
+GID00098545	Mad Bomber
+GID00098546	Fat Mine (GRA)
+GID00098547	MFC Grenade (GRA)
+GID00098548	MFC Cluster (GRA)
+GID00098549	Nuka-Grenade (GRA)
+GID00098550	Time Bomb, High Yield (GRA)
+GID00098551	Powder Charge, Efficient (GRA)
+GID00098552	Bottlecap Mine, Efficient (GRA)
+GID00098553	Tin Grenade (GRA)
+GID00098555	20 Ga., 3/0 Buck Mag. Hand Load (GRA)
+GID00098556	12 Ga., 4/0 Buck Mag. Hand Load (GRA)
+GID00098558	Gun Runners' Arsenal
+GID00098559	Gun Runners' Arsenal
+GID00098560	(GRA) Master of the Arsenal
+GID00098565	Mini Nuke, Tiny Tots (GRA)
+GID00098568	Tiny Tots Spread Increase
+GID00098569	Mod Test Supress
+GID00098571	Hive Missile Spread Increase
+GID00098572	12.7mm Round (Hand Load) (GRA)
+GID00098573	12.7mm, JHP Hand Load (GRA)
+GID00098575	Esther Bonuses
+GID00098576	Esther Dummy Effect
+GID00098577	Two-Step Goodbye
+GID00098578	Explosion Death
+GID00098579	Two-Step Goodbye Explosion
+GID00098580	Reduced Critical Damage
+GID00098581	Crit Kill = Boom!
+GID00098582	Two-Step Goodbye Dummy Effect
+GID00098583	(GRA) Nyah! See? **
+GID00098584	(GRA) Historical Propriety **
+GID00098585	(GRA) Deathclaw Pro Hunter ***
+GID00098586	(GRA) Talk About Owned **
+GID00098587	(GRA) White Line Nightmare **
+GID00098588	(GRA) Overkill *
+GID00098589	(GRA) You Don't Belong In This World! *
+GID00098590	(GRA) Ne Ne Ne Ne... *
+GID00098591	(GRA) Curios and Relics
+GID00098592	(GRA) Against All Tyrants ***
+GID00098593	(GRA) Armed For Bear ***
+GID00098594	(GRA) A Slave Obeys *
+GID00098595	(GRA) The Same Could Be Said of All Religious Weapons *
+GID00098596	(GRA) Crackerjack Timing ***
+GID00098597	(GRA) Man-Machine Interface ***
+GID00098598	(GRA) Vault 13's Revenge **
+GID00098599	(GRA) Benefit Or a Hazard *
+GID00098600	(GRA) Sic Semper Tyrannis **
+GID00098601	(GRA) Even a God-King Can Bleed **
+GID00098602	(GRA) Dyin' Ain't Much of a Living **
+GID00098603	Ignores DR/DT
+GID00098604	Faster Attack
+GID00098605	Chainsaw Dummy Effect
+GID00098606	Greased Lightning Dummy Effect
+GID00098607	ARMAGreaseLightining
+GID00098608	Nuka-Breaker Dummy Effect
+GID00098609	Burning
+GID00098610	MFC Explosion
+GID00098611	MFC Explosion
+GID00098612	MFC Cluster Mine
+GID00098613	Flamer Fire Damage
+GID00098614	Silent
+GID00098615	Sleepytyme Dummy Effect
+GID00098616	Time Bomb Explosion
+GID00098617	Armed Time Bomb
+GID00098618	Flechette DAM Reduction
+GID00098619	BurningNormal
+GID00098620	Dragons Breath DAM Reduction
+GID00098621	Boomer Vendor Faction
+GID00098622	Fat Man (GRA)
+GID00098623	Pulse Slug DAM Reduction
+GID00098624	Time Bomb Explosion
+GID00098625	Armed Time Bomb

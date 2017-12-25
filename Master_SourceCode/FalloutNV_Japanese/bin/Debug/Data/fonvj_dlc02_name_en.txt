@@ -1,0 +1,926 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc02_name_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00085002	Zion Canyon
+GID00085003	Three Marys
+GID00085004	Southern Passage
+GID00085005	Dead Horses Camp
+GID00085006	Pine Creek Tunnel
+GID00085007	Sorrows Camp
+GID00085008	Happy Trails Expedition
+GID00085009	Supply Train
+GID00085010	Arrival at Zion
+GID00085011	The Grand Staircase
+GID00085012	Entrance
+GID00085013	PREFAB CAVES
+GID00085014	Happy Trails Expedition
+GID00085015	Honest Hearts Loaded
+GID00085016	Crush the White Legs
+GID00085017	Flight from Zion
+GID00085018	Daniel
+GID00085019	Joshua Graham
+GID00085020	Salt-Upon-Wounds
+GID00085021	Sweet Flower Cave
+GID00085022	Stone Bones Cave
+GID00085023	Crossroad Cavern
+GID00085024	Half Mouse Cave
+GID00085025	Glass Chime Cave
+GID00085026	.45 AP HD Slide
+GID00085027	.45 AP Silencer
+GID00085028	.45 Auto Pistol
+GID00085029	Three Marys' Caverns
+GID00085030	Fallen Rock Cave
+GID00085031	Angel Cave
+GID00085033	Compass
+GID00085034	Walkie-Talkie
+GID00085035	Debug Box
+GID00085037	Bighorn Bluff
+GID00085040	Virgin River
+GID00085042	White Legs Bone-Breaker
+GID00085043	General Store
+GID00085044	Ranger Station
+GID00085045	Fishing Lodge
+GID00085046	Door
+GID00085047	Door
+GID00085048	.45 Auto
+GID00085050	Sorrows Tribal
+GID00085051	Sorrow African American
+GID00085052	Sorrows Tribal
+GID00085053	Sorrows Tribal
+GID00085054	Sorrow African American
+GID00085055	Dead Horse Tribal
+GID00085056	Deadhorse Caucasian
+GID00085057	Dead Horse Tribal
+GID00085058	WhiteLegs African American
+GID00085059	WhiteLegs Caucasian
+GID00085060	White Legs Tribal
+GID00085061	White Legs Tribal
+GID00085062	Sacred Datura
+GID00085063	Sacred Datura
+GID00085064	White Bird
+GID00085065	The Ghost of She
+GID00085066	Sacred Datura Root
+GID00085067	Rite of Passage
+GID00085068	Sorrows Tribal
+GID00085069	Dead Horse Tribal
+GID00085070	Dead Horse Tribal
+GID00085071	White Legs Tribal
+GID00085072	White Legs Tribal
+GID00085073	Sorrows Tribal
+GID00085074	Follows-Chalk
+GID00085075	Patriarchs' Campground
+GID00085076	Zion Ranger Station
+GID00085077	Sorrows Fork Campground
+GID00085078	Zion Fishing Lodge
+GID00085079	Virgin Fork Campground
+GID00085080	Ranger Substation Peregrine
+GID00085081	Crashed Scout Bus
+GID00085082	Ranger Substation Eagle
+GID00085083	Ranger Substation Osprey
+GID00085084	Ghost Den
+GID00085085	Crossroad Cavern
+GID00085086	Three Marys Cavern
+GID00085087	Court Fork Overlook
+GID00085088	North Fork Campground
+GID00085089	Zion Valley Welcome Booth
+GID00085091	White Legs Camp
+GID00085092	Waking Cloud
+GID00085094	White Legs Bone-Breaker
+GID00085095	Captive Sorrows Tribal
+GID00085096	White Bird's Cave
+GID00085097	White Bird's Cave
+GID00085098	Sweet Flower Cave
+GID00085099	Half Mouse Cave
+GID00085100	Stone Bones Cave
+GID00085101	Fallen Rock Cave
+GID00085102	Dark Datura
+GID00085103	Dark Datura
+GID00085104	Campfire
+GID00085105	Campfire
+GID00085107	Poison
+GID00085108	Ghost of She's Paw
+GID00085109	.45 Auto SMG Comp.
+GID00085110	.45 Auto SMG Drums
+GID00085111	.45 Auto Submachine Gun
+GID00085113	White Legs Pain-Maker
+GID00085114	Dead Horse Warrior
+GID00085117	Zion Mantis
+GID00085118	Giant Zion Mantis
+GID00085119	Zion Mantis Nymph
+GID00085120	Direct The Show
+GID00085121	Desk
+GID00085122	Desk
+GID00085123	Filing Cabinets
+GID00085124	A Light Shining in Darkness
+GID00085125	Terminal
+GID00085126	.45 Auto, Hollow Point
+GID00085127	.45 Auto, +P
+GID00085128	.45 Super (Hand Load)
+GID00085129	COND Decay Increase
+GID00085130	Damage Bonus
+GID00085131	Dam. Thresh. Reduction
+GID00085132	Case, .45 Auto
+GID00085133	Case Box, 10mm
+GID00085134	.45 Auto Round
+GID00085135	.45 Super Hand Load
+GID00085136	.45 Auto +P Round
+GID00085137	Jed Masterson
+GID00085138	Grand Staircase Topographical Map
+GID00085139	Happy Trails Shipping Crate
+GID00085141	Raven
+GID00085142	Giant Worker Ant
+GID00085143	Bark Scorpion
+GID00085144	Bark Scorpion Hunter
+GID00085145	Bighorner Calf
+GID00085146	Bloatfly
+GID00085147	Coyote Den Mother
+GID00085148	Coyote
+GID00085149	Coyote Pup
+GID00085150	Large Dog
+GID00085151	Dog
+GID00085152	Large Wild Dog
+GID00085153	Wild Dog
+GID00085154	Young Gecko
+GID00085155	Giant Rat
+GID00085156	Giant Rat Pup
+GID00085157	Mole Rat
+GID00085158	Mole Rat Pup
+GID00085159	Small Radscorpion
+GID00085160	Giant Soldier Ant
+GID00085161	Bighorner
+GID00085162	Gecko
+GID00085163	Young Green Gecko
+GID00085164	Mole Rat
+GID00085165	Radscorpion
+GID00085166	Bighorner Bull
+GID00085167	Young Cazador
+GID00085168	Giant Ant Queen
+GID00085169	Giant Radscorpion
+GID00085170	Yao Guai
+GID00085171	Cazador
+GID00085172	Green Gecko
+GID00085173	Spore Carrier Runt
+GID00085174	Spore Carrier Runt
+GID00085175	Spore Carrier
+GID00085176	Spore Carrier
+GID00085177	Spore Carrier Brute
+GID00085178	Spore Carrier Brute
+GID00085179	Spore Plant
+GID00085180	Giant Spore Plant
+GID00085184	Sorrows Adorned Outfit
+GID00085185	Sorrows Outfit
+GID00085186	Waking Cloud's Outfit
+GID00085188	Choose The Show
+GID00085191	Salt-Upon-Wounds' Power Fist
+GID00085192	Bighorners of the Eastern Virgin
+GID00085193	Zion Encounters Cell
+GID00085194	Daniel's Outfit
+GID00085195	Daniel's Hat
+GID00085196	Yao Guai
+GID00085197	Mountain Bighorner Calf
+GID00085198	Mountain Bighorner
+GID00085199	Mountain Bighorner Bull
+GID00085200	Lost Mountain Bighorner Calf
+GID00085201	Mountain Bighorner Mother
+GID00085202	Sorrows Tribal
+GID00085206	White Legs Pain-Maker
+GID00085207	White Legs Bone-Breaker
+GID00085208	White Legs Light-Bringer
+GID00085209	White Legs Pain-Maker
+GID00085210	White Legs Storm-Drummer
+GID00085211	White Legs Storm-Drummer
+GID00085215	White Legs Tribal
+GID00085216	White Legs Storm-Drummer
+GID00085217	White Legs Light-Bringer
+GID00085218	White Legs Pain-Maker
+GID00085219	White Legs Bone-Breaker
+GID00085220	Journey to Northern Passage Cave
+GID00085221	Sorrows Healing Powder Supply
+GID00085222	Grand Staircase Map
+GID00085224	Gas Valve
+GID00085225	Joshua Graham's Armor (NPC)
+GID00085226	Joshua Graham's Armor
+GID00085228	Joshua Graham's Headwrap (NPC)
+GID00085229	White Legs War Totem
+GID00085230	White Legs Sapper
+GID00085231	3 Marys Cave Code Box
+GID00085234	Explosives Crate
+GID00085235	Explosives Crate
+GID00085236	Crate
+GID00085237	Crate
+GID00085238	Crate
+GID00085239	Crate
+GID00085240	Sack
+GID00085241	Sack
+GID00085242	Crate
+GID00085243	Crate
+GID00085244	Wooden Crate
+GID00085245	Wooden Crate
+GID00085246	Dead White Legs Tribal
+GID00085247	Dead Horse Tribal
+GID00085248	Gecko
+GID00085249	White Legs Bone-Breaker
+GID00085250	White Legs Pain-Maker
+GID00085251	White Legs Storm-Drummer
+GID00085252	Broken Compass
+GID00085253	Emergency Supply Locker
+GID00085254	Desk
+GID00085255	General Store Desk Key
+GID00085256	Broken Compass
+GID00085257	Broken Walkie-Talkie
+GID00085258	Broken Compass
+GID00085259	Broken Walkie-Talkie
+GID00085260	You're In Combat!
+GID00085261	Crate
+GID00085262	Desk
+GID00085263	Desk
+GID00085264	Desk
+GID00085265	Desk
+GID00085266	Desk
+GID00085267	Desk
+GID00085268	Explosives Crate
+GID00085269	Explosives Crate
+GID00085270	Filing Cabinets
+GID00085271	Filing Cabinets
+GID00085272	Filing Cabinets
+GID00085273	Crate
+GID00085274	Crate
+GID00085275	Sack
+GID00085276	Wooden Crate
+GID00085277	Hollowed-Out Rock
+GID00085278	Hollowed-Out Rock
+GID00085279	Hollowed-Out Rock
+GID00085280	Ant Refuse Pile
+GID00085281	Ant Refuse Pile
+GID00085282	Ant Refuse Pile
+GID00085283	Footlocker
+GID00085284	Footlocker
+GID00085285	Footlocker
+GID00085286	Metal Box
+GID00085287	Metal Box
+GID00085288	Metal Box
+GID00085289	First Aid Box
+GID00085290	First Aid Box
+GID00085291	First Aid Box
+GID00085292	Grave
+GID00085293	Grave
+GID00085294	Grave
+GID00085295	Ammunition Box
+GID00085296	Ammunition Box
+GID00085297	Ammunition Box
+GID00085298	Toolbox
+GID00085299	Toolbox
+GID00085300	Toolbox
+GID00085301	Duffle Bag
+GID00085302	Duffle Bag
+GID00085303	Duffle Bag
+GID00085304	Filing Cabinet
+GID00085305	Filing Cabinet
+GID00085306	Filing Cabinet
+GID00085307	Hollow Log
+GID00085308	Hollow Log
+GID00085309	Hollow Log
+GID00085310	Ant Refuse Pile
+GID00085311	Ant Refuse Pile
+GID00085312	Ant Refuse Pile
+GID00085313	Suitcase
+GID00085314	Suitcase
+GID00085315	Suitcase
+GID00085316	Wooden Crate
+GID00085318	Suitcase
+GID00085319	Toolbox
+GID00085320	Metal Box
+GID00085321	First Aid Box
+GID00085322	Ammunition Box
+GID00085323	Footlocker
+GID00085324	White Legs Hide Armor
+GID00085325	White Legs Outfit
+GID00085326	Mine Detector
+GID00085327	Chaos in Zion
+GID00085328	Zion Canyon Map
+GID00085329	Dead Horse Disciple of Canaan
+GID00085330	Dead Horse Stalker
+GID00085331	Explosives Crate
+GID00085332	Glass Chime Cave
+GID00085333	Dead Horse Tribal
+GID00085334	Test Cell For NPCs
+GID00085335	Home on the Range
+GID00085336	Eye For Eye
+GID00085337	Way of the Canaanite
+GID00085338	Well-Stacked Cairns
+GID00085339	Quiet as the Waters
+GID00085340	Survivalist's Bounty
+GID00085341	When We Remembered Zion
+GID00085342	Restore Our Fortunes
+GID00085343	In a Foreign Land
+GID00085344	O Daughter of Babylon
+GID00085345	May my Hand Forget its Skill
+GID00085346	Quiet as the Waters Perk Effect
+GID00085347	Bear Trap
+GID00085348	Yao Guai Hunter
+GID00085349	Angel Cave
+GID00085350	Eastern Virgin
+GID00085353	Dead Horse Tribal
+GID00085354	Dead Horse Disciple of Canaan
+GID00085355	Dead Horse Disciple of Canaan
+GID00085359	Salt-Upon-Wounds' Helmet
+GID00085375	Survival Cache
+GID00085376	Gas Valve
+GID00085377	Sorrows Tribal
+GID00085378	Sorrows Tribal
+GID00085379	Dancing Flame
+GID00085380	Optional: Retake the Bridge
+GID00085381	Optional: Sanctity of the Dead
+GID00085382	Optional: Prisoners of War
+GID00085383	Follows-Chalk
+GID00085384	Yao Guai Cub
+GID00085385	Gas Valve
+GID00085386	Gas Valve
+GID00085387	Gas Valve
+GID00085388	MQ03 Objective Controller
+GID00085390	Sorrows Tribal
+GID00085391	Dead Sorrows Tribal
+GID00085393	Yao Guai Cave
+GID00085394	Terminal
+GID00085395	Dead Horse Warrior
+GID00085396	Dead Horse Warrior
+GID00085397	Dead Horse Warrior
+GID00085398	Dead Horse Warrior
+GID00085399	Dead Horse Stalker
+GID00085400	Dead Horse Stalker
+GID00085401	Enable Geckos above Sorrows Pond
+GID00085402	Enable Geckos above Dead Hose Camp
+GID00085403	Morning Glory Cave
+GID00085404	Two Skies Cave
+GID00085405	Eastern Virgin
+GID00085406	Fire Bomb
+GID00085407	War Club
+GID00085408	Tomahawk
+GID00085409	Yao Guai Gauntlet
+GID00085410	She's Embrace
+GID00085411	The Narrows
+GID00085412	Cueva Guarache
+GID00085413	Survivalist's Cache
+GID00085414	Stalkers' Camp
+GID00085415	Two Skies Cave
+GID00085416	Yao Guai Cave
+GID00085417	Morning Glory Cave
+GID00085418	Cueva Guarache
+GID00085419	Compliance Regulator
+GID00085420	The Advance Scouts
+GID00085421	The Treacherous Road
+GID00085422	River Monsters
+GID00085423	Explosives Marker
+GID00085424	Gas Valve
+GID00085425	Gas Valve
+GID00085427	Aerie Survivalist Cache
+GID00085428	Ant Burrow
+GID00085429	The Three Marys
+GID00085430	Cabinet
+GID00085431	Fishing Lodge Cabinet Key
+GID00085432	Compass
+GID00085434	How to Fix Stuff
+GID00085435	War Club Casings
+GID00085436	War Club Honors
+GID00085438	Door
+GID00085439	Bear Trap
+GID00085440	Duffle Bag
+GID00085441	Morning Glory's Cache Key
+GID00085447	Daturana
+GID00085448	Weapon Binding Ritual
+GID00085449	Datura Hide
+GID00085450	Weapon Binding Ritual
+GID00085451	Weapon Binding Ritual
+GID00085452	Daturana
+GID00085453	Datura Hide
+GID00085454	Mentats Test Level
+GID00085455	Suitcase
+GID00085456	Chalk's Headdress
+GID00085457	Old Rockville Bridge
+GID00085458	East Fork Bridge
+GID00085459	Terminal
+GID00085460	Electric Generator
+GID00085461	Electricity Generator
+GID00085462	Terminal
+GID00085463	Electricity Generator
+GID00085464	Electricity Generator
+GID00085466	Terminal
+GID00085467	Electric Generator Wiring
+GID00085468	Electricity Generator Wiring
+GID00085469	Electricity Generator Wiring
+GID00085470	Terminal
+GID00085471	Terminal
+GID00085472	Red Rapids Docks
+GID00085473	The Bend Bridge
+GID00085474	Wind Wall Docks
+GID00085475	Clear Water Docks
+GID00085476	General Store
+GID00085477	North Fork Bridge
+GID00085478	Sun Sentinels
+GID00085479	The Aerie
+GID00085480	Burial Mounds
+GID00085481	Green Gecko
+GID00085483	Caterpillar's Mound
+GID00085484	Companion Perk
+GID00085485	Grand Staircase Map Holotape
+GID00085486	Jed's Dead, Baby!
+GID00085487	Year: 2077
+GID00085488	Year: 2078
+GID00085489	Year: 2083
+GID00085490	Year: 2084
+GID00085491	Year: 2095
+GID00085492	Year: 2096
+GID00085493	Year: 2096 (II)
+GID00085494	Year: 2097
+GID00085495	Year: 2100
+GID00085496	Year: 2101
+GID00085497	Year: 2108
+GID00085498	Year: 2113
+GID00085499	Year: 2123
+GID00085500	Year: 2124
+GID00085501	Dead Horses Stalker Armor
+GID00085502	Sorrows Tribal
+GID00085503	Dead Horse Tribal
+GID00085504	Waking Cloud Smash!
+GID00085505	Clay Pot
+GID00085506	Clay Pot
+GID00085507	The Spine
+GID00085508	Giant Green Gecko
+GID00085509	Spore Carrier Beast
+GID00085510	Giant Yao Guai
+GID00085511	Giant Cazador
+GID00085512	Green Gecko Poison
+GID00085515	Survivalist's Rifle
+GID00085516	Crate
+GID00085517	Vendor Chest Cell
+GID00085518	Floor Sit Crossed Legs
+GID00085520	War Club
+GID00085522	Happy Trails Radio Broadcast
+GID00085524	Choose The Show
+GID00085525	Direct The Show
+GID00085526	Dead Horse Tribal
+GID00085527	Dead Horse Tribal
+GID00085528	Whiteleghair
+GID00085534	Follows-Chalk's War Club
+GID00085535	Follows-Chalk's .45 Auto Pistol
+GID00085536	Waking Cloud's Yao Guai Gauntlet
+GID00085537	Gas Valve
+GID00085538	Reloading Bench Footlocker
+GID00085539	Campfire Sack
+GID00085540	Workbench Crate
+GID00085541	Clay Pot
+GID00085542	Clay Pot
+GID00085543	Clay Pot
+GID00085544	Clay Pot
+GID00085545	Clay Pot
+GID00085546	Clay Pot
+GID00085547	Dead Horse Disciple of Canaan
+GID00085548	Dead Horse Disciple of Canaan
+GID00085549	White Legs Storm-Drummer
+GID00085550	White Legs Pain-Maker
+GID00085551	White Legs Pain-Maker
+GID00085552	White Legs Light-Bringer
+GID00085553	White Legs Light-Bringer
+GID00085554	White Legs Bone-Breaker
+GID00085555	White Legs Pain-Maker
+GID00085556	White Legs Pain-Maker
+GID00085557	White Legs Light-Bringer
+GID00085558	White Legs Light-Bringer
+GID00085559	White Legs Bone-Breaker
+GID00085560	White Legs Bone-Breaker
+GID00085561	Sorrows Tribal
+GID00085562	Sorrows Tribal
+GID00085563	Sorrows Tribal
+GID00085564	Sorrows Tribal
+GID00085565	Sorrows Tribal
+GID00085566	Sorrows Tribal
+GID00085567	Sorrows Tribal
+GID00085568	Sorrows Tribal
+GID00085569	Sorrows Tribal
+GID00085570	Sorrows Tribal
+GID00085571	Sorrows Tribal
+GID00085572	Dead Horse Warrior
+GID00085573	Dead Horse Warrior
+GID00085574	Dead Horse Stalker
+GID00085575	Dead Horse Stalker
+GID00085576	Dead Horse Disciple of Canaan
+GID00085577	Dead Horse Warrior
+GID00085578	Dead Horse Warrior
+GID00085579	Dead Horse Stalker
+GID00085580	Dead Horse Stalker
+GID00085581	Dead Horse Disciple of Canaan
+GID00085582	Park Ranger Hat
+GID00085583	Snow Globe - Zion National Park
+GID00085584	Sorrows Tribal
+GID00085586	Young Green Gecko
+GID00085587	Green Gecko
+GID00085588	Giant Green Gecko
+GID00085589	Green Gecko
+GID00085590	White Legs Storm-Drummer
+GID00085591	White Legs Pain-Maker
+GID00085592	White Legs Light-Bringer
+GID00085593	White Legs Bone-Breaker
+GID00085594	Dead Horse Warrior
+GID00085595	Dead Horse Stalker
+GID00085596	Dead Horse Disciple of Canaan
+GID00085597	Dead Horse Disciple of Canaan
+GID00085598	Dead Horse Warrior
+GID00085599	Dead Horse Stalker
+GID00085600	White Legs Storm-Drummer
+GID00085601	White Legs Pain-Maker
+GID00085602	White Legs Light-Bringer
+GID00085603	White Legs Bone-Breaker
+GID00085604	Green Gecko Spit
+GID00085605	Sorrows Tribal
+GID00085606	Happy Trails Caravan Guard
+GID00085607	Happy Trails Caravan Guard
+GID00085608	Ricky
+GID00085609	Stella
+GID00085610	Bone Breaker DT
+GID00085611	White Legs Bone-Breaker
+GID00085612	White Legs Storm-Drummer
+GID00085613	White Legs Storm-Drummer
+GID00085614	White Legs Storm-Drummer
+GID00085615	Dead Horse Disciple of Canaan
+GID00085616	Dead Horse Disciple of Canaan
+GID00085617	War Club
+GID00085618	War Club
+GID00085619	War Club
+GID00085620	War Club
+GID00085621	War Club
+GID00085622	Bone Breaker DT
+GID00085623	White Legs Storm-Drummer
+GID00085626	Spore Carrier Burst Attack
+GID00085627	Spore Spit
+GID00085628	Spore Spit
+GID00085629	Large White Leg Mongrel
+GID00085630	White Leg Mongrel
+GID00085638	Set up for MQ04 finale
+GID00085642	Gathering Storms
+GID00085643	The Survivalist's Duffle Bag
+GID00085644	White Legs War Totem
+GID00085645	You Found a Key!
+GID00085646	You Found a Key!
+GID00085647	You Found a Key!
+GID00085648	Door
+GID00085649	Sorrows Tribal
+GID00085650	Dead Horse Stalker
+GID00085651	White Legs Pain-Maker
+GID00085652	White Legs Pain-Maker
+GID00085653	White Legs Bone-Breaker
+GID00085654	White Legs Light-Bringer
+GID00085655	Terminal
+GID00085656	Gas Valve
+GID00085657	Conversion, Fission Battery to SEC
+GID00085660	Crate
+GID00085661	Gun Cabinet
+GID00085662	Dresser
+GID00085663	Gun Case
+GID00085664	Explosives Crate
+GID00085665	Sack
+GID00085666	Duffle Bag
+GID00085667	Dagger's Point
+GID00085668	Vault 22 Dwellers' Guard Camp
+GID00085669	Crate
+GID00085670	Crate
+GID00085672	Grunt
+GID00085673	Tribal Wisdom
+GID00085674	Poison Resistance
+GID00085675	Sneering Imperialist
+GID00085676	Fight the Power!
+GID00085677	Roadside Attraction
+GID00085678	Gone Fishin'
+GID00085679	Tourist Trap
+GID00085680	Medical Supply Kit
+GID00085681	Contaminated Medical Supply Kit
+GID00085682	Contaminated Medical Supply Kit
+GID00085683	Contaminated Medical Supply Kit
+GID00085684	Contaminated Medical Supply Kit
+GID00085685	Salvaging Medical Kits
+GID00085686	Contaminated Medical Supply Kit
+GID00085687	Medical Supply Kit
+GID00085688	Deliverer of Sorrows
+GID00085690	Compliance Regulator Paralysis
+GID00085694	Toolbox
+GID00085695	Green Gecko Egg
+GID00085696	Green Gecko Hide
+GID00085697	Li'l Scout Lunch Box
+GID00085698	Terminal
+GID00085699	Gas Valve
+GID00085700	Gas Valve
+GID00085701	Gas Valve
+GID00085702	Gas Valve
+GID00085703	Start The Show
+GID00085704	Spore Carrier Runt
+GID00085705	Spore Plant
+GID00085706	Spore Carrier
+GID00085707	Giant Spore Plant
+GID00085708	Spore Carrier Brute
+GID00085709	Spore Carrier Beast
+GID00085710	Start The Show
+GID00085711	Two-Bears-High-Fiving
+GID00085712	Crate
+GID00085713	Gas Valve
+GID00085714	Gas Valve
+GID00085716	Gas Valve
+GID00085717	Gas Valve
+GID00085719	Gas Valve
+GID00085720	Gas Valve
+GID00085725	Poisoned Fire Axe
+GID00085726	Poisoned Hatchet
+GID00085727	Poisoned Machete
+GID00085728	Poisoned Cleaver
+GID00085729	Poisoned Shishkebab
+GID00085730	Poisoned Throwing Spear
+GID00085731	Datura Antivenom
+GID00085737	Direct The Show
+GID00085738	White Legs Pain-Maker
+GID00085739	White Legs Pain-Maker
+GID00085740	White Legs Pain-Maker
+GID00085742	Endgame
+GID00085744	Bob from Accounting
+GID00085745	White Legs Storm-Drummer
+GID00085746	White Legs Storm-Drummer
+GID00085747	Adjust The Show
+GID00085748	Brahmin
+GID00085749	Journey to Zion Valley
+GID00085750	Happy Trails Caravan Guard
+GID00085751	Crate
+GID00085752	Detonator
+GID00085755	Toilet
+GID00085756	Bench Sit
+GID00085757	Scripture
+GID00085758	Exit
+GID00085759	How to Fix Stuff
+GID00085760	Broken Compass
+GID00085761	A Light Shining in Darkness
+GID00085762	Bighorner Hide Bed
+GID00085763	Throwing Spear
+GID00085764	Joshua Graham
+GID00085765	Caesar
+GID00085766	The Ghost of She
+GID00085768	Gas Valve
+GID00085771	Mining Detonator
+GID00085772	White Legs Bone-Breaker
+GID00085773	White Legs Bone-Breaker
+GID00085774	BEWARE - A VENGEFUL SPIRIT STALKS THESE CANYONS
+GID00085775	Bighorner Hide Bed
+GID00085776	Departing Paradise
+GID00085777	Duffle Bag
+GID00085778	Gas Valve
+GID00085779	Gas Valve
+GID00085780	Gas Valve
+GID00085781	Gas Valve
+GID00085782	Gas Valve
+GID00085783	Gas Valve
+GID00085784	Gas Valve
+GID00085785	Gas Valve
+GID00085786	Gas Valve
+GID00085787	Desert Ranger Combat Armor
+GID00085788	Crate
+GID00085789	Followers' random banter controller.
+GID00085790	A Family Affair
+GID00085791	Civilized Man's Burden
+GID00085792	Bark Scorpion Hunter
+GID00085793	Gas Valve
+GID00085794	Gas Valve
+GID00085795	Gas Valve
+GID00085796	Gas Valve
+GID00085797	Gas Valve
+GID00085798	Gas Valve
+GID00085799	Gas Valve
+GID00085800	Gas Valve
+GID00085802	Breakdown .45 Auto
+GID00085804	White Legs Storm-Drummer
+GID00085805	Gas Valve
+GID00085806	Gas Valve
+GID00085807	Gas Valve
+GID00085808	White Legs Storm-Drummer
+GID00085809	Adjust The Show
+GID00085810	Contaminated Medical Supply Kit
+GID00085811	Broken Compass
+GID00085812	Fade control for MQ05 climac
+GID00085813	Mining Explosives
+GID00085814	Caravaneer's Dead, Baby!
+GID00085815	Sack
+GID00085816	Green Gecko
+GID00085817	Direct The Show
+GID00085818	Giant Yao Guai
+GID00085819	Sack
+GID00085820	Sack
+GID00085821	Sack
+GID00085822	Sack
+GID00085823	Suitcase
+GID00085824	Sack
+GID00085825	Sack
+GID00085826	Sack
+GID00085827	Joshua's Pistol Whippin' .45
+GID00085828	Poisoned Mantis Gauntlet
+GID00085829	Poisoned Bladed Gauntlet
+GID00085832	You Found a Key!
+GID00085834	Sorrows Tribal
+GID00085835	Gas Valve
+GID00085836	White Leg Key
+GID00085837	Cell Door
+GID00085839	Li'l Scout Lunchbox
+GID00085840	Yao Guai Cub
+GID00085841	Start The Show
+GID00085845	Gas Valve
+GID00085846	Healing Poultice
+GID00085847	Healing Poultice
+GID00085848	The Red Gate
+GID00085849	Tanned Green Gecko Hide
+GID00085850	Tanned Green Gecko Hide
+GID00085851	Gecko-Backed Leather Armor
+GID00085853	Gecko-Backed Metal Armor
+GID00085855	Gecko-Backed Metal Armor, Reinforced
+GID00085856	Gecko-Backed Leather Armor, Reinforced
+GID00085857	Gecko-Backed Leather Armor
+GID00085858	Gecko-Backed Leather Armor, Reinforced
+GID00085859	Gecko-Backed Metal Armor
+GID00085860	Gecko-Backed Metal Armor, Reinforced
+GID00085861	Datura Antivenom
+GID00085862	Blood Shield
+GID00085863	Blood Shield
+GID00085864	Homebrewed Nuka-Cola
+GID00085865	Homebrewed Sunset Sarsaparilla
+GID00085866	Wasteland Tequila
+GID00085867	Wasteland Tequila
+GID00085868	Black Coffee
+GID00085869	Black Coffee
+GID00085870	Meals-to-Metal
+GID00085871	Cookery-to-Metal
+GID00085872	Gas Valve
+GID00085873	Gas Valve
+GID00085874	Gas Valve
+GID00085875	Re: Shipping Error
+GID00085876	Re: Shipping Problems (AGAIN!)
+GID00085877	Re: Bus Tour?
+GID00085878	Adjust The Show
+GID00085879	Clay Pot
+GID00085880	Clay Pot
+GID00085881	Clay Pot
+GID00085882	Clay Pot
+GID00085883	Clay Pot
+GID00085884	Clay Pot
+GID00085885	Crate
+GID00085886	Crate
+GID00085887	Crate
+GID00085888	Crate
+GID00085889	Crate
+GID00085890	Desk
+GID00085891	Desk
+GID00085892	Desk
+GID00085893	Desk
+GID00085894	Desk
+GID00085895	Desk
+GID00085896	Duffle Bag
+GID00085897	Duffle Bag
+GID00085898	Duffle Bag
+GID00085899	Duffle Bag
+GID00085900	Duffle Bag
+GID00085901	Explosives Crate
+GID00085902	Explosives Crate
+GID00085903	Explosives Crate
+GID00085904	Explosives Crate
+GID00085905	Explosives Crate
+GID00085906	Filing Cabinets
+GID00085907	Filing Cabinets
+GID00085908	Filing Cabinets
+GID00085909	Footlocker
+GID00085910	Footlocker
+GID00085911	Footlocker
+GID00085912	Footlocker
+GID00085913	Footlocker
+GID00085914	Grave
+GID00085915	Grave
+GID00085916	Grave
+GID00085917	Grave
+GID00085918	Grave
+GID00085919	Grave
+GID00085920	Grave
+GID00085921	Grave
+GID00085922	Grave
+GID00085923	Hollow Log
+GID00085924	Hollow Log
+GID00085925	Hollow Log
+GID00085926	Hollow Log
+GID00085927	Hollow Log
+GID00085928	Hollowed-Out Rock
+GID00085929	Hollowed-Out Rock
+GID00085930	Hollowed-Out Rock
+GID00085931	Ammunition Box
+GID00085932	Ammunition Box
+GID00085933	Ammunition Box
+GID00085934	Ammunition Box
+GID00085935	Ammunition Box
+GID00085936	Ammunition Box
+GID00085937	Ammunition Box
+GID00085938	Ammunition Box
+GID00085939	Ammunition Box
+GID00085940	Ammunition Box
+GID00085941	Ammunition Box
+GID00085942	Ammunition Box
+GID00085943	Dresser
+GID00085944	Dresser
+GID00085945	Dresser
+GID00085946	Filing Cabinet
+GID00085947	Filing Cabinet
+GID00085948	Filing Cabinet
+GID00085949	First Aid Box
+GID00085950	First Aid Box
+GID00085951	First Aid Box
+GID00085952	First Aid Box
+GID00085953	First Aid Box
+GID00085954	Gun Case
+GID00085955	Gun Case
+GID00085956	Gun Case
+GID00085957	Gun Case
+GID00085958	Gun Case
+GID00085959	Gun Cabinet
+GID00085960	Gun Cabinet
+GID00085961	Gun Cabinet
+GID00085962	Metal Box
+GID00085963	Metal Box
+GID00085964	Metal Box
+GID00085965	Metal Box
+GID00085966	Metal Box
+GID00085967	Sack
+GID00085968	Sack
+GID00085969	Sack
+GID00085970	Sack
+GID00085971	Sack
+GID00085972	Crate
+GID00085973	Crate
+GID00085974	Crate
+GID00085975	Campfire Sack
+GID00085976	Campfire Sack
+GID00085977	Campfire Sack
+GID00085978	Happy Trails Shipping Crate
+GID00085979	Happy Trails Shipping Crate
+GID00085980	Happy Trails Shipping Crate
+GID00085981	Suitcase
+GID00085982	Suitcase
+GID00085983	Suitcase
+GID00085984	Toolbox
+GID00085985	Toolbox
+GID00085986	Toolbox
+GID00085987	Wooden Crate
+GID00085988	Wooden Crate
+GID00085989	Wooden Crate
+GID00085990	Toolbox
+GID00085991	Toolbox
+GID00085992	Vault Footlocker
+GID00085993	Vault Footlocker
+GID00085994	Vault Footlocker
+GID00085995	Duffle Bag
+GID00085996	Duffle Bag
+GID00085997	Spore Carrier Sap
+GID00085998	Warning!
+GID00086000	Dog Hide Belt
+GID00086001	Coyote Hide Belt
+GID00086002	Gecko Hide Belt
+GID00086003	Fire Gecko Hide Belt
+GID00086004	Golden Gecko Hide Belt
+GID00086005	Green Gecko Hide Belt
+GID00086006	Desert Ranger Combat Helmet
+GID00086007	Compass Sensor Module
+GID00086009	Cave Fungus
+GID00086010	Large Wasteland Tequila
+GID00086011	Large Wasteland Tequila
+GID00086013	Hot Plate
+GID00086014	Entrance
+GID00086015	Entrance
+GID00086017	Tripwire
+GID00086018	Pressure Plate
+GID00086020	Door
+GID00086021	Toggle The Show
+GID00086022	Hold The Show
+GID00086023	Yao Guai Cub
+GID00086024	Yao Guai Cub
+GID00086025	Yao Guai
+GID00086026	Gas Valve
+GID00086027	Dead Horses Stalker Armor
+GID00086028	Chalk's Headdress
+GID00086029	Barkie
+GID00086030	Barkie
+GID00086033	Datura Poison Attack
+GID00086035	Poison
+GID00086036	Floor Sit
+GID00086038	Tracker for starting MQ06 if key NPCs die.
+GID00086039	Explosives are Always Handy
+GID00086040	Adjust The Show
+GID00086041	Collapsing the Tunnel
+GID00086045	Shader Tyme
+GID00086046	Yao Guai Cub
+GID00086047	No Going Back!
+GID00086051	Gas Valve
+GID00086052	Start The Show
+GID00086053	Gas Valve
+GID00086054	Here and Now
+GID00086055	Mantis Gauntlet
+GID00086056	Northern Passage
+GID00086057	Cave Fungus
+GID00086058	Mojave Wasteland
+GID00086059	The Faderator

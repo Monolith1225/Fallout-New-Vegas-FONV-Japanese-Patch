@@ -1,0 +1,134 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc04_terminal_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00097128	Password "GUEST" Accepted
+GID00097129	Welcome to the Mainframe
+GID00097131	Treasurer's Report
+GID00097132	Inter-Office Email
+GID00097133	Memo from Commander Devlin
+GID00097134	>\ Welcome, USER
+GID00097136	Open Gate
+GID00097137	Opening Gate...
+GID00097138	Inlook Email System
+GID00097140	Email to City Treasurer
+GID00097141	Reply from City Treasurer
+GID00097142	Hopeville Missile Silo Security Systems:
+GID00097143	Welcome, User.
+GID00097145	Sentry Security Access Door
+GID00097146	Sentry Security Door Unlocked.
+GID00097147	Sentry Security Access Status
+GID00097148	Sentry Security Access Locked.
+GID00097149	Sentry Security Access Status
+GID00097150	Sentry Security Access Unlocked.
+GID00097151	Welcome to the Eyebot Maintenance System.
+GID00097153	Open Repair Pod 1 - Unoccupied
+GID00097154	Door Malfunction...Please Try Again
+GID00097155	Open Repair Pod 2 - OCCUPIED
+GID00097156	Repair Pod 2 Opened
+GID00097157	Open Repair Pod 2 - OCCUPIED
+GID00097158	ERROR - Security robots still active.
+GID00097159	Open Repair Pod 2 - OCCUPIED
+GID00097160	ERROR: Pod 2 Occupant Non-Operational.
+GID00097161	Open Repair Pod 3 - Unoccupied
+GID00097162	Door Malfunction...Please Try Again
+GID00097163	Hopeville Missile Silo Maintenance:
+GID00097164	Welcome, User.
+GID00097166	Unlock Hydraulics Access Door
+GID00097167	Hydraulics Door Unlocked.
+GID00097168	Hydraulics Access Status
+GID00097169	Hydraulics Access Locked.
+GID00097170	Hydraulics Access Status
+GID00097171	Hydraulics Access Unlocked.
+GID00097172	Welcome to the Eyebot Maintenance System.
+GID00097174	Eyebot Maintenance Reports
+GID00097175	Eyebot Maintenance Reports
+GID00097176	Access Eyebot Maintenance Area
+GID00097177	Access Main Corridor
+GID00097178	Door Unlocked.
+GID00097179	Hopeville Missile Silo Maintenance:
+GID00097180	Welcome, User.
+GID00097182	Unlock Prototype Bot Pod
+GID00097183	Prototype Bot Pod Unlocked.
+GID00097184	Bot Pod Status
+GID00097185	Bot Pod Locked.
+GID00097186	Bot Pod Status
+GID00097187	Bot Pod Unlocked.
+GID00097188	Maintenance Department Log
+GID00097189	Accessing Maintenance Log...
+GID00097190	Commissary Notice
+GID00097191	Commissary Reminder
+GID00097192	Ashton Missile Silo:
+GID00097193	Welcome, User.
+GID00097195	Disengage Lock
+GID00097196	Clearance granted, Unlocking...
+GID00097197	WARNING
+GID00097198	Eyebot maintenance security system activated.
+GID00097199	Do you wish to proceed?
+GID00097201	Yes
+GID00097202	Doors Unlocked.
+GID00097203	Hopeville Missile Silo Security Systems:
+GID00097204	Welcome, User.
+GID00097206	Hack Security Turrets
+GID00097207	Security Turrets Compromised...
+GID00097208	First Level Turret Security Status
+GID00097209	Turret Security Active.
+GID00097210	First Level Turret Security Status
+GID00097211	Error: Turret Security Compromised...
+GID00097212	Temp ED-E Access Point.
+GID00097214	My Computer
+GID00097216	Noise
+GID00097217	Earthquakes
+GID00097218	More Earthquakes
+GID00097219	Storage Room Alpha One:
+GID00097220	Welcome, User.
+GID00097222	Disengage Lock
+GID00097223	Clearance granted, Unlocking...
+GID00097224	Hopeville Missile Base Armory:
+GID00097225	Welcome, User.
+GID00097227	Unlock Armory
+GID00097228	Unlocking Armory Access...
+GID00097229	Armory Access Status
+GID00097230	Armory Access Locked.
+GID00097231	Armory Access Status
+GID00097232	Armory Access Unlocked.
+GID00097233	Hopeville Missile Silo Mainframe:
+GID00097234	Welcome, User.
+GID00097236	Unlock Silo's Bunker Doors
+GID00097237	Opening Silo...
+GID00097238	Inlook Email System
+GID00097240	Treasurer's Report
+GID00097241	Inter-Office Email
+GID00097242	Memo from Commander Devlin
+GID00097243	Hopeville Missile Silo Maintenance:
+GID00097244	Welcome, User.
+GID00097246	Unlock Maintenance Access Door
+GID00097247	Maintenance Door Unlocked.
+GID00097248	Maintenance Access Status
+GID00097249	Maintenance Access Locked.
+GID00097250	Maintenance Access Status
+GID00097251	Maintenance Access Unlocked.
+GID00097252	Maintenance Access Status Log
+GID00097253	Accessing Status Log...
+GID00097254	Maintenance Access Status Log
+GID00097255	Accessing Status Log...
+GID00097256	Hopeville Missile Silo Security Systems:
+GID00097257	Welcome, User.
+GID00097259	Deactivate Second Level Robot Security
+GID00097260	Robot Security Deactivated.
+GID00097261	Second Level Security Status
+GID00097262	Security Level Active.
+GID00097263	Second Level Security Status
+GID00097264	Security Level Inactive.
+GID00097265	Second Level Security Log
+GID00097266	Accessing Security Log...
+GID00097267	Hopeville Missile Silo:
+GID00097268	Welcome, Commander.
+GID00097270	Deactivate Personal Sentry Systems
+GID00097271	Security Systems Deactivated.
+GID00097272	Open Personal Sentry Doors
+GID00097273	Sentry Doors Opened.
+GID00097274	Personal Sentry Security Status
+GID00097275	Sentry Security Active.
+GID00097276	Personal Sentry Security Status
+GID00097277	Sentry Security Deactivated.

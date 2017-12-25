@@ -1,0 +1,1432 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_base_game_setting_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00030430	Energy Rifle
+GID00030432	Friend of the People
+GID00030433	Resolution
+GID00030434	Caps
+GID00030435	Live
+GID00030436	Champion of Justice
+GID00030438	Your Hunger level has increased
+GID00030439	Play Audio
+GID00030440	QTY
+GID00030441	Weapon
+GID00030442	Symbol of Order
+GID00030443	Self
+GID00030444	Version Info
+GID00030445	Male
+GID00030447	Herald of Tranquility
+GID00030449	Save game deleted.
+GID00030450	You are overencumbered and cannot run!
+GID00030451	Eye Sockets
+GID00030452	Cheekbones thin/wide
+GID00030453	RAD/SEC
+GID00030454	Back
+GID00030455	You cannot hack this computer.
+GID00030456	Last, Best Hope of Humanity
+GID00030458	Voice
+GID00030459	Savior of the Damned
+GID00030461	Quicksave
+GID00030462	Win/Loss Totals:
+GID00030464	December
+GID00030467	Light Fade
+GID00030468	Cinematic
+GID00030469	Chin small/large
+GID00030471	Hit
+GID00030472	You cannot change armor while attacking.
+GID00030474	Bet Max
+GID00030475	QUICK
+GID00030476	hours
+GID00030478	Ingredient had no effect.
+GID00030479	A storage device which contains downloadable content has been removed. Returning to the title screen.
+GID00030480	NO STATUS EFFECTS
+GID00030481	Remove It
+GID00030482	secs
+GID00030489	[%] added
+GID00030490	Even though you've done some good for the community, people still think you're a punk.
+GID00030492	Beard
+GID00030493	Req
+GID00030494	the Left Stick Right
+GID00030496	Cancel transaction?
+GID00030500	Are you sure you want to load this game?
+GID00030501	Skin tint purple/yellow
+GID00030502	ITEMS
+GID00030503	[HIDDEN]
+GID00030505	You are already at full health.
+GID00030507	WARNING: Any unsaved progress will be lost.
+GID00030508	How long would you like to
+GID00030509	Mouth lips deflated/inflated
+GID00030512	Reload
+GID00030513	World Map
+GID00030514	Soft-Hearted Devil
+GID00030516	Frenzied
+GID00030517	the Right Stick Up
+GID00030519	You are now sick with [%]
+GID00030520	You have been banned from gambling at this casino.
+GID00030521	Bet
+GID00030522	Eyebrows upper dark/light
+GID00030524	the Left Stick Up
+GID00030528	The lock has been broken.
+GID00030529	Level
+GID00030530	Hlth
+GID00030532	Added Effects
+GID00030533	Misc
+GID00030534	Health
+GID00030536	AP
+GID00030537	Disarm Mine
+GID00030538	Activate
+GID00030541	You have contracted [%]
+GID00030542	DPS
+GID00030543	Return
+GID00030544	Start
+GID00030545	the Right Stick Right
+GID00030547	Auto Move
+GID00030548	The save game is corrupt and cannot be loaded.
+GID00030549	This NPC cannot help you train any higher.
+GID00030550	Jaw wide/thin
+GID00030553	Music
+GID00030554	Settings
+GID00030555	You cannot repair items when enemies are nearby.
+GID00030556	[%] removed
+GID00030557	Easy
+GID00030558	D-pad Down
+GID00030560	Forfeit Game
+GID00030561	View Available Content
+GID00030562	the Right Stick Left
+GID00030563	R-Alt
+GID00030565	EFF
+GID00030566	Randomize your head?
+GID00030567	Messiah
+GID00030568	File does not exist
+GID00030569	Skin shade dark/light
+GID00030570	[%] TRAITS LEFT
+GID00030571	You don't have enough caps.
+GID00030572	Gun Spread
+GID00030573	Sunday
+GID00030574	You win!
+GID00030575	Downloadable Content
+GID00030576	Talk
+GID00030577	R-Ctrl
+GID00030578	You can't fast travel while taking health damage
+GID00030579	Jawline concave/convex
+GID00030580	&OK
+GID00030581	sec
+GID00030582	Target Fatigue
+GID00030583	ROBCO INDUSTRIES UNIFIED OPERATING SYSTEM
+GID00030584	Enter character name.
+GID00030586	Chin retracted/jutting
+GID00030587	DATA
+GID00030588	HP
+GID00030589	COPYRIGHT 2075-2077 ROBCO INDUSTRIES
+GID00030591	Wild Child
+GID00030592	You feel lucky. You win
+GID00030594	Steal
+GID00030595	Your left leg is now crippled.
+GID00030596	LIVE
+GID00030597	Move It
+GID00030598	For your overwhelmingly monstrous behavior, you have become vilified by the community.
+GID00030599	May
+GID00030600	You cannot fast travel from this location.
+GID00030601	Forehead small/large
+GID00030602	AMMO
+GID00030603	Open
+GID00030604	You no longer have Sleep Deprivation sickness
+GID00030605	Apparel
+GID00030606	Dark Hero
+GID00030607	LWin
+GID00030608	You can't Quickload while the game is paused.
+GID00030609	Quest updated
+GID00030610	Requires Key
+GID00030612	In order to use the downloaded content associated with this profile, you will need to restart.
+GID00030613	Do you want to set your marker?
+GID00030614	Race
+GID00030615	You cannot fast travel during combat!
+GID00030616	Kill Cam Mode
+GID00030617	Object Effect
+GID00030619	saves used.
+GID00030620	Save On Wait
+GID00030621	Eye sockets dark/light
+GID00030622	You are suffering from [%] withdrawal.
+GID00030623	Misc
+GID00030624	[Locked - Broken]
+GID00030625	Lock
+GID00030626	Your radiation level has increased
+GID00030627	Maintain
+GID00030628	CHOOSE UP TO [%] TRAITS (OR NONE)
+GID00030629	Ammo
+GID00030630	[DANGER]
+GID00030631	Armor Class
+GID00030632	Your dehydration level has increased.
+GID00030633	Reloading the most recent save game
+GID00030634	The storage device you selected is no longer available. Load canceled.
+GID00030636	Reset your control mappings to their default settings?
+GID00030637	up to level [%]
+GID00030638	remaining
+GID00030640	sleep
+GID00030641	Flushed
+GID00030642	Medium
+GID00030643	Folks have come to accept you for your helpful nature.
+GID00030644	Pad /
+GID00030645	[%] is fleeing.
+GID00030646	Light/Dark
+GID00030648	[%] signal found.
+GID00030649	Losses to Date:
+GID00030650	Cheeks Light/Dark
+GID00030651	Unpredictable
+GID00030652	You can't Quicksave while the game is paused.
+GID00030653	Double Down
+GID00030654	Circle Light/Dark
+GID00030655	Goatee Light/Dark
+GID00030656	skill increased
+GID00030657	Skill of [%]
+GID00030659	You no longer have radiation sickness
+GID00030660	Sneak Attack Critical on [%]
+GID00030661	Critical Strike on [%]
+GID00030662	Moustache
+GID00030663	Mouth(Lips)
+GID00030664	Restore
+GID00030665	Blush Light/Red
+GID00030666	General(Skin)
+GID00030667	You have a basic understanding of this skill.
+GID00030668	Bruised/Bright
+GID00030669	Open
+GID00030670	the Right Stick Left
+GID00030671	Ready/Reload
+GID00030672	Dark/Light
+GID00030673	Inventory
+GID00030674	Transact
+GID00030675	<Missing Name>
+GID00030676	[%] was unequipped
+GID00030677	Increase
+GID00030678	Aimed
+GID00030679	Hardcore Mode
+GID00030680	[EMPTY]
+GID00030681	push
+GID00030682	Vibration
+GID00030683	You must purchase chips before you can play this game.
+GID00030684	skill decreased
+GID00030685	Drifter
+GID00030686	Press the new control for this action
+GID00030687	Renegade
+GID00030688	Eyeshadow light/dark
+GID00030689	Renowned for your extensive support and goodwill, you are idolized by the community.
+GID00030690	Seeker
+GID00030691	Eyelids
+GID00030692	equipped.
+GID00030693	-Server 1-
+GID00030694	Wanderer
+GID00030695	Sit
+GID00030696	Mute
+GID00030697	You feel unlucky. You lose
+GID00030698	Naso labial lines light/dark
+GID00030699	ASSIGN 1 SKILL POINT
+GID00030700	-Server 2-
+GID00030701	Citizen
+GID00030702	Dn-Left
+GID00030703	Poison
+GID00030704	-Server 3-
+GID00030705	Adventurer
+GID00030706	What would you like to do?
+GID00030707	(Unknown Effect)
+GID00030708	Save failed.
+GID00030709	You do not have enough room to drop this object.
+GID00030710	Repair All ([%])
+GID00030711	-Server 4-
+GID00030712	Vagabond of the Wastes
+GID00030713	You must have at least 30 cards to play Caravan.
+GID00030715	-Server 5-
+GID00030716	Mercenary
+GID00030717	Automatic
+GID00030718	Directional Button
+GID00030719	You cannot hotkey broken items.
+GID00030721	-Server 6-
+GID00030722	Desert Scavenger
+GID00030723	Object LOD Fade
+GID00030724	Nose bridge short/long
+GID00030725	she
+GID00030726	-Server 7-
+GID00030727	Drop
+GID00030729	Corrupt
+GID00030730	-Server 8-
+GID00030733	Mouth drawn/pursed
+GID00030734	BUY
+GID00030735	-Server 9-
+GID00030736	You must exit and restart Fallout: New Vegas for changes in this setting to take effect.
+GID00030737	female
+GID00030739	Emperor's Birthday
+GID00030740	Heal
+GID00030741	Xbox 360 Controller
+GID00030742	You have too many followers.
+GID00030743	Constant Effect
+GID00030744	Are you sure you want to delete this save game?
+GID00030745	You cannot remove Quest Items from your Inventory.
+GID00030746	Image File
+GID00030747	LEVEL UP
+GID00030748	Note Added: [%]
+GID00030749	Bald
+GID00030750	You can not eat quest items.
+GID00030751	[%] REPAIR SKILL NEEDED
+GID00030752	Nose short/long
+GID00030753	Mouth
+GID00030754	Quantity
+GID00030756	Create
+GID00030757	Old Life Festival
+GID00030758	Very Easy
+GID00030759	Vol +
+GID00030760	Loading...
+GID00030761	Next Challenge Type
+GID00030762	CHOOSE [%] PERKS
+GID00030764	Navigate
+GID00030765	Mutant Master
+GID00030766	Do you just want to serve your time?
+GID00030767	Damage Challenges
+GID00030768	Completed Quests
+GID00030769	Do you want to travel to [%]?
+GID00030770	Made at ...
+GID00030772	OFF
+GID00030773	Target
+GID00030774	Thick/Thin
+GID00030775	Age
+GID00030776	DT
+GID00030778	Start new game?
+GID00030779	You cannot sleep while trespassing.
+GID00030780	Very Thin/Thick
+GID00030781	the Left Stick Down
+GID00030782	How many?
+GID00030783	Light/Dark (Lower)
+GID00030784	Nose
+GID00030785	CURRENT OBJECTIVE
+GID00030786	Your
+GID00030788	A)
+GID00030789	The storage device you selected is no longer available. You will need to select a new device the next time you save. Until then, Autosave is disabled.
+GID00030790	Use Ranged
+GID00030791	Light/Dark (Outer)
+GID00030792	Nose sellion down/up
+GID00030794	Dark/Light (Upper)
+GID00030795	No, keep playing.
+GID00030796	You are out of lockpicks.
+GID00030797	Pale/Red
+GID00030798	Weapons
+GID00030799	Requires
+GID00030800	Mid Year Celebration
+GID00030801	Neutral
+GID00030802	Eyeliner Lt./Dark
+GID00030803	An active mine has already been placed on this enemy.
+GID00030804	E)
+GID00030805	Shadow Light/Dark
+GID00030806	[%] is calmed and cannot respond.
+GID00030808	F)
+GID00030809	pull
+GID00030811	Dk Brown/Lt Blue
+GID00030812	VAL
+GID00030813	High
+GID00030814	Whites Dim/Bright
+GID00030816	Difficulty
+GID00030817	Hot Key
+GID00030818	New Content Available
+GID00030819	Liked
+GID00030820	Observer
+GID00030822	Vegas Councillor
+GID00030825	Forward
+GID00030826	You cannot drop an equipped item until you complete your current action.
+GID00030827	Nose down/up
+GID00030828	Local Map
+GID00030829	Keeper
+GID00030831	2nd Dozen
+GID00030832	AMBER
+GID00030833	Wg
+GID00030834	Sort
+GID00030835	Second Planting
+GID00030836	Mojave Myth
+GID00030837	Dn-Rt
+GID00030838	Up
+GID00030839	Body Part
+GID00030840	Courier
+GID00030841	Are you sure you want this to be your [%]?
+GID00030843	Pinnacle of Survival
+GID00030845	SECURITY RESET...
+GID00030846	No.
+GID00030847	Vegas Myth
+GID00030848	Strider of the Wastes
+GID00030849	Travel
+GID00030850	Beholder
+GID00030851	Q)
+GID00030852	Payout
+GID00030853	* Position/dimensions are relative to 1280 x 960 texture space!
+GID00030854	Wasteland Watcher
+GID00030855	R)
+GID00030856	Nose nostril tilt down/up
+GID00030857	Jaw
+GID00030858	Super-Human
+GID00030859	S)
+GID00030860	Sneak attack for [%]
+GID00030861	PLEASE STAND BY
+GID00030862	OPTIONAL TRAITS: [%]/[%] Selected
+GID00030864	Mouse
+GID00030865	Red
+GID00030866	Age
+GID00030867	ATTRIBUTES: [%]/[%] Points Assigned
+GID00030868	Mysticism
+GID00030869	Thursday
+GID00030870	Other Challenges
+GID00030871	[%] can't carry any more.
+GID00030872	W)
+GID00030873	Lips flushed/pale
+GID00030874	Mouth-Chin distance short/long
+GID00030875	Eyes down/up
+GID00030876	Target DR
+GID00030877	X)
+GID00030879	You find nothing of use.
+GID00030880	Gun CND
+GID00030881	Jester's Day
+GID00030883	Auto Attempt
+GID00030884	You've lost Karma!
+GID00030885	Dud removed.
+GID00030886	Target DT
+GID00030887	[%] has already caught you.
+GID00030888	Your weapon has broken.
+GID00030889	Switch Limbs
+GID00030890	Hair Color
+GID00030891	Touch
+GID00030892	Absorb
+GID00030893	Vilified
+GID00030894	MODS
+GID00030895	February
+GID00030896	Your right arm is now crippled.
+GID00030897	Unknown Location
+GID00030898	No saved games.
+GID00030899	Controls
+GID00030900	R:
+GID00030901	Beard goatee light/dark
+GID00030902	Place Marker
+GID00030904	Pickpocket
+GID00030905	Chips:
+GID00030906	3rd Dozen
+GID00030907	Close
+GID00030908	Eyebrows dark/light
+GID00030909	You have not found this location yet.
+GID00030910	Always Run
+GID00030911	Your settings could not be saved. Your Gamer Profile is not available. Please check your storage devices.
+GID00030912	Dark Red/Lt. Blue
+GID00030913	Random
+GID00030914	Self
+GID00030916	CRIPPLED
+GID00030917	Dark Blue/Lt. Red
+GID00030918	Illusion
+GID00030919	Sneering Punk
+GID00030920	Launcher
+GID00030922	X-Sensitivity
+GID00030923	HUD Opacity
+GID00030924	You cannot wait in the air.
+GID00030925	Naso Labial Lines
+GID00030926	the Left Stick Down
+GID00030927	Nares Small/Large
+GID00030928	Friday
+GID00030929	Turn off 360 Controller in the Controls section of the Settings menu to switch back to Keyboard/Mouse.
+GID00030930	LMB
+GID00030931	Grass Fade
+GID00030932	Shade
+GID00030933	Are you sure you want to be a [%]?
+GID00030934	Blue Tint
+GID00030935	Eyelids light/dark
+GID00030936	Are you sure you want to be an [%]?
+GID00030937	Exit
+GID00030939	Yellow Tint
+GID00030940	gold
+GID00030941	Cancel
+GID00030942	Restoration
+GID00030943	Quests Completed
+GID00030944	<NOT BOUND>
+GID00030945	You cannot wait when enemies are nearby.
+GID00030946	Face brow/nose/chin ratio
+GID00030947	Locations Discovered
+GID00030948	You cannot change weapons while attacking.
+GID00030949	PM
+GID00030950	Magic
+GID00030951	People Killed
+GID00030952	You have zero chance to hit.
+GID00030953	Eyeliner
+GID00030954	Entry denied
+GID00030955	Yes
+GID00030956	Creatures Killed
+GID00030957	the Left Stick Right
+GID00030958	Down
+GID00030959	Looking for content. Please wait.
+GID00030960	Cards in Deck:
+GID00030961	Locks Picked
+GID00030962	Average
+GID00030963	Effect has already been added. Edit the effect instead.
+GID00030964	Eyebrows very thin/thick
+GID00030966	Computers Hacked
+GID00030967	Renegade of the Wastes
+GID00030968	Nose region concave/convex
+GID00030969	Hot Key
+GID00030970	You've lost Karma!
+GID00030971	Stimpaks Taken
+GID00030972	Soldier of Fortune
+GID00030973	Shot
+GID00030974	Strike
+GID00030975	Do you want to poison your next shot with the [%]?
+GID00030976	The croupier is taking a minute to check the wheel for bias as an anti-cheating measure.
+GID00030977	EXPLOSIVE
+GID00030978	Witches' Festival
+GID00030979	Rad-X Taken
+GID00030980	Profiteer
+GID00030981	SLP
+GID00030982	You cannot wait while taking health damage.
+GID00030983	Cancel Recipe?
+GID00030985	RadAway Taken
+GID00030986	Egocentric
+GID00030987	Keyboard
+GID00030988	Auto Match
+GID00030989	Uppercut
+GID00030990	You've left a poor impression on the community and may be shunned as a result.
+GID00030991	Chems Taken
+GID00030992	Loner
+GID00030993	Cross
+GID00030994	Disease
+GID00030995	Hero for Hire
+GID00030996	Decrease
+GID00030997	Medium
+GID00030998	August
+GID00030999	Model of Apathy
+GID00031000	VATS
+GID00031001	You Lose!
+GID00031002	This machine appears to be taking a minute to reset itself as an anti-cheating measure.
+GID00031003	Companion Commands
+GID00031004	Keyring
+GID00031005	Person of Refinement
+GID00031006	Pause
+GID00031007	Beard cheeks light/dark
+GID00031008	Moneygrubber
+GID00031009	None of the master files used in this save game are loaded. Returning to game.
+GID00031010	Red
+GID00031011	Cheeks round/gaunt
+GID00031012	Gray Stranger
+GID00031013	Beard light/dark
+GID00031014	Winter
+GID00031015	Be Passive
+GID00031016	Current Quests
+GID00031017	View Downloadable Content
+GID00031019	Odd
+GID00031020	Race
+GID00031021	NO RACE
+GID00031022	Broken items cannot be equipped until they have been repaired.
+GID00031023	Specularity Fade
+GID00031024	Ranks
+GID00031026	This door leads nowhere.
+GID00031027	Your chest is now damaged.
+GID00031028	You cannot fast travel while overencumbered.
+GID00031029	Chin shallow/deep
+GID00031034	WHITE
+GID00031036	Attack
+GID00031037	D-pad Up
+GID00031038	Feed
+GID00031039	2 to 1
+GID00031040	NO USABLE SPARE PARTS
+GID00031041	LOGON ADMIN
+GID00031042	Object Fade
+GID00031044	Your Sleep Deprivation level has increased
+GID00031045	Current Ante:
+GID00031046	Change Item Selection
+GID00031047	You kill Super Mutants -- A lot.
+GID00031048	Pad -
+GID00031049	Gold
+GID00031050	New Life Festival
+GID00031051	<NOT BOUND>
+GID00031052	The save game is no longer available. Returning to game.
+GID00031053	Press any valid slot machine button to continue.
+GID00031054	Rosewood
+GID00031055	Apply
+GID00031056	Black
+GID00031057	Quest added
+GID00031058	Destruction
+GID00031059	You lose
+GID00031060	Chestnut
+GID00031062	October
+GID00031063	the up button
+GID00031065	Steel
+GID00031066	Eyebrows thick/thin
+GID00031067	September
+GID00031068	Change View
+GID00031069	Activate
+GID00031070	Champagne
+GID00031072	Delete this game?
+GID00031073	Display
+GID00031074	CHOOSE ITEM TO REPAIR WITH
+GID00031075	Harvest's End
+GID00031076	Times Addicted
+GID00031077	Main Menu
+GID00031078	WELCOME TO LEVEL [%]
+GID00031079	Please wait
+GID00031080	Mines Disarmed
+GID00031081	<NOT BOUND>
+GID00031082	does not have any money to place a bet.
+GID00031083	while system
+GID00031084	Continue Running Executable?
+GID00031085	Speech Successes
+GID00031086	Strafe Right
+GID00031087	New Game
+GID00031088	You cannot sleep while being irradiated.
+GID00031089	WG
+GID00031090	is accessed.
+GID00031091	Pockets Picked
+GID00031092	Bobby Pins
+GID00031094	Pants Exploded
+GID00031096	Start a New Game?
+GID00031097	Navigate
+GID00031098	Locked
+GID00031099	Shadow Fade
+GID00031100	Master
+GID00031101	Customize
+GID00031102	Books Read
+GID00031103	True Mortal
+GID00031104	Punch
+GID00031105	Search
+GID00031106	Keep Distance
+GID00031107	Low
+GID00031108	Beard circle light/dark
+GID00031109	Health From Stimpaks
+GID00031110	Level
+GID00031111	CHOOSE 1 PERK
+GID00031112	People don't know enough about you to form an opinion.
+GID00031113	January
+GID00031114	Weapons Created
+GID00031115	Ball
+GID00031116	Health From Food
+GID00031117	Action Mapping
+GID00031118	You must close your current game to change resolutions.
+GID00031119	Water Consumed
+GID00031120	Right
+GID00031121	The Autosave content is damaged. Do you want to overwrite it?
+GID00031122	High/Low
+GID00031123	Y-Sensitivity
+GID00031124	Up/Down (inner)
+GID00031125	[NO SAVES FOUND]
+GID00031126	Up/Down (outer)
+GID00031127	Low/High
+GID00031128	Reset
+GID00031129	New Save
+GID00031130	Limbs
+GID00031131	Shallow/Pronounced
+GID00031132	Do you want to move your marker or remove it?
+GID00031133	Thin/Wide
+GID00031134	Infamy Reduced
+GID00031135	Win/Loss:
+GID00031136	Split
+GID00031137	Concave/Convex
+GID00031138	Round/Gaunt
+GID00031139	General(Face)
+GID00031140	Your attack has no effect.
+GID00031141	ft
+GID00031142	Forward/Backward
+GID00031143	Eyebrows outer light/dark
+GID00031144	Radio
+GID00031145	Shunned
+GID00031146	Switch Weapon
+GID00031147	RECIPES
+GID00031148	Lockout in
+GID00031149	DEFAULT MESSAGE TEXT
+GID00031150	Unable to remove the worn item.
+GID00031151	progress.
+GID00031152	Block
+GID00031153	TERMINAL LOCKED
+GID00031154	This save relies on content that is no longer present. Some objects may no longer be available. Continue Loading?
+GID00031155	PLEASE CONTACT AN ADMINISTRATOR
+GID00031157	Your Skill level is too low
+GID00031158	Hair
+GID00031159	Show Active Quest Notes
+GID00031160	DAM
+GID00031162	the Right Stick Up
+GID00031163	Audio File
+GID00031164	Bolt
+GID00031165	Actor Effect
+GID00031166	Biggest Ante Pot Won:
+GID00031167	Credits
+GID00031168	New
+GID00031169	Previous
+GID00031170	Small
+GID00031171	Melee - One Hand
+GID00031172	Total Bet:
+GID00031173	Switch Hands
+GID00031174	STATS
+GID00031175	Fog
+GID00031176	Sun's Rest
+GID00031177	Are you sure you want to overwrite this save game?
+GID00031178	Place Bet
+GID00031179	You cannot unequip this item.
+GID00031180	COMPLETED:[%]
+GID00031181	Quest FAILED
+GID00031182	Ability
+GID00031184	Crosshair
+GID00031185	Folks still think you're some kind of hero, but you sure can be nasty sometimes.
+GID00031187	Mouth lips puckered/retracted
+GID00031188	Completed Quest Detail
+GID00031189	Mutant Menace
+GID00031190	Grenade
+GID00031191	D-pad Left
+GID00031192	the down button
+GID00031194	The dealer is taking a minute to swap out the decks as an anti-cheating measure.
+GID00031195	Med skill
+GID00031196	Item Fade
+GID00031197	Lips
+GID00031198	Back
+GID00031199	Sandman Kills
+GID00031200	Cost: [%] caps
+GID00031201	Nose shades
+GID00031202	Paralyzing Punches
+GID00031203	[%] is being drained
+GID00031204	Area
+GID00031205	Deal
+GID00031206	Robots Disabled
+GID00031207	Brow Ridge high/low
+GID00031208	You cannot sleep in an owned bed.
+GID00031209	Your wild, seemingly capricious behavior leaves people scratching their heads in confusion and avoiding close contact.
+GID00031210	[%] Infamy Gained!
+GID00031211	Times Slept
+GID00031212	The item does not have enough charge.
+GID00031213	Do you want to poison the
+GID00031214	Conjuration
+GID00031215	Corpses Eaten
+GID00031216	Mysterious Stranger Visits
+GID00031217	Decrease Bet
+GID00031218	Forehead tilt forward/back
+GID00031219	Doctor Bags Used
+GID00031220	Eat
+GID00031222	You can't fast travel while jumping or falling.
+GID00031223	New content has been added. You will need to restart to use this content. All unsaved progress will be lost.
+GID00031224	Face round/gaunt
+GID00031226	Challenges Completed
+GID00031228	Strafe Left
+GID00031229	Nose sellion shallow/deep
+GID00031230	Miss Fortunate Occurrences
+GID00031232	Tree LOD Fade
+GID00031233	Dialog Subtitles
+GID00031234	Player View
+GID00031235	Load
+GID00031236	Broad/Recessed
+GID00031237	Mouth happy/sad
+GID00031238	Disintegrations
+GID00031239	Pad .
+GID00031240	You cannot repair items while in combat.
+GID00031241	Retracted/Jutting
+GID00031242	Length
+GID00031243	Now that folks know you're bad, most people outright hate you.
+GID00031244	You have discovered [%]
+GID00031245	Device
+GID00031246	Repair Services
+GID00031247	Shallow/Deep
+GID00031248	You've been caught pickpocketing.
+GID00031250	Quickloading...
+GID00031251	Small/Large
+GID00031253	Tall/Short
+GID00031254	Attack
+GID00031255	Wide/Thin
+GID00031256	Next
+GID00031257	Wednesday
+GID00031258	Spin
+GID00031259	Down/Up
+GID00031260	Quest completed
+GID00031261	You have signed out of your profile and will now be returned to the title screen.
+GID00031262	Are you sure you want to load this game? All unsaved progress will be lost.
+GID00031263	Choose
+GID00031264	Black
+GID00031265	Lockpick Skill
+GID00031266	Tilt in/out
+GID00031267	Tone
+GID00031268	Target
+GID00031269	Some of your downloadable content is corrupt and could not be loaded.
+GID00031270	Back Up
+GID00031271	Together/Apart
+GID00031272	Enter a name for the [%]
+GID00031273	NAME
+GID00031274	you are trying to create.
+GID00031276	Selected storage device has insufficient[CRLF]space to save progress. Autosave will[CRLF]be disabled. Continue Loading?
+GID00031277	Effects
+GID00031278	General
+GID00031279	Leave It
+GID00031281	Discard Card
+GID00031282	Show All Notes
+GID00031283	Magic School
+GID00031285	Right
+GID00031286	Autosaving...
+GID00031287	Nose nostrils small/large
+GID00031288	Save
+GID00031289	You cannot hotkey that item.
+GID00031290	REPAIR
+GID00031291	Nose flat/pointed
+GID00031292	Aid
+GID00031295	Spring
+GID00031297	Children cannot use that.
+GID00031298	X damage!
+GID00031299	Tag [%] Skill
+GID00031300	Pad Enter
+GID00031301	got away with stealing
+GID00031302	Race Description
+GID00031303	Your Hunger level has decreased
+GID00031304	You have not signed in to a Gamer Profile. You will need to sign in to a Gamer Profile and then select a storage device before you can save. Until then, Autosave is disabled.
+GID00031305	You cannot equip this item right now.
+GID00031306	Mouth protruding/retracted
+GID00031307	Lipstick dark red/light blue
+GID00031308	Cheeks
+GID00031309	Back
+GID00031310	You cannot proceed in that direction. Please turn back.
+GID00031311	Earnings:
+GID00031312	You have become addicted to [%].
+GID00031313	You cannot wait in this location.
+GID00031314	Stop Audio
+GID00031315	Crippled
+GID00031316	[%] Fame Reduced
+GID00031317	Challenge Progress
+GID00031318	Have Limbs Crippled
+GID00031320	Gameplay
+GID00031321	pt
+GID00031322	Speech Failures
+GID00031324	[NEW SAVE]
+GID00031325	Items Crafted
+GID00031326	Wheel
+GID00031327	Mouse Sensitivity
+GID00031328	Jaw-Neck slope high/low
+GID00031329	Chin forward/backward
+GID00031330	You can only cast Powers once per day
+GID00031331	Weapon Modifications
+GID00031332	Brew
+GID00031334	Items Repaired
+GID00031336	Skills
+GID00031337	character
+GID00031338	Total Things Killed
+GID00031339	You cannot place items in a container while pickpocketing.
+GID00031340	You cannot read a book during combat!
+GID00031341	Even
+GID00031342	General Subtitles
+GID00031343	AP
+GID00031344	You are currently Silenced
+GID00031345	Dismembered Limbs
+GID00031347	HUD Color
+GID00031348	Caravan Games Won
+GID00031349	Play Caravan
+GID00031350	Hair Style
+GID00031351	Mouth underbite/overbite
+GID00031352	Jaw retracted/jutting
+GID00031354	[SUCCESS]
+GID00031355	Caravan Games Lost
+GID00031356	Expert
+GID00031357	Directional Button Left/Right
+GID00031358	Down
+GID00031359	You have not discovered this location yet.
+GID00031360	You don't have enough ammo.
+GID00031361	Brow-Nose-Chin
+GID00031362	Barter Amount Traded
+GID00031363	Directional Button Up/Down
+GID00031364	Ammo Swap
+GID00031365	You must exit and restart Fallout: New Vegas for the new resolution to take effect.
+GID00031366	Quit
+GID00031367	Forehead-Nose
+GID00031369	Ride
+GID00031370	If you quit now, you will forfeit the money wagered. Are you sure you wish to forfeit this match?
+GID00031371	Heavy/Light
+GID00031372	Lesser Power
+GID00031373	Repair Skill
+GID00031374	You do not have funds to play Caravan.
+GID00031376	Mouse1
+GID00031377	The selected storage device does not have sufficient space available. Please select another storage device or delete some of your existing saved content.
+GID00031378	MAX
+GID00031379	Exact match!
+GID00031380	SELL
+GID00031381	Med-X
+GID00031383	Tilt Forward/Back
+GID00031384	Nares small/large
+GID00031385	Talk
+GID00031386	Rifle
+GID00031388	Enter Code
+GID00031389	Chin
+GID00031390	Accepted
+GID00031391	Stand
+GID00031392	Kill Challenges
+GID00031393	Toggle Weapon Drawn
+GID00031395	[%] Fame Gained!
+GID00031396	the Right Stick Left / Right
+GID00031397	Net Total:
+GID00031398	the Right Stick Up / Down
+GID00031399	Select
+GID00031402	Pad =
+GID00031403	L-Alt
+GID00031404	Place Card
+GID00031405	Face heavy/light
+GID00031406	H20
+GID00031408	effect resisted
+GID00031409	Ante Pot:
+GID00031413	Lock Level
+GID00031414	Mod
+GID00031415	Done
+GID00031416	the Left Stick Left / Right
+GID00031417	the Left Stick Left
+GID00031419	Grab
+GID00031420	Load this game?
+GID00031421	Apparel
+GID00031422	the Left Stick Up / Down
+GID00031423	Add
+GID00031424	Face forehead/sellion/nose ratio
+GID00031425	You've gained Karma!
+GID00031426	pts
+GID00031427	April
+GID00031428	Your right leg is now crippled.
+GID00031429	Use Melee
+GID00031430	Exit Game
+GID00031431	This object is already in use by someone else.
+GID00031432	HP
+GID00031433	No
+GID00031434	Make Active Quest
+GID00031435	Tuesday
+GID00031436	Condition
+GID00031437	Make these your default settings?
+GID00031438	Your nuetralization of Super Mutants is legendary and provides a bonus to attacks against them.
+GID00031439	the Left Stick Up
+GID00031440	Known Effects
+GID00031441	Effects
+GID00031442	Roulette Games Played
+GID00031443	Melee - Hand to Hand
+GID00031444	Web ->
+GID00031445	Total Funds:
+GID00031446	You cannot sleep while taking health damage.
+GID00031447	[%] TRAIT LEFT
+GID00031448	Junk
+GID00031449	Summer
+GID00031450	Monday
+GID00031451	Blackjack Games Played
+GID00031452	Open Inventory
+GID00031453	Eyelids pale/red
+GID00031454	Show Location
+GID00031455	Slots Games Played
+GID00031456	What would you like to do with this innocent townsperson?
+GID00031457	Range
+GID00031458	There is no storage device selected. Settings will not be saved.
+GID00031459	Very Good
+GID00031460	Eyebrows lower light/dark
+GID00031461	Skin
+GID00031462	Mine
+GID00031463	Jump
+GID00031464	Time Remaining:
+GID00031465	Unlocked with [%].
+GID00031466	Chin pronounced/recessed
+GID00031467	START
+GID00031469	Unlabeled
+GID00031470	Energy Pistol
+GID00031472	Pip-Boy
+GID00031473	Remove Bet
+GID00031474	[FAILED]
+GID00031476	You don't have any bobbypins.
+GID00031477	Equip
+GID00031478	Skill Requirement
+GID00031480	Master
+GID00031481	You are unable to wait here. An alarm is sounding with your name on it.
+GID00031482	Brow
+GID00031483	Wortcraft
+GID00031484	the Right Stick Down
+GID00031485	Current Bet:
+GID00031486	Slope High/Low
+GID00031487	Gender
+GID00031488	Heavy
+GID00031489	A [%] skill of [%] is required to hack this terminal.
+GID00031491	Your radiation level has decreased
+GID00031492	Eyes small/large
+GID00031493	VDSG Plate
+GID00031494	This object is activated from somewhere else.
+GID00031495	Your reputation as a good-natured friend of the community manages to outshine your dark side.
+GID00031496	Novice
+GID00031497	That button cannot be remapped
+GID00031498	Radio
+GID00031499	Drawn/Pursed
+GID00031501	Happy/Sad
+GID00031502	Your dehydration level has decreased.
+GID00031503	Custom
+GID00031504	First Planting
+GID00031505	You have reached your training limit for your current level.
+GID00031506	You cannot wait while under water.
+GID00031507	Deflated/Inflated
+GID00031508	Shape
+GID00031509	the Right Stick Left / Right
+GID00031510	L-Ctrl
+GID00031511	Joystick
+GID00031512	Good
+GID00031513	View Distance
+GID00031514	None
+GID00031515	Large/Small
+GID00031516	Stealth
+GID00031517	the Right Stick Up / Down
+GID00031518	Puckered/Retracted
+GID00031519	Use
+GID00031520	Rads
+GID00031521	Strike
+GID00031522	North Wind's Prayer
+GID00031523	Accept
+GID00031524	Payout List
+GID00031525	Convex/Concave
+GID00031526	This save game relies on downloadable content that is no longer available. Some objects may be no longer available. Continue loading?
+GID00031527	Tilt Up/Down
+GID00031528	Bleached
+GID00031529	male
+GID00031530	Pistol
+GID00031531	Opened the container with a key.
+GID00031532	Power armor training is required to equip this item.
+GID00031533	FOD
+GID00031534	General
+GID00031535	Face
+GID00031536	Brown
+GID00031537	South Wind's Prayer
+GID00031538	the Left Stick Left / Right
+GID00031539	You cannot wait while trespassing.
+GID00031540	B:
+GID00031541	Chocolate
+GID00031542	[DETECTED]
+GID00031543	Accept
+GID00031544	the Left Stick Up / Down
+GID00031545	Pad .
+GID00031546	You cannot fast travel when enemies are nearby.
+GID00031547	No valid save game found.
+GID00031548	Platinum
+GID00031549	Forehead
+GID00031550	Eyes
+GID00031552	Cornsilk
+GID00031553	Misc
+GID00031554	Active Quest
+GID00031555	Drop
+GID00031556	Level Progress
+GID00031557	AUTO
+GID00031558	Suede
+GID00031559	Hair
+GID00031561	You cannot change weapons while attacking.
+GID00031562	Button
+GID00031563	Pecan
+GID00031564	Reload
+GID00031566	Pad +
+GID00031567	Auburn
+GID00031568	the right button
+GID00031570	hour
+GID00031571	Ginger
+GID00031572	Unequip
+GID00031573	Name
+GID00031574	Ok
+GID00031575	Hotkey 1
+GID00031576	Load this game?
+GID00031577	Save On Rest
+GID00031578	Honey
+GID00031579	-Server 10-
+GID00031580	the Left Stick Left
+GID00031581	Grifter
+GID00031582	Hotkey 3
+GID00031583	You cannot fast travel while guards are pursuing you.
+GID00031584	Continue
+GID00031586	The creature is calmed and cannot respond.
+GID00031587	Outlaw
+GID00031588	Hotkey 4
+GID00031589	Opportunist
+GID00031590	R-Shift
+GID00031591	Hotkey 5
+GID00031592	Footstep
+GID00031593	Preset:
+GID00031594	Beard flushed/pale
+GID00031595	Plunderer
+GID00031596	Hotkey 6
+GID00031597	ROBCO INDUSTRIES (TM) TERMLINK PROTOCOL
+GID00031598	You don't have enough Magicka
+GID00031599	Fat Cat
+GID00031600	Hotkey 7
+GID00031601	Cauterizing tool
+GID00031603	You already have that kind of Bound Item
+GID00031604	Marauder
+GID00031605	Hotkey 8
+GID00031606	Press Any Button to Continue
+GID00031607	Enable Help
+GID00031608	Pirate of the Wastes
+GID00031609	Handle Weapon
+GID00031610	Left
+GID00031611	LOCKPICKING
+GID00031612	Give away
+GID00031613	Betrayer
+GID00031614	Melee - Thrown
+GID00031615	Stay Close
+GID00031616	Randomize
+GID00031617	Chin wide/thin
+GID00031619	her
+GID00031621	Desert Terror
+GID00031622	Stomp
+GID00031623	RAD RESIST
+GID00031624	Eyes together/apart
+GID00031625	Actor Fade
+GID00031626	Reputation
+GID00031627	Damage
+GID00031628	The Xbox 360 Controller has been disconnected. Click OK to use the Keyboard/Mouse, or reconnect the Xbox 360 Controller and press the A Button.
+GID00031629	Be Aggressive
+GID00031631	L-Shift
+GID00031632	Steal
+GID00031633	360 Controller
+GID00031634	Nose bridge shallow/deep
+GID00031635	Underbite/Overbite
+GID00031636	Facial Hair
+GID00031637	Forehead tall/short
+GID00031638	the Right Stick Down
+GID00031639	Your armor condition is dangerously low.
+GID00031640	Overwrite this game?
+GID00031641	Mouth-Chin Dist.
+GID00031642	Your left arm is now crippled.
+GID00031643	Day
+GID00031644	Bridge Depth
+GID00031646	Neutral
+GID00031647	Mouse2
+GID00031648	There was an error accessing the device. Please try again.
+GID00031649	Your heavy armor is causing you to sink.
+GID00031650	Bridge Length
+GID00031651	his
+GID00031652	No one's sure what to make of your unpredictable nature, but you've left a strong impression.
+GID00031653	Fall
+GID00031654	Allowance
+GID00031655	Good Natured Rascal
+GID00031656	March
+GID00031658	Back
+GID00031659	Flat/Pointed
+GID00031660	replenished.
+GID00031661	Talk
+GID00031662	Defaults
+GID00031663	Nostril Tilt
+GID00031665	chip
+GID00031666	S.P.E.C.I.A.L.
+GID00031667	Nostril Size
+GID00031668	CND
+GID00031670	You must first equip a weapon that can be poisoned.
+GID00031671	Nostrils Wide/Thin
+GID00031672	VDSG MANUAL
+GID00031673	You need a lockpick skill of [%] to pick this lock.
+GID00031674	Nose sellion lower shallow/deep
+GID00031675	Mouth tilt up/down
+GID00031677	Wait
+GID00031678	Saving content.[CRLF]Please don't turn off your console.
+GID00031679	Winnings to Date:
+GID00031680	LVL
+GID00031681	Status
+GID00031683	the Right Stick Right
+GID00031684	Face thin/wide
+GID00031685	You cannot cast ranged spells underwater
+GID00031686	You must sleep in a jail bed in order to serve your sentence.
+GID00031687	Total Cards:
+GID00031688	ADDICT
+GID00031689	Despite your reputation as a thug, you are known to occasionally show a charitable side.
+GID00031690	Warrior's Festival
+GID00031692	Main
+GID00031693	Read
+GID00031695	Pad 0
+GID00031696	Hated
+GID00031697	Pad 1
+GID00031698	No items to repair
+GID00031699	Hard
+GID00031700	Pad 2
+GID00031701	Video
+GID00031703	Pad 3
+GID00031704	Ne'er-do-well
+GID00031705	Pad 4
+GID00031706	Are you sure you want to quit?
+GID00031707	Vegas Crimelord
+GID00031708	Pad 5
+GID00031709	Select Card
+GID00031710	Use Key
+GID00031712	Smiling Troublemaker
+GID00031713	Defiler
+GID00031714	Pad 6
+GID00031716	Normal
+GID00031717	You cannot sleep when enemies are nearby.
+GID00031718	Mojave Boogeyman
+GID00031719	Sleep
+GID00031720	Melee - Two Hand
+GID00031721	Button 3
+GID00031722	Pad 7
+GID00031723	Select
+GID00031724	G:
+GID00031725	Disable Help
+GID00031726	You've gained Karma!
+GID00031727	You successfully harvest [%].
+GID00031728	Sword of Despair
+GID00031729	Button 4
+GID00031730	Pad 8
+GID00031731	You no longer have dehydration sickness.
+GID00031732	Help
+GID00031733	DR
+GID00031734	correct
+GID00031735	Vegas Boogeyman
+GID00031736	Button 5
+GID00031737	Pad 9
+GID00031738	Load Saved Game
+GID00031739	Cheekbones low/high
+GID00031740	Villain of the Wastes
+GID00031741	Button 6
+GID00031742	My Comp
+GID00031743	Your heavy armor prevents you from jumping.
+GID00031744	Pip-Boy Color
+GID00031745	None
+GID00031746	Fiend
+GID00031747	Button 7
+GID00031748	You cannot save right now.
+GID00031749	Play Time
+GID00031750	Wasteland Destroyer
+GID00031751	Trespass
+GID00031752	Button 8
+GID00031753	RWin
+GID00031754	Tune
+GID00031755	Evil Incarnate
+GID00031756	Prev Challenge Type
+GID00031757	Blue
+GID00031758	Unequip
+GID00031759	Up-Rt
+GID00031761	Quickload
+GID00031762	Caravan Deck
+GID00031763	Merchant doesn't have enough caps.
+GID00031765	You cannot sleep while in combat.
+GID00031766	Potion
+GID00031767	July
+GID00031768	Pickpocket
+GID00031769	[%] is unconscious.
+GID00031770	Apprentice
+GID00031771	Chin tall/short
+GID00031772	Samaritan
+GID00031773	Murder
+GID00031774	[%] signal lost.
+GID00031775	You can not drop objects while in the air.
+GID00031776	Sellion Height
+GID00031778	Martyr
+GID00031779	Vol -
+GID00031780	Force Lock
+GID00031781	Sellion Depth
+GID00031782	Brow Ridge Inner up/down
+GID00031783	Take All
+GID00031784	Sentinel
+GID00031785	Next
+GID00031786	You cannot wait while in combat.
+GID00031787	!!! WARNING: LOCKOUT IMMINENT !!!
+GID00031788	Most people say you're the devil himself, but they also admit you've done a bit of good.
+GID00031789	Idolized
+GID00031790	Defender
+GID00031791	Sellion Width
+GID00031792	Dignitary
+GID00031793	You can't pick a lock while being pursued by guards.
+GID00031794	Short/Long
+GID00031795	Eyes dark brown/light blue
+GID00031796	Peacekeeper
+GID00031797	Stimpak
+GID00031798	Tilt Down/Up
+GID00031799	Nose nostrils wide/thin
+GID00031800	Mouth lips large/small
+GID00031801	Ranger of the Wastes
+GID00031802	Eye Color
+GID00031804	Protector
+GID00031806	Desert Avenger
+GID00031808	Save successful.
+GID00031809	Discard Selected
+GID00031810	Texture Size
+GID00031811	Low
+GID00031813	RAD
+GID00031815	Delete
+GID00031816	This lock cannot be picked. It requires a key to open.
+GID00031817	Alcohol
+GID00031818	Main Menu
+GID00031819	Drain
+GID00031820	Recharge
+GID00031821	Quicksave
+GID00031822	Target Level
+GID00031823	All Cards
+GID00031824	Aiming
+GID00031825	Value
+GID00031826	Fortify
+GID00031828	Pad *
+GID00031829	Pick
+GID00031830	True Iron Sights
+GID00031831	A little bit good mixed with a little bit bad, people haven't figured you out yet.
+GID00031834	RMB)
+GID00031836	First Dozen
+GID00031837	Cheekbones shallow/pronounced
+GID00031838	Web <-
+GID00031840	Surgery
+GID00031841	CND
+GID00031842	SKILLS: [%]/[%] Selected
+GID00031845	* Font indices map to the corresponding texture filenames ("sFontFile_#") in Fallout.ini (PC/PS3) and FalloutXenon.ini (360)!
+GID00031848	D-pad Left / Right
+GID00031850	Challenges
+GID00031851	Press START
+GID00031852	AM
+GID00031853	Eye sockets bruised/bright
+GID00031854	Scourge of the Wastes
+GID00031856	D-pad Up / Down
+GID00031858	Discard Track
+GID00031859	Merchant's Festival
+GID00031860	Architect of Doom
+GID00031863	You have not won enough at this casino to play this game.
+GID00031864	Bringer of Sorrow
+GID00031866	Experience Points Earned
+GID00031868	DAM
+GID00031869	Deceiver
+GID00031870	the left button
+GID00031871	[%] has worn off.
+GID00031872	Consort of Discord
+GID00031873	Feed/Talk
+GID00031875	Finish Bet
+GID00031876	Stuff of Nightmares
+GID00031878	Agent of Chaos
+GID00031880	You no longer have Hunger sickness
+GID00031881	Play Time
+GID00031882	Ingredients
+GID00031883	he
+GID00031884	Instrument of Ruin
+GID00031885	Throw
+GID00031887	Increase Bet
+GID00031888	Eye shades
+GID00031889	Soultaker
+GID00031891	Follow Me
+GID00031892	Cheek blush light/red
+GID00031893	Demon Spawn
+GID00031896	You have not selected a storage device. You will need to select one before you can save. Until then, Autosave is disabled.
+GID00031897	You break even
+GID00031898	Crouch
+GID00031900	That key cannot be remapped
+GID00031901	Quests
+GID00031902	Alteration
+GID00031904	Do you want to steal this horse?
+GID00031905	Surrender
+GID00031906	Light
+GID00031908	Radiation
+GID00031909	Mouth high/low
+GID00031910	WELCOME TO ROBCO INDUSTRIES (TM) TERMLINK
+GID00031911	Exemplar
+GID00031914	Remove
+GID00031915	Brow Ridge Outer up/down
+GID00031916	EFFECTS
+GID00031918	SET TERMINAL/INQUIRE
+GID00031919	Enough news of your good works has been passed around that people like you.
+GID00031920	Vegas Crusader
+GID00031921	You cannot equip this item.
+GID00031922	Body
+GID00031923	Perks
+GID00031924	Complexion
+GID00031925	Weight
+GID00031926	ENTER PASSWORD NOW
+GID00031927	RIT-V300
+GID00031928	Large
+GID00031929	Paladin
+GID00031930	D-Pad
+GID00031931	Stay
+GID00031932	ATTEMPT(S) LEFT:
+GID00031933	SET FILE/PROTECTION=OWNER:RWED ACCOUNTS.F
+GID00031934	Mojave Legend
+GID00031935	The current weapon is already poisoned.
+GID00031936	Cheeks concave/convex
+GID00031937	Map marker added.
+GID00031938	SET HALT RESTART/MAINT
+GID00031939	Shield of Hope
+GID00031940	Save
+GID00031941	Hair Color
+GID00031942	CHOOSE [%] TRAIT
+GID00031943	Initializing Robco Industries(TM) MF Boot Agent v2.3.0
+GID00031944	Vegas Legend
+GID00031947	RETROS BIOS
+GID00031949	Hero of the Wastes
+GID00031950	Your Sleep Deprivation level has decreased
+GID00031951	Yes, restart the game.
+GID00031952	Start a new game? This will[CRLF]overwrite your Autosave if present.
+GID00031953	RBIOS-4.02.08.00 52EE5.E7.E8
+GID00031954	Paragon
+GID00031955	Copyright 2201-2203 Robco Ind.
+GID00031956	Wasteland Savior
+GID00031957	Very Hard
+GID00031958	Addiction
+GID00031959	Saint
+GID00031960	The save game is corrupt. Returning to game.
+GID00031961	Wait Here
+GID00031962	Power
+GID00031963	Journeyman
+GID00031964	You win
+GID00031965	Eyebrows low/high
+GID00031966	Green
+GID00031967	Talk To
+GID00031968	Eyes whites dim/bright
+GID00031969	Face
+GID00031970	June
+GID00031971	D-pad Right
+GID00031972	You cannot sit on owned furniture.
+GID00031973	Select
+GID00031974	Wilderness
+GID00031975	Up
+GID00031976	Fast travel is currently unavailable from this location.
+GID00031978	Combat
+GID00031979	Continue from your last saved game?
+GID00031980	Beard moustache light/dark
+GID00031981	Choose up to [%] Trait
+GID00031982	Challenge Completed
+GID00031983	Magnitude
+GID00031984	Notes
+GID00031985	Lipstick dark blue/light red
+GID00031986	Style
+GID00031987	Female
+GID00031988	Welcome to the service on SERVER1
+GID00031989	[%] was equipped
+GID00031990	Equip
+GID00031991	Attack
+GID00031992	Loading downloadable content. Please wait.
+GID00031993	Saving...
+GID00031994	Your weapon condition is dangerously low.
+GID00031995	Very Evil
+GID00031996	Invert Y
+GID00031997	You cannot wait while being irradiated.
+GID00031998	Distribute [%] Point
+GID00032000	Spray
+GID00032001	Leveled Actor Effect
+GID00032002	Duration
+GID00032003	Autoloading...
+GID00032004	XP
+GID00032005	Audio
+GID00032006	People know you're good at heart even though you're occasionally a troublemaker.
+GID00032007	Pad ,
+GID00032008	Tales and Tallows
+GID00032009	Saturday
+GID00032011	Skin tint orange/blue
+GID00032012	Nose sellion thin/wide
+GID00032014	Mixed
+GID00032015	Devil
+GID00032017	Loading distant LOD...
+GID00032018	CANNOT REPAIR PAST [%]
+GID00032019	Nose tilt down/up
+GID00032020	Merciful Thug
+GID00032022	Text File
+GID00032024	Use Stimpak
+GID00032026	Offer refused
+GID00032028	Drink
+GID00032030	Target
+GID00032031	Skin flushed/pale
+GID00032033	Save Game
+GID00032034	November
+GID00032037	Quicksaving...
+GID00032038	Evil
+GID00032039	Save On Travel
+GID00032040	Web Stop
+GID00032041	Brightness
+GID00032042	wait
+GID00032043	Sex
+GID00032044	Take
+GID00032045	player
+GID00032046	[INACCESSIBLE]
+GID00032047	Up-Left
+GID00032048	Uppermem: 64 KB
+GID00032049	Left
+GID00032050	Run
+GID00032051	Eyes tilt inward/outward
+GID00032052	Root (5A8)
+GID00032053	Guardian of the Wastes
+GID00032054	Your head is now damaged.
+GID00032055	Maintenance Mode
+GID00032057	Restorer of Faith
+GID00032058	Raise
+GID00032059	ASSIGN [%] SKILL POINTS
+GID00032060	RUN DEBUG/ACCOUNTS.F
+GID00032061	Model of Selflessness
+GID00032062	[%] has been damaged
+GID00032063	The selected storage device does not have sufficient space available to save your progress. Autosave is disabled. Please select another device or delete some of your saved content.
+GID00032064	Eyebrows
+GID00032065	[CAUTION]
+GID00032066	Shepherd

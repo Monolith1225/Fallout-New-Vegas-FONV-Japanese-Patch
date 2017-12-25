@@ -1,0 +1,1582 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc02_dialogue_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00087077	Just like that, huh? You got guts, I'll give you that. You sure you want to jump in blind? Ain't got no questions about where we're going or why?
+GID00087078	I bet you are, but we only got room for one more on this expedition. You'll have to leave your friends behind.
+GID00087079	I bet you are, but we only got room for one more on this expedition. You'll have to leave your friend behind.
+GID00087080	I bet you are, but you ain't going nowhere loaded down like a pack brahmin.
+GID00087081	I bet you are, but you ain't going nowhere loaded down like a pack brahmin.
+GID00087082	Are you now? You know we ain't coming back this way for a good long while now, right? And you know about the weight limit?
+GID00087083	I don't want no whining about "Oh, Mr. Masterson, I left my one-of-a-kind plasma cannon back at base, can we go back for it?"
+GID00087084	You sure you're ready now?
+GID00087085	You sure about that this time? We ain't coming back for a while.
+GID00087086	Well I'll be. I was starting to lose hope we'd be able to get any of this, much less all of it. Tribals are smart but... well, they're ignorant.
+GID00087087	Letting go of a taboo is difficult for them, so I knew it would have to be one of us. Turns out all it took was a Gentile. Or, uh... no offense.
+GID00087088	These supplies are a godsend, but if we're going to evacuate Zion without drawing more White Leg attention, I need you to go back into the valley.
+GID00087089	Specifically, I need you to scout out some locations for White Legs and try to recover a map of Grand Staircase, a wilderness area to the east.
+GID00087090	There's also the matter of the roads. We're going to be heading out of the east side of the park, but I'm not sure the way is clear.
+GID00087091	I appreciate it. Well, that's it. This is all we need. Now all that's left is to quietly pack up and try to get out of here without being noticed.
+GID00087092	That's assuming that Joshua won't try to stop me. And that he hasn't talked you into fighting the White Legs despite what I've said.
+GID00087093	Don't worry. I don't hold it against you. You're a - an outsider. Fighting seems like the practical solution. But there's more than that at stake.
+GID00087094	You've done more than I could have ever hoped for. Thank you. And may God protect you for all of your days. Goodbye.
+GID00087095	You let them die! They needed you! Why didn't you help them?!
+GID00087096	Nevermind. I don't have time for this. Take the map. Just take it and go!
+GID00087097	What uh... what do you want to know, exactly? I'm sure she could tell you much better than I.
+GID00087098	Hoo! Glad to hear it! That'll be some happy mama, huh? Thank you - really. It means a lot to me.
+GID00087099	Sure, hey, I understand. I wish it could have been done different, but at least the calf is back with its herd.
+GID00087100	That's... not really what I was hoping for. I guess... I guess at least we don't have to worry about the Bighorners attacking the camp now. Hoy....
+GID00087101	That's... not really what I was hoping for, but... I guess I can give the little guy a home. What the hell.
+GID00087102	I can't tell you that! I have a sworn vow of secrecy, or something like that, to all the people I left behind.
+GID00087103	I know everything! I know all about it! But I ain't about to tell the likes of you!
+GID00087104	I have a sworn vow of secrecy, or something like that, to the people I left behind!
+GID00087105	You been to Vault two-two, huh?
+GID00087106	Huh? ...Of course I noticed! First thing I noticed about you!
+GID00087107	Me, I'm so used to wearing mine, it's just normal. Don't think you're someone special just because you got one.
+GID00087108	Earning my keep. Jed hired me on as a caravan guard for this expedition of his.
+GID00087109	The work suits me. I've tried staying put in one place, but it never works out.
+GID00087110	Grew up in New Reno, and I couldn't put that snakepit behind me fast enough.
+GID00087111	Then I wound up wasting the prime of my life playing Sheriff in Caliente, little town north on the 93. Talk about a pain in the ass.
+GID00087112	You ask me, best to keep moving. At least the scenery changes.
+GID00087113	What? No... you must be mistaken. Daniel would have told me!
+GID00087114	[SUCCEEDED] Hmm... all right, I reckon you know your limits.
+GID00087115	You keel over on me out there, though, and I'll leave your ass. After we take everything useful you crammed in your pack.
+GID00087116	[FAILED] That's exactly what I'm worried about. We got us some passes tighter than a virgin on her wedding night up there.
+GID00087117	Last thing I need is some greenhorn getting stuck on a rock, slowing the whole caravan down.
+GID00087118	[FAILED] That's exactly what I'm worried about. We got us some passes tighter than a- well, tighter than a Chairman's fist up there.
+GID00087119	You get stuck in there, you'll slow the whole caravan down while we pry you loose. Begging your pardon, ma'am.
+GID00087120	Heh. I do believe you could.
+GID00087121	Heh. All right, I'll believe you - Lord knows I ain't going to pat you down to find out for myself.
+GID00087122	Let me tell you a story. When I was a boy, a man came through the valley with one of the caravans. Tall man, big mustache, carried a guitar.
+GID00087123	I asked what he did for his living, and the interpreter told me he was a singer.
+GID00087124	"What is that?" I asked. The man explained that he went from place to place and sang for people, who gave him food and shelter and care in return.
+GID00087125	I couldn't believe that there was a place in this world where a man could do that. I promised myself then that one day I'd explore that world myself.
+GID00087126	Ya? What did he say?
+GID00087127	This is true? You spoke to him? Oh, that is a relief. Grasas, na'ne.
+GID00087128	Just don't. It makes the New Canaanites powerful uncomfortable, and it scares the britches off the tribals.
+GID00087129	Don't talk about the Burned Man either, while you're at it. Trust me on this one, it's for your own good.
+GID00087130	I do. A fine husband and three children. I miss them each day, but I take comfort in knowing they are safe.
+GID00087131	A Sorrow's Yao Guai Fist is a sacred symbol. It shows that we belong to the tribe and have willingly undertaken a dangerous quest to aid the tribe.
+GID00087132	Each Sorrow makes his own - and only after hunting and slaying a Yao Guai that threatened our people.
+GID00087133	Our shaman, White Bird, oversees the rites. Perhaps if you spoke to him, he would allow you to undertake such a quest.
+GID00087134	The job is simple - help us get this caravan into Zion and find New Canaan. The pay is 25 caps per day, half up front, half on return.
+GID00087135	You'll get a bonus if we make it into Zion, plus another bonus if we reach New Canaan.
+GID00087136	Oh, one more thing - don't mention the name Joshua Graham to anyone. Anyone.
+GID00087137	Mostly it's the mountain Bighorners - whole herd of them up on the cliffs there. Usually they're not too aggressive, but lately... hoo!
+GID00087138	My guess is one of the calves got lost somewhere along the way. Bighorners are communal - one missing calf, and the whole herd gets ornery.
+GID00087139	If that calf doesn't turn up soon, they might very well come down into the valley and attack the camp.
+GID00087140	You change your mind about helping out?
+GID00087141	Mostly it's the mountain Bighorners - whole herd of them up on the cliffs there. Usually they're not too aggressive, but lately... hoo!
+GID00087142	My guess is one of the calves got lost somewhere along the way. Bighorners are communal - one missing calf, and the whole herd gets ornery.
+GID00087143	If that calf doesn't turn up soon, they might very well come down into the valley and attack the camp.
+GID00087144	You might try luring the baby out with some banana yucca. These Bighorners go crazy for the stuff.
+GID00087145	Best place to look for Back When stuff is the taboo places. Sorrows and Dead Horses don't go in there, and even White Legs don't like them much.
+GID00087146	I thought he might. It's been some time since I've visited... civilized places. I don't have fond memories of them.
+GID00087147	But I have always seen these places from the outside. I'd rather not influence him more than I already do. Why don't you talk to him?
+GID00087148	Imagine New Vegas if there was no Mr. House-type fella keeping the peace, then give everybody a gun and a Jet addiction.
+GID00087149	Town's run by a bunch of crime families, no law to speak of. Make trouble, and you wind up buried in Golgotha, outside town.
+GID00087150	The scuzz factor's off the charts. Non-stop whoring and drugs. Couldn't walk down the street without getting asked to star in a porn movie.
+GID00087151	So I got my ass out of there while I still owned it. Guess I figured the answer to every problem was rule of law. Naive, huh?
+GID00087152	That is a sad story. I do not like to tell it, but if you are asking, it must be at White Bird's request. That, I will honor.
+GID00087153	Long ago, a girl lived among this tribe. She was a curious child, and a clever one, and her mother had a devil's time watching over her.
+GID00087154	One day, the child slipped away from camp and went to play in the caves nearby. The girl did not know that a Yao Guai slept in that cave.
+GID00087155	The girl died. The tribe wept, for the girl had died before her naming day, and her ghost would remain restless and wandering upon the earth.
+GID00087156	Many hunters tried to kill the beast, but it eluded them, or drove them off. The shaman said that since it had consumed the girl, the two were one.
+GID00087157	So we call the beast Ghost of She, for the child had no name to be called. That is the story of the Ghost of She. It is a sad story. It is our story.
+GID00087158	You ain't never been to Zion, have you? We'll be passing through a whole mess of narrow slot canyons and high, rough passes.
+GID00087159	A big pack'll get you wedged in like a Super Mutant crawling through a storm drain, and too much weight will kill you in the thin air.
+GID00087160	We're a smaller company out of Sac-Town, up in the northern part of the NCR. We run some business through New Reno, there on the "Little Loop."
+GID00087161	Had a nice run to Salt Lake City, too - but then we lost contact with New Canaan, and that went all to hell.
+GID00087162	He's been the chief of our tribe since he came back to the Valley. He went off to the civilized world years ago, to fight a war. That didn't go well.
+GID00087163	White Legs - nasty bunch. They been raiding deeper into Zion ever since New Canaan was wiped out.
+GID00087164	Uh, how you think? I shoot things in the eye, that's how good I am! Yeah, I'm that good!
+GID00087165	Why, uh, once I got jumped by three... Deathjaws! Except actually it was four of them! Imagine that!
+GID00087166	But I didn't panic, because... because I never panic! What I did was become a storm of death! Shot every one of them monsters "pop" in the eye!
+GID00087167	Well, I grew up near Dayglow out west, so yeah, I grew a third nut that glows in the dark!
+GID00087168	I'll drop trou for you out on the trail after dark, sis. Let you see what you're working with, know what I mean?
+GID00087169	Where the fuck you think? Vault two-two! That's where I grew up!
+GID00087170	Place lived up to its name, that's for sure.
+GID00087171	When you got fresh water and a trickle of geothermic power, always be some gang of assholes wants to kill you for it.
+GID00087172	Spent more years and took more bullets than I care to admit protecting that hellhole from dangers, within and without.
+GID00087173	If it wasn't the 80s or the White Legs raiding, it was someone from town drunk off his ass trying to win an argument with a shotgun.
+GID00087174	Got tired of shooting the folks I was supposed to protect. So... now I do this.
+GID00087175	Waking Cloud is my name. I am midwife to the Sorrows. It sounds ill-omened, no? "Midwife to sorrows."
+GID00087176	Daniel is a wise man, and a great friend to the Sorrows. He taught me to speak the language of New Canaan - the English from the holy books.
+GID00087177	Grand Staircase is farther east, deeper into the Colorado Plateau.
+GID00087178	The White Legs were able to reach us here, but it's only because Zion is close to the Long 15. They can't pursue us east of here. It's too wild.
+GID00087179	Throughout our history, we have called many places Zion. This valley is full of God's beauty, but it's just a place. Zion is more than this.
+GID00087180	We cannot use any and all means available just to protect stone and water and a piece of sky. We have to hold on to our faith. Far more enduring.
+GID00087181	If we sacrifice grace for a piece of land, we may live in this valley, but we will no longer dwell in Zion. It's better for us to leave now.
+GID00087182	What can I tell you?
+GID00087183	Sorry, the shit I do with it is so far over your head, be wasting my time to put it in words you could understand!
+GID00087184	Basically, it makes me badass. More badass, I mean. It's totally mind-blowing shit. It ain't just some bracelet, know what I mean?
+GID00087185	Jed says it's got maps and shit like that, so that's how I'm gonna guide this caravan where it needs to go! Not that I didn't know all that already!
+GID00087186	What's the difference? Raiders is raiders.
+GID00087187	Bunch of them swept in to town and dragged off two working girls. Deputies and me gave pursuit, straight into 80s territory.
+GID00087188	By the time we caught up with the girls, there wasn't much left of them. So we turned for home.
+GID00087189	Made it back to Caliente without further losses, but we was watched the whole way. Never seen so few people cover so much land. Goddamn creepy.
+GID00087190	If the 80s had wanted to kill us, we would've been dead. Guess they figured we weren't worth the trouble.
+GID00087191	We have dwelt in the Narrows since the End That Came In Fire, when the Father in the Caves punished the world and made us forget the holy tongue.
+GID00087192	We have had good relations with the other tribes in the valley. At least, before Salt-Upon-Wounds brought his White Legs here.
+GID00087193	We have Daniel to thank for our continued existence. His advice and help has kept the White Legs from overrunning us so far.
+GID00087194	I do not know how long even he can protect us, though.
+GID00087195	He is war chief of the White Legs, and the worst butcher of them all. The tribes he has crushed are many. The warriors he has slain, countless.
+GID00087196	Well, I ain't never been inside, myself. Did some trading with the New Canaanites from their mission there, but that was all on the outskirts.
+GID00087197	All the old ways in and out were destroyed after the War, but we got ourselves the location of a pass the New Canaanites use - that's our way in.
+GID00087198	That's why I wanted someone with a Pip-Boy on the caravan - the map'll be helpful for checking the topography, keeping us on the trail.
+GID00087199	That's great news. We can use anything you can offer.
+GID00087200	They're hateful savages who live only to plunder and destroy. Their leader is a devil called Salt-Upon-Wounds.
+GID00087201	War is what all he knows. Everything he has, everything that tribe has, was taken by force, raiding and scavenging.
+GID00087202	It's said there's no man deadlier at close range, that that powerfist of his has smashed a hundred skulls.
+GID00087203	Maybe that's true, but so what? It's a low form of leadership. A tribe that knows only war has no future. And so he'll lead them to Caesar.
+GID00087204	Used to be they raided northeast of Caliente, time to time. But then the Desert Rangers fell apart ten years ago, absorbed into the NCR.
+GID00087205	Soon enough the White Legs were swarming all over that stretch of I-15. Folks learned not to head north if they wanted to keep their scalps.
+GID00087206	Eventually the White Legs destroyed the bridges across the Virgin River, over in Arizona. End of discussion.
+GID00087207	Have you not heard of the god of the New Canaanites? He is our protector and our judge. He helped our ancestors find their place here in Zion.
+GID00087208	He gave us many gifts, but we are not to seek him out. His caves are forbidden to us. Those who seek them out are taken from us.
+GID00087209	If you could part with it, healing powder would be welcome. We have enough Stimpaks for now, but we can't rely on that small supply.
+GID00087210	Broc and Xander plants can be found throughout the valley and you might even find some on White Legs you come across.
+GID00087211	Sure, okay. I'll wait behind. Not like I'm not used to that.
+GID00087212	As you wish. I will wait, but please do not be gone long.
+GID00087213	Sorry. That's not going to happen.
+GID00087214	Well, it ain't good, I'll tell you that. It's not like the Mojave or the NCR - hell, even Arizona under Caesar is safer.
+GID00087215	You got raiders all over the damn place, tribes of degenerates that'll eat you as soon as look at you, regional warlords... the works.
+GID00087216	Not too many decent places to stop and trade. New Canaan's one of the only ones left I know about.
+GID00087217	You want to know what I do, Bud? Anything I fucking want!
+GID00087218	You want to know what I do, Toots? Anything I fucking want!
+GID00087219	I'm one of a kind! I been places, see? And done things - lots of them!
+GID00087220	And when it's time to kill shit up? Hell yeah, I'm a fucking storm of death!
+GID00087221	Something or someone make the mistake of crossing Ricky? I'll fucking deadeye him, her, or it!
+GID00087222	In fact... yeah, in fact, that's my nickname! "Deadeye" Ricky - that's my name!
+GID00087223	I used to help the Sorrows with various medical problems and general issues they were having, but my bishop sent me here as a missionary.
+GID00087224	We New Canaanites believe that there is a path to salvation for everyone and it's important that we set people on that path if they are willing.
+GID00087225	Oh man, yeah! Trigger finger is feeling itch-ay! Come on, assholes! Show yourselves and Deadeye Ricky'll blow your fucking heads off!
+GID00087226	I ain't feeling good, man. I feel like shit! I got the shakes, got the sweats. This fucking sucks!
+GID00087227	There's an old saying that goes, "If you want peace, get ready for war."
+GID00087228	You've got me figured half-right. I'll shoot dead any White Leg that tries to creep into this camp, but it's only to protect the Sorrows.
+GID00087229	The Lord helps those who help themselves, but the Sorrows don't know how. Joshua and I do. Since I got them into this mess, I need to get them out.
+GID00087230	Caesar would never admit this openly, but he knows that I'm alive. I've killed enough of his frumentarii and assassins that have come looking.
+GID00087231	I've heard one of them travels the Mojave as a courier. Most of Caesar's agents meet a fitting end in NCR territory, but maybe this one survived.
+GID00087232	Nice job, Eagle Eye! Of course I got a Pit-Boy and a Vault suit! So what?
+GID00087233	Father in the? Oh, right. He's some spirit the Sorrows used to believe in, watched over them from the caves in the valley.
+GID00087234	They marked some of the caves around here because they think they'll be punished for going inside.
+GID00087235	I think as more of them learn the teachings of the New Canaanites, they'll lose their old superstitions.
+GID00087236	It's not a subject I'm fond of discussing. It's over and done with, anyway. Why are you so interested?
+GID00087237	I think that would put him - and you - in a difficult position. Caesar has agents looking for me, but he won't admit I'm alive.
+GID00087238	And even if you killed me, he can't acknowledge that. To do so would be to admit I had never died. That Caesar made a mistake.
+GID00087239	No. He lives by his lies and shall die by his lies. There is no escaping it.
+GID00087240	[SUCCEEDED] Hey hey hey! Fuck you! I didn't say nothing about using Psycho!
+GID00087241	[FAILED] Yeah, Doc, I'm feeling great, fuck you very much. Asshole.
+GID00087242	Right behind you.
+GID00087243	I walk in your footsteps.
+GID00087244	I'll take a look, boss! Keep me covered!
+GID00087245	Ambush! Tribals, and they mean blood!
+GID00087246	Shhhhh! Hold on, now... Could swear I heard something up ahead.
+GID00087247	Goddammit, ambush! Cover, people! Watch yourselves!
+GID00087248	Holy hell! Stay low, people, stay low...
+GID00087249	Stella!... Oh no! Don't you die on me, woman, you hear?
+GID00087250	On your feet! Keep fighting! Come on now, I got ya...
+GID00087251	You want some, assholes? You just pissed off the wrong guy! And that means Ricky!
+GID00087252	I don't deserve this! My Pip-Boy don't even work! Why the fuck you hire me?
+GID00087253	Shut the hell up, Ricky! Might as well be waving at them!
+GID00087254	Enough of this! We're sitting ducks here! Here I come! I was a sheriff once, goddamn it!
+GID00087255	Well, all right then. Let's get moving. We've got a long road ahead of us...
+GID00087256	Fair enough. Come on back when you're ready.
+GID00087257	Hang on - ain't you the one that wiped out the Crimson Caravan's Vegas branch not too long ago?
+GID00087258	Ought to thank you for that - knocking McLafferty out of the running gives Happy Trails a market to expand into.
+GID00087259	Wait a minute, I recognize you. Yeah... you're Alice McLafferty's rising star, ain't you?
+GID00087260	You sure you want to be here? McLafferty's non-competes are pretty rigid.
+GID00087261	Damn good thing you came along, too. We had another prospect with a Pip-Boy, but he done skedaddled. Something must've spooked the boy.
+GID00087262	Don't know much about the place, but I can tell you about the people. The New Canaanites were some kind of religious group from before the War.
+GID00087263	They control the old city of Ogden, a ways north of Zion, and they got themselves a nice defensible mission in the canyon itself - or they did.
+GID00087264	They trade a fair bit with the tribes in Zion - well, the ones that don't try and kill them, anyways.
+GID00087265	Should have figured you for a player. All right, let's play.
+GID00087266	Another one, huh? Sure, why not?
+GID00087267	There's a chest over yonder, you can store your extra in that. It'll be safe as can be until you get back.
+GID00087268	There's a chest over yonder, you can store your extra in that. It'll be safe as can be until you get back.
+GID00087269	Without New Canaan's mission in Zion, the only ways to Salt Lake City are down the old I-80 or up through Ogden.
+GID00087270	The highway's too risky - NCR's rangers are so busy here in the Mojave they don't have the manpower to keep the raiders off.
+GID00087271	Ogden's just too far - we'd lose more in travel expenses than we'd ever earn.
+GID00087272	[SUCCEEDED] You ain't wrong. Losing the Salt Lake City run really stung us. If we can't re-establish contact with this run, we'll be in real trouble.
+GID00087273	[FAILED] We do all right, don't you worry about us. Got enough in the kitty to pay you, anyways.
+GID00087274	I ain't a prayin' man myself. They paid for their goods and dealt square with us, that's all I ever cared about.
+GID00087275	But don't think that just because they're religious that they're pacifists. They take care of their own, and they're damn fine marksmen too.
+GID00087276	Nope - hence this caravan. If we don't make contact with the New Canaanites, Happy Trails might as well just shrivel up and die.
+GID00087277	They're about what you'd expect - crazy, jacked up on chems, violent as hell, and not too bright.
+GID00087278	The worst are the 80s, but we won't be passing through their turf on this run.
+GID00087279	That's right. The folks that lived in Zion before the war, they didn't just get a little savage, they're downright feral.
+GID00087280	Most of them don't even speak English any more - you got to get yourself a New Canaanite translator to talk to them.
+GID00087281	The ones you really got to watch out for are the White Legs, from the Great Salt Lake. They'll attack just about anyone that ain't one of theirs.
+GID00087282	Dangerous enough we won't be going near them if we can help it. I got no desire for my head to decorate some little gas station fort's walls, thanks.
+GID00087283	Shoot.
+GID00087284	No. Why? Why? Haven't you seen enough of what's going on here to see that the Sorrows don't need to butcher the White Legs for a piece of land?
+GID00087285	What Joshua wants is more than an attack. He wants a slaughter. And he needs more than you and the Dead Horses to do it.
+GID00087286	The Sorrows can't be pushed into this. You and Joshua don't have the right to force them into it. Please, consider what I'm saying.
+GID00087287	It may be. I hope it is. To tell the truth, if something goes wrong, more Sorrows could die in the escape than in Joshua's proposed attack.
+GID00087288	Even knowing that, it's a risk I have to take. With your help, and Joshua's, even if we're attacked, we can defend the Sorrows and escape.
+GID00087289	We'll be traveling at night, in small groups, across the valley. With luck, the White Legs won't know what's happened until the next morning.
+GID00087290	But if the White Legs realize what's happening... Joshua and I will need you to help us escape. Don't hold back. I promise you, the White Legs won't.
+GID00087291	Once our path is clear, I'll give you everything you need to get back to the Mojave, but the Pine Creek tunnel must be collapsed behind us.
+GID00087292	It's the only way to delay the White Legs' pursuit long enough for us to get a head start. Good luck, and may God be with us.
+GID00087293	Even our Lord had doubts. Think it over, but listen to your heart. And do it quickly. We don't have much time.
+GID00087294	Hurry! There isn't any time to waste! We have to get out of here and collapse the tunnel behind us!
+GID00087295	Thanks. Even one dose can make a difference.
+GID00087296	Your generosity is... well, I just can't thank you enough.
+GID00087297	That's... I'm so sorry. That's terrible. We've been having a lot of problems with the White Legs here in Zion lately.
+GID00087298	In fact, that's why I'm here. I'm Daniel, a New Canaanite missionary to this tribe, the Sorrows.
+GID00087299	It's important that you speak to my colleague, Joshua Graham, at the Dead Horses camp at Eastern Virgin. We can speak again later.
+GID00087300	Again, I'm very sorry for the deaths of your friends.
+GID00087301	Okay. Can you do me a favor and "just walk" down to Eastern Virgin?
+GID00087302	There's a group of Dead Horse warriors there with my colleague, Joshua Graham. I'd like you to talk to him about the route you took to enter Zion.
+GID00087303	We've had a lot of problems with White Legs in the area and I'd feel more comfortable if you spoke with him about the situation here. Thanks.
+GID00087304	I'm someone who's responsible for protecting a lot of innocent people from raiders and mercenaries who might try to take advantage of them.
+GID00087305	I think you need a little perspective on what the heck is going on in Zion. There's a Dead Horse warrior camp at Eastern Virgin. Get there.
+GID00087306	My friend Joshua Graham can fill you in on some of the trouble we've been having with White Legs in these parts. Listen to what he says.
+GID00087307	Now if you'll excuse me, I've had enough of your sass for one day.
+GID00087308	I appreciate the enthusiasm. There aren't a lot of people in the wasteland with kindness to spare for anyone who isn't kin.
+GID00087309	Since you've been poking around the valley, you might see more activity from the White Legs.
+GID00087310	One of the Sorrows hunters, Waking Cloud, has volunteered to help guide you through the valley. She has a special talent for staying out of sight.
+GID00087311	After this, it's just a matter of getting everyone out of here safe and sound. And hopefully you can head back to the Mojave without any more trouble.
+GID00087312	Listen, I understand that you want to go home. But we didn't ask you to come to Zion. As far as I'm concerned, you're an uninvited guest.
+GID00087313	In better times, I'd drop everything to help you out, but I have to ensure the safety of the Sorrows first.
+GID00087314	And don't think you're alone in this. One of the Sorrows, Waking Cloud, has volunteered to help you in the valley.
+GID00087315	She's an experienced hunter and has a special gift for staying out of sight when she needs to. Should make things easier for you.
+GID00087316	After that, all that's left is to evacuate the Sorrows safe and sound. I'll give you a map and supplies, everything you need to get back home.
+GID00087317	Okay. You better listen close because I'm not going to repeat myself. You were not invited here. This is not your home.
+GID00087318	We have what you might call a compulsion to help you on account of our beliefs, but if you continue to spit in our eye with insults and profanity...
+GID00087319	You'll find out what happens when our patience wears out. People died at New Canaan because we bickered and debated about what to do.
+GID00087320	That was a mistake. Complaining to me now, also a mistake. I'm not going to add sin upon sin by listening to your grumbling.
+GID00087321	You want the map? Get out in that valley. Help us. One of the Sorrows, Waking Cloud, will go with you. She knows how to get around the valley unseen.
+GID00087322	She's also a midwife and has three kids of her own, so she'll be more tolerant of your whining.
+GID00087323	[SUCCEEDED] I understand. But I hope you can understand why it's so important for us to leave here as soon as we can.
+GID00087324	I... we couldn't save New Canaan. This is a chance to make up for that, to start again. We can't fail.
+GID00087325	[FAILED] Corrected action is the most sincere form of apology.
+GID00087326	Fantastic.
+GID00087327	You just don't learn, do you?
+GID00087328	The New Canaanites interfered in their lives. We did that. And we've done it before, with others. Always with good intentions, but things go wrong.
+GID00087329	When that happens, we can't just abandon them, let them die at the hands of New Canaan's enemies.
+GID00087330	You're free to hold that opinion, but you're not responsible for these people. If I have to kill to prevent their blood from being spilled, so be it.
+GID00087331	There is an important difference between killing in defense and waging war. Even a Gentile like you should know that.
+GID00087332	Joshua is a living bible of all mankind's miseries of war! The debt he has levied through his actions, he repays every day!
+GID00087333	He is a monument both to God's unending forgiveness and to humanity's unfathomable capacity for cruelty. It's written on every inch of his body!
+GID00087334	When you look at him, do you only see a man of God? Beneath those bandages, he is burned flesh. As he burns, so does he consume everyone around him.
+GID00087335	Joshua wants to fight because the White Legs have stoked the naked flame inside of him. You, you see the light, but do not yet feel the heat.
+GID00087336	I can pray that you never will, but it isn't up to me and it isn't up to God. It's up to Joshua.
+GID00087337	Joshua doesn't just want to fight the White Legs. He wants to annihilate them. The stakes are too high for their tribe.
+GID00087338	Hurting them won't dissuade them. If they can't join Caesar's Legion, they'll die out in a generation. They've never learned how to survive.
+GID00087339	Food preservation, tanning, even basic hunting and cooking seem beyond them. They only survive by scavenging and raiding, but that can't last.
+GID00087340	They'll only stop if Joshua and the Dead Horses can kill their war chief and their entire war band. That's exactly what he intends to do.
+GID00087341	What would you like to know?
+GID00087342	Try walking alongside a tribal child, a refugee, and holding her hand for three days because her parents were killed by NCR prospectors.
+GID00087343	After the prospectors have stalked the remainder of the tribe, they fire off a few shots to scare them, and the tribe bunches together for safety.
+GID00087344	A grenade comes rolling in and kills another six people. The only reason you survive is because someone else's body absorbed the shrapnel.
+GID00087345	You're left sprawled out on the ground with ringing in your ears and a little girl's hand in your hand because that's all that's left of her.
+GID00087346	After you've done that, if you can look me in the eye and tell me it's better to stand aside, maybe then I'll listen to you.
+GID00087347	Oh, well that's true. Waking Cloud is a talented midwife. She's certainly brought more children into the world than I have.
+GID00087348	But there are some problems she's never dealt with. One of them came up when she was having her third child and...
+GID00087349	I really didn't do much. I'm surprised she mentioned it.
+GID00087350	I did.
+GID00087351	Her three children are safe. They made it north weeks ago and met up with New Canaanites heading east.
+GID00087352	Her husband didn't make it. He died protecting their children from a White Leg attack.
+GID00087353	Do not tell Waking Cloud. She is one of the only Sorrows who can communicate easily with us and her tribe needs her to be strong right now.
+GID00087354	Good. Fine, whatever you'd like to know.
+GID00087355	To every thing, there is a season. Who are you or I to put this heavy burden on her now?
+GID00087356	And I don't like hiding it from her, but I'm between a rock and a hard place here.
+GID00087357	Her people... honestly, we all need her help. As much as it pains me to say it, there will be time to mourn later.
+GID00087358	Good. I'll tell her after we've helped the rest of the Sorrows reach safety.
+GID00087359	I know. You're right. I shouldn't have hidden it from her in the first place. I just... we can't fail here again.
+GID00087360	Zion can't become the next New Canaan. The Sorrows don't deserve that. They don't deserve any of this.
+GID00087361	Sometimes I look at them and wonder if they would have been better off if those old trails had stayed forgotten.
+GID00087362	If we had never found any of them. Tell Waking Cloud if you think that's best. I won't stop you.
+GID00087363	That's not an easy thing to be. I don't like doing this, but I can't see any good coming from telling Waking Cloud her husband died.
+GID00087364	You'll do what you'll do - I won't try to stop you. I'd ask only that you consider the repercussions of your actions.
+GID00087365	Good.
+GID00087366	As much as I wish people wouldn't touch alcohol or chems at all, I understand. Would you like me to help?
+GID00087367	Huh. You look fine to me. Physically, anyway.
+GID00087368	Yeah, you don't look too bad. Shouldn't take much to get you fixed up.
+GID00087369	It looks like you have a few nasty injuries, but nothing I haven't seen before. Want me to fix you up?
+GID00087370	Funny sense of humor. I've seen corpses with injuries less severe than yours. This might take a while.
+GID00087371	Even after all these years, it's still a problem for prospectors, caravan guards, couriers, and tribals. I can fix it.
+GID00087372	I can provide medical assistance. I can even use supplies that we have here, but I can't just sell what we have.
+GID00087373	I need to address problems as they arise, and most of those have to do with the Sorrows or Dead Horses.
+GID00087374	Take a look.
+GID00087375	Have a seat. This may be a bit uncomfortable.
+GID00087376	I'd like to help you, but I have to be able to cover the cost of supplies. If you can find the money, come back and see me.
+GID00087377	Thanks. Hold still. You'll be better in no time.
+GID00087378	Thanks. Hold still. You'll be better in no time.
+GID00087379	Thanks. Hold still. You'll be better in no time.
+GID00087380	Well, I do need to cover the cost of supplies. Let me know if you find enough funds.
+GID00087381	Suit yourself.
+GID00087382	Well, I do need to cover the cost of supplies. Let me know if you find enough funds.
+GID00087383	Well, I do need to cover the cost of supplies. Let me know if you find enough funds.
+GID00087384	That should cover it. Hold on. This shouldn't take long.
+GID00087385	I'm trying to make amends for allowing our problem to become their problem. The New Canaanites, I mean.
+GID00087386	The White Legs have always fought with us, and with Joshua returning, Caesar has motivated the White Legs to stamp out the New Canaanites entirely.
+GID00087387	That means the tribes we work with, too. It's already hap- I just want to prevent something terrible from happening to the Sorrows.
+GID00087388	[SUCCEEDED] I do. All right. I can provide you with supplies, but be frugal with them.
+GID00087389	[FAILED] I'm sure your caps are fine, but I have to hold on to the supplies I have here. Sorry.
+GID00087390	[SUCCEEDED] Fair enough. Just be careful and hopefully you won't need these.
+GID00087391	[FAILED] If you need healing, just ask me. I can help you with addiction, radiation poisoning, even broken bones. But I can't give you supplies.
+GID00087392	Thank you. If I can help you in some other way, don't hesitate to ask.
+GID00087393	A spiritual wasteland, yes. We believe that before this life, our souls existed elsewhere. And after we die, our souls will leave this world.
+GID00087394	During our time here, we have the burden of choice. The choices we make determine where we go in the spirit world, and how we will face judgment.
+GID00087395	New Canaanites believe, as many once did, that God was made flesh here on Earth as a man named Jesus Christ. He sacrificed his life to save us.
+GID00087396	Every sin, every terrible thing that you, me, or any one of us have done for all time, was washed away by his blood. We just have to accept his love.
+GID00087397	That's why we visit the tribes, to spread the good news. For all we know, we New Canaanites may be all that remains of Christ's followers.
+GID00087398	Yeah, Bishop Mordecai is...
+GID00087399	Sorry. Mordecai was my bishop. He was killed by White Legs during the attack on New Canaan. He was responsible for our congregation there.
+GID00087400	I don't know who my next bishop will be. But that's a problem for tomorrow. There are plenty of troubles here for us today.
+GID00087401	Yes. But not just White Legs. Raiders too. Prospectors. Slavers. Anyone who thinks they can exploit the ignorant and the innocent.
+GID00087402	We lost the Tar Walkers. And the Crazy Horns. We did our best, but we made mistakes. We paid for them, but they paid more.
+GID00087403	I'd like to get out from under that debt someday. Until then, it's enough to stop ourselves from getting deeper in the hole.
+GID00087404	To remove the Sorrows from harm's way. I have to give credit to the White Legs for finding their way here, though I imagine many died in the process.
+GID00087405	But they can't follow us east, not into the Grand Staircase. They don't know how to live off of the land. We head there, we can find some safety.
+GID00087406	We lost it. Our community, everything. But the past is gone. We have to look forward.
+GID00087407	Look, I've got a lot to do here. My personal relationship... it's not important right now. Can't see how it concerns you, anyway.
+GID00087408	[SUCCEEDED] True enough. We can't escape it no matter how hard we try. Best we can do is own up, trust in the Lord to forgive.
+GID00087409	Joshua was gone, so were a lot of the other New Canaanites. White Legs must have been watching for a long while, counting who remained.
+GID00087410	We didn't think the White Legs were a real threat. Maybe it was overconfidence. Maybe sloth. Either way, we didn't see them coming.
+GID00087411	They attacked at night. They killed without regard to age or infirmity. Armed or unarmed. They beat children to-
+GID00087412	Beat them to death in their beds while they were sleeping. And now we're all that's left. Maybe thirty of us. Pride goeth before destruction.
+GID00087413	[FAILED] As far as you're concerned, it is. This really isn't the time to talk about it, all things considered.
+GID00087414	Heh. That's actually a better response than I usually get from wastelanders. No offense.
+GID00087415	Tell you what. There's a lot going on right now but why don't you take this. Read it. Maybe you'll hate it. Maybe you'll be bored.
+GID00087416	But if you have questions, assuming we get through all this, let me know. It used to be my job to answer those questions. Maybe it will be again.
+GID00087417	Good news is an amazing thing in this world we've unmade. We're so used to going to sleep with nightmares that we can't imagine waking up to a dream.
+GID00087418	But that's what we believe, every word of it. It's the cornerstone of our faith and how we choose to live.
+GID00087419	With every step you take, you put one foot in front of the other and know that you'll be pulled back down to this Earth.
+GID00087420	We know that God is watching over us, waiting for us to come back home. To us, there's no difference. Walking and living. It's all belief, all faith.
+GID00087421	We teach them practical skills for this life and we prepare them for what's to come.
+GID00087422	The Sorrows could master all the wonders of the Old World. conquer the Great Basin north to south. But without God's love, they would have nothing.
+GID00087423	It is shelter in the storm, food in times of hunger, warmth and light in the cold and darkness. What can compare to that in value and versatility?
+GID00087424	You don't agree. That's your choice. It can be their choice, too. No one is forced to follow the narrow path.
+GID00087425	[SUCCEEDED] I never thought I'd be in charge of anything. Don't know why. Bishop Mordecai was old. He had been sick for years.
+GID00087426	He couldn't walk anymore. It wasn't a problem for the rest of us. He made it out to be more trouble than it really was. Just his way, I guess.
+GID00087427	When the White Legs came... he was upstairs. We couldn't get him out in time. The house caught fire at the base and worked its way up. Fast.
+GID00087428	He didn't die of smoke. I wish he had. Sometimes I wake up and for a minute or two, I think all of it was a dream. But it's not. It wasn't.
+GID00087429	I wish all of this were some fevered vision of what could have been. Instead of what is, what we let happen.
+GID00087430	[FAILED] It's understandable, but this is something for me to work out with the Lord. And I hope you can understand that.
+GID00087431	Thanks. What would you like to know?
+GID00087432	I'd like you to drop it. It's a private matter.
+GID00087433	Of course.
+GID00087434	I've already explained to them that we're leaving! They've accepted it! What is Joshua going to tell them about being a warrior?
+GID00087435	What are you going to tell them about how to live with themselves after they got lost in the moment, killed someone who didn't deserve to die?
+GID00087436	Or does that not matter? Is that just an acceptable consquence if it means holding on to this valley?
+GID00087437	Maybe there is no place left in this world for mercy. But even if it tramples me into the dust, I will never accept it. And I will never condone it.
+GID00087438	Joshua must be waiting for you. I'll stay here with the others as I told them I would.
+GID00087439	No. This is how we made the world. And we brought it to them.
+GID00087440	Joshua must be waiting for you. I'll stay here with the others.
+GID00087441	Oh. Ah. Of course. How stupid of me. They probably also think Mary is the mother and Jesus is the child.
+GID00087442	No wonder they picked up on things so easily. I guess it just goes to show how difficult it is to communicate sometimes.
+GID00087443	What's on your mind?
+GID00087444	Thanks. That will help a good deal.
+GID00087445	That's very generous of you. Five doses will help a great deal.
+GID00087446	Ask away.
+GID00087447	Our advance scouts leave chalk signs to mark places rich with game. I'm not a full scout yet, so I follow the marks and guide the hunters.
+GID00087448	Of course you do - I understand. You know, I heard stories about rangers from Back When - they carried lightning sticks that stunned the animals.
+GID00087449	I've never been to any of the Back When places, but they might have left one when they died.
+GID00087450	You might also try luring the baby out with some banana yucca - the mountain Bighorners love the stuff.
+GID00087451	Joshua Graham - he leads our tribe. Thanks to him, the Dead Horses are strong, and safe from our enemies.
+GID00087452	He'll want to talk to anyone coming up from south-ways. Guess that means just you, now. Come, I can take you to him.
+GID00087453	I mean the Lands Beyond the Valley - the place where the cities never fell. Where people don't live in tribes and forage just to survive.
+GID00087454	Joshua keeps saying it isn't paradise out there, but how can it not be, compared to this?
+GID00087455	Sorry, I'm getting distracted - Joshua will want to know about you - please, go to our camp on the Eastern Virgin. Tell him how you came to be here.
+GID00087456	Lah, I meant no offense - if you won't talk to me, talk to Joshua Graham - he's at our camp on the Eastern Virgin.
+GID00087457	Dead Horses mark ourselves to commemorate our hunts. When a hunter takes a great beast, or when a youth goes on his first hunt, he gets a tattoo.
+GID00087458	We came up in the Land of the Dead Horse, though why the Back When folks called it that I got no hint.
+GID00087459	We raided, we fought... we lost. Our enemies drove us back into Zion, and we would have died if it hadn't been for Joshua. Joshua, and his Caesar.
+GID00087460	If it wasn't for Joshua, the Dead Horses would still be the whipping boys of the Zion Valley.
+GID00087461	He taught us how to hold our territory, to protect ourselves. He guided us away from Caesar, and showed us how Caesar would have destroyed us.
+GID00087462	Only a little - I was very young. He was... different. Prouder, yes, but harder, crueler, more driven. Really, I was terrified of him. We all were.
+GID00087463	When he came back, I almost didn't believe he was the same man. He was humbler. He wanted to protect, not destroy.
+GID00087464	Little bit. I met some of their missionaries a few times, but I've never been to their city. Joshua could tell you more - or Daniel, I imagine.
+GID00087465	We decorate our clubs with them to honor Joshua Graham. They were the weapons of his old tribe, so now they are ours.
+GID00087466	Can't say they seem that dangerous to me, but Joshua says they "won the West."
+GID00087467	Yeah? Hey, thanks - most of the hunters don't listen when I tell them the problem.
+GID00087468	Just one thing - try not to kill any Bighorners if you can, yeah? You'll drive the herd off, and we'll have to range farther on our hunts.
+GID00087469	That's great! I'll help any way I can.
+GID00087470	Oh sure, that's just what the hunters said. Well... I guess let me know if you change your mind.
+GID00087471	Well... because they're our enemies. What else would we do? They take our land, they kill our scouts, they poach our hunting grounds.
+GID00087472	When Joshua first came to us, he was servant to a man he called Caesar. He led his master's armies, and we were ready to follow him into war.
+GID00087473	Then he lost his master's army to a tribe called Enseeyar, the Sunset People. When he returned, he was as you saw him - burned, broken, but changed.
+GID00087474	He led us away from Caesar, led us to our own destiny in Zion.
+GID00087475	Goot sists. We head east, then. Joshua is at our tribe's camp in the Eastern Virgin.
+GID00087476	Well, before he left, he didn't have those bandages all over his face. That tell you something?
+GID00087477	You see his face, you'll understand.
+GID00087478	I don't know, he doesn't talk about it much. Maybe - but how can two civilized tribes fight over something as small as a dam?
+GID00087479	Hah! ...Really? That's... my gods. Must be some mighty civilized folks who built that.
+GID00087480	Now you sound like Joshua. He always tells me the tribal life is better, that I should stay here and forget the outside world.
+GID00087481	Sorry - Joshua was pretty clear. Get you to Daniel, then come on home. You can take it up with him if you'd like.
+GID00087482	I will. Goot gonen, ahk iss.
+GID00087483	Hey, it's not my fault! And what's this "minion" stuff? Dahs eet - see you around, "civilized" man.
+GID00087484	Hey, it's not my fault! And what's this "minion" stuff? Dahs eet - see you around, "civilized" woman.
+GID00087485	This is the eastern fork of the Virgin River, and it's the place we Dead Horses call home. Joshua says it is a temple to God's glory on earth.
+GID00087486	We can talk more about it later, though - it's not smart to keep Joshua waiting.
+GID00087487	I'm called Follows-Chalk. Joshua sent me to scout for any outsiders coming up from the Southern Passage.
+GID00087488	We can talk more about that later, though - it's not smart to keep Joshua waiting.
+GID00087489	Joshua will answer all your questions. He doesn't like being kept waiting, though - go talk to him as soon as you can.
+GID00087490	I won't keep you. Maybe we talk again after.
+GID00087491	But... they were White Legs! The enemy! You are a very strange outsider, but I think Joshua will want to speak to you anyways.
+GID00087492	Nasty bunch of raiders from up by Great Salt Lake. White Legs killed your friends at the Southern Passage.
+GID00087493	Not many survive White Leg raids - not even by running. Joshua will want to hear about what happened to you.
+GID00087494	Is it? I always heard it was rather large outside the valley. Well, wherever he is, I hope he's well.
+GID00087495	Joshua Graham - he leads our tribe. Thanks to him, the Dead Horses are strong, and safe from our enemies.
+GID00087496	I'm sure he will want to talk to you. You can find him just south of here, in the Angel Cave.
+GID00087497	Goot! I really wasn't looking forward to talking to Joshua if you turned me down.
+GID00087498	Hey... as long as we're traveling together, think you could help me out with a little wildlife problem?
+GID00087499	Let's move then.
+GID00087500	I don't think he'll like that answer much. You change your mind, I'll be around the Dead Horses camp. Goot gonen.
+GID00087501	Hmm... you might try luring the baby out with some banana yucca. These Bighorners go crazy for the stuff.
+GID00087502	Goot sists. Maybe while you're there you can tell me about where you came from, yeah?
+GID00087503	That's what Joshua said. White Legs came down from Great Salt Lake in force - fell on New Canaan before they could mount a defense.
+GID00087504	Joshua found some of the survivors led by a man named Daniel. Most of them have fled the valley, but Daniel stayed on with the Sorrows tribe.
+GID00087505	He and Joshua have been arguing over whether to stand and fight the White Legs or take the Sorrows and the Dead Horses out of the valley.
+GID00087506	That's the weird part - normally the White Legs keep to the Great Salt Lake. I don't know what brought them down this far south.
+GID00087507	I, umm, I haven't told him yet. Never had the growans.
+GID00087508	You'd do that? Sure, sounds smart to me. He might not get so mad at you.
+GID00087509	He said that? Well, I guess you have been out there more recently than he has. So... what's your advice?
+GID00087510	Oh. Well, I guess that's about what I could expect from him. I'd like a minute alone to think about this. Dank ni.
+GID00087511	Really? He said that? Hoo! I'm going to do it. After all this is over, I'm going to go explore civilization!
+GID00087512	Dank ni, ahk iss - I never would have had the growans to ask him myself.
+GID00087513	A job as a singer? Then it really is true....
+GID00087514	Lots of them around the valley - places built by the folk from Back When. You'll know them when you see them - scouts mark them with hand prints.
+GID00087515	The hand prints are a warning to keep out - angry ghosts live inside. Not that I believe in angry ghosts. They're just spooky old places. Right?
+GID00087516	Lots of Back When places to choose from, but for the things we need, best to start with the really closed up places.
+GID00087517	Three I know of: a building down by the river called a "Fishing Lodge," the old ranger station in the northwest, and the general store right by it.
+GID00087518	Closer to home, might be something you can salvage from the place where the little ones fell, just west of the Eastern Virgin.
+GID00087519	I see. Well, thanks for your telling. I'd like a minute alone to think about this. Dank ni.
+GID00087520	Really? You think so? Hoo! I'm going to do it. After all this is over, I'm going to go explore civilization!
+GID00087521	Dank ni, ahk iss - I never would have had the growans to ask him myself.
+GID00087522	In the river, there's a twisted pile of metal and glass, all full of bones. Joshua says they were scouts, but they looked awful small to me.
+GID00087523	Lots of that old stuff, how do you say it... electronics? Maybe you could use some of it.
+GID00087524	Yah, and they're still back there! Let's go get them!
+GID00087525	Goot sists. Let's show them what we're made of!
+GID00087526	You're not going to fight? But... okay. You better come with me, then. Joshua will want to see you.
+GID00087527	[FAILED] No! He and his tribe have worked hard for their wages. Who am I to deny them?
+GID00087528	God be with you.
+GID00087529	Happy Trails. I remember. They were good friends.
+GID00087530	I have bad news for your employers. New Canaan was destroyed, its citizens scattered. All because of the White Legs. And Caesar, of course.
+GID00087531	The White Legs want to join the Legion. Caesar's rite of passage is the destruction of the New Canaanites, almost assuredly because of me.
+GID00087532	The good news is that we can help you find your way back. Daniel, one of the other New Canaanites, has made many maps of the region.
+GID00087533	The bad news is that we can't help you right now. Not with everything that's going on.
+GID00087534	[SUCCEEDED] He has a debt to pay for what he's done and I've come to collect. And so he's chosen to cower in the water like a dumb animal.
+GID00087535	He never had any dignity to begin with. None of them did.
+GID00087536	But for your sake... for the Sorrows' sake, I'll let him die on his feet.
+GID00087537	Stand up and look at what's come for you!
+GID00087538	God's will.
+GID00087539	Even though you made your way in, there's no easy way back. Without a map, you'll die in the wilderness.
+GID00087540	Daniel, one of our missionaries, can help you, but you've caught us at an... inconvenient time. We're under continual threat from the White Legs.
+GID00087541	You're a good neighbor to us. We all go through periods of darkness. In such times, we can turn to the Lord, but it's good to have friends.
+GID00087542	Daniel and I need Pre-War tools to help us navigate beyond Zion. Should we need to evacuate, these instruments will be vital to us.
+GID00087543	Normally, we would have some of the Dead Horses or Sorrows look for them, but many Pre-War buildings in the valley are taboo. They won't go inside.
+GID00087544	There are only so many ways you could have entered Zion from the south. You descended by routes that you cannot safely ascend to return to the Mojave.
+GID00087545	I'm not telling you this as a trick. Whether you want to help us or not, you can't get back without Daniel's assistance.
+GID00087546	I'm sure he'll be willing to assist you, but we have other responsibilities at the moment.
+GID00087547	There are many reasons why that would be a bad idea. I will illuminate three.
+GID00087548	First, do not believe that because Daniel is a missionary he is incapable of or unwilling to defend himself.
+GID00087549	Second, if you harm Daniel or any of the Sorrows or Dead Horses, I will find you. Make no mistake. God willing, you will not leave this valley.
+GID00087550	Lastly, waging war against good people is bad for the soul. This may not seem important to you now, but it's the most important thing I've said.
+GID00087551	We are responsible for leading and protecting the Sorrows and Dead Horses. They are smart people, but not as worldly as you or I.
+GID00087552	I am preparing the Dead Horses for war and Daniel is preparing the Sorrows for... other things.
+GID00087553	The Sorrows believe in a spirit that lives in the caves, say the spirit punished them once for trespassing.
+GID00087554	They put special marks around the cave entrances to keep people out. It doesn't work on the White Legs, of course, but the Dead Horses are spooked.
+GID00087555	Thank you. Follows-Chalk can help you find your way around the valley.
+GID00087556	He's inexperienced, but he knows enough of our language to ignore the taboos about Pre-War buildings.
+GID00087557	Thank you. Now obviously, taboos against Pre-War buildings won't be a matter for you - but take caution when you go rooting around in them.
+GID00087558	The choice is yours, of course, but you're not going to find a way back to the Mojave without our help.
+GID00087559	Go with God, brother.
+GID00087560	Go with God, sister.
+GID00087561	The White Legs didn't just force my people out of New Canaan. They butchered everyone who wasn't fast enough to get away.
+GID00087562	The elderly, the ill, children. Those who stopped to help the wounded. It made no difference to them. They can't be reasoned with, the White Legs.
+GID00087563	Daniel believes that if we leave, if the Sorrows leave, the White Legs will stop. He doesn't understand what this kind of tribe is like.
+GID00087564	Right.
+GID00087565	Living in willful ignorance is an ugly thing, but God often speaks loudest in the wild places of his creation, like Zion.
+GID00087566	Zion is a place, and a state of being, that has been lost to us several times in the past. Each loss is a new fall of man.
+GID00087567	And after each fall, we weep in strange new lands and dream of Zion, dream of visiting vengeance upon those who took it from us.
+GID00087568	But this is the waking world in which we live. There is no need to cry, no need to dream. We can act now and stop the White Legs here.
+GID00087569	Given those two choices, yes. In the best of all possible worlds, they would just leave us in peace. But they won't.
+GID00087570	I don't enjoy killing, but when done righteously, it's just a chore, like any other.
+GID00087571	Practiced hands make for short work. And the good Lord knows there's much to be done here.
+GID00087572	Happy are those who do the work of the Lord. Zion belongs to God and the people of God. It is a natural temple and monument to his glory.
+GID00087573	When our Lord entered the temple and found it polluted by money-changers and beasts, did he ask them to leave? Did he cry? Did he simply walk away?
+GID00087574	No. He drove them out. It is one thing to forgive a slap across my cheek, but an insult to the Lord requires... no, it demands correction.
+GID00087575	Daniel and I don't agree on everything, but in our hearts, we both want what's best for the Sorrows and Dead Horses.
+GID00087576	You've seen what the White Legs do, and I think you know what has to be done. If Daniel hears it from someone other than me, well...
+GID00087577	Zion may not be lost to us after all.
+GID00087578	They're still God's children, but if they turn against their brothers and sisters, won't listen to reason...
+GID00087579	If they pollute the Lord's temples on Earth, like Zion, who are we to stand by and let them continue?
+GID00087580	Daniel does not yet see things the way we do. He is the John to our Matthew and Mark. When you have a moment, speak with him.
+GID00087581	There may still be time to save Zion from the White Legs, to keep God's children here, in this living temple.
+GID00087582	Thank you. It will be for the best.
+GID00087583	Of course. Think on it, and look in your heart. The light of the mind alone cannot dispel the whole world's darkness.
+GID00087584	The Sorrows need help. We brought the White Legs here, the New Canaanites. This is their home, Zion, God's gift to them.
+GID00087585	In abandoning it, we will gain nothing and will lose more than you realize. Please think about this, and look in your heart.
+GID00087586	The light of the mind alone cannot burn away all darkness.
+GID00087587	God told Moses that the tribes of Cain would not be welcome in Zion. The White Legs are as close as I have seen, beyond hope, beyond redemption.
+GID00087588	But if the Sorrows die in a state of ignorance, their salvation may be delayed as well, passing from life in this world to a spiritual prison.
+GID00087589	We have a responsibilty to protect this place and those who have come to dwell in it. If you feel the same way, speak with Daniel.
+GID00087590	There may yet be time to save Zion from those who are too ignorant to understand what they have come to destroy.
+GID00087591	Then you must bear witness of this revelation to Daniel. The obviousness of it escapes him.
+GID00087592	We both desire a non-violent solution to this problem. Where we differ is that only one of us believes it is possible.
+GID00087593	Speak your heart to Daniel when the opportunity presents itself. There may yet be time to save Zion.
+GID00087594	I and the Dead Horses are prepared to do what must be done to protect Zion from the White Legs.
+GID00087595	And though Daniel won't accept it yet, there are many Sorrows who are also prepared. They may not be warriors, but this is their home.
+GID00087596	If you have a chance to speak with Daniel about this, ask him to consider defending Zion instead of abandoning it.
+GID00087597	He has good intentions, but I fear that if we evacuate the Sorrows from this place, it will be lost to them, and us, forever.
+GID00087598	You're not so certain. Fair enough. We all have doubts.
+GID00087599	Blessed are they that have not seen, and yet have believed. But you can be a Thomas for now. Fight the White Legs enough and you'll see the truth.
+GID00087600	I just hope that by the time you understand, there will still be time to convince Daniel that we have to fight for Zion to save it, and the Sorrows.
+GID00087601	Then as a Gentile, you should find this to be even more beneficial. If the Sorrows stay in Zion, you will always have a link to New Canaan.
+GID00087602	If the Sorrows leave Zion, so too do the New Canaanites. What's more, you'll have more White Legs coming farther south.
+GID00087603	You may not be concerned over matters of faith, but this is a case where faith and practicality coincide.
+GID00087604	No one wants the White Legs here. We just need to convince Daniel that it's our responsibility to ensure that doesn't happen.
+GID00087605	Talk to Daniel about fighting the White Legs. He wants to evacuate the valley, believes it is best for the Sorrows, physically and spiritually.
+GID00087606	He knows I disagree, but believes my desire to fight is the result of my... history of violence.
+GID00087607	Perhaps if he heard an argument from you, he could be convinced. In any case, it's important enough to try.
+GID00087608	I understand. The safest way for you to resolve this is to help me and the Dead Horses defeat the White Legs.
+GID00087609	Daniel wants to evacuate the Sorrows from the valley. I think this will be much more difficult for everyone, you included.
+GID00087610	You can rationalize, if you'd like. A lucky coincidence of my faith and your pragmatism leading to different goals by the same means.
+GID00087611	But you'll have to help convince Daniel, because I can't do it alone. The good Lord knows I've tried.
+GID00087612	In a world filled with misery and uncertainty, it is a great comfort to know that, in the end, there is light in the darkness.
+GID00087613	Every day, we move closer to our judgment. We must do our best to walk in the footsteps of our Lord and teach others how to do the same.
+GID00087614	For many of us, the road is a difficult one, but the path is always there for us to follow, no matter how many times we may fall.
+GID00087615	Whether there is a God or not, his existence doesn't depend on what you believe or what I say.
+GID00087616	There is much to be skeptical of in this world, so it no longer surprises me to learn how many people don't really believe in anything.
+GID00087617	But I believe that our Lord was made flesh as Jesus Christ and died to redeem me. And you. And the Sorrows. Even the White Legs. Everyone.
+GID00087618	I know it may be hard for you to accept or even to understand. In my heart, I believe that though I am a sinner, I have been saved.
+GID00087619	And I believe there is something beyond this rock and this air and this water around us, something more that is waiting for us.
+GID00087620	I have been baptized twice, once in water, once in flame. I will carry the fire of the holy spirit inside until I stand before my Lord for judgment.
+GID00087621	Every day. Some days are... harder than others.
+GID00087622	They attack everyone who isn't a White Leg, especially caravans. They don't know how to survive on their own, so they have to raid.
+GID00087623	But as for why they are here, they are trying to wipe us out. All of us.
+GID00087624	They want to join Caesar's Legion, and they can only prove their worth by destroying the New Canaanites and everyone we shelter.
+GID00087625	The valley belongs to God, but no. The Dead Horses live at Dead Horse Point, up the Colorado River. They came here because I asked them to.
+GID00087626	Before I... returned to the fold, I visited them years earlier. I looked much different then, but I left an impression on them.
+GID00087627	I taught them how to hunt more efficiently, how to maintain their weapons and Pre-War equipment. When I returned, they showed their appreciation.
+GID00087628	The Sorrows have many skilled hunters among them, but no warriors. They have not had to deal with war or raiders for decades.
+GID00087629	Even though they can hunt a full-grown Yao Guai, they don't know how to deal with the White Legs. That's why we're here.
+GID00087630	We wear more clothing than them and understand more about technology, but we're still a tribe, a linked family of families.
+GID00087631	The Boneyard, Phoenix, New Vegas, they're just places, metal and stone. New Canaan dies, but the tribe lives on.
+GID00087632	When the walls come tumbling down, when you lose everything you have, you always have family. And your family always has tribe.
+GID00087633	I don't think so.
+GID00087634	He's a butcher. Believe me, I know the godless fire that burns in his heart. I've been burned by it myself.
+GID00087635	He's not the kind to let his subordinates do all the killing. No, he likes to have a hand in it, with that spear of his.
+GID00087636	He's fashioned himself an abomination before the eyes of the Lord. I'm happy to serve as an instrument of divine justice.
+GID00087637	Most don't. It's been hundreds of years since the war. They've developed their own languages.
+GID00087638	Take the Dead Horses. We think they were originally refugees from a place called "Res," east of the Grand Canyon.
+GID00087639	They speak a combination of Res and a language spoken by travelers who were visiting Res when the bombs fell. Over time, the two languages blended.
+GID00087640	I was a translator years ago, but it's hard to keep up with all of the tribal variations.
+GID00087641	Of course.
+GID00087642	I was born in Ogden, what people came to call New Canaan. Things were more peaceful when I was growing up.
+GID00087643	When I was a young man, I went out into the world to do missionary work as all New Canaanites do.
+GID00087644	I traveled along the Long 15 and followed 89 south into Arizona. Along the way, I met two men from a group called the Followers of the Apocalypse.
+GID00087645	Edward Sallow and Bill Calhoun. They came to teach the tribes. Calhoun was a good man. Edward was the one who got us into trouble down the road.
+GID00087646	I want to take from them what they took from me, from my family. In this life. I want them to suffer. I want all of them to die in fear and pain.
+GID00087647	I want to have my revenge. Against him. Against Caesar. I want to call it my own, to make my anger God's anger. To justify the things I've done.
+GID00087648	Sometimes I tell myself that these wild fires never stop burning. But I'm the one who starts them. Not God. Not them.
+GID00087649	I can always see it in my mind. The warmth and the heat. It will always be a part of me. But not today.
+GID00087650	[SUCCEEDED] Go. Get out of here. Go back. Back to the Great Salt Lake.
+GID00087651	[FAILED] For injuries I suffered long ago.
+GID00087652	[FAILED] I am the right hand of the Lord and the instrument of his vengeance!
+GID00087653	No, not then. Back then he was just Edward. Smart man. Young, but we all were. We thought we could hike into the Grand Canyon and talk to Blackfoots.
+GID00087654	We did, and the Blackfoots were friendly enough at first, but eventually... I've thought back to that day so many times. I must have mistranslated.
+GID00087655	Something must have been mixed up, because the Blackfoots decided we weren't going to leave. The rest is history, assuming Edward hasn't changed it.
+GID00087656	This way lies the path to hell. Edw- Caesar needed me to translate. Translation became giving orders. Giving orders became leading in battle.
+GID00087657	Leading in battle became training, punishing, terrorizing. A series of small mistakes before a great fall.
+GID00087658	And I stayed in that darkness until after Hoover Dam. After I failed Caesar and he had me burned alive, thrown into the Grand Canyon.
+GID00087659	I survived because the fire inside burned brighter than the fire around me. I fell down into that dark chasm, but the flame burned on and on.
+GID00087660	The next morning, I woke up and crawled out of the northern edge of the Grand Canyon, that cursed place. It took me three months to reach New Canaan.
+GID00087661	It was as though the prodigal son had returned. They welcomed me like I had never left, never done anything to shame them.
+GID00087662	The fire that had kept me alive was love. Their love. God's love. I will never be able to repay the debt I owe to them, but I must try.
+GID00087663	[SUCCEEDED] You are kind to offer, but no, there's nothing you can do. We don't use chems, but I learned long ago that I'm immune to their effects.
+GID00087664	It never stops burning. My skin. Every day, I have to unwind the bandages and replace them with fresh ones.
+GID00087665	Exposing my body to the air is like living through it again. But it's better to be clean than comfortable.
+GID00087666	I try not to involve myself with matters of the Mojave anymore. All I know is from before the Battle of Hoover Dam.
+GID00087667	Better than Caesar, but that's not a high standard. Too much love of money and ownership, not enough love of God and giving.
+GID00087668	Any society that derives its power and authority from the will of man alone lives apart from God and will crumble in the end.
+GID00087669	Follows-Chalk needs more guidance in his life. Just not from me.
+GID00087670	I had heard of him, but when we were preparing to enter the Mojave, he didn't seem relevant to what was happening.
+GID00087671	From what I've learned since Hoover Dam, he handled the Mojave tribes in a fashion not entirely dissimilar from Caesar. It's too bad.
+GID00087672	Love the sinner, hate the sin. With Caesar, it's often very difficult to see through all of that sin to the person inside.
+GID00087673	I can say that we were both lucky that NCR's supply lines and land routes north of Mojave Outpost were destroyed before the Battle of Hoover Dam.
+GID00087674	Something bad happened near Death Valley, at a place called the Divide. NCR couldn't cut across anymore and it slowed down their reinforcements.
+GID00087675	Terrible storms ripped entire companies apart before they even got to Nevada soil. The aftermath of Hoover Dam could have been even worse for Caesar.
+GID00087676	I don't know for certain, and I don't think NCR knows, either. Whatever happened at the Divide was too much for them to handle.
+GID00087677	Our frumentarii told us what they saw. Only fools and madmen would march into a place like that. All roads wind down to the same spot, the grave.
+GID00087678	They said all that's left there is a gaping wound cut into the Earth, cursed and damned. No place for God-fearing folk.
+GID00087679	Not all of them. But they couldn't take 127 north to get around the mountains.
+GID00087680	As if Death Valley weren't enough, they had the Divide and Big Empty to deal with.
+GID00087681	From what the Legion's explorers reported, the Big Empty may as well have been a wall to any living thing approaching it.
+GID00087682	Whatever you tell him, I'm sure it will be fine.
+GID00087683	It's still his choice to make. I just want him to make it without looking to me for approval. He's a man. He can make his own decisions.
+GID00087684	Then let him know. Follows-Chalk needs more guidance in his life. I'd prefer it not come from me.
+GID00087685	If people want to look to me for how to fight, I will show them how. I believe God put me on this Earth for that very reason.
+GID00087686	But to live like me, think like me... no. There are better people for them to look to for such things.
+GID00087687	I have to admit, it's hard to believe. That even after all he did to me, all he tried to do to find and erase me from this world, he went first.
+GID00087688	No doubt this will be good for the Mojave. I can only hope Arizona and the tribes don't suffer as the Legion falls apart around them.
+GID00087689	Hmm. Good. You're doing God's work, whether you believe it or not.
+GID00087690	The Lord shall reveal all things in good time.
+GID00087691	I think only Caesar can lead the Legion. I've never met anyone who could take his place. I couldn't. I never had a mind for logistics.
+GID00087692	I don't know Lanius, but from what I've heard, he has no interest in leading anyone unless it's in battle.
+GID00087693	No. The Legion dies with Caesar. What follows now are just the last steps of a man who does not yet realize that he's walking dead.
+GID00087694	The Dead Horses are capable scouts. Nothing passes into or out of Zion without my hearing of it.
+GID00087695	What's it sound like I'm saying? If I was saying what you said I was saying, then yeah, I said it!
+GID00087696	I was walking along, minding my own, and up pops one of them Brotherhoods. He yells "Hand over that laser rifle, asshole!"
+GID00087697	So I hand it over, just to make him think I'm scared! But really I'm not! I never am!
+GID00087698	Before he knows what hit him, I draw my 11mm machinegun and BAM! BAM! Right through the eyeslit in his helmet! D.O.A.!
+GID00087699	[SUCCEEDED] There so is! Or it was a 9mm or a 10, I don't know! Don't care!
+GID00087700	Said I was good at killing shit up! Never said I was good with numbers!
+GID00087701	[FAILED] Whatever. When you're me - a Deadeye - shots like that ain't nothing special. It's just what I do.
+GID00087702	Hell yeah it's quite a story! But I'm quite a man, so stories like that follow me everywhere!
+GID00087703	Or there was the time one of them Steel Brotherhood assholes made the mistake of messing with me! Last mistake he ever made!
+GID00087704	[SUCCEEDED] No, no, you heard me right. "Deathjaws!" They're like Deathclaws - but bigger teeth!
+GID00087705	[FAILED] Just how green are you? Everybody heard of Deathjaws. You better hope I'm around if you run into one.
+GID00087706	Then I guess this dumb fucker's armor musta been... D-series or something!
+GID00087707	All I know is, he died up real dead when I killed him, okay?
+GID00087708	Hey! That's - man, what a bitch! I was just being friendly!
+GID00087709	[SUCCEEDED] Hey! That's - man, what a bitch! I was just being friendly!
+GID00087710	I don't think so, honey! You won't be able to resist!
+GID00087711	[FAILED] Ricky travels light on purpose, asshole! If you're looking for a slave, ask someone else!
+GID00087712	[SUCCEEDED] I travel light on purpose, okay? But if the price is right, I'll tell Jed I'm carrying less - so you can carry more. What's your offer?
+GID00087713	Goddammit, I didn't say nothing about using Psycho!
+GID00087714	But, uh... Just talking hypno-theoretically here... Got any suggestions?
+GID00087715	All right, all right - I am a little light. How many hits you holding?
+GID00087716	Fixer? Never said I wanted to kick the habit!
+GID00087717	Guess I can use it when I run out of the good stuff. How much?
+GID00087718	Fine! You win, asshole! Enjoy leading the expedition into a fucking ambush! Hope you all die!
+GID00087719	One lousy hit? That'll cover me for an hour! Hand it over.
+GID00087720	Two hits? Ain't gonna last long. Fine, hand it over.
+GID00087721	Three hits? Like that's gonna hold me? Fine, I'll take them.
+GID00087722	That'll last me a while! Nice. Now take your caps and fuck off.
+GID00087723	Ten hits'll last me a good while. Worth every cap. Now fuck off.
+GID00087724	That much for a dose? Fucking robbery!
+GID00087725	All right, here's your money! Don't spend it all one place!
+GID00087726	Why'd you bring it up, then? When the withdrawal hits and I feel like killing something, I'll know where to start!
+GID00087727	That's right. Stick your nose where it don't belong and it's gonna get stung.
+GID00087728	You got a deal. You're lucky he trusts me.
+GID00087729	You got a deal. You're lucky he trusts me.
+GID00087730	You got a deal. You're lucky he trusts me.
+GID00087731	No sweat off my tits, asshole. Guess you better start deciding what gear you're going to leave behind.
+GID00087732	[SUCCEEDED] Go ahead! Your word against mine, fucko! See what happens!
+GID00087733	[FAILED] Yeah, too bad one of them is worn by a total fucking idiot!
+GID00087734	[SUCCEEDED] Bullshit! Ain't nothing wrong with my Pit-Boy! I mean Pip-Boy!
+GID00087735	[FAILED] Fat chance! Like I got time to bring you up to speed. Fuck that.
+GID00087736	Look, this is a sweet gig for me! Don't go fucking it up! What are you after, anyways?
+GID00087737	Hey hey hey, why you got to go and be like that! Fuck!
+GID00087738	I travel light on purpose, okay? But fine, I'll tell Jed I'm carrying less so you can carry more. What an asshole.
+GID00087739	Forget it? Uh uh. Ricky remembers everything! But he keeps his secrets, too!
+GID00087740	Well, yeah, okay. You caught me.
+GID00087741	Yeah, so don't bring it up again!
+GID00087742	Well, yeah, okay. You caught me.
+GID00087743	Yeah, so don't bring it up again!
+GID00087744	Fine, just keep it to yourself, all right? Don't be such a fucking jerk about it.
+GID00087745	[SUCCEEDED] You speak. I listen. Kill you, maybe I not. Maybe.
+GID00087746	[FAILED] Weak words you talk! Now you see strong spears better than weak words!
+GID00087747	You mock White Legs! You die now!
+GID00087748	We leave, but always fight, White Legs! We strong warriors for Caesar!
+GID00087749	Yoocan no nikumpa me! Deyai-yoo!
+GID00087750	...I go. But rebuild my tribe, and come we back stronger than before!
+GID00087751	Sorrows are weak. We go, find true warriors to test us!
+GID00087752	This good fight will be!
+GID00087753	Ha! Yes, end!
+GID00087754	Baika-ker! You devil!
+GID00087755	Him hear you. You talk!
+GID00087756	<White Bird stares at you wordlessly.>
+GID00087757	These roots make sacred vision tea. You drink, you see path before you. Ready?
+GID00087758	Drink. Tea is strong. Tea is bitter. Wisdom is strong. Wisdom is bitter. You see?
+GID00087759	Tea will wait. Me? Maybe not.
+GID00087760	Then visions of truth are at an end. Will you learn from truth? Maybe yes. Maybe no. Only for you to decide.
+GID00087761	Here, take. Gift, to remind you of visions. Use well. Or sell to curio trader. Either way, says much about you.
+GID00087762	Go! Return maybe yes, return maybe no. But go.
+GID00087763	Take drugs! Kill a bear!
+GID00087764	Seek medicine plant! Return with Sacred Datura Root! Receive visions of truth, they guide you!
+GID00087765	Spirits guide you whether you listen or not. Smarter to listen, hmm?
+GID00087766	<White Bird stares at you wordlessly.>
+GID00087767	You go to cave. Find Ghost of She. Lay ghost to rest. This your quest. Bring peace where was strife. Go!
+GID00087768	Sad story. Not for your ears from my lips. Ask midwife. She speak to your ears.
+GID00087769	I do not know this "survivalist," but the Father in the Caves is the god of the New Canaanites.
+GID00087770	I have seen the holy books, and once I even saw an image of the holy child and his mother.
+GID00087771	Do not the New Canaanites' books say the Father gave the world his child?
+GID00087772	Perhaps you do not fully understand the New Canaanites. I have seen the Father's images.
+GID00087773	His holy bride and holy son were given unto the world to save it. They dwelt in the caverns of the mountains, caverns which can still be seen today.
+GID00087774	The people sinned against Him, and were punished with the End That Came in Fire and the loss of the holy tongue. Only the New Canaanites were spared.
+GID00087775	I'm sure Daniel could tell you more. His knowledge of the Father is greater than my own.
+GID00087776	Yes - the language of the New Canaanites is the holy tongue, for it is the language their sacred books are written in.
+GID00087777	The Father in the Caves brought it to them after the Judgment, but the ancestors of the Sorrows sinned against Him. They were denied the true tongue.
+GID00087778	Six years. He attended the birth of my third child. It was a hard birth. The River nearly carried my water to the Father, and my child's with it.
+GID00087779	Daniel knew the ways of New Canaan's medicine. He stepped in and saved both of our lives.
+GID00087780	After the birth, I asked Daniel if he would teach me what he knew of childbirth. He agreed, and so here I am.
+GID00087781	The children and the old have already been evacuated from the camp. They are safe enough, unless the White Legs come for us in force.
+GID00087782	I tend to other hurts and sicknesses that afflict our tribe. I also scout the valley for the herbs I use in my medicines.
+GID00087783	When we learned that Salt-Upon-Wounds had defiled Zion with his presence, Daniel ordered the children, the old, and the sick evacuated from the camp.
+GID00087784	My husband volunteered to lead the hunters that went with them for protection.
+GID00087785	I try not to worry about them, but we have had no news for so long, and Daniel seems sad when I ask him about it. Sad... and a little frightened.
+GID00087786	Certainly. I am happy to share my knowledge.
+GID00087787	How... how dare he? What gives him the right? I thought Daniel was my friend, but he cares nothing for the Sorrows!
+GID00087788	Perhaps... I will have to have a very long talk with Daniel when all of this is over. Thank you for telling me this truth.
+GID00087789	Arrogant... yes. I thought Daniel respected me, saw the Sorrows as his equals... but he manipulates us for his own ends.
+GID00087790	About Daniel... I don't yet know. But I am a woman of the Sorrows, and I will have restitution for my husband.
+GID00087791	You might rush them and take them by surprise. We would be badly outnumbered then, though, and these will be strong fighters.
+GID00087792	We might also use their superstition against them. White Leg warriors believe that to lose their totems on the eve of battle is a terrible omen.
+GID00087793	Yes. If their war totems were to... "disappear," they would likely lose the will to fight.
+GID00087794	I will follow your command - but I advise caution if it is possible.
+GID00087795	Disarm the traps if you can - or find the White Legs who placed them and drive them off.
+GID00087796	Our advance scouts should be able to deal with them if they don't have to fight off raiders at the same time.
+GID00087797	I would suspect you are right. Perhaps we should try to find them before they lay more traps?
+GID00087798	As you say.
+GID00087799	Fighting so many at once is a dangerous prospect, unless you are a truly mighty warrior.
+GID00087800	This many so close together suggests a nest nearby - if we find it and destroy it, we might have better luck.
+GID00087801	I hope that is truth, and not a boast. But I will respect your leadership.
+GID00087802	I stand with you.
+GID00087803	Did Daniel not give you some of the New Canaanites' fire clay? That could easily collapse a cave and trap the beasts inside.
+GID00087804	Look around and see if you can find a cave nearby. It may prove easier than slaying the beasts.
+GID00087805	We should not be here! This place... it belongs to the Father in the Caves! We must not profane it with our touch!
+GID00087806	The Father in the Caves! The Holy Father who gave the Sorrows His succor and gave the New Canaanites His son!
+GID00087807	Many of the caves around the valley are sacred to him, and those who would trespass are punished by holy wrath!
+GID00087808	It is a holy place! If we go any deeper, we will suffer for it!
+GID00087809	Do not mock that which you do not know! Such talk can only anger the Father.
+GID00087810	You speak as one who has not heard the tales, who has not seen the sacred images. If you knew, you would not mock.
+GID00087811	I understand. I would prefer to leave as soon as possible, though.
+GID00087812	Before we depart, our shaman, White Bird, asked me to convey his desire to speak with you.
+GID00087813	Certainly. We should make haste, then.
+GID00087814	The lone Bighorner is the most vulnerable to its enemies. In the herd lies strength - if you reconsider your choice, I will be here. Paz patasooba.
+GID00087815	What would you speak of?
+GID00087816	He did not say. White Bird is notoriously close-lipped. But he is wise, and you would do well to speak to him.
+GID00087817	He did not say. White Bird is notoriously close-lipped. But he is wise, and you would do well to speak to him.
+GID00087818	Excellent. His cave overlooks the camp - I will show you where.
+GID00087819	Excellent. His cave overlooks the camp - I will show you where.
+GID00087820	I do hope you will reconsider. I will point out his cave on your map, should you wish to speak to him later.
+GID00087821	As you wish. I will point out his cave on your map, should you wish to speak to him later.
+GID00087822	Perhaps he will. I sometimes feel he thinks he must protect me. If he has news, I would know of it.
+GID00087823	In the shadow of Daniel's death, those Sorrows who survived the assault on Zion Valley mourned his loss, as was their custom.
+GID00087824	Word of Daniel's passing reached the New Canaanites several weeks later. They prayed that their brother would be well-received by their Lord.
+GID00087825	After leading the Sorrows from their home in Zion to safety in Grand Staircase, Daniel continued to wonder if he'd made the right choice.
+GID00087826	He spent his life evangelizing the beliefs of his people to a new generation of young men and women, as his ancestors had for centuries before him.
+GID00087827	He was happy with his family, but for the rest of his life there were nights when he awoke with sadness to find he had been dreaming of Zion.
+GID00087828	For years after the defeat of the White Legs, Daniel did his best to minister to the Sorrows' spiritual needs.
+GID00087829	Try as he might, he could not hold back the tribe's increasing militancy and reverence of Joshua Graham.
+GID00087830	Demoralized, he returned to his family and Dead Horse Point. His failures haunted him for the rest of his days.
+GID00087831	Having revered Joshua Graham as a living legend for so many years, the Dead Horses found it difficult to accept his death.
+GID00087832	New Canaanite missionaries sought to remain in contact with the tribe, but lacking Joshua's authority, their influence dwindled.
+GID00087833	Still, as an expression of enduring respect for their lost spiritual leader, the Dead Horses helped protect the lands where New Canaanites settled.
+GID00087834	As generations passed, the Dead Horses came to worship a spirit of the land, a harsh spirit of divine justice. They called it Joshua.
+GID00087835	Having helped Daniel and the Sorrows escape from Zion, the Dead Horses returned to their home at Dead Horse Point.
+GID00087836	The tribe continued to learn from the New Canaanites, and over many years built a flourishing community along the banks of the Colorado.
+GID00087837	Though the tribes' bond would endure, it was Joshua Graham's legend the Dead Horses would revere, not the tenets of New Canaan's faith.
+GID00087838	Having helped eradicate the White Legs from Zion, the Dead Horses returned to Dead Horse Point in triumph.
+GID00087839	They remained neutral toward the Sorrows, but as years went on, there were periods of competitive friction, even violence, between the tribes.
+GID00087840	The New Canaanites - Daniel especially - intervened regularly as mediators, but found it difficult to reconcile the tribes' conflicts.
+GID00087841	And with that, the Courier walked out of the history of the tribes of Zion and back to the gathering storm of the Mojave Wasteland.
+GID00087842	Follows-Chalk took the Courier's words to heart and decided that the big cities of the Mojave Wasteland and NCR were best left unexplored.
+GID00087843	Though he sometimes dreamed of distant lands, he continued to support his family at Dead Horse Point, and eventually his wanderlust faded.
+GID00087844	Follows-Chalk took the Courier's words to heart and decided that he would behold the sights and sounds of distant lands with his own eyes and ears.
+GID00087845	After returning to Dead Horse Point, he quarreled with his family and other tribe members about his ambitions.
+GID00087846	One morning, they awoke to discover that Follows-Chalk had set off alone, westward, into the wilderness.
+GID00087847	He was never seen again.
+GID00087848	Already weakened by several seasons of bad trading, the Happy Trails Caravan Company was devastated by the failure of its expedition.
+GID00087849	The New Canaanites never reestablished ties with the caravan.
+GID00087850	Their experiences with outsiders near the Great Salt Lake and in Zion had been far too negative.
+GID00087851	Within six months, the Happy Trails Caravan Company was bankrupted and dissolved.
+GID00087852	Already weakened by several seasons of bad trading, the Happy Trails Caravan Company was initially discouraged by the results of its expedition.
+GID00087853	The fate of New Canaan, and the evacuation of the Sorrows from Zion, made the prospect of trading seem fruitless.
+GID00087854	When Daniel told his family about the exploits of Happy Trails' employee, the Courier, however, New Canaan decided to repay the company's kindness.
+GID00087855	Twice per year, New Canaanites made the dangerous journey west to trade with the company in the city of New Reno.
+GID00087856	The Happy Trails Caravan Company could not survive on such trading alone, but the New Canaanite's generosity made tough times go easier.
+GID00087857	The defeat of the White Legs in Zion marked a turning point in the fortunes of the Happy Trails Caravan Company.
+GID00087858	Every two months, the caravan met with the New Canaanites in Zion Valley to trade. Happy Trails soon returned to prosperity.
+GID00087859	The vigilance of the Sorrows and Dead Horses in defending southwestern Utah, initially startling to Happy Trails caravans, soon proved a blessing.
+GID00087860	The tribes united against the 80s, driving them back from Highway 50, and thus opening yet another trading route for Happy Trails caravans.
+GID00087861	After a long and troubled life, Joshua Graham finally found rest in Zion.
+GID00087862	In the end, his unswerving militancy had accomplished what the NCR's finest sharpshooters and Caesar's wrath could not.
+GID00087863	The New Canaanites took comfort in the belief that their brother's soul would again dwell in Zion at the end of days.
+GID00087864	The threat of the White Legs ended, Joshua Graham helped the Sorrows and Dead Horses tend to their fallen comrades and secure Zion.
+GID00087865	The Courier's words had stayed Joshua's wrath in his darkest hour, and in sparing Salt-Upon-Wounds, he was changed.
+GID00087866	While he continued to advocate militant opposition to the enemies of New Canaan, he sometimes showed quarter to those who crossed his family.
+GID00087867	Eventually this new spirit would diminish the myth of the Burned Man in distant lands - a small price for the peace it brought to Joshua Graham.
+GID00087868	With the White Legs crushed, Joshua Graham led the Sorrows and Dead Horses in tearing apart and burning the corpses of their enemies.
+GID00087869	He set about training his army in the "Way of the Canaanite," and soon the New Canaanites and tribes of Zion were feared well into the Mojave.
+GID00087870	Legends of the Burned Man grew even more depraved, and terrifying.
+GID00087871	Though the Courier had stopped Joshua Graham from executing Salt-Upon-Wounds, the war chief still fell in battle.
+GID00087872	The White Legs defeated at Three Marys, Joshua led the Sorrows and Dead Horses in tending to their comrades and burning the corpses of their foes.
+GID00087873	He continued to advocate militant opposition to the enemies of New Canaan and showed little quarter to those he fought. And yet he was changed.
+GID00087874	He no longer reveled in the brutality and cruelty for which he had been known in his former life.
+GID00087875	His inner demons, if not extinguished, were at the least... appeased.
+GID00087876	Daniel succeeded in leading the Sorrows out of Zion, as he had wanted to do from the start.
+GID00087877	The Courier protected the Sorrows during the evacuation, ensuring that most reached their destination unharmed.
+GID00087878	Over the weeks and months to come, Daniel would see to the Sorrows' resettlement in Grand Staircase.
+GID00087879	Their adjustment to their new home was not without difficulty, but eventually the Sorrows came to accept the loss of Zion.
+GID00087880	Daniel evacuated the Sorrows from Zion, but due to the Courier's neglect, the White Legs butchered many along the way.
+GID00087881	Those who survived barely reached Grand Staircase, but once there, the Dead Horses and New Canaanites helped them settle.
+GID00087882	The unfamiliarity of their new surroundings, and the loss of loved ones, evoked a terrible and lasting grief among the Sorrows.
+GID00087883	For two generations, many would die still lamenting the loss of Zion.
+GID00087884	The Sorrows fought beside Joshua Graham and the Dead Horses, eradicating the threat the White Legs posed to Zion.
+GID00087885	Seeing the Courier convince Joshua Graham to spare Salt-Upon-Wounds, the Sorrows learned that retribution could be tempered by mercy.
+GID00087886	Though he despaired at the Sorrows' loss of innocence, Daniel took some small consolation in the Courier's lesson, and prayed it would take root.
+GID00087887	The Sorrows fought beside Joshua Graham and the Dead Horses, eradicating the threat the White Legs posed to Zion.
+GID00087888	Watching as the Courier encouraged Joshua Graham to execute Salt-Upon-Wounds, the Sorrows learned that New Canaan offered no mercy to the wicked.
+GID00087889	The Sorrows' transformation from a peaceful, timid tribe into a merciless, warlike people broke Daniel's heart.
+GID00087890	Over time, the Sorrows became ever more ruthless in their dealings - even with each other.
+GID00087891	Daniel traveled to and fro between the New Canaanites and Zion, continuing to plead for a return to the old ways whenever he visited.
+GID00087892	Eventually, the Sorrows grew tired of his blather, and turned their backs on him.
+GID00087893	The Sorrows fought beside Joshua Graham and the Dead Horses, eradicating the threat the White Legs posed to Zion.
+GID00087894	When the Courier and Joshua Graham felled Salt-Upon-Wounds, their victory was celebrated with a great feast.
+GID00087895	The Sorrows' transformation from a peaceful, timid tribe into a proud and warlike people broke Daniel's heart.
+GID00087896	He tried to take solace in the knowledge that they would remain in Zion, but it was a small comfort. The Sorrows' innocence was lost.
+GID00087897	And so it was that the conflict between the New Canaanites and the White Legs was finally resolved.
+GID00087898	The Courier's involvement had tipped the scale, shifting the fragile balance of power.
+GID00087899	Waking Cloud turned bitter and resentful toward Daniel and the New Canaanites when she learned her husband's death had been concealed from her.
+GID00087900	She poisoned some of her tribe against New Canaanite teachings, making relations between the groups difficult from time to time.
+GID00087901	Waking Cloud was distraught when she learned of her husband's death, but took comfort from her tribe, and the compassion of the New Canaanites.
+GID00087902	She forgave Daniel for having concealed her husband's fate from her, and learned to accept his fate.
+GID00087903	When her grief faded, she took a husband from the Dead Horse tribe. At her bidding, he stayed close to home.
+GID00087904	With Daniel dead, the White Legs soon overran Zion and drove the Sorrows and Dead Horses from the Valley.
+GID00087905	The White Legs plundered all of the Pre-War buildings the Sorrows had marked off-limits, their squalor an affront to Zion's natural beauty.
+GID00087906	By year's end, little trace remained that the Sorrows had ever made the valley their home.
+GID00087907	After the White Legs drove the Sorrows from Zion, they celebrated by destroying all traces of the valley's former inhabitants.
+GID00087908	They appealed to the Legion for assimilation, but were denied.
+GID00087909	Their failure to eradicate the New Canaanites in Grand Staircase and farther up the Colorado had not gone unnoticed.
+GID00087910	The White Legs made a half-hearted effort to find the New Canaanites, but were driven off by Dead Horses trained in the ways of Joshua Graham.
+GID00087911	The White Legs lost all hope of joining the Legion and disintegrated into a number of petty raiding bands, leaving Zion Valley a polluted cistern.
+GID00087912	Demoralized by the Dead Horse and Sorrows attack the Courier and Joshua Graham led against them, the White Legs retreated to Great Salt Lake.
+GID00087913	Their days were numbered. Word soon reached the 80s tribe that the White Legs' spirit was broken, their war chief a dim shadow of his former self.
+GID00087914	By year's end, the 80s would overrun the White Legs' camps, scattering the tribe to the winds and claiming the Great Salt Lake for its own.
+GID00087915	Joshua Graham's chilling execution of Salt-Upon-Wounds seared into their minds, the surviving White Legs retreated to the Great Salt Lake.
+GID00087916	Unable to shake the memory of their brutal defeat and the Dead Horses' savagery in battle, the White Legs feared further reprisals.
+GID00087917	They fled north, out of Utah, into Wyoming. The wilderness was harsh, and the first winter claimed over half the tribe.
+GID00087918	When spring came, the survivors parted ways in small bands. And so the White Legs died a quiet, ignominious death.
+GID00087919	Despite their defeat at Three Marys, and the death of their war chief, the White Legs were determined to pursue the other New Canaanites.
+GID00087920	But when they finally tracked down their prey in Colorado, they discovered the tables had been turned.
+GID00087921	The White Legs who survived the New Canaanites' ambushes were hunted down by Dead Horses before they could reach the safety of the Great Salt Lake.
+GID00087922	When word of the White Legs' diminished numbers reached the 80s tribe, war was declared, and by year's end, the White Legs had been wiped out.
+GID00087923	Lead on, I'll follow.
+GID00087924	I will try to follow your example.
+GID00087925	See that tower? Back When, folks used them to talk to each other on the air. Not like with signal drums, they could actually talk! Amazing, huh?
+GID00087926	Look sharp, lots of giant ants around here. We call 'em picnic-killers. Don't really know what that means. Something from Back When, I guess.
+GID00087927	See this? This is why your own two feet are better than any cart, whether it's pulled by critters or goes on its own.
+GID00087928	Must have been nice, when Zion was friendly enough folks could make camp wherever they pleased and not worry about White Legs and deadly critters.
+GID00087929	Feels good to be doing some actual scouting, not just following.
+GID00087930	I hear some odd things about the civilized lands outside Zion. Is there really a giant thunder-lizard people live inside?
+GID00087931	The spitter plants and the green monster men aren't native to Zion. Wonder where they came from?
+GID00087932	So I finally get to explore all those taboo places without the other scouts yelling at me? Can't wait!
+GID00087933	Bet they don't have anything as nasty as Yao Guai out where you come from, huh?
+GID00087934	Those, um, what did you call them? Walkie talkies? Those are going to be loads better than signal drums and smoke signs.
+GID00087935	That compass thing always knows where north is, huh? Even if it can't see the stars?
+GID00087936	That Back When medicine smells funny. Guess it works though.
+GID00087937	There can't really be a place where people go into big buildings and give away all their money just to watch someone flip paper squares on a table...
+GID00087938	Way I heard it, Salt-Upon-Wounds butchered everyone in New Canaan and nailed their corpses to the cliffs.
+GID00087939	Why do you carry all those bottlecaps, anyway? They jangle like crazy.
+GID00087940	We follow this path for a while. Nice view of the river, neh?
+GID00087941	You can take the path north here if you want, or head east over the ridge. There's a nice view from the top of that cliff, if you want a look.
+GID00087942	Keep headed north, around this rock pile.
+GID00087943	Follow the old road south, nearly there.
+GID00087944	You see the dead sentries? Shamans say our enemies' souls are trapped in them, but Joshua says it shows we're serious about fighting White Legs.
+GID00087945	Down this path to the north. Hope you don't mind getting wet.
+GID00087946	Nearly there now. Watch out for traps in the water. Got to keep the White Legs out somehow, neh?
+GID00087947	Here we are. Joshua's just ahead there, in the Angel Cave.
+GID00087948	Hang on, you're going the wrong way!
+GID00087949	I thought we were going to the Dead Horses camp?
+GID00087950	Hold up, you're getting all turned around. Check your map and backtrack a little.
+GID00087951	Where are you going? That's not the way to the camp!
+GID00087952	I'm happy to travel with you, but you're not headed toward the Dead Horses anymore.
+GID00087953	Heads up, this is the Three Marys. White Legs territory. You sure you want to head in there?
+GID00087954	These paintings show the Dead Horses' victories against other tribes. Lots more of them since Joshua came to us.
+GID00087955	The Narrows up ahead, that's the Sorrows' territory. They're peaceful enough, but you don't want to make them mad.
+GID00087956	"Scenic Overlook." What do you suppose that means?
+GID00087957	Some kind of view up here, neh? If you know how to look, you can spot all kinds of landmarks from up here. Look, I'll show you.
+GID00087958	That's Pine Creek up there. Supposedly it's one of only two ways out of Zion Valley. Of course, without a map, good luck surviving.
+GID00087959	That thing actually flew once, like a big metal bird? Bet you don't have to follow chalk marks up there....
+GID00087960	Hoo! That's for the White Legs! Sorry we weren't fast enough to save your friends, though. The Dead Horses will remember them in our prayers.
+GID00087961	You should come with me now - Joshua Graham will want to meet a visitor from the civilized lands.
+GID00087962	For as long as I remember, the Dead Horses have thought that places of the old world were taboo. Doesn't look so spooky to me.
+GID00087963	See those handprints? Dead Horses and Sorrows mark them on taboo places, places from Back When. Good thing for you I don't buy into that stuff.
+GID00087964	Hold up, see that log over there? Take a closer look. There might be some good stuff tucked in there.
+GID00087965	You ever seen anything like these green men? Sure as anything they aren't from around here.
+GID00087966	Ah, the Eastern Virgin. What's the phrase? "House sweet house?"
+GID00087967	Glad you made it. Joshua's just to the south, inside the Angel Cave. You'll want to talk to him straight away.
+GID00087968	Freeze! Don't move a muscle. Yao Guai.
+GID00087969	Hoo! That was some kind of lucky. Guess that one was all full of gecko, neh? Don't get used to it, though. Yao Guai are plenty mean as a rule.
+GID00087970	A few decades back, folks in the NCR started to hear about a community in northern Utah called New Canaan.
+GID00087971	Didn't know much about them, except that they were religious folks. Sent out missionaries to talk to the tribes.
+GID00087972	We've seen our share of cults, but the New Canaanites, they were honest traders. Good fighters, too. Raiders wouldn't tangle with 'em.
+GID00087973	But then the Legion appeared in Arizona. I reckon you know all about them.
+GID00087974	Turns out Caesar's first war chief, the Malpais Legate, was a New Canaanite. Joshua Graham.
+GID00087975	Legend goes that Graham was the meanest, toughest son of a bitch in the whole damned Legion.
+GID00087976	The New Canaanites wouldn't talk about him. They were ashamed. Guess I can't blame 'em.
+GID00087977	Well at Hoover Dam, the Malpais Legate finally met his match. Hanlon and Oliver kicked his New Canaanite butt right back over the river.
+GID00087978	Caesar had to make an example for the others, to show them that even at the highest level, failure wouldn't be tolerated.
+GID00087979	He had Graham covered in pitch, lit on fire, and thrown into the Grand Canyon. People say he didn't even scream on the way down.
+GID00087980	Not long after, some of the slaves and tribals started to talk. Said Graham wasn't dead. Shouldn't have been any surprise.
+GID00087981	All this talk bothered Caesar, so he forbade anyone from speaking his name. Wanted to erase Joshua Graham from history.
+GID00087982	He got his wish. Joshua Graham disappeared. And in his place came legends of the Burned Man walking the wastes.
+GID00087983	Probably just a tribal ghost story. But New Canaan's been silent for a long time. Maybe it's a coincidence. Maybe the Malpais Legate is dead.
+GID00087984	Or maybe Joshua Graham did crawl out of that canyon and finally found his way back home.
+GID00087985	The paths we're following are slow going, so you might as well keep your ears open and listen to what old Jed has to say.
+GID00087986	Come on, down this path. We're almost there.
+GID00087987	Holy hell, it's the White Legs! What are they doing this far south?
+GID00087988	Goddammit, Stella, heard you the first time, and the fifteenth, too.
+GID00087989	The New Canaanites will know a way. And if they don't, we got the maps on our friend's Pip-Boy over there.
+GID00087990	Enough lollygagging! Get moving and keep an eye out for tribals!
+GID00087991	All right, people. Been a long couple weeks, but here we are. Zion.
+GID00087992	I know your feet hurt, I know you're tired. But I need everyone's mind on the trail ahead.
+GID00087993	Ain't the trail ahead worries me, Jed. Those descents we made, through that slot canyon back up there.
+GID00087994	Ain't no way we're getting back out the way we come. And then what?
+GID00087995	Goddammit, Stella, heard you the first time, and the fifteenth, too
+GID00087996	The New Canaanites will know a way. And if they don't, we got the maps on our friend's Pip-Boy over there.
+GID00087997	Enough lollygagging! Get moving and keep an eye out for tribals!
+GID00087998	Don't listen to this... thing! His cries are those of a mad beast caught in a thicket! He gave no mercy to my family, and I will give none to his.
+GID00087999	Thank you for this. I know Daniel doesn't approve, but destroying the White Legs is the only way to ensure the Sorrows can remain in Zion.
+GID00088000	You and I will lead a group of Dead Horse warriors and Sorrows hunters into Three Marys from this position.
+GID00088001	Our objective is to find the White Legs' leader, Salt-Upon-Wounds, and prevent him from fleeing.
+GID00088002	Show no quarter to the White Legs we come across. Make no mistake about why we are here. This is an extermination.
+GID00088003	This is taking too long. We can't let Salt-Upon-Wounds escape. I'm going to find a way around. God willing, we will finish this together.
+GID00088004	This is taking too long. We can't let Salt-Upon-Wounds escape. I'm going to find a way around. God willing, we will finish this together.
+GID00088005	There. That's it. It's finished. When they hear what happened here, the White Legs will crawl back to their Great Salt Lake.
+GID00088006	If Caesar doesn't kill them, they'll wither and die like the cursed mongrels they are.
+GID00088007	Come. Let's find Daniel. Tomorrow will be here soon. And there is still much work to be done.
+GID00088008	That's it. It's finished. Thank you for... staying with me. I couldn't have done this on my own.
+GID00088009	Let's go find Daniel. Tomorrow will be here soon. And there is much to do.
+GID00088010	It's the same end he would have met if he had died on his knees. But I suppose this was for the sake of the Dead Horses and Sorrows.
+GID00088011	Still, thanks to your help and the grace of God, the White Legs won't be troubling Zion anymore.
+GID00088012	Let's go find Daniel. Tomorrow will be here soon enough. And there is much to do.
+GID00088013	We warned you at Syracuse, and you persisted.
+GID00088014	You took advantage of us at New Canaan to drive us out, and like the dogs of Caesar you are, you followed us to Zion.
+GID00088015	And now you stand on holy ground, a temple to God's glory on Earth. But the only use for an animal in our temple is sacrifice!
+GID00088016	Kale watcha nei conserva oh! You understand me, don't you? Don't you?!
+GID00088017	Show respect, owslandr! Joshua Graham greatest warchief!
+GID00088018	You know our tongue - smart owslandr.
+GID00088019	Joshua in high place of cave. You show respect, utman! Joshua is greatest warrior. You show him no respect, he show you thunder and fire!
+GID00088020	He in high place of cave. You show respect, owslandr! Joshua is greatest warrior. You show him no respect, he show you thunder and fire!
+GID00088021	You wise for owslandr.
+GID00088022	Ha ha. Funny owslandr. Maybe soon dead owslandr.
+GID00088023	Shaiss! Would kill you myself, but Joshua says no harm to visitors until harm done to us.
+GID00088024	Go, owslandr. Meet Joshua. We see how long you talk like that.
+GID00088025	Owslandr utman zookuh Joshua Graham? You look for Joshua Graham?
+GID00088026	Hmph. Since you are friend to Sorrows... we go. But you kill White Legs!
+GID00088027	[SUCCEEDED] Because you are friend to Sorrows... very well. We go. Angry ghosts will do for White Legs.
+GID00088028	[FAILED] No! We not let White Legs defile our ancestors! We go! We fight!
+GID00088029	We go!
+GID00088030	We wait, but not forever!
+GID00088031	Shut your mouth, you goddamn junkie! Or I'll plant one between your shoulder blades, I swear!
+GID00088032	Don't worry, Stella! This was my last hit, but thanks to ol' Johnny-come-lately over there, Ricky got some Fixer to take the edge off.
+GID00088033	Don't worry, Stella! This was my last hit, but thanks to ol' Janey-come-lately over there, Ricky got some Fixer to take the edge off.
+GID00088034	Don't worry, Stella! Ol' Ricky won't be running out of Psycho any time soon! Ol' Ricky's downright flush! Yes indeed!
+GID00088035	Best fix for you'd be a bullet in the brainpan. Now shut it.
+GID00088036	Sounds like you got enough for a fatal overdose, then. Do us all a favor, will ya?
+GID00088037	Dream on, Stella. Ricky ain't about to die for nobody. Ricky's fucking in-vin-cible, yessir!
+GID00088038	Goddammit, never should joined this assbackwards caravan...
+GID00088039	Enough! Another word of your bitching and I'll put you out of your misery myself!
+GID00088040	You don't know how this feels, Stella! I'm sick! Never been so sick my whole life!
+GID00088041	You ain't sick! You're a goddamn junkie, that's what you are! So shut it!
+GID00088042	You ain't got no heart, Stella! I swear, you're a monster, and you're gonna regret treating me like this!
+GID00088043	Didn't nobody do this to you but yourself, junkie. Now try suffering in silence for once.
+GID00088044	"Heard you the fifteenth time, Stella. What's it matter if we're trapped here? Everything will be just fine."
+GID00088045	Oh I'm sure you're right, Jed. What's the worst can happen to us out here? Nothing. Perfectly safe, fucking perfectly...
+GID00088046	"That's right, little lady. Everything will be just fine with Jed to protect you. Quite the leader is what I am, hell yes."
+GID00088047	Sorry to bother you with reality, ol' Jed. Who cares if we can't get back out the way we come? That's not a problem.
+GID00088048	Ain't the trail ahead worries me, Jed. Those descents we made, through that slot canyon back up there?
+GID00088049	Ain't no way we're getting back out the way we come. And then what?
+GID00088050	Hoi! Owslandr zookuh Joshua Graham?
+GID00088051	Please be respectful here - these are the bones of our ancestors.
+GID00088052	Those tents down there - that is a White Leg war camp. Do you see the war totems they've erected around the tents?
+GID00088053	White Leg warriors pray to them for strength and savagery before battle. This is no raiding band.
+GID00088054	The river is lovely at this time of day, don't you think?
+GID00088055	The river is lovely at this time of night, don't you think?
+GID00088056	It is good to travel with another. I spend so long scouting on my own that I forget what human company is like.
+GID00088057	I have seen many strange plants in the valley - plants that seem to hunger for human flesh. Where they come from, I do not know.
+GID00088058	White Leg attacks grow more frequent each day - I fear for our people and for our valley if something is not done.
+GID00088059	Oh Father, guide and protect us your humble children as we labor in the vineyards, and make us strong to resist those who would steal Zion from us.
+GID00088060	I wish you could have met my family. You would like them, I think.
+GID00088061	Zion used to be a place of peace, you know. Daniel says that it is holy in the eyes of the Father. I hope someday you will see it as it was.
+GID00088062	Father, I ask that you guide this man who is the vessel of your will. Show him the light of your wisdom and the peace of your love. Amen.
+GID00088063	Father, I ask that you guide this woman who is the vessel of your will. Show her the light of your wisdom and the peace of your love. Amen.
+GID00088064	Daniel says that most people outside the valley do not keep to the Father's ways. Perhaps when you leave you will carry His word with you?
+GID00088065	When Salt-Upon-Wounds took New Canaan, he ordered the White Legs to salt the earth so nothing could grow again. What kind of monster could do that?
+GID00088066	I know you are eager to leave Zion, but... perhaps you might find peace if you stayed. Think about it, yes?
+GID00088067	So this is the Ghost of She's lair. I was never brave enough to try to find it....
+GID00088068	We should not be here! The Three Marys is where the White Legs make their camp! We should leave, quickly.
+GID00088069	I am always a little sad to leave the Narrows, and happy to return.
+GID00088070	This is Pine Creek, one of the only ways out of Zion Valley. Watch out - many dangerous beasts lair nearby.
+GID00088071	These are places of the time before. We should not be here - it is forbidden!
+GID00088072	This is the only sure path from the Narrows to Pine Creek! They will be cut to ribbons by these traps!
+GID00088073	It has been some time since I visited the Dead Horses. Our tribes don't have much contact with each other.
+GID00088074	Yao Guai - even our strongest hunters could not hope to kill so many. There must be a nest nearby.
+GID00088075	Like the shadow of a ghost.
+GID00088076	We pass like moonlight on still water.
+GID00088077	Yes.
+GID00088078	I look like a pack Brahmin to you? Come on, we travel light!
+GID00088079	I will be more useful to you traveling light.
+GID00088080	Feeling the poison here!
+GID00088081	I'm not feeling so good....
+GID00088082	I've been poisoned!
+GID00088083	This wound needs to be sucked out, quickly!
+GID00088084	I need some Radscorpion glands and Nightstalker blood to treat this poison.
+GID00088085	Good as new!
+GID00088086	Just what the medicine man ordered!
+GID00088087	That should keep me going a while longer.
+GID00088088	Much improved.
+GID00088089	I feel better already.
+GID00088090	Ahh! I'm going to need a healer!
+GID00088091	Hope you've got medicine better than some sticky herbs!
+GID00088092	I fear I will need more than my herbs to fix this....
+GID00088093	This wound is grievous! I need help!
+GID00088094	There... hopefully it won't fall off now.
+GID00088095	Now that's good medicine!
+GID00088096	This is much more effective than I expected!
+GID00088097	If only I had more of this medicine to share with the tribe.
+GID00088098	No more bullets!
+GID00088099	I'm shooting dry here!
+GID00088100	I have no more bullets!
+GID00088101	I need a reload!
+GID00088102	My guns are empty!
+GID00088103	Might as well tickle them with a feather!
+GID00088104	Got anything bigger I can fight with?
+GID00088105	I don't think I'm hurting them at all!
+GID00088106	Are you sure this weapon actually works?
+GID00088107	My attacks are doing nothing!
+GID00088108	They're cutting through me like paper!
+GID00088109	This armor is useless!
+GID00088110	I cannot defend myself against this!
+GID00088111	I need better armor!
+GID00088112	Oh, look, I'm not dead.
+GID00088113	Okay, okay, I'm up. What's next?
+GID00088114	This is not the most pleasant place I've woken up.
+GID00088115	My head feels about to burst. At least that means I'm still alive.
+GID00088116	Is it normal to hurt all over after a battle?
+GID00088117	I could use some help here!
+GID00088118	I won't last long at this rate!
+GID00088119	Can I get some backup? Healing? Something?
+GID00088120	My wounds are getting worse!
+GID00088121	I can't keep up this pace much longer!
+GID00088122	I need healing powder!
+GID00088123	If I don't make it... tell Joshua... I tried.
+GID00088124	Looks like I'm headed for the big dark....
+GID00088125	Sorry... I let you down....
+GID00088126	Even my best herbs won't work if I'm dead... I need help!
+GID00088127	I will not leave my children orphans!
+GID00088128	If I fall... save the Sorrows... please.
+GID00088129	By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.
+GID00088130	Remember, O Lord, the children of Edom in the day of Jerusalem who said, "Raze it, raze it, even to the foundation."
+GID00088131	O daughter of Babylon, who art to be destroyed. Happy shall he be, that rewardeth thee as thou hast served us.
+GID00088132	Happy shall he be, that taketh and dasheth thy little ones against the stones.
+GID00088133	Do you know what it means?
+GID00088134	Got it.
+GID00088135	As you say.
+GID00088136	Yes, of course.
+GID00088137	You're starting to sound like the old Joshua. Okay, got it.
+GID00088138	Isn't a more diplomatic approach preferable? Very well, but I'm not comfortable with this.
+GID00088139	It's the only way I know.
+GID00088140	Now you're thinking like a hunter! I like this plan.
+GID00088141	That seems sensible. I'd prefer to let you choose the targets.
+GID00088142	What's the point?
+GID00088143	Glad to hear it. I wouldn't want to go back to Joshua alone.
+GID00088144	Good. Daniel's decisions are wise. You are wise for respecting them.
+GID00088145	Good, because I wasn't going to leave.
+GID00088146	All right. Joshua won't be too happy, but all right.
+GID00088147	If that is your wish, I cannot change your mind. I will wait for you at the Sorrows' camp until you return.
+GID00088148	I'm not going anywhere. Get the idea out of your head and get moving.
+GID00088149	Let's take them!
+GID00088150	This one's mine!
+GID00088151	I'm with you.
+GID00088152	Let's go!
+GID00088153	For the Sorrows!
+GID00088154	Hyah!
+GID00088155	God protect me!
+GID00088156	Lord, make me thy instrument!
+GID00088157	God and liberty!
+GID00088158	Momewi de luchoo!
+GID00088159	Mes luchoo ahorla!
+GID00088160	Me derote katu!
+GID00088161	Shtairb, chin dee!
+GID00088162	Sohl tyeh!
+GID00088163	Dah ah hi meer!
+GID00088164	Deyai-yoo, devil!
+GID00088165	Wes run!
+GID00088166	Nikumpa me!
+GID00088167	Joshua said I might be going with you. Let's go then!
+GID00088168	I am happy to offer you what guidance I can. Let's go.
+GID00088169	The path lies before us. Let's not waste any time.
+GID00088170	Tactics? You know I'm not much of a fighter, right?
+GID00088171	Battle is not my strongest skill, but I am eager to learn from you.
+GID00088172	What have you to teach me of tactics?
+GID00088173	Change it to...?
+GID00088174	How shall I fight?
+GID00088175	Oh?
+GID00088176	What can I do?
+GID00088177	What did you have in mind?
+GID00088178	Anything else?
+GID00088179	Lead on, I'll follow.
+GID00088180	I will try to follow your example.
+GID00088181	All right.
+GID00088182	Up close and personal? Well, as long as they don't have guns.
+GID00088183	I will fight with my fists as best I can.
+GID00088184	Fine. If that's your style, I can adapt.
+GID00088185	Keeping my distance sounds more my speed anyways.
+GID00088186	My skills lie elsewhere, but I will do as you bid.
+GID00088187	Naturally.
+GID00088188	Just tell me where to be, and I'll be there.
+GID00088189	How close do you prefer me to follow?
+GID00088190	Whatever you'd like. It makes no difference to me.
+GID00088191	Fine by me - get too far back and it's easy to lose your partner in this maze.
+GID00088192	I will do my best to stay close.
+GID00088193	I'm at your side.
+GID00088194	What can I do?
+GID00088195	What else is there to talk about?
+GID00088196	Anything else?
+GID00088197	Lead on, I'll follow.
+GID00088198	Off we go, then.
+GID00088199	After you.
+GID00088200	Sure... you are going to leave me some chalk marks to follow though, right?
+GID00088201	I'll give you room to work, then.
+GID00088202	As you like.
+GID00088203	What can I do?
+GID00088204	I will do my best to follow your requests.
+GID00088205	Anything else?
+GID00088206	Joshua isn't going to like this....
+GID00088207	Hey! Don't die on me now!
+GID00088208	This is how violence always ends....
+GID00088209	I wish I could have saved you.
+GID00088210	There will be time to grieve later.
+GID00088211	Let this death mean something.
+GID00088212	They killed him!
+GID00088213	They killed her!
+GID00088214	Look out!
+GID00088215	We'll get 'em.
+GID00088216	Flank 'em!
+GID00088217	Nona! Ud muerna!
+GID00088218	Ud matanna mes!
+GID00088219	Roo too nait, ahk iss.
+GID00088220	No! Neekt ni!
+GID00088223	Howdy. My name is Jed Masterson, and I'm a caravan boss for the Happy Trails Caravan Company.
+GID00088224	If you're hearing this, I have a job offer for you. Happy Trails is organizing an expedition north into Utah, off the Long 15, and we need people.
+GID00088225	We're looking for caravan guards, prospectors, couriers - if you're used to humping it across the Wastes straight toward trouble, we want you.
+GID00088226	If you've got a Pip-Boy, we definitely want you.
+GID00088227	On the other hand, if you're a greenhorn or a city-slicker spinning tales about your skills, you can kindly go hang.
+GID00088228	If we like your gumption, we'll pay you square and treat you fair. Find me, Jed Masterson, at the Northern Passage if you're interested. Luck to you.
+GID00088229	Estee no luchoo mela!
+GID00088230	Me no kaade partu estee.
+GID00088231	Gotcha!
+GID00088232	Thought you could get away from Follows-Chalk?
+GID00088233	There you are!
+GID00088234	I found them!
+GID00088235	Let's end this.
+GID00088236	Judgment's coming.
+GID00088237	Time's up.
+GID00088238	There you are!
+GID00088239	Discube katu!
+GID00088240	Akee yegwi!
+GID00088241	Estee val a duela a katu!
+GID00088242	No, ni kahn neekt ruhn!
+GID00088243	Dahs eet!
+GID00088244	Ni ar toht!
+GID00088248	They must've run off. Scared of us, huh?
+GID00088249	I don't think they're coming back.
+GID00088250	They're gone. Perhaps that means we don't have to kill them.
+GID00088251	I think our enemy has fled.
+GID00088252	Only a matter of time.
+GID00088253	Time will run out on you yet.
+GID00088254	Hide while you can.
+GID00088255	Guess she's gone.
+GID00088256	Guess he's gone.
+GID00088257	Huh. Looks like they left.
+GID00088258	Baste veoo. Uds pasane.
+GID00088259	Me perdilo a uds.
+GID00088260	Wa atendu? Uds pasane.
+GID00088263	Shih ahm fair tig es zookuh.
+GID00088267	Hey! Where'd they go?
+GID00088268	Lost 'em!
+GID00088269	I cannot find them!
+GID00088270	Where are they?
+GID00088271	Yes, hide. Run and hide in fear.
+GID00088272	Slink away. Squeeze between the rocks if you can.
+GID00088273	Hiding, are you? Well, I'm coming to find you.
+GID00088274	Where'd you go?
+GID00088275	Adone patasooba?
+GID00088276	Katu veo e luchoo!
+GID00088277	Cobar'e! Deha coriendoo!
+GID00088278	Yee nad loo shee!
+GID00088279	Guhst fair schvoond!
+GID00088280	Fair flick!
+GID00088281	Whar d'yoo go?
+GID00088284	Well, that's that then.
+GID00088285	Never stood a chance, did they?
+GID00088286	Messy business - I am glad it's over.
+GID00088287	Let's move on - I don't like to linger in this place.
+GID00088288	Work well done.
+GID00088289	All in a day's labor serving the good Lord.
+GID00088290	Finished.
+GID00088291	Phew. I'm glad that's over.
+GID00088292	Si, coriendoo!
+GID00088293	Cobar'e. Wa fortuba me no matanna katu.
+GID00088294	Si, me meja ke katu.
+GID00088295	Goot keel, ahk iss.
+GID00088296	Shih zhah neh hoyta!
+GID00088297	Goot nah nish.
+GID00088301	Guess I'm just jumpy.
+GID00088302	Nothing after all.
+GID00088303	We seem to be safe for the moment.
+GID00088304	Never mind. I was wrong.
+GID00088305	Must have left.
+GID00088306	Hmm. Nothing.
+GID00088307	Huh. Maybe I need some sleep.
+GID00088308	Guess it was nothing.
+GID00088309	Me suenoo-na?
+GID00088310	Wa nana, me supongoo.
+GID00088311	Escuchu nana, me supongoo.
+GID00088312	Huh. Neekts.
+GID00088313	Gey gonen.
+GID00088314	Hmm.
+GID00088317	Hmm.
+GID00088318	Whoa! Here we go!
+GID00088319	Fighting time!
+GID00088320	You leave me no choice!
+GID00088321	I'll fight you if I must!
+GID00088322	That's it!
+GID00088323	Enough!
+GID00088324	Forward!
+GID00088325	Over here!
+GID00088326	Uweka duerme!
+GID00088327	Muerna yegwi a katu!
+GID00088328	Me ka asekene!
+GID00088329	Ni ar toht!
+GID00088330	Jahd thli gai!
+GID00088331	Ahl tah jeh jey!
+GID00088335	Got 'em!
+GID00088336	Found them!
+GID00088337	Here they are!
+GID00088338	There they are!
+GID00088339	Now you've done it.
+GID00088340	You've called down the wrath.
+GID00088341	This is where the road ends.
+GID00088342	I've got you now.
+GID00088343	Ayee katu!
+GID00088344	Me sabaloo estee!
+GID00088345	Holadu!
+GID00088346	Shoah!
+GID00088347	Shih finn deh deer!
+GID00088348	{"Come here!")Hah go!
+GID00088349	Shoah!
+GID00088350	Shih finn deh deer!
+GID00088351	{"Come here!")Hah go!
+GID00088352	Shh! Did you hear something?
+GID00088353	I think I saw something....
+GID00088354	Eyes wide.
+GID00088355	Ears open.
+GID00088356	Huh?
+GID00088357	What?
+GID00088358	Hmm.
+GID00088359	What was that?
+GID00088360	Hmm?
+GID00088361	Wa algues ayee?
+GID00088362	Ke estee-na?
+GID00088363	Yideets oh etvass.
+GID00088364	Vass?
+GID00088365	Nish eh.
+GID00088369	Still looking, but I got nothing.
+GID00088370	Still nothing here.
+GID00088371	Do you see them?
+GID00088372	Where are they?
+GID00088373	You'll be back. I can still smell you.
+GID00088374	Gave up? Wise choice.
+GID00088375	Gone. No matter. I'll find you.
+GID00088376	I'll find you.
+GID00088377	Katu no n'veo de me!
+GID00088378	Me olfale katu!
+GID00088379	Me val a discube katu.
+GID00088380	Ee sists ah.
+GID00088381	Dah tse ni ar gey gonen.
+GID00088382	Voh ni ar?
+GID00088386	Hmm....
+GID00088387	I am not giving up the search yet.
+GID00088388	Stay cautious.
+GID00088389	I'm still looking, don't worry.
+GID00088390	Someone there?
+GID00088391	Don't try to hide from me.
+GID00088392	You can't stay hidden forever.
+GID00088393	Who's there?
+GID00088394	Ke estee-na?
+GID00088395	Me escuchu algue-na?
+GID00088396	Ke ruido estee-na?
+GID00088397	Shih zookuh ta tee...
+GID00088398	Voh ni ar?
+GID00088399	Ni ar heer?
+GID00088403	You'd better get out of here if you know what's good for you.
+GID00088404	Keep moving.
+GID00088405	You'd better get out of here.
+GID00088406	Katu no kaade akee.
+GID00088407	Mueba, Tsagasee.
+GID00088408	Remind me not to get you mad at me.
+GID00088409	Guess that was just bound to happen, huh?
+GID00088410	I don't much like your way of solving problems.
+GID00088411	I regret that necessity.
+GID00088412	A pointless death.
+GID00088413	That should have been avoided.
+GID00088414	Powee desafortuba...
+GID00088415	Wa no beunu por katus.
+GID00088416	Wa muerna yegwi cuado wa kaade.
+GID00088417	Dahs wur bahd.
+GID00088418	Ow wah!
+GID00088419	Whoa! Was that necessary?
+GID00088420	Are you sick in the head or something?
+GID00088421	What demon would possess you to do such a thing?
+GID00088422	Are you suffering a brain fever? I have herbs that can curb such... violent tendencies.
+GID00088423	That's enough!
+GID00088424	<Roar of anger.>
+GID00088425	No!
+GID00088426	Murderer!
+GID00088427	What have you done?
+GID00088428	Katu matanna ud!
+GID00088429	Asekene!
+GID00088430	Nona! Asekenoo-na!
+GID00088431	Geh bits ah!
+GID00088432	Chin dee!
+GID00088434	Devil!
+GID00088435	<Low growl>
+GID00088436	Ye have sown death and so shall ye reap it!
+GID00088437	What the hell?!
+GID00088438	What was that for?
+GID00088439	You dirty coward!
+GID00088440	Ayud me!
+GID00088441	Wa golpe me!
+GID00088442	Wa ataco me!
+GID00088443	Varoom? Stahp!
+GID00088444	Ah!
+GID00088445	That sort of thing might be seen as a dumb prank in the Mojave, but it will get you killed out here.
+GID00088446	Better not try that again.
+GID00088447	Paz patasooba.
+GID00088448	Lah.
+GID00088450	Um... you know I'll share if you ask, right?
+GID00088451	Is... is this some kind of civilized ritual I just don't get?
+GID00088452	Is thievery not considered wrong where you come from?
+GID00088453	Is your need for possessions truly so great?
+GID00088454	We're a tolerant community, but don't overstep the limits of our generosity.
+GID00088455	This isn't a New Vegas back alley. Watch what you grab.
+GID00088456	That doesn't belong to you!
+GID00088457	You can't just take that!
+GID00088458	Thief!
+GID00088459	Ponedo lawatba!
+GID00088460	Katu! Pongwa de nuevu!
+GID00088461	Wa desafortuba yegwi a lawatba.
+GID00088462	No! Shtay len tahbah mah ee.
+GID00088463	Bey haz oh neekt!
+GID00088464	<Death sound.>
+GID00088465	<Death sound.>
+GID00088466	<Death sound.>
+GID00088467	Aaaah!
+GID00088468	Urgh!
+GID00088469	Gaaah!
+GID00088470	Ahhgh!
+GID00088471	Ahhgh!
+GID00088472	Ahhgh!
+GID00088473	Eyes!
+GID00088474	Heads up!
+GID00088475	Beware!
+GID00088476	Danger!
+GID00088477	Look sharp!
+GID00088478	Taking cover!
+GID00088479	Watch out!
+GID00088480	Holy shit!
+GID00088481	Look out!
+GID00088482	Cuidaloo!
+GID00088483	Katu mirana!
+GID00088484	Shaiss!
+GID00088485	Eh hahj!
+GID00088487	Shits!
+GID00088488	Bombs away!
+GID00088489	Boom coming!
+GID00088490	Grenade!
+GID00088491	Watch out!
+GID00088492	Get down!
+GID00088493	Duck!
+GID00088494	Get down!
+GID00088495	Incoming!
+GID00088496	Infiernoo akee!
+GID00088497	Tunno granahoo!
+GID00088498	Naymst dees!
+GID00088499	Koh bahm buh!
+GID00088502	Time to get lost!
+GID00088503	This is too intense!
+GID00088504	We are outmatched!
+GID00088505	They're too strong for us!
+GID00088506	This is a battle we cannot win!
+GID00088507	I'm out of here!
+GID00088508	This is hopeless!
+GID00088509	Help!
+GID00088510	No matanna me!
+GID00088511	Me no kaade muerna!
+GID00088512	Me no kaade akee!
+GID00088513	<Grunt.>
+GID00088514	<Grunt.>
+GID00088515	<Grunt.>
+GID00088516	<Grunt.>
+GID00088517	<Grunt.>
+GID00088518	<Grunt.>
+GID00088519	Hmph!
+GID00088520	Ugh!
+GID00088521	Oof!
+GID00088522	Ahh!
+GID00088523	Argh!
+GID00088524	Damn!
+GID00088525	I'm hit!
+GID00088526	Eh!
+GID00088527	Eh!
+GID00088528	Eh!
+GID00088529	Eh!
+GID00088530	Eh!
+GID00088531	Eh!
+GID00088532	<Strenuous grunt.>
+GID00088533	<Strenuous grunt.>
+GID00088534	<Strenuous grunt.>
+GID00088535	<Strenuous grunt.>
+GID00088536	Grrrraah!
+GID00088537	Yaargh!
+GID00088538	Rrrraaahhh!
+GID00088539	Huurrraghh!
+GID00088540	Ehrr!
+GID00088541	Ehrr!
+GID00088542	Ehrr!
+GID00088543	Gotcha!
+GID00088544	Hah!
+GID00088545	This one is mine!
+GID00088546	Yield!
+GID00088547	I have this under control!
+GID00088548	Take it!
+GID00088549	Die where you stand!
+GID00088550	Prepare to meet your maker.
+GID00088551	Had enough?
+GID00088552	Come on!
+GID00088553	You like that?
+GID00088554	Akee!
+GID00088555	Tunnoo estee!
+GID00088556	Uweka muerna!
+GID00088557	Nah ash ne wit deer!
+GID00088558	Shtairb!
+GID00088559	Glahb ni kahn meer dah ah?!
+GID00088563	I should be able to address most common problems. What's the matter?
+GID00088564	I am a New Canaanite. We believe we are the heirs of a spiritual tradition given to our ancestors thousands of years ago.
+GID00088565	We have made and kept covenants with our Lord, God, to honor his laws. In exchange, we are promised eternal salvation after this life.
+GID00088566	A day will come when our Lord returns to judge us all. Until then, we must honor his laws and start others along the path of salvation if we can.
+GID00088567	That's why we trade with others and work the tribes. We have more than food and medicine to offer. Good news is our most valuable commodity.
+GID00088568	In the Great Basin and Colorado Plateau, all tribes are known for a specific weapon.
+GID00088569	White Legs are known for their big submachine guns, "storm drums." They broke into an armory near Spanish Fork and have been using them for years.
+GID00088570	Of course, the Dead Horses have their wooden war clubs and even the Sorrows have their Yao Guai gauntlets.
+GID00088571	This type of .45 Automatic pistol was designed by one of my tribe almost four hundred years ago. Learning its use is a New Canaanite rite of passage.
+GID00088572	I wouldn't say that. I am the acting war chief for the Dead Horses. They look up to me for such matters, but I only have the authority they give me.
+GID00088573	Daniel is the spiritual leader and main link of the New Canaanites to the Sorrows. He's up in the Narrows right now.
+GID00088574	A great deal. There are three, make that four, tribes here in Zion. You've already met the White Legs on the way in.
+GID00088575	In this camp, you'll find Dead Horses. In the Narrows, the Sorrows. And finally there's Daniel and myself. We're New Canaanites.
+GID00088576	Well then, let's get to trading.
+GID00088577	If something of mine will help you, take it. I hope you would do the same for me.
+GID00088578	No thanks.
+GID00088579	We do. Though the White Legs destroyed New Canaan, they didn't destroy all of our supply caches.
+GID00088580	All forms of currency are recognized here. Caps, NCR dollars, even Legion coin. Take a look.
+GID00088581	Yes. Take a look.
+GID00088582	Yeah, whatever.
+GID00088583	Catch you another time, then.
+GID00088584	Let me have a look. My tribe may take too much pride in its mechanical talents, but in truth we are intrigued by the workings of a fine firearm.
+GID00088585	Let me have a look.
+GID00088586	You sure? It's easy to get lost out here without a guide.
+GID00088587	Daniel was firm about my staying with you. Are you certain?
+GID00088588	Ha ha ha. I don't think so.
+GID00088589	Right now, I'd like you to focus on helping Daniel. Maybe there will be time later.
+GID00088590	It's not something I enjoy, but I pray to God that someone may learn from my mistakes. What would you like to know?
+GID00088591	Yeah, reckon you will.
+GID00088592	Until then.
+GID00088593	Go with fortune, friend.
+GID00088594	God be with you.
+GID00088595	Then I will look forward to our next speaking.
+GID00088596	Deha ruido!
+GID00088597	No discarge armoos!
+GID00088598	You're not the first to have tried.
+GID00088599	Make the first shot count. You won't get a second.
+GID00088600	Me no heranu a katu.
+GID00088601	Baje ka armoo.
+GID00088602	No tsaig tuh beh dah a hih jih gahni a meer.
+GID00088603	Stahp dahs pleez.
+GID00088606	Be careful. Tribals don't always recognize those for what they are.
+GID00088607	Watch it. You can't just go tossing those all over Zion.
+GID00088608	Ke cosa estee-na?
+GID00088609	Por ke katu pongwa estee?
+GID00088610	Ah del tahi, bahm buh, ya?
+GID00088611	A bil he neh fuhr jahd thli gai! Heh he!
+GID00088612	Frag out!
+GID00088613	Fire in the hole!
+GID00088614	Coriendoo!
+GID00088615	Grenahoo!
+GID00088616	Nih mah sih!
+GID00088617	Bahm buh!
+GID00088618	Grenah!
+GID00088619	Boomb!
+GID00088620	You looking for trouble, bud? I got plenty to spare, so watch your ass around me.
+GID00088621	Hey, little lady. Don't be scared to join this caravan! I'll keep a close eye on you - real close. Promises.
+GID00088622	Yeah? What's it this time?
+GID00088623	Fuck off, okay? I hate you!
+GID00088624	I may have been exaggerating a little. Truth is, I got this suit and the Pit-Boy off a dead prospector who came out from Zion.
+GID00088625	Guy was dead when I found him, okay? Had a ton of shit on him. That's how I know there's good loot in Zion, see?
+GID00088626	Fuck off, I'm busy!
+GID00088627	I do wish you'd come and met with me at the Lucky 38 when you first arrived on the Strip. Or after Benny fled, even.
+GID00088628	Such a small thing, isn't it? And yet so... capacious. So very dear.
+GID00088629	Decades of hiring salvagers out west to search for this little relic in the ruins of a place called Sunnyvale. Back then, anyway.
+GID00088630	That's where the Chip was printed, on October 22, 2077. It was to have been hand-delivered to me here, at the Lucky 38, the next day.
+GID00088631	But the bombs fell first. Suffice it to say, the delivery was never made.
+GID00088632	You friend of Sorrows, yes? Together we smash White Legs that defile holy places, yes?
+GID00088633	We smash White Legs now, yes?
+GID00088634	This is taking too long. We can't let Salt-Upon-Wounds escape. I'm going to find a way around. God willing, we will finish this together.
+GID00088635	The time for talk has passed. The Lord's work must be done.
+GID00088636	Daniel must have made it to the tunnel by now, but there are Sorrows all over the valley! We have to help them and get Daniel out of here!
+GID00088637	We should have given you a better welcome on your first visit to Zion, but from what I hear, the White Legs beat us to it.
+GID00088638	White Legs seem to be the only visitors we have these days, and I wouldn't have expected anyone from the Mojave to come looking for us.
+GID00088639	And you're a courier, no less. Not the one I was expecting, but I suppose he wouldn't have come with a caravan.
+GID00088640	I don't know if you were close to the other members of your group, but you have my sympathy.
+GID00088641	I pray for the safety of all good people who come to Zion, even Gentiles, but we can't expect God to do all the work.
+GID00088642	Welcome back. What can I do for you?
+GID00088643	Welcome back. What can I do for you?
+GID00088645	Unless you and Joshua have any objections, I'd like to start evacuating the Sorrows. I'm going to need your help, so say your piece.
+GID00088646	Please, have you done everything you can for the Sorrows? Are they all accounted for?!
+GID00088647	Please, is it time? Is everyone safe? We have to go!
+GID00088648	Uh... I apologize if this comes across as a less-than-cordial welcome, but how did you get in here? You from the Mojave?
+GID00088649	Do me a favor and go to talk to Joshua, all right?
+GID00088650	The Dead Horses told me details about the attack on your caravan. A stranger's sympathy might not count for much, but for what it's worth, I'm sorry.
+GID00088651	The Sorrows will mourn your friends, too. They mourn everyone, even the White Legs. They have sensitive souls. Innocent, if there is such a thing.
+GID00088652	In spite of what's happened, I hope that Joshua and I can help you out of here. But to be frank, we need your help, too.
+GID00088653	I'm glad to see you're still with us. How can I help you?
+GID00088655	Visions guide you. You listen? Heh. Maybe yes, maybe no.
+GID00088656	Hola, outsider. Welcome, child of omens. You come to receive visions of truth?
+GID00088657	You have root of Sacred Datura?
+GID00088658	These roots make sacred vision tea. You drink, you see path before you. Ready?
+GID00088659	Does Ghost of She lie quiet in grave?
+GID00088661	Wise man knows when to shut mouth. You maybe wise. Or maybe not.
+GID00088662	Daniel said that I was to travel with you until you have completed your scouting. Is this pleasing to you?
+GID00088663	Have you reconsidered allowing me to travel with you?
+GID00088664	You are the one Joshua Graham sent to us. Blessings of the Father in the Cave on you - Daniel is waiting for you.
+GID00088665	Greetings and blessings to you. Daniel still awaits you.
+GID00088666	Katu Veo. Blessings of the Father in the Cave on you.
+GID00088667	Katu Veo.
+GID00088669	Hoi! White Legs don't leave survivors often. You're some kind of lucky, let me tell you.
+GID00088670	You came from outside, didn't you? From the civilized lands? Wow... Joshua will want to hear about this.
+GID00088671	Hoi! What you doing? There's still White Legs back there!
+GID00088672	Wait - you came from outside, didn't you? From the civilized lands? Wow... Joshua will want to hear about this.
+GID00088673	Yah ah tahg! I saw you at the southern passage - you... um... you do know there were still White Legs alive when you ran off, right?
+GID00088674	Joshua says you need someone to guide you around the valley. He said I should go with you, if you want.
+GID00088675	Change your mind about bringing me along?
+GID00088676	Good job getting those supplies to Daniel. If you were a Dead Horse, you'd get a tattoo for that.
+GID00088677	You again? Talk to Joshua yet?
+GID00088678	What can I tell you?
+GID00088680	Well, here we part ways. I'm needed back at the Dead Horses camp - maybe I'll see you there sometime.
+GID00088681	Come on, come on, no time to waste!
+GID00088682	Howdy, friend. Heard my little broadcast, did you? Yeah, you look the type.
+GID00088683	Howdy, friend. Heard my little broadcast, did you? Yeah, you look the type.
+GID00088684	Damn good thing you came along. Now that Ricky's skedaddled, yours is the only Pip-Boy we got.
+GID00088685	Are you here to jaw at me a while longer, or are we ready to get this show on the road?
+GID00088687	Outman! Kuna-man mad! He kill all White Legs! You talk! You stop!
+GID00088688	Foolish outman - You best White Legs, you think? By my spear you die!
+GID00088689	We go. White Legs go back to Great Salt.
+GID00088690	You looking to join this here caravan? Look a little wet behind the ears, you ask me.
+GID00088691	Looking to join this caravan, huh? Look to me like you can handle yourself.
+GID00088692	Something on your mind?
+GID00088693	Leave me be. Busy.
+GID00088694	Holadu, Tsagasee.
+GID00088695	Holadu, Na'ne.
+GID00088696	Katu Veo. Nayoo?
+GID00088697	Goot.
+GID00088698	Yah ah tahg.
+GID00088699	Hoi!

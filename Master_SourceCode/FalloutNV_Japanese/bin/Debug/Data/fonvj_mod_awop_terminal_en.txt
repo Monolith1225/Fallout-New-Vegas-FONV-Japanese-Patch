@@ -1,0 +1,173 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_awop_terminal_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00103459	The Underground school teacher's terminal.
+GID00103461	Property of Johnny Limes
+GID00103462	Hyper-Real Project
+GID00103463	Lead Designer
+GID00103465	INBOX - Hyper-Reality or Reality?
+GID00103466	OUTBOX - 100 Year Celebrations
+GID00103467	OUTBOX - Power Failiure
+GID00103468	INBOX - Rescue
+GID00103469	Hyper-Real Score List
+GID00103470	The Underground school student terminal.
+GID00103472	Ivanpah Weapon Research Facility
+GID00103473	Project Overcharge Worker's Terminal
+GID00103475	Outgoing Email
+GID00103476	Incoming Email
+GID00103477	Outgoing Email
+GID00103478	Property of J. Empire
+GID00103479	Deputy-Chief programmer for project Beta-Power.
+GID00103481	Programmers Note - July 2123
+GID00103482	Uz1zrground Cozzzztion Terzzzz/
+GID00103483	CORRUPT DATA:
+GID00103484	________________________
+GID00103485	System Restore Incomplete
+GID00103486	Status 08%
+GID00103487	________________________
+GID00103488	Press Any Key to continue.
+GID00103490	INBOX - MESSAGE CORRUPT
+GID00103491	OUTBOX - Waste Relocation
+GID00103492	INBOX - MESSAGE CORRUPT
+GID00103493	NCR Mohave Bunker Outpost.
+GID00103494	Welcome Captain Petro.
+GID00103496	INBOX - Squad Testing 21/12/80
+GID00103497	OUTBOX - Potential Candidates 21/12/80
+GID00103498	INBOX - Squad Testing 07/01/81
+GID00103499	INBOX - X13 MIA 17/09/81
+GID00103500	INBOX - URGENT! RESPOND! 19/09/81
+GID00103501	Property of Troy Cowarne.
+GID00103502	Construction Supervisor Class 2.
+GID00103504	Supervisor's Log 22/12/2123
+GID00103505	Charlie's Terminal
+GID00103507	Message From God
+GID00103508	Mission Log
+GID00103509	Mlix
+GID00103510	Communal Terminal
+GID00103512	New Home
+GID00103513	Dimension Hyperjump
+GID00103514	Check this out - we're famous!
+GID00103515	The Immortals Script Part 1
+GID00103516	The Immortals Script Part 2
+GID00103517	The Immortals Script Part 3
+GID00103518	The Immortals Script Part 4
+GID00103519	The Immortals Script Part 5
+GID00103520	The Immortals Script Part 6
+GID00103521	The Immortals Episode Guide
+GID00103522	For The Enclave!
+GID00103523	We will never forget.
+GID00103525	Scowell's Log 01 02/03/2262
+GID00103526	Scowell's Log 02 06/06/2263
+GID00103527	Scowell's Log 03 07/10/2263
+GID00103528	Rick's terminal - Keep out Emily!
+GID00103530	Rick's Diary 01
+GID00103531	Rick's Diary 02
+GID00103532	Rick's Diary 03
+GID00103533	Rick's Diary 04
+GID00103534	Unknown User Entry 01
+GID00103536	Supervisor's Log
+GID00103537	Nipton Pit-Stop Shelter Public Terminal
+GID00103539	Steve -URGENT!
+GID00103540	Home Sweet Home
+GID00103541	Northern Defeat
+GID00103542	Basement Sounds
+GID00103543	Pre-War Hardtek Home Terminal
+GID00103544	Restored by Fergie M. - Jan' 2270
+GID00103546	Outgoing Email - Oct' 2077
+GID00103547	Redoubt 6AF14
+GID00103548	Nellis Air Force Base
+GID00103549	Nevada
+GID00103550	>\ Welcome, USER
+GID00103552	Boomer's Redoubt Report
+GID00103553	Freetech local braodcast terminal 2.
+GID00103556	Roth's Diary Jan 17th 2272
+GID00103557	Roth's Diary Jan 20th 2272
+GID00103558	Roth's Diary Jan 21st 2272
+GID00103559	Roth's Diary Jan 30th 2272
+GID00103560	Samson Rock Crushing Plant.
+GID00103561	Engineer Terminal.
+GID00103563	Incoming Message - URGENT!!!
+GID00103565	Redoubt 07
+GID00103566	Redoubt 6b
+GID00103567	Redoubt 91a
+GID00103568	Redoubt S4
+GID00103569	Steve's Terminal
+GID00103571	Matt is dead again.
+GID00103572	Random drug tests
+GID00103573	Hardcore!
+GID00103574	NCR Searchlight Bunker Outpost
+GID00103575	Communications Terminal.
+GID00103576	Welcome Sgt Ranovich.
+GID00103578	Ranovich's Log 21-07-81
+GID00103579	Ranovich's Log 25-07-81
+GID00103580	Ranovich's Log 30-07-81
+GID00103581	Sunnytime Cigarettes Area Manager Terminal
+GID00103583	Sunnytime Note
+GID00103584	Vault-Tec Vault Monitoring Station NV03
+GID00103585	>\ Welcome, USER
+GID00103587	EMAIL Outbox 20/06/77 09.13
+GID00103588	EMAIL Inbox 20/10/77 18.44
+GID00103589	EMAIL Outbox 20/10/77 19.20
+GID00103590	EMAIL Outbox 21/10/77 00.17
+GID00103591	Unknown User Entry 21/09/81 15.36
+GID00103592	Unknown User Entry 22/09/81 21.57
+GID00103593	Update Terminal
+GID00103595	Update Entry
+GID00103596	Hard-Tek Security Systems.
+GID00103598	History Of The Underground Pt1
+GID00103599	History Of The Underground Pt2
+GID00103600	Property of Da Fiendz - Fuck Off!
+GID00103602	Henry's Diary 01
+GID00103603	Henry's Diary 02
+GID00103604	Henry's Diary 03
+GID00103605	Hardtek Home Terminal.
+GID00103606	Property of UNKNOWN
+GID00103607	Your terminal has not been shut down properly....
+GID00103609	Message for Fergie
+GID00103610	User Entry01. Date Unknown.
+GID00103611	User Entry02. Date Unknown.
+GID00103612	Vault 40 Terminal.
+GID00103613	South Power Station.
+GID00103614	>\ Welcome, USER
+GID00103616	INBOX: Get Out Now!
+GID00103617	Vault-Tec Vault 41 Overseer Terminal.
+GID00103619	Maddox's Log 01
+GID00103620	Maddox's Log 02
+GID00103621	Maddox's Log 03
+GID00103622	Maddox's Log 04
+GID00103623	Mini-Vault Welcome Terminal
+GID00103625	Welcome Message
+GID00103626	Underground Rules & Regulations
+GID00103627	4D Storage Information
+GID00103629	Denton's Note
+GID00103630	Welcome Lt. Phillips.
+GID00103632	Phillips Log 01
+GID00103633	Phillips Log 02
+GID00103634	Tony's Terminal
+GID00103636	Environment Analysis
+GID00103637	Mood-Pop Recipies
+GID00103638	Searchlight Church Bunker.
+GID00103639	Father Polavo's Terminal.
+GID00103641	Searchlight Bunker Note
+GID00103642	Vault 40 Armory Terminal.
+GID00103644	Armory Master Log 01
+GID00103645	Armory Master Log 02
+GID00103646	Armory Master Log 03
+GID00103647	Armory Master Log 04
+GID00103648	Neveda Radiological Research Facility Data Terminal.
+GID00103649	Property of Butch Henderson
+GID00103651	Henderson's Diary 01
+GID00103652	Henderson's Diary 02
+GID00103653	Freetech local braodcast terminal 1.
+GID00104335	>\ W3lcome, USER
+GID00104336	HOUSE TOOLx Seeee Madre
+GID00104337	Master Terminal
+GID00104338	bX0010982bv
+GID00104339	Status: Crrrrpt
+GID00104341	Outgoing Mail 01/03/76
+GID00104342	Incoming Mail 04/03/76
+GID00104344	Randall's Diary Part 01
+GID00104345	Randall's Diary Part 02
+GID00104346	Randall's Diary Part 03
+GID00104347	Randall's Diary Part 04

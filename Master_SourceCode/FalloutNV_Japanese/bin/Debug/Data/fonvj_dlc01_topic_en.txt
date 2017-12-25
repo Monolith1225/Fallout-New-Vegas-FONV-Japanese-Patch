@@ -1,0 +1,1039 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc01_topic_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00082819	I've found a way to do the bypass from here. You should be able to just use the terminal over there.
+GID00082820	Know anything about this Gala Event we're supposed to trigger?
+GID00082821	I need you to stay here and fire off the Gala Event.
+GID00082822	Are you all right?
+GID00082823	Don't act stupid. Let's get out of here.
+GID00082824	This is where it ends, Dean, give up.
+GID00082825	How did you get up there?
+GID00082826	According to the marker, you're slated for a spot in Puesta del Sol.
+GID00082827	If you think you can take me, come down and try it.
+GID00082828	Do you know what happened to the others?
+GID00082829	Casino security hit you like it hit me when you reached the lobby?
+GID00082830	Yeah, lucky us. Love getting shot at by Pre-War ghosts.
+GID00082831	Don't have time for the song and dance, Dean.
+GID00082832	All the world's a stage. Soon your brains will be all over it.
+GID00082833	So, what, you're going to risk blowing off your own head to kill me?
+GID00082834	So, stabbing me in the back for the Sierra Madre?
+GID00082835	How did you get from the Gala Event to here?
+GID00082836	How did you get from the Gala Event to here?
+GID00082837	Both Holograms are on now. It's safe for you to get to your position.
+GID00082838	That's all I needed to know.
+GID00082839	I had other questions.
+GID00082840	All right. So find the other three people with bomb collars, bring them back here?
+GID00082841	I need you to go down to the manual bypass room to regulate the power.
+GID00082842	Why do you think he wants you to go the Puesta del Sol Switching Station?
+GID00082843	Things would be a lot easier if you did one snap for yes, two snaps for no.
+GID00082844	Do you know how to get out of here?
+GID00082845	That Auto-Doc really carved you up.
+GID00082846	Those facial scars weren't done by the Auto-Doc - the throat scar was.
+GID00082847	How did you end up in the Auto-Doc?
+GID00082848	Have other people shown up in search of the Sierra Madre?
+GID00082849	Is anyone else alive around here?
+GID00082850	I found one of your stashes. Why did you leave them around the Villa?
+GID00082851	Before, you mentioned the Hologram at the Fountain - Vera? Do you know her?
+GID00082852	Do you know what those machines around the Villa are?
+GID00082853	This nodding, frowning, pointing you do is wearing me out.
+GID00082854	Can't you communicate some other way? Can you write?
+GID00082855	What weapons are you skilled at?
+GID00082856	What are the Vending Machines all over town?
+GID00082857	Tell me about the Cloud.
+GID00082858	What can you tell me about the Villa and the town?
+GID00082859	Wait here.
+GID00082861	Collect Comps
+GID00082862	Um... want gifts for good gamble?
+GID00082863	100 Chips for 100 Pre-War bills.
+GID00082864	Want, um, a hundred? Chips. Trade?
+GID00082865	How about 500 Chips for 500 Pre-War Bills?
+GID00082866	Want a lot of chips for a five hundredths bills.
+GID00082870	Your voice... is that the Starlet's voice?
+GID00082871	Now that your voice is back, what did you want to say?
+GID00082872	The elevator to the vault is here, too.
+GID00082873	How long have you been hunting him?
+GID00082874	Sounds personal.
+GID00082875	You sound like the woman in the Sierra Madre broadcast.
+GID00082876	"Settle it?" You're here to kill him.
+GID00082877	I don't have time for this. Get in the damn elevator.
+GID00082878	Are you all right?
+GID00082879	Who are you?
+GID00082880	Looks like someone carved a roadmap across your face.
+GID00082881	Did somebody cut your vocal cords?
+GID00082882	Look, I'm here to help.
+GID00082883	What happened?
+GID00082884	This isn't what it looks like.
+GID00082885	What's the matter?
+GID00082886	If you attack me, you'll regret it.
+GID00082887	Don't do that!
+GID00082888	It's a bomb collar - mess with it, it'll go off.
+GID00082889	Unless you want to lose your head, stop.
+GID00082890	Let's just say we're in this together.
+GID00082891	Enough of this shit, we need to move.
+GID00082892	Look, we can have this not-talk later, let's go.
+GID00082893	What do you mean by that?
+GID00082894	We need to cooperate if we're going to get out of here.
+GID00082895	If your collar goes off, mine goes off, it's better if we guard each other.
+GID00082896	Look, together we can get out of this.
+GID00082897	That's not going to work for me.
+GID00082898	You're coming with me, or else.
+GID00082899	I had questions I wanted to ask.
+GID00082900	I had other questions.
+GID00082901	Looks like someone set the bone saws to run random.
+GID00082902	I don't understand why they shaved you bald.
+GID00082903	Wait, the Auto-Doc didn't shave you bald?
+GID00082904	No, wait, I want to hear this. You were bald before?
+GID00082905	[BOS] You were a Brotherhood of Steel Scribe?
+GID00082906	How the hell did you get out here?
+GID00082907	Were you looking for something?
+GID00082908	Were you researching something?
+GID00082909	The Auto-Doc didn't do that?
+GID00082910	So the Auto-Doc cut your voice box, not your scalp.
+GID00082911	I can't restore your voice, we'd need a real Auto-Doc to do that.
+GID00082912	So you cut your own hair off?
+GID00082913	I... don't understand.
+GID00082914	Wait... that's a Brotherhood of Steel symbol, right? You're a Scribe?
+GID00082915	Where were you before?
+GID00082916	I let you out of the Auto-Doc. I can put you back in there just as fast.
+GID00082917	Glad we understand each other. Let's go.
+GID00082918	Fine. Would hate to have carved you up anymore than you are.
+GID00082919	Get going. I'll meet you at the Fountain in the center of the Villa.
+GID00082920	Look, I'm not trying to order you. But your life is tied to mine.
+GID00082921	What exactly is wrong? Don't you want out of here?
+GID00082922	You're looking for something else. Fine, I can help.
+GID00082923	Why don't you come with me, whatever else you're here for, not my concern.
+GID00082925	He said he knew you.
+GID00082926	He knew Elijah? How?
+GID00082927	Sympathized? Why?
+GID00082928	There's a chance he'll see reason.
+GID00082937	What are you talking about?
+GID00082938	Not one for sitting when the clock's ticking.
+GID00082939	The chair's... an explosive? But...
+GID00082940	Better be a shaped charge, or you're going to kill both of us.
+GID00082941	Hnh?
+GID00082943	Uh... you... probably want to hear my side of things.
+GID00082944	I'll save my questions for the end - please, go on.
+GID00082945	Look - I need your help to get into the Sierra Madre.
+GID00082946	You've got my attention. For the moment.
+GID00082947	I'm listening.
+GID00082948	Misund...? Ummm.
+GID00082949	I'll cooperate. What do you want?
+GID00082950	I'm not going to help you.
+GID00082951	Have you tried to deal with them?
+GID00082952	Our collars... these "neckties" are linked. I die, you die.
+GID00082953	Uh... look, maybe we can make some sort of... deal, you and me.
+GID00082954	Your negotiation skills assume you're bargaining from a position of strength.
+GID00082955	I think you're bluffing. I'm getting up, right now.
+GID00082956	Either deal with me as an equal, or I walk.
+GID00082957	Forget this, I'm leaving.
+GID00082958	Agree to come with me now, or I get up from this chair and kill us both, shaped-charge or no.
+GID00082959	I only need you breathing. Push me, I'll bring you to the point of death, then leave you.
+GID00082960	It's starting to make sense, now that I've met you.
+GID00082961	Meet at the Fountain, and we'll hear what the next step is.
+GID00082962	How tough are they?
+GID00082963	I'm not a bad shot. I could probably kill one.
+GID00082964	I'm a fair shot. One shot, one kill is how I handle problems.
+GID00082965	Where did they come from?
+GID00082966	I think you can manage walking there without me. Now get going.
+GID00082967	Fine. Get up and follow me.
+GID00082968	Focus?
+GID00082969	We'll find out more about our "contract" back at the Fountain.
+GID00082970	Any reason you can't find your way there?
+GID00082971	Fine. Get up and follow me.
+GID00082972	Well, if I can get here, others will be, soon enough. Fountain's the safest place.
+GID00082973	I had questions I wanted to ask.
+GID00082974	I had other questions.
+GID00082975	Is there anything else about them I should know?
+GID00082976	I've never seen machines like those before.
+GID00082977	Grifters?
+GID00082978	How did he describe it?
+GID00082979	What other items can you get out of the machines?
+GID00082980	Where can I find these cards?
+GID00082981	What do you mean?
+GID00082982	Tell me. The short version.
+GID00082983	Voice?
+GID00082984	So you don't know the phrase?
+GID00082985	All right, I'll head out and see what I can do on my end.
+GID00082986	How so?
+GID00082987	Forget the history lesson, get to the point.
+GID00082988	Go on.
+GID00082989	So what happened?
+GID00082990	What was your problem with Sinclair?
+GID00082991	But what did he do to you?
+GID00082992	Forget Sinclair. If Vera was the key, she's dead.
+GID00082993	I'm in. If that's all, let's head out.
+GID00082994	So you're going to prove it now? How?
+GID00082995	And if she is alive?
+GID00082996	What do you mean?
+GID00082997	I'm listening.
+GID00082998	Fine. Meet at the Fountain?
+GID00082999	Less painful would be me throwing you off the roof. Understand?
+GID00083000	This thing on my neck isn't for show. That bomb goes off, so do I - and you, too.
+GID00083001	I'm not going to let any harm come to you, all right?
+GID00083002	<Lie> Dean, I wouldn't leave you here, I swear.
+GID00083050	What happened to your voice?
+GID00083051	That name carved on your chest... are you Dog?
+GID00083052	Yes, this should be enough.
+GID00083053	I haven't found enough yet.
+GID00083054	Who locked you in that cage?
+GID00083056	I want to know more about the Master.
+GID00083057	I had questions for you.
+GID00083058	All right, let's get out of here.
+GID00083059	Meet me over at the Fountain, we'll plan our next move.
+GID00083060	Who's this Old Man who brought us here?
+GID00083061	I need you to get to your Gala Event position.
+GID00083062	I had questions for you.
+GID00083076	You've got a lot to answer for.
+GID00083077	Still hiding behind images and screens, I see.
+GID00083078	How did you access my Pip-Boy?
+GID00083079	What do you mean?
+GID00083080	You sure needed it to escape.
+GID00083081	I wasn't the one hiding all this time.
+GID00083119	I had to kill him before he hurt others.
+GID00083120	He's trapped, no chance of him escaping.
+GID00083121	He's dead.
+GID00083122	There's something I wanted to pass along.
+GID00083123	It's a message. The news is up to you.
+GID00083124	Did it make any sense?
+GID00083125	Here you go.
+GID00083126	Yes. It was entrusted to me, not you.
+GID00083127	Unlock it, give it back, then shut up.
+GID00083128	I want to exchange Pre-War money for some Sierra Madre Chips.
+GID00083129	Can we trade? Do you trade?
+GID00083130	Can I turn in my Sierra Madre Chips for Pre-War Money?
+GID00083131	I have shiny chips, want money - trade?
+GID00083132	That's all for now. Thanks.
+GID00083133	Don't need anything else. Bye.
+GID00083134	Uh... 1 Chip for 1 Pre-War Bill.
+GID00083135	Gimme one chip for one piece of paper.
+GID00083136	Let me have 5 Chips for 5 Pre-War Bills.
+GID00083137	Want five. Chips. For five dollars.
+GID00083138	20 Chips for 20 Pre-War Bills.
+GID00083139	Um, have 20 dollars... how many chips? 20?
+GID00083140	I'd like help with something else.
+GID00083141	Need help - can you help?
+GID00083142	All right, let me see if I can find another way to do this without sending you down there.
+GID00083143	<Lie> We'll take the elevator up, see if there's another way to do this. After you.
+GID00083166	I know Elijah needs to be dealt with, just let me handle it.
+GID00083167	You could have said something sooner.
+GID00083168	Just die, tired of listening to you anyway.
+GID00083169	What do you want to say?
+GID00083170	Just glad you're safe. Hold up here, I'll take care of Elijah.
+GID00083171	All right, come with me.
+GID00083172	Meet me at the Fountain, then we'll go from there.
+GID00083173	That's enough for now.
+GID00083174	Let's get going.
+GID00083182	That's our captor. He likes giving orders.
+GID00083183	I dealt with the others, and I've got the key phrase.
+GID00083184	I need you here, so sit tight.
+GID00083185	This place... I'm not sure, it doesn't feel like a casino. Not entirely.
+GID00083186	What? What is it?
+GID00083187	Does that Auto-Doc there work?
+GID00083188	Anything you can download off of it?
+GID00083189	I had some questions I wanted to ask you.
+GID00083190	Can the Auto-Doc heal your scars?
+GID00083191	You said you got off lucky?
+GID00083192	Elijah didn't put you in the Auto-Doc... Dean did.
+GID00083193	I dealt with the other two in our team, now I need you to open something.
+GID00083194	He wasn't trying to torture you, he needed to alter your voice to use an audio-lock.
+GID00083195	That's the hologram projector in the Fountain. What of it?
+GID00083196	You think he's using the Pip-Boy? To establish the projector connection?
+GID00083197	How did you get to the main gate? Then get here?
+GID00083198	Maybe it was a trust issue? He built this place for her, it feels like.
+GID00083199	I have no idea, let's unlock it. The phrase is contained in the lyrics to a song.
+GID00083200	I've got you to come down after me, it'll respond to your voice.
+GID00083201	What does that mean?
+GID00083202	If we stay here, the Cloud and the Holograms will answer that.
+GID00083203	It's a decayed speaker. If we stay too long near one, it'll go off.
+GID00083204	I believe he loved her, wanted to protect her. Too much.
+GID00083205	Guess it's the object of someone's obsession - or affection.
+GID00083206	What? What now?
+GID00083207	The target's the vault, not the casino, right?
+GID00083208	I found the phrase for elevator's audio lock.
+GID00083209	Come on, we need to keep moving.
+GID00083210	You'll have to wait just a little longer.
+GID00083211	Are you going to be okay here?
+GID00083212	<Take her hand.>
+GID00083213	Not in a hand-holding mood right now.
+GID00083214	All right, be ready.
+GID00083215	I don't understand.
+GID00083216	We'll get through this.
+GID00083217	Yeah, "thumbs up" - you better appreciate it.
+GID00083218	I'll be back for you, okay?
+GID00083219	I mean it. Stay alive until I get back.
+GID00083220	Get in that elevator or I'll make those scars on your face a pleasant memory.
+GID00083221	What's wrong?
+GID00083222	[Perception] It reminds you of being trapped in the Auto-Doc.
+GID00083223	I have no idea what your problem is.
+GID00083224	What the hell are you motioning about?
+GID00083225	You ready? The sequence is: "Begin." "Again." "Let." "Go."
+GID00083226	We'll see. I'll take care of him.
+GID00083227	That's what I'm counting on.
+GID00083228	He'll come here, to the Suites - when he does, let him go through.
+GID00083229	Are... are you all right? Something seems off.
+GID00083230	That's why you're waiting. You're going to kill him.
+GID00083231	Do you trust me? If you do, let go of this.
+GID00083232	If he kills you, I won't be able to get out.
+GID00083233	Let him come through the suites, follow me. If he escapes, you'll still be here, waiting.
+GID00083234	If you try and kill him, I can't let you do it. If you die, you'll kill us both.
+GID00083235	Then I need to keep you from doing it.
+GID00083236	Christine, please, let go of this. Let me deal with him.
+GID00083237	He won't escape, I swear.
+GID00083238	Fine. If you can't let him go, you don't leave me much choice.
+GID00083239	Don't tell me where you're going - I'll find you after this.
+GID00083240	For now, just say the words, and let's settle this so we can go home.
+GID00083241	What? You can make the speakers stop or something?
+GID00083242	You can dampen the signal somehow?
+GID00083243	You... uh...speakers make a tempo... or...?
+GID00083244	You can interfere with the Speaker's detonation frequency somehow?
+GID00083245	Does that work with any other collar?
+GID00083246	Got it, let's move on.
+GID00083247	It's just your frequency.
+GID00083248	...but only between us.
+GID00083249	Yeah, speaker static makes our heads blow off, right.
+GID00083250	You can interfere with the detonation signal from the speakers?
+GID00083251	Great. How romantic.
+GID00083252	We need to trigger the event like he says.
+GID00083253	He leaves audio logs, too.
+GID00083254	<Show her the Pip-Boy.>
+GID00083255	No fucking way am I giving this to you.
+GID00083256	What? What do you want?
+GID00083257	I don't want you messing with this.
+GID00083258	I had to get shot in the face for this. Get your own!
+GID00083259	Careful, that's my arm, all right?
+GID00083260	No worries, I'll just stand here like a piece of furniture until you're done.
+GID00083261	<Wait.>
+GID00083262	You sure seem eager to go.
+GID00083263	I... can only type with two fingers?
+GID00083264	Neither Dean or Dog have the technical aptitude to man the Switching Station?
+GID00083265	I don't know what you're talking about.
+GID00083266	I don't have any Sierra Madre Chips on me.
+GID00083267	Think he might be close, then. Any idea where?
+GID00083268	He'd have to be broadcasting from somewhere nearby.
+GID00083269	You make a pretty lousy transmitter, you know.
+GID00083270	Here's a Sierra Madre Chip. I'll need that back.
+GID00083271	You want... a small circle?
+GID00083272	We really don't have time for magic tricks right now.
+GID00083273	You... can make more?
+GID00083274	You can... scrounge more somehow.
+GID00083275	I don't understand.
+GID00083276	Yeah, there's more. All over.
+GID00083277	I have no idea what you're talking about.
+GID00083278	You can make more of those at a Workbench. With the right materials.
+GID00083279	Maybe if I find whatever objects you're trying to describe, this might make more sense.
+GID00083281	You need a battery... a Fission Battery... and Scrap Metal? And you can counterfeit the chips?
+GID00083282	Can you teach me how to do it?
+GID00083283	Maybe if I find what you're talking about, you can let me know.
+GID00083284	You can use these somehow? To make... make Sierra Madre Chips?
+GID00083285	What are you planning to do?
+GID00083286	You've had your voice back for only a little while, and I'm already sick of listening to you.
+GID00083287	If killing you will shut you up, let's do this.
+GID00083288	Is that like a science thing?
+GID00083289	You found a way to modify the collar's radio frequency.
+GID00083290	But... your collar's still on. So you're not free.
+GID00083291	You can modify the detonator signal. I don't see how that helps you.
+GID00083292	What are you talking about?
+GID00083293	Done talking? I want to put your little theory to the test.
+GID00083294	There'll be a second or two of lag while you switch it. That's long enough for me to kill you.
+GID00083295	You know I didn't put you in the Auto-Doc, right?
+GID00083296	Even with the differences in the Villa, I don't want to fight.
+GID00083297	We're inside the casino. We don't need to fight anymore, it's useless.
+GID00083298	I didn't put you in that Auto-Doc. Dean did.
+GID00083299	He wasn't trying to torture you, he needed to alter your voice to use an audio-lock.
+GID00083300	Something to do with the surgery.
+GID00083301	So... brain damage, or...?
+GID00083302	Why... would someone remove your ability to write, or...
+GID00083303	That's a specific form of brain surgery using electrodes. Pre-War.
+GID00083304	That's a rather specific form of operation.
+GID00083305	You can still do math, that's good to hear.
+GID00083306	You can still do numbers and calculations.
+GID00083307	You were knocked out?
+GID00083308	He's broadcasting from the casino.
+GID00083309	You really want to get to him, don't you.
+GID00083310	Um, do you want to talk about it, or...?
+GID00083311	No, before we go any further, I need to know what the problem is.
+GID00083312	You kind of... changed there for a second.
+GID00083313	Don't ignore me - your whole body language changed there.
+GID00083314	Aren't you upset?
+GID00083315	You're looking for the man inside the casino.
+GID00083316	Elijah? You need to see Elijah.
+GID00083317	Why are you looking for him?
+GID00083318	You want to kill him.
+GID00083319	He's responsible for the scars.
+GID00083320	You mean business.
+GID00083321	I'm fine with killing the son of a bitch. As long as we can torture him first.
+GID00083322	Could always slap a collar on him and let him run into a wall of speakers.
+GID00083323	I'd like to know why he did all this first and what's so important about the casino.
+GID00083324	I'm not out to kill anyone, I just want to get out of here.
+GID00083325	I don't care. I'd rather reason with someone first than simply kill them.
+GID00083326	He came this way for a reason, and I want to know why.
+GID00083327	Maybe you're right, killing him is the best option.
+GID00083328	I just want to kill him anyway.
+GID00083329	Did you get gassed like I did?
+GID00083330	I didn't bring you here.
+GID00083331	You think I had something to do with this?
+GID00083332	Now... wait, you're acting like you don't trust me or something.
+GID00083333	What? What about my feet?
+GID00083334	Did you circle the area, or...?
+GID00083335	I... don't understand.
+GID00083336	You want to know how I got here?
+GID00083337	Followed a radio signal here, a woman's voice.
+GID00083338	None of your business.
+GID00083339	<Raise an eyebrow back.>
+GID00083340	...I was curious where it led.
+GID00083341	Needed supplies, thought it might lead me somewhere interesting.
+GID00083342	Thought I may have stumbled on an Old World treasure cache.
+GID00083343	Looking to start life as a Prospector, figured this place was a good place to start.
+GID00083344	I couldn't even tell you why, I just... did.
+GID00083345	If I could leave, I would.
+GID00083346	Me? What about you?
+GID00083347	Are you saying it's one or the other?
+GID00083348	What about you?
+GID00083349	You're not going to leave.
+GID00083350	I can't believe you'd want to stay here.
+GID00083351	So once the collars are gone, we can just leave?
+GID00083352	I... have no idea what you're saying. Again.
+GID00083353	You're saying it'll be difficult to return here if we leave.
+GID00083354	You were over the moon?
+GID00083355	...to return here if I leave.
+GID00083356	But not you.
+GID00083357	Why can't you find your way back?
+GID00083358	You aren't going to leave.
+GID00083359	So you're after the treasure then?
+GID00083360	Are you trying to break into the casino?
+GID00083361	Why would you want to stay here of all places?
+GID00083362	You were... looking for something?
+GID00083363	You want to... hunt here?
+GID00083364	You want to kill something here, then protect this place.
+GID00083365	Why do you want to do that?
+GID00083366	You're worried someone's going to find this place? Use it to hurt people.
+GID00083367	You can't protect the world from the world... it's useless.
+GID00083368	I'm not the one trying to communicate with hand motions.
+GID00083369	Fine, be a bitch, then.
+GID00083370	What are you shaking and nodding for?
+GID00083371	Okay, okay, I get it. <Nod slowly.> Better than finger snaps.
+GID00083372	You were looking for someone?
+GID00083373	A smile... now that's more like it.
+GID00083374	You really need to relax. This entire place is a Pre-War paradise, you know.
+GID00083375	Look... we'll find a way to heal you, all right?
+GID00083376	Wherever you were, it was hot out.
+GID00083377	This charades shit is driving me crazy.
+GID00083378	A robot?
+GID00083379	Man?
+GID00083380	Or a woman?
+GID00083381	All right, someone alive.
+GID00083382	An... angry, bearded... man.
+GID00083383	You were looking for a man in a Vault.
+GID00083384	You were looking for a Vault Boy?
+GID00083385	The man on the Pip-Boy holotape, Elijah.
+GID00083386	Someone smart.
+GID00083387	...and nuts.
+GID00083388	So why would you waste time looking for him?
+GID00083389	Sounds like it's pretty important to you to find this person.
+GID00083390	I don't understand.
+GID00083391	He cut you off from someone.
+GID00083392	Family? Husband?
+GID00083393	Oh - girlfriend.
+GID00083394	Uh... boyfriend?
+GID00083395	What, your wife?
+GID00083396	Oh - girlfriend.
+GID00083397	Oh- girlfriend.
+GID00083398	You were more than girlfriends - lovers.
+GID00083399	Unrequited? Or...
+GID00083400	What, you think I don't understand love?
+GID00083401	Give me a little credit.
+GID00083402	I understand how important a loved one can be.
+GID00083403	Whatever, love is transitory - or ended in gunfire.
+GID00083404	How did you get here from the Gala Event? And onto this floor?
+GID00083405	Energy Weapons, Explosives, Melee, Unarmed, and Guns. Is that all?
+GID00083406	You seem like you've been well-trained.
+GID00083407	Oh, is that all? Guess that'll do.
+GID00083408	So after your speech about control, now you're going to use the collars like Elijah did?
+GID00083427	Are you going to give me the key or not?
+GID00083428	Quit stalling, hand it over.
+GID00083429	Come on, Dean, turning me to ash? Hardly the way to end a beautiful partnership.
+GID00083430	Forget it, I'll just kill you and take it.
+GID00083431	I found this Holotape in your safe.
+GID00083432	That's all I wanted to know. Ready to die?
+GID00083433	"Vera" Hologram? You know the holographic woman?
+GID00083434	I bet I can figure out how to unlock the exit without you.
+GID00083435	You're not a betting man, which means I'm betting you have the key to the exit on you.
+GID00083436	No, based on your response, I'm sure of it.
+GID00083437	Give me the key, Dean, and you walk.
+GID00083438	I'm positive you have it. Now, I'll just kill you and take it.
+GID00083439	I think she was sick, yes. Found a medical report in her Suite.
+GID00083440	Why did you need her?
+GID00083441	I'm not sure.
+GID00083442	Are you really that stupid?
+GID00083443	I'm not interested in killing you.
+GID00083444	Has the Cloud decayed your brain? Forget the Sierra Madre!
+GID00083445	That's the plan. Are you going to be able to do it safely?
+GID00083446	I could just jab both wires into you, close the circuit that way.
+GID00083447	If re-connecting the speakers is part of the Gala Event, yes.
+GID00083448	Look, I need you to stay here and do it.
+GID00083449	What weapons are you skilled with?
+GID00083450	Sounds... interesting.
+GID00083451	Any idea why he wants you there?
+GID00083452	Security? What security?
+GID00083453	Scrounge supplies? Like what?
+GID00083454	How do you make it?
+GID00083455	Always in the mood for another drink. What's the recipe?
+GID00083456	What about Christine?
+GID00083457	And the woman? The Auto-Doc victim - what about her?
+GID00083458	Interesting? Interesting how?
+GID00083459	Why... it sure is interesting. Are you thinking what I'm thinking?
+GID00083460	What happens during the Gala Event?
+GID00083461	Can you tell me about her?
+GID00083462	Introductions? You knew her before?
+GID00083463	So you met her before she met Sinclair?
+GID00083464	I found some medical records in the Villa Clinic. You brought her in for treatment, right?
+GID00083465	So the visitors all killed each other?
+GID00083466	What happened to the people who came to the Villa?
+GID00083467	Any advice to getting through this?
+GID00083468	The Gala Event's tied into the casino's generators?
+GID00083469	How is the Gala tied to the casino? That makes no sense.
+GID00083470	Why would security shut down for the Gala?
+GID00083471	What do you mean about the Sierra Madre broadcast?
+GID00083472	So... it's not an invitation, it's a call for help.
+GID00083473	The bombs fell, and the emergency signal went out.
+GID00083474	She's been broadcasting all this time?
+GID00083475	I'm not following you.
+GID00083476	Wait, what Holograms? What are you talking about?
+GID00083477	I didn't see any security coming in - only the speakers.
+GID00083478	So how do I get you out of there?
+GID00083479	All right, I'll head for the door on the left.
+GID00083480	All right, I'll break to my right, head for the locked door.
+GID00083481	Uh... anything else you can tell me that'd help? Anything?
+GID00083482	I need a little more than that to go on if we're going to break out of here.
+GID00083483	This casino's security system is pissing me off.
+GID00083484	What about the speakers in here?
+GID00083485	Dean, the theater speakers are wired to a central sound system, right?
+GID00083486	Calm down, think. Do you know specifically where?
+GID00083487	One problem at a time. Take a breath, try and remember.
+GID00083488	Yeah, but if I run, what about the Security Holograms?
+GID00083489	Getting backstage is a temporary measure if I can't find the security terminal.
+GID00083490	Good thing you mentioned that before I ran back there, "partner."
+GID00083491	That's the radios and speakers - what about a central sound system?
+GID00083492	Keep going. What else?
+GID00083493	Is there one console that runs them or several?
+GID00083494	All right, makes sense. Where's the music?
+GID00083495	So I go to the locked door, right?
+GID00083496	Wait - I need to head to the door to your left or my left?
+GID00083497	What are you doing with a key to her room?
+GID00083498	The key is a song by Vera Keyes.
+GID00083499	Fine with me. Come on, let's settle this.
+GID00083500	As long as I re-establish a frequency to each floor, I can rebuild the song.
+GID00083501	The song still exists in fragments in the Sierra Madre archives on each floor.
+GID00083502	What about the collars, huh? Kill me, and...
+GID00083503	And the collars? You sound awfully eager to kill someone whose life is tied to yours.
+GID00083504	<Lie> I'm not sure how to do it yet. You said you had a recording outside?
+GID00083505	The one who put these collars on us wanted me to deal with everyone first.
+GID00083506	Wait - you said you have one inside? Where's the song recording you have?
+GID00083507	Christine is alive. Dog... well...
+GID00083508	Christine is dead. Dog... well...
+GID00083509	<Lie> If by "recording inside" you meant Christine, she's dead.
+GID00083510	If by "recording inside," you meant Christine, she's dead.
+GID00083511	The one who put these collars on us wanted me to deal with everyone first.
+GID00083512	No - believe it or not, I wasn't going to leave you to die.
+GID00083513	If it means I can get out of this alive, yes, that's why I'm here.
+GID00083514	Yes, that's the next step. You going to be all right?
+GID00083515	Now that I've got the signal established to this floor, yes.
+GID00083516	The terminal can tie the fragments together, just need to wrap it up.
+GID00083518	Wait, you were trying to smuggle one inside? Where is it?
+GID00083519	If you were using Christine's voice box to smuggle Vera's voice in, she's dead.
+GID00083520	<Lie> If Christine's throat surgery was your plan, too late, she's dead.
+GID00083521	Christine is alive. Dog... well...
+GID00083522	Christine is dead. Dog... well...
+GID00083523	Still trying to find out. Not sure.
+GID00083524	Everyone's still alive on each floor - including you.
+GID00083525	I found this Holotape in your safe.
+GID00083526	Were you blackmailing Vera Keyes to break into the Sierra Madre?
+GID00083527	What did you want her to do?
+GID00083528	What were you blackmailing her with?
+GID00083529	That's all I wanted to know. I'll head out, see what I can do on my end.
+GID00083530	Really? What makes you think you can slip out?
+GID00083531	I guess I should have figured you'd have an escape plan. Clever.
+GID00083532	I'm that predictable, am I? You're probably right.
+GID00083533	...head backstage, destroy every speaker, grab every key, then shut down security...
+GID00083534	So as long as I make sure I don't run for the exit...
+GID00083535	...that plan sounds pretty clear to me. Got it.
+GID00083536	Really? You're a terrible liar. See you soon, Dean.
+GID00083537	We'll talk about this more when we're face-to-face.
+GID00083538	I guess I'll try the key and see.
+GID00083539	I can handle a 200 year old washed-out lounge singer, trust me.
+GID00083540	If I clear out all the Ghost People in the area, will you change your mind?
+GID00083541	All right. What's it going to take?
+GID00083542	What if I can guarantee they won't come into the courtyard below?
+GID00083543	The Villa has Holograms everywhere. If I switch on some to cover the area...
+GID00083544	I could just throw you off the roof. What about that?
+GID00083545	Let me hunt around, maybe there's something I can do to protect the area.
+GID00083546	I switched on two Holograms to cover the courtyard, those should protect you.
+GID00083547	Okay, let me see if I can reactivate the Holograms.
+GID00083548	I don't need to kill you, you know.
+GID00083549	Both of us dying wasn't my plan.
+GID00083550	I could break both your legs, leave you here on the roof.
+GID00083551	All I need is your hands to hold the wires.
+GID00083552	No, it only means I wouldn't come back for you. Ever.
+GID00083553	If I break your legs, you can't leave - only scream. Here, in the middle of town.
+GID00083554	Do what I say, or I'll break both your legs and leave you here.
+GID00083555	If you don't do this, I'll go shut off the Holograms now.
+GID00083556	Dean... a man with cold feet isn't someone I'd share a bed with.
+GID00083557	Look, what do you want to do this?
+GID00083558	I'm not about to trade your life for mine, got it? Remember the collars.
+GID00083559	Just trust me, all right?
+GID00083560	Don't trust me? Then trust our collars. I die, you die. Got it?
+GID00083561	I think you can count on the Holograms, okay?
+GID00083562	Vera's stayed powered up since the bombs fell... those Holograms will, too.
+GID00083563	You must know me enough by now to know I'm not going to put you in danger.
+GID00083564	There's a Hologram guarding the courtyard below, you're covered.
+GID00083565	These Ghost People... they're the only ones alive around here?
+GID00083576	So... you're locked in there? Where's the key?
+GID00083577	You wouldn't have locked yourself in there without some sort of key to let you out.
+GID00083578	Did you hit your head or something? You're acting odd.
+GID00083579	You have multiple personality disorder. Some trauma caused this?
+GID00083580	I heard electricity and radios can cause, uh, voices in people's heads.
+GID00083581	In Super Mutants, brain damage is usually the result of prolonged Stealth Boy usage.
+GID00083582	We need to get you to the Gala Event. Get you to your place.
+GID00083584	What are you, exactly? You're acting different than before.
+GID00083585	Have orders for you - for going, staying, all that.
+GID00083586	Come on, then. I won't make it easy on you.
+GID00083587	I don't plan on running, it's time to kill you both.
+GID00083588	Dog... listen to me... don't do this.
+GID00083589	Dog! Stay! If you don't, Master will be mad!
+GID00083590	No, hold it tightly by the neck - now sink your teeth into it, tear it apart.
+GID00083591	Dog, hidden on you is the key. Find it, and toss it to me.
+GID00083592	I need your obedience. First, I'm going to show you a trick.
+GID00083593	Now that you are awake, Master wants you to listen, Dog.
+GID00083594	Just give me the key - you want out of the cage, don't you?
+GID00083595	Aren't you hungry? Go on - feed, piece by piece.
+GID00083596	Shut up, reject, and give me the key. Now.
+GID00083597	Yes, well, it had to be done. Now, I need you to remain here.
+GID00083598	I have some unfinished business. Are you going to be all right?
+GID00083599	Fine. Let's go, follow me.
+GID00083600	Go to the Fountain and wait for me there.
+GID00083601	Master needs you to pull on the chain on your neck as hard as you can.
+GID00083602	What weapons are you good at?
+GID00083603	Dog, do you know why you have to go to the position on the map?
+GID00083604	Do you know how the Ghost People taste?
+GID00083605	So Master vanished around that time.
+GID00083606	If the casino already opened, what are we doing here?
+GID00083607	I can't do it - fighting's more merciful than this.
+GID00083608	Do you know how long ago?
+GID00083609	I watched you devour one of the Ghost People.
+GID00083610	Doesn't that make the voice mad?
+GID00083611	Why do you eat the Ghost People?
+GID00083612	Can you tell me more about the Gala Event going off?
+GID00083613	Can you tell me about the other voice inside you?
+GID00083614	Did you bring me here?
+GID00083615	Do you know the way back?
+GID00083616	Forget this. Come on, let's fight, you big reject.
+GID00083617	Ready for more? Come on, let's finish this.
+GID00083618	Dog... stay back, listen to me.
+GID00083619	Dog! Stop! Or Master will be mad!
+GID00083620	No, look, I wasn't the one who caged you here, all right?
+GID00083621	Dog, the Master sent me. He commands you to listen to my voice now.
+GID00083622	Good... well done, Dog. I'm pleased. Now stay.
+GID00083623	Dog, listen to the other voice inside now. Go to sleep, let him come out.
+GID00083624	The other voice? See it in your head - not as a voice, but as a ball, the size of your hand.
+GID00083625	You're not leaving me any choice, I have to stop you.
+GID00083626	Take that chain around your neck, grab the ends, and pull slow and hard until you hear a crack.
+GID00083628	Dog, if you do this, you'll kill yourself.
+GID00083629	If you try to burn the voice out of you, this casino will be destroyed, and us along with it.
+GID00083630	There's no need for any of that, let's get out of here.
+GID00083631	Close your eyes, and only open them if the voice tells you.
+GID00083632	Reach around to the chain on your neck, see if you can find a key.
+GID00083633	Dog, do you know why you have to go to the position on this map?
+GID00083634	This is important - do you remember what happened exactly?
+GID00083635	Goodnight, Dog. You won't wake up, ever again.
+GID00083636	Um... do you want to talk about it?
+GID00083637	Dog, think back to the lights, the pretty ones.
+GID00083638	Wait, the casino already opened?
+GID00083639	Could I find my way back?
+GID00083640	The Master sounds like he treats you well.
+GID00083641	That's it, sleep, reject. Sleep like the dead.
+GID00083642	Try to picture the voice, inside, and, uh, turn in and look at it.
+GID00083643	Imagine the voice, not as a voice... but as water. Look at the voice now, what do you see?
+GID00083644	Then... step into the water, step into yourself.
+GID00083645	Do you know what happens if you go into the water, Dog?
+GID00083646	Now that you see, I want you to step back, listen to the voice again.
+GID00083647	Fine, reject. You want to die? I'll accomodate you.
+GID00083648	Dog, that voice doesn't control you, all right?
+GID00083649	Do you need to eat them to make them stay down?
+GID00083650	Bite down on it, chew until it's silent, then swallow it.
+GID00083651	Forget it. I'm sick of dragging you around anyway.
+GID00083652	I don't mean you any harm... you just need to calm down, focus.
+GID00083653	When we were sneaking, you mentioned Lou... who's Lou?
+GID00083654	That all seems lethal. Sort of.
+GID00083655	So... dismemberment and disintegrations take them down.
+GID00083656	Look, listen to my voice, maybe... maybe I can help.
+GID00083657	Dog, I stopped because I don't want to hurt you - now listen. I want to help.
+GID00083658	Maybe you just... uh... need to hear another voice, like mine.
+GID00083659	Dog, Master is here now, Master wants you to stop this.
+GID00083660	How do you do it?
+GID00083661	Can you show me where?
+GID00083662	Dog... just calm down... there's no need to keep fighting.
+GID00083663	Is that why you have a bear trap locked on your arm?
+GID00083664	Can you tell me how you got to the Sierra Madre?
+GID00083665	How you get here?
+GID00083666	Those scars on your body - where did you get them?
+GID00083667	I need you to stay here and trigger the switches.
+GID00083668	That's enough for now.
+GID00083669	Your name is carved on your chest. Is that part of it?
+GID00083670	Can you tell me about the voice?
+GID00083671	I had other questions for you.
+GID00083672	Me hear voice, too? Then got here, bad place.
+GID00083673	Don't like it here, either.
+GID00083674	Voice in the air?
+GID00083675	What do you eat?
+GID00083676	Nuh-uh!
+GID00083677	Why you want to look like ground?
+GID00083678	Must been hard to see you.
+GID00083679	Maybe you go back someday.
+GID00083680	Where Church now?
+GID00083681	Sound nice. It still there?
+GID00083682	Where does the voice come from?
+GID00083683	Sounds like good trade.
+GID00083684	I want to hear more about the Master.
+GID00083685	Where's your collar?
+GID00083686	What's the other voice?
+GID00083687	Do you know how to wake him up?
+GID00083688	If you have the key in there, the "Old Man" can order Dog to open the cage.
+GID00083689	What weapons are you good at?
+GID00083690	So you're the one who knows how I got to the Villa.
+GID00083691	Sounds like Dog might be more willing to get out of the cage than you.
+GID00083692	I need you to stay and operate the switches for the Gala Event.
+GID00083693	I bet I can get Dog to stay here, if you won't.
+GID00083694	What do you know about the Gala Event?
+GID00083695	Are you going to be all right?
+GID00083696	Now, if you've got him on a leash, I need to finish things here.
+GID00083697	As long as you're not planning to blow up the casino now, great.
+GID00083698	Not having your help doesn't matter if this heals you.
+GID00083699	I don't want you to be under anyone's control, even mine.
+GID00083700	Then I don't want you to merge, I need you here... Dog, listen to my voice. Dog?
+GID00083701	We came this far, I'll manage. Go on, let go.
+GID00083702	I promise I'll try not to get killed.
+GID00083703	Just go before I change my mind.
+GID00083704	Dog?
+GID00083705	Are you all right?
+GID00083706	Your voice... it's different.
+GID00083707	It'd take too long to explain.
+GID00083708	A cage... but at least you're not in two of them now.
+GID00083709	We're trapped inside a casino in a poisonous city.
+GID00083710	Go on and rest. I have to take care of something.
+GID00083711	If you get the strength to leave, do so - quickly.
+GID00083712	Fine, don't take too long, or it'll be a short recovery, trust me.
+GID00083713	Dog... don't do this, listen to me, my voice.
+GID00083714	Dog, Master is here now, Master wants you to stop this.
+GID00083715	Yeah, well, I'll make Dog help me. Can't be hard to figure all this wire stuff out.
+GID00083716	If that diagram over there holds the details, I can walk Dog through the instructions.
+GID00083717	If I bring food, will that calm Dog down?
+GID00083718	<Lie> Just... stay here in the courtyard, I'll go get food.
+GID00083719	I had other questions for you.
+GID00083720	Do you know anything else?
+GID00083721	How do you switch back and forth between voices?
+GID00083722	We need to discuss tactics - and positioning.
+GID00083723	I was looking for someone with a collar like mine. Where is your collar?
+GID00083724	Why did you lock yourself in the cage?
+GID00083725	I need to get you out of there.
+GID00083726	If you weren't expecting me, who were you waiting for?
+GID00083727	If that collar inside you is active, I didn't switch it on.
+GID00083728	How the hell did you... or whoever... eat one of these collars?
+GID00083729	Maybe you shouldn't go around shoving Old World tech in your stomach.
+GID00083730	Forget it. I had other questions.
+GID00083731	Do you know how I got here?
+GID00083732	Why do you say I'm the same as the Old Man?
+GID00083733	This Old Man, what do you know about him?
+GID00083734	You brought me here to the Villa.
+GID00083735	I can't leave until we get through this.
+GID00083736	So you know the way back?
+GID00083737	Why do you say that?
+GID00083738	I don't remember, only woke up when my Pip-Boy went active.
+GID00083739	No idea, I was unconscious the whole time.
+GID00083740	So Dog could just open the door at any time?
+GID00083741	Scorched by the sun?
+GID00083742	What is he doing here?
+GID00083743	So why did you bring me here?
+GID00083744	If you locked him... you... in, what if you couldn't get out?
+GID00083745	Wait. So you... or Dog... doesn't know the key is on him?
+GID00083746	Something tells me I could walk Dog through unlocking a door.
+GID00083747	Why did you surround yourself with all these radios?
+GID00083748	These radios, were you using them for signal interference?
+GID00083749	If you don't come with me, he'll set off our collars - yours and mine.
+GID00083750	I could order Dog to come with me. I bet he'd obey.
+GID00083751	The key's in there with you - and Dog.
+GID00083752	I could just tell Dog he has the key.
+GID00083753	If I can't prove it to you, then forget this, I'm bringing Dog out.
+GID00083754	<Play Elijah Audio Tape.>
+GID00083755	Do you want to die? Cooperate, or you're both dead.
+GID00083756	If he hears the Old Man's voice, he'll do what the Old Man says.
+GID00083757	I can play his voice, yes. I have an audio log from him on my Pip-Boy.
+GID00083758	The Old Man's voice is on my Pip-Boy, just like yours.
+GID00083759	I want my freedom, too. You think I like having this collar on me?
+GID00083760	What if we go after the Old Man together?
+GID00083761	Goodbye, whoever you are... I'm going to let Dog out of his cage.
+GID00083762	Calm down. Follow me, willingly, I won't do it.
+GID00083763	I have the power to let Dog out of his cage. I'm going to prove it by not doing it.
+GID00083764	I guess... the alarm outside sure is a racket, though.
+GID00083765	You're blocking the eavesdropping with the alarm outside, too. Nice.
+GID00083766	I can't convince you I'm not here for the Sierra Madre or the Old Man, so I'll prove it.
+GID00083767	So the Gala Event was triggered at least once?
+GID00083768	Even if Dog is more helpful, we can manage.
+GID00083769	In that case, I will bring him along, I don't need you.
+GID00083770	What do you mean?
+GID00083771	Surprised they could hear you over the alarm bell outside.
+GID00083772	...and the alarm sound outside helps as well. Your doing?
+GID00083773	Why does that make him go away?
+GID00083774	Well... true enough. Sure uses the word "Master" a lot.
+GID00083775	Why did you put emphasis on the word "Master" before?
+GID00083776	Sounds like it makes you mad.
+GID00083777	What does Elijah make Dog do that angers you so much?
+GID00083778	Can't you do anything?
+GID00083779	Does not being in control bother you so much?
+GID00083780	You're trying to protect Dog. Having Elijah control him, hurt him - you want to protect him.
+GID00083781	You care about him.
+GID00083782	Why can't you control him?
+GID00083783	Did getting hit in the head cause you to start acting this way?
+GID00083784	You have multiple personality disorder. Some trauma caused this?
+GID00083785	Where is your collar?
+GID00083786	I want to know more about the man who brought us here.
+GID00083787	What's Elijah doing here?
+GID00083788	What does Dog know?
+GID00083789	Dog said he triggered the Gala Event once already.
+GID00083790	Something about lights and colors, not much else.
+GID00083791	He said the casino opened up.
+GID00083792	If the casino opened up, then why are we here?
+GID00083793	If he got trapped, why didn't he set off the collars?
+GID00083794	Couldn't he have commanded you to rescue him?
+GID00083795	Does the casino block the signal?
+GID00083796	So what happened then?
+GID00083797	What are you talking about?
+GID00083798	Then how are the collars active again?
+GID00083799	The Pip-Boy could boost the signal. If Elijah has a Pip-Boy, that would explain it.
+GID00083800	He can't have possibly have set up a deadman's switch like that.
+GID00083801	If you won't do it, then Dog will, like he did at the police station.
+GID00083802	Any reason why you're assigned to this point on the map?
+GID00083803	I heard electricity and radios can cause, uh, voices in people's heads.
+GID00083804	In Super Mutants, brain damage is usually the result of prolonged Stealth Boy usage.
+GID00083805	Do you know how to operate the switches?
+GID00083806	Worried about being attacked if left here? The gate looks strong enough.
+GID00083807	I need you to trust me. I let you out of the cage in the Police Station.
+GID00083808	What kind of food should I bring back?
+GID00083809	You need to trust me if we're going to get through this.
+GID00083810	<Lie> I'll go hunt for food, you just stay here, and wait.
+GID00083811	I expect you to do what you're told.
+GID00083812	All right, I'll go hunting, see what I can find.
+GID00083813	So some of the "meat" inside them?
+GID00083814	We don't really have time for this.
+GID00083815	I'm not about to fight any more Ghost People just to feed you... or Dog.
+GID00083816	If you know how to operate the switches, I need you to trust me to get through this.
+GID00083817	Yeah, well, I'll make Dog help me. Can't be hard to figure all this wire stuff out.
+GID00083818	If that diagram over there holds the details, I can walk Dog through the instructions.
+GID00083819	I don't want Dog to have to deal with this, I prefer to deal with you.
+GID00083820	Because this requires intelligence, and I trust you to do this.
+GID00083821	I need someone who can operate the switches - and stay in control.
+GID00083822	If that's what it takes to make you listen, yes.
+GID00083823	I can't trust Dog to do this properly. I can trust you.
+GID00083824	Sounds to me if I bring Ghost People here, you couldn't handle them.
+GID00083825	If you don't stay here, I'll bring Dog out and leave him here.
+GID00083855	What are these Holograms?
+GID00083856	Why?
+GID00083857	"Security" doesn't sound safe to me.
+GID00083858	How are they different?
+GID00083859	Who are you?
+GID00083860	How are you speaking to me?
+GID00083861	Who are these people I'm gathering?
+GID00083862	Can you tell me about the Holograms in the Villa?
+GID00083863	What is the Cloud?
+GID00083864	What are the Vending Machines in the Villa?
+GID00083865	How am I supposed to get to the markers on my map?
+GID00083866	What is the Gala Event?
+GID00083867	What's inside the Sierra Madre?
+GID00083868	Aside from switching them off, what can I do?
+GID00083869	If I can't punch them or smash them, that doesn't leave me many options.
+GID00083870	Who's the woman Hologram in the Fountain?
+GID00083871	How did I get here?
+GID00083872	I had questions.
+GID00083873	Never mind, then.
+GID00083874	I've decided I'm not going to help you.
+GID00083875	We'll head out, then.
+GID00083876	The real work? What was this, a warm-up?
+GID00083877	What do you mean?
+GID00083878	Collar? What are you talking about?
+GID00083879	What do you want?
+GID00083880	I'm not going to help you.
+GID00083881	No, I'm not helping you.
+GID00083882	Is there any place safe to rest?
+GID00083883	What is this place?
+GID00083884	How did I get here?
+GID00083885	Is there anyone alive around here?
+GID00083886	Why is my vision blurring?
+GID00083887	Where is my gear?
+GID00083888	Will exposure kill me?
+GID00083889	Radios and speakers?
+GID00083890	How did you get me here again?
+GID00083891	What do you need me to do now?
+GID00083892	Radios and speakers can set off my collar?
+GID00083893	Where can I find him?
+GID00083894	The inhabitants? There's people alive here?
+GID00083895	What Holograms are you talking about?
+GID00083896	So how do I destroy the radios and speakers then?
+GID00083897	How am I supposed to find them?
+GID00083898	So I need others to pull off this... heist. Who?
+GID00083899	Any suggestions for who I should get first?
+GID00083900	What's FEV?
+GID00083901	Why would you do that?
+GID00083902	I'll help. What do you want me to do?
+GID00083903	Are they all dead?
+GID00083904	How many of these victims did you bring here?
+GID00083905	Where is my gear?
+GID00083906	What do you mean?
+GID00083907	What is this rifle?
+GID00083908	You've caught others?
+GID00083909	I'm not alone, then.
+GID00083910	Then maybe you better tell me why I'm here.
+GID00083911	I'll cooperate - if you can answer some questions for me.
+GID00083912	Forget it, then. I'll be on my way.
+GID00083913	So I have to deal with them - or I explode?
+GID00083914	You have got to be kidding. This place is filled with radio mines that can kill me?
+GID00083915	Where did you get the collars?
+GID00083916	If they're Pre-War tech, where did you get them?
+GID00083917	I've never heard of the place you're talking about.
+GID00083918	What do you want from the Sierra Madre?
+GID00083919	I don't understand how an Old World casino helps you do any of that.
+GID00083920	Properly? Are you kidding me?
+GID00083921	Working as murderous deathtraps, sure.
+GID00083922	If you secure that, that's all you want?
+GID00083923	You're Veronica's mentor. The Elder who lost HELIOS One.
+GID00083924	I can't argue that.
+GID00083925	What would you use them for?
+GID00083926	You want to attack NCR? All of NCR?
+GID00083927	[NCR] If you want to kill NCR, that's fine with me.
+GID00083928	I don't care about the Republic, they're yours to kill.
+GID00083929	Then we better get to killing them.
+GID00083930	How did you find out about the Sierra Madre?
+GID00083931	You're nothing more than a killer that aspires to mass murder.
+GID00083932	What are you talking about?
+GID00083933	So you answered madness with madness?
+GID00083934	What happened?
+GID00083935	I'm sick of talking to some image on a screen. If you're going to come down, do it.
+GID00083936	Now that I'm here, are you coming down?
+GID00083937	How did you get me here?
+GID00083938	So someone else with a collar placed one on me? Who?
+GID00083939	If Dog put a collar on me, why didn't he say so?
+GID00083940	What happened to my gear?
+GID00083941	Do you know how to get out of here?
+GID00083942	So the casino stripped me of my gear?
+GID00083943	I don't believe you.
+GID00083944	Unless you come down here, I'll destroy the vault, everything in it.
+GID00083945	I'm not interested in the vault, I only want to leave.
+GID00083946	Then I'll find a way to unlock the secrets of this vault, take them for myself.
+GID00083947	I... I'm pretty sure I can do some damage down here. Somehow.
+GID00083948	We'll see how "protected" the Vault is when I detonate this collar.
+GID00083949	Sounds like I'm dead anyway, the way you're talking.
+GID00083950	Denying you the Sierra Madre vault would be worth it.
+GID00083951	Oh, so you're willing to risk it?
+GID00083952	You... you don't have any way to transmit down here.
+GID00083953	Between floors? I don't think so.
+GID00083954	I'll trash the electronics, the vault wiring, maybe.
+GID00083955	Forget the Vault. The elevator's only a single control box.
+GID00083956	Wait until I get my hands on the computers, we'll see.
+GID00083957	All it takes is destroying a single terminal or holotape.
+GID00083958	Maybe too many safeguards, as you've discovered already.
+GID00083959	Destroying even a single fragment of data is more than you could stand.
+GID00083960	Safeguards? If you're a gambling man now, stay up in the casino.
+GID00083961	Um... are you sure of the frequency?
+GID00083962	There's noticeable lag of several seconds for the collar to go off - and a warning.
+GID00083963	Well... then you'd need some way of transmitting that, right?
+GID00083964	I'll clip the wires to this intercom, then the Pip-Boy.
+GID00083965	If that's what it takes to fix this, that's fine with me.
+GID00083966	Throwing a wrench into the works is what I do best.
+GID00083967	Having you wait up there forever with no way down sounds more appealing all the time.
+GID00083968	What can I say to convince you I just want to go?
+GID00083969	You've already waited too long for this moment, there's no need to wait any longer.
+GID00083970	Look, let me out, you get in the vault, we're both happy.
+GID00083971	You followed the signal, too. You want what's down here, I want out. Let's deal.
+GID00083972	You're right, it will be different - has been different.
+GID00083973	Both of us working together has allowed us to get this far.
+GID00083974	I've cooperated so far. You've made sure of that.
+GID00083975	But... look, I want to cooperate, all right? Come down.
+GID00083976	The collar's done its work, or we wouldn't be at this point.
+GID00083977	No traps, just a trade, you and the vault, me and the exit.
+GID00083978	Greed implies you want more than you deserve. You've earned this.
+GID00083979	You're right, you have everything - except the vault.
+GID00083980	But all of that - all of that wasn't an obstacle, it drove you here.
+GID00083981	Time is a commodity you don't have.
+GID00083982	If it has a lock... and it should... I can pick it. Somehow.
+GID00083983	I already managed to unlock the elevator and get down here before you. Better hurry.
+GID00083984	As long as you can find me, you mean.
+GID00083985	You'd have to find me first. The Sierra Madre basement's bigger than you'd expect.
+GID00083986	Fine, stay up there and wait. I'll keep busy down here.
+GID00083987	The size of the lock doesn't matter, only the contents.
+GID00083988	So there is a lock? Good. Wasn't sure until you said so.
+GID00083989	Yeah... well... I'll pick this lock, no matter how tough.
+GID00083990	You know the Sierra Madre's a huge combination lock. Me? I've almost cracked it.
+GID00083991	Foresight, whatever it is, won't help you spot me.
+GID00083992	I've gotten past everything the Sierra Madre's thrown at me. You're no different.
+GID00083993	If you want me to wait, I'll cooperate. The Sierra Madre doesn't matter to me.
+GID00083994	Before this goes any farther, I had questions.
+GID00083995	What happened next?
+GID00083996	There's something else I wanted to know.
+GID00084038	Now, now... I'll let you out when the event's over. Maybe.
+GID00084039	Stop banging on elevator. Annoying.
+GID00084040	Save your energy, we still have to pull this off.
+GID00084041	If you keep hitting metal, you'll hurt your hand.
+GID00084042	Must be you, Christine. Sit tight, not like you have a choice.
+GID00084043	Silent girl is going to make Ghost People show up with noise.
+GID00084044	Christine? We're almost ready here.
+GID00084045	Christine, almost ready, Christine.
+GID00084046	Only a little longer, and we'll open the casino.
+GID00084047	Only a little while before open big casino.
+GID00084048	<Give two taps back.>
+GID00084049	Tap-tap back.
+GID00084050	Let's do this. On the count of three... two... one.
+GID00084051	All right, on the count of... um. One?
+GID00084052	I'm ready. Everyone - trigger the event.
+GID00084053	Can we go now? Want to get inside casino.
+GID00084054	Show's about to begin. People, take your places.
+GID00084055	Time for a show. Come on, show, start.
+GID00084057	Um, trade? I... have stuff.
+GID00084058	Do you have anything I can buy?
+GID00084060	Bye-bye, light person.
+GID00084061	Goodbye.
+GID00084094	Just mad ramblings. He didn't make much sense.
+GID00084095	He explained the search for the Sierra Madre... healed him.
+GID00084097	It's better you don't. Let me hold onto it.
+GID00084098	Some last words - a message. Nothing important.
+GID00084099	Can you unlock it for me first? He was... vague on that point.
+GID00084100	I found Elijah.
+GID00084102	I had to kill him.
+GID00084104	He left this holo-message. Here.
+GID00084105	You should listen to this.
+GID00084106	You should watch it.
+GID00084108	What did he say to you?
+GID00084110	I had to trap him inside a Pre-War... prison.
+GID00084128	Where is he now?
+GID00084129	Who was this Father Elijah to you?
+GID00084131	I want you to attack enemies the moment you see them.
+GID00084132	I want you not to attack enemies unless I've already engaged them.
+GID00084133	On second thought, stick with me for a little longer.
+GID00084134	Yes, I'm sure.
+GID00084137	I think we should travel together.
+GID00084138	Let's talk about your tactics.
+GID00084139	I want you to change your combat style.
+GID00084140	Let's talk about something else.
+GID00084141	That's all. Let's get going.
+GID00084142	Switch to a melee weapon.
+GID00084143	I want you to use ranged weapons.
+GID00084144	Let's talk about how close you're following me.
+GID00084145	Stick close to me.
+GID00084146	Stay close to me.
+GID00084147	Your distance is good. Let's talk about something else.
+GID00084148	All right, you're good. Let's get out of here.
+GID00084149	Keep your distance. Try to flank them.
+GID00084150	Enough about tactics.
+GID00084176	Let's trade equipment.
+GID00084177	It's time for us to part ways.
+GID00084178	Goodbye.
+GID00084179	That's enough for now.
+GID00084180	That's enough for now.

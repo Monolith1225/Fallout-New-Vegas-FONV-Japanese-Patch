@@ -1,0 +1,18 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc01_ammo_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00076927	エナジーセル
+GID00076928	9mm ジャンク弾
+GID00076929	5mm ジャンク弾
+GID00076930	5.56mm ジャンク弾
+GID00076931	.50MG ジャンク弾
+GID00076932	.45-70G ジャンク弾
+GID00076933	.44 マグナムジャンク弾
+GID00076934	.357 マグナムジャンク弾
+GID00076935	.308 ジャンク弾
+GID00076936	22LR ジャンク弾
+GID00076937	20 ゲージジャンク弾
+GID00076938	12 ゲージジャンク弾
+GID00076939	12.7mm ジャンク弾
+GID00076940	10mm ジャンク弾

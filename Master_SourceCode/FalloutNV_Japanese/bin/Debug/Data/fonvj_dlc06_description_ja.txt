@@ -1,0 +1,66 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc06_description_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00098314	(Gun Runners' Arsenal)[CRLF]拡散度減少[CRLF]
+GID00098315	(Gun Runners' Arsenal)[CRLF]弾薬容量増加 (+6)
+GID00098316	(Gun Runners' Arsenal)[CRLF]武器を消音
+GID00098317	(Gun Runners' Arsenal)[CRLF]弾薬容量増加 (+2)
+GID00098318	(Gun Runners' Arsenal)[CRLF]弾速上昇 (+100%)
+GID00098319	(Gun Runners' Arsenal)[CRLF]発射速度上昇
+GID00098320	(Gun Runners' Arsenal)[CRLF]重量減少 (-7)
+GID00098321	(Gun Runners' Arsenal)[CRLF]発射速度上昇
+GID00098322	(Gun Runners' Arsenal)[CRLF]武器を減音
+GID00098323	(Gun Runners' Arsenal)[CRLF]弾薬容量増加 (+6)
+GID00098324	(Gun Runners' Arsenal)[CRLF]状態改善 (+33%)
+GID00098325	(Gun Runners' Arsenal)[CRLF]発射速度上昇
+GID00098326	(Gun Runners' Arsenal)[CRLF]攻撃速度上昇
+GID00098327	(Gun Runners' Arsenal)[CRLF]状態改善 (+50%)
+GID00098328	(Gun Runners' Arsenal)[CRLF]ダメージ増加 (+6)
+GID00098329	(Gun Runners' Arsenal)[CRLF]重量減少 (-8)
+GID00098330	(Gun Runners' Arsenal)[CRLF]ダメージ増加 (+15)
+GID00098331	(Gun Runners' Arsenal)[CRLF]状態改善 (+50%)
+GID00098332	(Gun Runners' Arsenal)[CRLF]拡散度減少[CRLF]
+GID00098333	(Gun Runners' Arsenal)[CRLF]弾薬容量増加 (+1)
+GID00098334	(Gun Runners' Arsenal)[CRLF]ダメージ増加 (+5)
+GID00098335	(Gun Runners' Arsenal)[CRLF]攻撃速度上昇
+GID00098336	(Gun Runners' Arsenal)[CRLF]状態改善 (+50%)
+GID00098337	(Gun Runners' Arsenal)[CRLF]アイアンサイト追加
+GID00098338	(Gun Runners' Arsenal)[CRLF]ダメージ増加 (+3)
+GID00098339	(Gun Runners' Arsenal)[CRLF]弾薬補充 (1/4発)
+GID00098340	(Gun Runners' Arsenal)[CRLF]弾薬容量増加 (+32)
+GID00098341	(Gun Runners' Arsenal)[CRLF]近距離スコープ追加
+GID00098342	(Gun Runners' Arsenal)[CRLF]拡散度低下
+GID00098343	(Gun Runners' Arsenal)[CRLF]ダメージ増加 (+7)
+GID00098344	(Gun Runners' Arsenal)[CRLF]プラズマ弾速上昇
+GID00098345	(Gun Runners' Arsenal)[CRLF]弾薬補充 (1/4発)
+GID00098346	(Gun Runners' Arsenal)[CRLF]状態改善 (+100%)
+GID00098347	(Gun Runners' Arsenal)[CRLF]ダメージ増加 (+8)
+GID00098348	(Gun Runners' Arsenal)[CRLF]攻撃速度上昇
+GID00098349	(Gun Runners' Arsenal)[CRLF]ダメージ増加 (+10)
+GID00098350	(Gun Runners' Arsenal)[CRLF]状態改善 (+50%)
+GID00098351	(Gun Runners' Arsenal)[CRLF]ダメージ増加 (+9)
+GID00098352	(Gun Runners' Arsenal)[CRLF]状態改善 (+200%)
+GID00098353	(Gun Runners' Arsenal)[CRLF]弾薬容量増加 (+24)
+GID00098354	Mad Bomber:あなたは機械と爆発物の深い知識を結び付けました。作業台で作成できる特別な爆発物のレシピが開放されます。
+GID00098355	Gun Runners' Arsenal (GRA)武器でダメージを与える
+GID00098356	サブマシンガン、ライトマシンガン、ミニガンのどれかでChairmenかWhite GlovesかOmertasを殺す
+GID00098357	ナイフまたはコンバットナイフでCaesarを殺す
+GID00098358	消音器付き22口径ピストル、スイッチブレード、ボクシングテープ、リチャージャーライフル、ダイナマイトのどれかでMojave Wastelandのデスクロー成体を殺す
+GID00098359	マリアでBennyを殺す
+GID00098360	タイヤレンチ、バット、金属パイプ、マチェット、.44マグナム・リボルバー、ソードオフ・ショットガンのどれかでFiendsかVipersかJackalsを殺す
+GID00098361	ファットマンかファットマインで動物を殺す
+GID00098362	刀、ダイナマイト、マチェット、投げ槍、投げナイフ、投げ斧でAbominationsを殺す
+GID00098363	ショットガンで右腕を破壊
+GID00098364	Mojave Wastelandのユニーク武器でダメージを与える
+GID00098365	ハンディング・リボルバー、レンジャー・セコイア、軍用ライフル、ハンディングライフル、カウボーイ・リピーターのどれかで名前があるLegion兵を殺す
+GID00098366	マチェット、リッパー、チェーンソー、投げ槍、バリスティック・フィストのどれかで名前があるNCRレンジャーまたは将校(少尉、大尉、少佐、大佐、将軍)を殺す
+GID00098367	9番アイアンまたはネフィーのドライバーでMr.Houseを殺す
+GID00098368	マリア、ゲヘナ、ホーリーフラグ・グレネードのどれかでフェラル・グールを殺す
+GID00098369	ブリキ缶グレネード、導火線の長いダイナマイト、時限爆弾のどれかでMojave Wastelandのカサドールを殺す
+GID00098370	ブラスナックル、スパイクナックル、タイヤレンチ、金属パイプのどれかでMr.ガッツィーと警戒ロボットを殺す
+GID00098371	5.56mmピストル、プラズマディフェンダー、プラズマグレネード、パワーフィスト、リッパー、ボザールのどれかでスーパーミュータントを殺す
+GID00098372	5.56mmピストルでロボットを殺す
+GID00098373	拳銃でPresident Kimballを殺す
+GID00098374	投げ槍でCaesarの頭部を破壊
+GID00098375	perk:the Cowboyが適用される武器でNCRまたはLegionの暗殺部隊員を殺す

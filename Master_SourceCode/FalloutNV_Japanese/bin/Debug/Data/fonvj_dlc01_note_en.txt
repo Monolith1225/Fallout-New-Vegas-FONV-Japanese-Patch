@@ -1,0 +1,371 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc01_note_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00081571	From: John K. Lester: "I'm on my way!" 10/23/77
+GID00081572	I'll be right there, Eve!
+GID00081573	Just hide until I get there. Do whatever you need to do, understand!?
+GID00081574	I'm not going to let anything happen to you.
+GID00081575	---------------------------------
+GID00081576	From: Evelyn A. Sainz: "John, Help!" 10/23/77
+GID00081577	Everything exploded! There's smoke. Holograms are firing at people! We can't get out, John!
+GID00081578	Please!
+GID00081579	This is a restricted dispenser code for use in the Vending Machines.
+GID00081580	This job doesn't pay enough, working down here with those walking lightshows gets on my nerves. And the elevator... does Sinclair know how dangerous it is to have the elevator lock like that? If someone accidentally trips the deadman's switch inside his Vault... even Sinclair himself... this whole place becomes a big metal coffin. Lou tried to tell him and Sinclair said it would be "user error."
+GID00081581	This is a restricted dispenser code for use in the Vending Machines.
+GID00081582	Security Memo
+GID00081583	Sierra Madre Employees,
+GID00081584	At the request of Mr. Sinclair, please refrain from tampering with or destroying the Security Hologram emitters. Remember the Holograms keep us - and our guests - safe.
+GID00081585	Thanks,
+GID00081586	Sierra Madre Management
+GID00081587	Don't use this unless strictly necessary.
+GID00081588	The Vault is off-limits. There is no reason to enter it unless your clearance is personally approved by Mr. Sinclair.
+GID00081589	Still, if anything were to go wrong with those security systems, use this password in the Turret-Defense terminal inside the Vault's Chamber:
+GID00081590	"HeartArrow"
+GID00081591	Lou Martin
+GID00081592	M&M Construction Inc.
+GID00081593	Crew Chief.
+GID00081594	Those new chemical suits came in today, so we could check out the ventilation chambers, see how that cloud cocktail formed. Suits are kind of creepy looking, hard to talk in them, so we had to use sign language to actually make sense of each other. At least we can check out the pipes and ventilation chambers now.
+GID00081595	Gas worries me, though. Really messed the guys up. If the chambers get backed up again hate to see that gas get out, wipe out the Villa.
+GID00081596	*** Power Status ***
+GID00081597	Non-Essential Systems
+GID00081598	* Music Speakers: Offline
+GID00081599	This is a restricted dispenser code for use in the Vending Machines.
+GID00081600	It increases the Automatic Rifle's rate of fire.
+GID00081601	*** Power Status ***
+GID00081602	Non-Essential Systems
+GID00081603	* Music Speakers: Powered
+GID00081604	This voucher grants the bearer:
+GID00081605	"Compliments of the House!"
+GID00081606	Enjoy your...
+GID00081607	...in good health and vitality.
+GID00081608	[Abuse will result in the
+GID00081609	denial of all "Complimentary"
+GID00081610	status.]
+GID00081611	This appears to be a standard 'Maintenance Pass' for the Sierra Madre.
+GID00081612	Minimum power level required: 43%
+GID00081613	Power currently supplied: 85%
+GID00081614	Acceptable variation from norm: +/- 15%
+GID00081615	Largest variation in past 24 hours: 36%
+GID00081616	Automatic Systems: Offline
+GID00081617	WARNING: Large fluctuations in power detected. Large energy expenditures are to be avoided at all costs under these conditions. Report this to the foreman in charge at once.
+GID00081618	This is a restricted dispenser code for use in the Vending Machines.
+GID00081619	It increases the Holorifle's damage.
+GID00081620	This is a restricted dispenser code for use in the Vending Machines.
+GID00081621	It appears to increase the Holorifle's damage.
+GID00081622	To: William Ennis
+GID00081623	From: Konrad Simmons
+GID00081624	Damn it, Ennis, how many times do I have to tell you? The password for the Remote Maintenance Terminal is T7GF0SEW.
+GID00081625	This is a fragment of Vera Keyes' melody, "Let the Bright Tomorrow in."
+GID00081626	This is a fragment of Vera Keyes' melody, "Let the Bright Tomorrow in."
+GID00081627	Security holograms have been programmed with the case-specific Sierra Madre protocols.
+GID00081628	Not only do security holograms look like Sierra Madre personnel, they will respond to threats or unauthorized personnel just as conventional security guards would.
+GID00081629	This is a fragment of Vera Keyes' melody, "Let the Bright Tomorrow in."
+GID00081630	Those Vending Machines are something else - we got codes in today so we don't even need the demolition charges, or even more tool orders. You use these things at the Vending Machines, it unlocks construction equipment - even demolition charges and repair kits?
+GID00081631	This is a restricted dispenser code for use in the Vending Machines.
+GID00081632	It looks as if it can increase the damage the Bear Trap Fist does.
+GID00081633	Holographic greeting and security technology requires service from trained professionals and routine maintenance. While the emitters maintain a charge for theoretically hundreds of years, damage can occur and circuits can erode over time. As part of the Security Madre exclusive contract, we have delivered on the custom energy recycling emitters requested by the Sierra Madre financiers and Mr. Sinclair.
+GID00081634	Sinclair + Ms Keyes
+GID00081635	>
+GID00081636	Sinclair + Ms Keyes
+GID00081637	>
+GID00081638	Domino + Ms Keyes
+GID00081639	>
+GID00081640	Sinclair
+GID00081641	Proposed moving 1 Auto-Doc to casino and scheduling visits. Sinclair agreed.
+GID00081642	Ms Keyes' insomnia seems to have gotten worse, so we ended up ordering the new Auto-Doc upgrades, must have cost Sinclair a fortune. The new programs for the Auto-Docs ameliorate the effects of exhaustion. Have already spoken to the staff about side effects and dangers of prolonged use - wanted to make sure they weren't using it to pull double-shifts.
+GID00081643	Sinclair asked if these codes could be downloaded into the public dispensers. The codes aren't compatible, unfortunately. He said he'd "look into it." Guess his contacts at Big Mountain will be getting a call soon.
+GID00081644	...the Villa's like cardboard, but the casino? That place isn't built for people to just gamble, it's a place for them to take cover if the big ones hit. Those doors can be hermetically sealed, and whatever they got lining the floors screws up anything not hooked up direct by wires.
+GID00081645	Word is, while Mr. Yesterday got the Villa covered, Sinclair's locking up the Sierra Madre like a golden trap.
+GID00081646	Dear Mr. Elijah,
+GID00081647	Congratulations on your winning luck at the Sierra Madre Casino! Your Complimentary Voucher will automatically delivered at the dropbox you specified every three days and can be redeemed at any Sierra Madre Vending Machine.
+GID00081648	Thank you and we hope you enjoyed your stay!
+GID00081649	Sincerely,
+GID00081650	The Sierra Madre Management
+GID00081651	Been reading this over: "In the event of a fire, chemical leak, nuclear attack, or other threat to the casino, the interior and exterior doors will hermetically seal to prevent harm coming to the guests. During this time, Holograms will be deployed and assume threat status until the lockdown is ended."
+GID00081652	Guess can't be too careful these days. Still, what if there was another leak at the switching station? Not to mention the gas valves in the kitchen. If those got hit, the whole casino's a torch.
+GID00081653	This is a restricted dispenser code for use in the Vending Machines.
+GID00081654	It appears to improve the condition of the Hologram Rifle.
+GID00081655	This is a restricted dispenser code for use in the Vending Machines.
+GID00081656	The Sierra Madre opens its doors to the world!
+GID00081657	The opening of our great Casino & Resort will feature a unique Gala, showcasing artists of world-renown!
+GID00081658	Miss Vera Keyes.
+GID00081659	Mr. Dean Domino.
+GID00081660	Joey Baxter.
+GID00081661	And, Wilfred the Wizard.
+GID00081662	Come join us at the grandest event in the history of the West.
+GID00081663	We welcome you to the best time of your life!
+GID00081664	Sincerely,
+GID00081665	The Sierra Madre's Management.
+GID00081666	Domino swung by today after the foreman's accident. Wanted to know how I was handling it, if the boys and I were doing all right. Guy's a snake, laying on the fake charm, trying to be one of us - he asked if we were being paid as "befits our skills." He said if we weren't, to come see him, he'd set us up. I'm not stupid, I seen the percentages, I know someone's making a killing off the corners we're cutting - sounds like Domino and construction are arm-in-arm. Don't matter to me as long as the cash gets left in the drawer every week.
+GID00081667	This is a restricted dispenser code for use in the Vending Machines.
+GID00081668	Since you missed it, Sinclair outlined security measures today. Wasn't blind to what was happening in the news, wanted to take steps if the Chinese got a foothold on American soil. Ran us through the added functionality of the holograms, then explained the construction of the casino, its emergency protocols, and the broadcast signal we're using for the Gala Event. Guy's a nut job, still, seems to have the bases covered. Guess the isolation of the casino was intentional. Not sure what he's hoping to protect, sure seems obsessed with it.
+GID00081669	Holograms are programmed with service protocols and security protocols.
+GID00081670	Service protocol holograms perform a specific function - greeters, simple vendors, or in the case of the Sierra Madre casino itself, even monitoring gambling tables. These service holograms follow simple routines, and are incapable of performing any security function.
+GID00081671	Holograms cannot move beyond range of their emitters and are best when used for a simple, localized function.
+GID00081672	This is a restricted dispenser code for use in the Vending Machines.
+GID00081673	Villa security showed up today and searched the place. Domino must've made the Chief mad, so this was payback. Had all our stashes tucked away when they arrived, didn't find much. Chief tried to be all hard with us about keeping our noses clean, ranted about "casino policy."
+GID00081674	That Sinclair's a tight-ass. Sick of these spot-checks and stripped by the casino search programs every time I enter the Villa. What's his issue with chems? He could use some. So could that pretty bride-to-be, though she looks half-doped up with that expression of hers. Med-X from the looks of it.
+GID00081675	Hologram emitters are sturdy, yet can still be damaged or broken if enough force is applied. In addition, while they are protected inside sturdy space age alloys, their circuits are vulnerable to being tampered with. If this occurs, refer to the repair manual that comes with the hologram installation guide. Please call customer support services if this occurs. Do not attempt to repair the emitter yourself!
+GID00081676	Warning: Do not approach an emitter that may have been tampered with! If you must, please wear reflective maintenance gear or metal armor in case of hologram malfunction, and make sure that you can move beyond a hologram's field of view in case problems arise.
+GID00081677	The Tampico's Performances Scheduling:
+GID00081678	- Performance Preparations:
+GID00081679	- Doors to Tampico's Stage Open.
+GID00081680	- Hologram Sentries On.
+GID00081681	- Ambient Audio System On.
+GID00081682	- Stage Audio System Off.
+GID00081683	- Performance In Progress:
+GID00081684	- Doors to Tampico's Stage Closed.
+GID00081685	- Hologram Sentries Off.
+GID00081686	- Ambient Audio System Off.
+GID00081687	- Stage Audio System On.
+GID00081688	In case of emergency, see the Stage's Manager to override Security Protocols.
+GID00081689	Sierra Madre Management.
+GID00081690	Mr. Yesterday says they can get the incident hushed up, after all, no one really saw what happened when the patio collapsed, and the balcony along with it... we can also see about getting the medical reports at the clinic deleted, too, it's all good. Still, I'm getting nervous - whole thing's a big gamble, won't be long before people see the Villa for what it is, sand barely held together with spit and glue. We're protected legal-wise, even so, this is criminal. It's like he doesn't want this place to last.
+GID00081691	Warning: In the event Vault security is disabled by any means and the private terminal in the Vault is accessed, the Vault will enter a lockdown state. At this time, the elevator will return to the Suites and cannot be accessed again. As requested by Mr. Sinclair, there is no manual or terminal override once the elevator is locked. Once initiated, it cannot be undone.
+GID00081692	Dean,
+GID00081693	If you're reading this, this is goodbye. You will have many years to read this message. Why you have smiled in my face and held a dagger to me, I do not know. You were rich, respected... even admired, loved by many. When you finally pass away down here, either by your own hand or starvation, know that your greed has led you here, for no reason I can understand.
+GID00081694	You have made a habit in using others for your own ends. Now, the Sierra Madre is your reward. Whether you used blackmail or force - or even played to Vera's greed, it will not help down here in the Vault. Greed has led you here. I hope it leaves you as empty as you left me.
+GID00081695	The door has sealed, the elevator has left. Even Vera's voice will not unlock it. Know that on the night of the Gala Event I shall raise my glass and whisper, "Fortunato."
+GID00081696	In pace requiescat,
+GID00081697	Frederick Sinclair
+GID00081698	Warning: If Vault security is disabled and the Vault terminal is breached, the elevator will automatically return to the Suites and lock permanently in place. After that, there is no way to operate the elevator, and the Vault area is sealed off. As requested by Mr. Sinclair, there is no manual or terminal override once the elevator is locked. Once initiated, it cannot be undone.
+GID00081699	Until that time, the elevator may be operated freely from the terminal above.
+GID00081700	To: Konrad Simmons
+GID00081701	From: William Ennis
+GID00081702	Simmons, the ventilation system is on the fritz again and I need to even out the power distribution manually for the new generator we're bringing online. It's positively sweltering down in that cramped little room, and you know I don't cope well with the heat, so I'd like to do the work remotely. What's the password for the back-up machine again?
+GID00081703	*** Power Status ***
+GID00081704	Non-Essential Systems
+GID00081705	* Audio: Offline
+GID00081706	*** Power Status ***
+GID00081707	Non-Essential Systems
+GID00081708	* Audio: Powered
+GID00081709	These knives are sharp, too sharp! One of the chefs almost lost their thumb when dicing vegetables, and we're losing cutting boards at a rate of at least one per day. The knives just slice right through them! Running out of dishrags to mop up the blood.
+GID00081710	This is a restricted dispenser code for use in the Vending Machines.
+GID00081711	This is a restricted dispenser code for use in the Vending Machines.
+GID00081712	Sierra Madre Vault Security
+GID00081713	Protocols:
+GID00081714	- Security On:
+GID00081715	- Elevator Dispatch to Executive Suites.
+GID00081716	- Security Turrets Active - Not Shielded.
+GID00081717	- Electric-Barriers Seal Vault.
+GID00081718	- Security Off:
+GID00081719	- Elevator Dispatch to Executive Suites.
+GID00081720	- Security Turrets Off - Shielded.
+GID00081721	- Electric-Barriers Down.
+GID00081722	You have an edited Holotape of Vera Keyes' voice fragments, splicing together the words: "Let," and "Go."
+GID00081723	You have a Holotape of Vera Keyes' melody, "Begin Again."
+GID00081724	You have a Holotape of Vera Keyes' melody, "Go to the Faraway."
+GID00081725	You have a Holotape of Vera Keyes' melody, "Let the Bright Tomorrow in."
+GID00081726	Vera,
+GID00081727	If you're reading this, I know what you and Dean had planned tonight on the eve of the Gala Event. I loved you very much, and whatever possessed you to choose Dean's arm over my hand is beyond me. Whether it was greed or lust, it has led you here and will forever keep us apart. I hope it leaves you as empty as you left me. As much as you sought what was inside the Sierra Madre, now it will keep you.
+GID00081728	The door has sealed, the elevator has left, and not even your voice will unlock it. This casino was my gift to you, and you now will be its heart for all time.
+GID00081729	Sincerely,
+GID00081730	Frederick Sinclair
+GID00081731	Old man Ennis left his key on one of the consoles again, so making this note to remind myself to give it back next time I see him. We should stuff his locker full of Dandy Boy Apples or something. Maybe then he'd be less forgetful.
+GID00081732	The boys hit by the gas are still out, everyone's pulling more work in as a result, and grumbling's starting. Mr. Yesterday's been keeping the hard liquor and chems coming under Sinclair's eye, isn't helping. We need those boys back. We have another chemical leak like that, no more construction for the rest of the year.
+GID00081733	Sierra Madre Hologram Technology Retrieved.
+GID00081734	Often, an intruder's natural response is to attack a security hologram, either with fists or with a weapon. Fortunately for the hologram owner, all such assaults are useless against security holograms! They cannot be wounded, damaged, or harmed unless their emitter is destroyed.
+GID00081735	Attackers spending the time to look for emitters will usually be rendered unconscious by a hologram's discharge beams before they can disable them, so there is nothing to fear.
+GID00081736	*** Power Status ***
+GID00081737	Non-Essential Systems
+GID00081738	* Announcement System: WARNING! All speakers are offline. Please contact IT to resolve. CODE: 00J0TD7F
+GID00081739	This is a restricted dispenser code for use in the Vending Machines.
+GID00081740	*** Power Status ***
+GID00081741	Non-Essential Systems
+GID00081742	* Announcement System: WARNING! Three of four speakers are offline. Please contact IT to resolve. CODE: 000FHX9C
+GID00081743	*** Power Status ***
+GID00081744	Non-Essential Systems
+GID00081745	* Announcement System: WARNING! Two of four speakers are offline. Please contact IT to resolve. CODE: 000FHX9B
+GID00081746	*** Power Status ***
+GID00081747	Non-Essential Systems
+GID00081748	* Announcement System: WARNING! One of four speakers are offline. Please contact IT to resolve. CODE: 000FHX9A
+GID00081749	*** Power Status ***
+GID00081750	Non-Essential Systems
+GID00081751	* Announcement System: Powered
+GID00081752	Dear Mr. Elijah,
+GID00081753	Congratulations on your winning luck at the Sierra Madre Casino! We have set up your payment of Sierra Madre Chips to be automatically delivered at the dropbox you specified every three days.
+GID00081754	Thank you and we hope you enjoyed your stay!
+GID00081755	Sincerely,
+GID00081756	The Sierra Madre Management
+GID00081757	This is a restricted dispenser code for use in the Vending Machines.
+GID00081758	This is a restricted dispenser code for use in the Vending Machines.
+GID00081759	Ardent Tequila
+GID00081760	Played around with this the other day, and:
+GID00081761	1 Cosmic Piece-of-Shit Knife
+GID00081762	1 Pilot Light
+GID00081763	1 Hot Plate
+GID00081764	Something to hold the damn thing to cook evenly
+GID00081765	Pre-heat oven to 450 degrees
+GID00081766	Take 1 Knife, leave on stove!
+GID00081767	Let simmer for 5 minutes
+GID00081768	Watch as Knife glows red-hot
+GID00081769	Put Knife on table, melts table
+GID00081770	Sue scientist who made damn thing
+GID00081771	Give it to the military?
+GID00081772	...seems kind enough, signed my poster, and even the promo photo. Kind of a sad look to her, though, like she wasn't really there. And she almost ran when Mr. Domino slipped his arm through hers, and he wasn't even looking at her, like she was a bag hanging on his arm. Something wrong between those two, not sure if Sinclair sees it, but I do.
+GID00081773	This is a restricted dispenser code for use in the Vending Machines.
+GID00081774	Security holograms use field of view sensors to perceive their environment and to aid in pathing. While later versions will feature upgrades that allow for a 360 degree perception arc, the memory cells in current hologram emitters can only perceive their environment in a cone in front of them.
+GID00081775	They can, however, change facing as needed and scan their environment for unauthorized activity. It is best to purchase security hologram emitters in pairs to cover a full view of the environment, as trespassers could conceivably use hologram blindspots to gain access to unauthorized areas!
+GID00081776	This is a restricted dispenser code for use in the Vending Machines.
+GID00081777	Not going to rat me out for what happened in the Villa - I'm not the one who laid the foundation, and I'm not going to take the fall for the supports, either. They try and pin this on me, I'll let them all know what's really going on with the construction contracts.
+GID00081778	Mr. Sinclair,
+GID00081779	I took the points you raised in the call today to heart, and I hope my answers offered some reassurance. What we are providing is an exclusive, comprehensive technology, but more importantly, we want to address the concern you raised for protecting your guests from threats, specifically the growing communist threat from the Chinese.
+GID00081780	Security is N.E.'s top concern. There is no reason to provide a service that you cannot defend, and should the current world situation lead to increased hostilities, an Emergency Broadcast Emitter has been placed inside select hologram emitters at the Sierra Madre. In case of nuclear attack, holograms will defend their stations with lethal force to protect the guests under their charge.
+GID00081781	If you wish to make sure that those who come to your Villa and casino have the means to defend themselves, I assure you, you need look no further than the E.B.E., it is a proven technology, and anyone who decides to attack you or your guests will regret any aggression.
+GID00081782	Martin T. Harris
+GID00081783	P.S. Any chance we could ask you to have Ms Keyes sign an autograph for us? It won't reduce the price, although I could see about sending a few extra systems your way.
+GID00081784	Domino stopped by to ask about the test results and Vera's voice. He seemed concerned she would lose her voice for the Gala Event. I told him if Ms Keyes was concerned, she should see me, and I would only disclose any medical information to her. I told him the Auto-Docs were more than capable of healing Ms Keyes voice if she developed any throat infection, and we could even operate if need be if she tore her larynx. He seemed satisfied by the news, apologized, amazingly enough, and left a bottle of wine as a token of his appreciation. I told him I felt it was inappropriate, he insisted. I dumped it in the trash.
+GID00081785	Ms Keyes showed up today (sans Sinclair), escorted by Mr. Domino. He explained to me Ms Keyes had developed a throat infection, and asked if the Auto-Doc could help. I asked about the Sierra Madre's Auto-Doc. He said he didn't want to "alarm" Sinclair.
+GID00081786	Ran some tests. Ms Keyes' voice is fine, her loss of voice was more listlessness, symptomatic of excessive Med-X usage. When I tried to speak to her about it, Mr. Domino intervened. I warned them too much of the Chem could render a subject comatose, and Domino laughed. I lost my temper, and he said they'd return another time when I was in "better spirits." Despise that man.
+GID00081787	Kevin,
+GID00081788	Make sure to set a separate security override for the hallway loudspeakers before you leave tonight. The last thing we need is our coms going down in the middle of a robbery. Set it to 1837uC@n7Gu355. That should prevent a lucky guess by some hack with a stolen security card.
+GID00081789	Thanks,
+GID00081790	Rubin
+GID00081791	As shoddy as the support beams are for most of these buildings, the ventilation system's worse, and the problems they had over at Puesta... sure, when you count our bonuses, it's good, but not when the workers are coughing to death. Hate to see what this place spits out if someone let the ventilation system chug along for a few years, we'd have another Greener Pastures on our hand, easy, and a pile of bodies beyond it.
+GID00081792	Sinclair's coming tomorrow to check on the Villa's "progress," told the boys to look sharp for the suit. Not bringing the big starlet, though, so the boys were grumbling about that.
+GID00081793	Better watch himself, might have a nasty fall in the switching station.
+GID00081794	This is a restricted dispenser code for use in the Vending Machines.
+GID00081795	Stupid system locked me out again. How am I supposed to remember the password if they keep making me change it every few months? Bah, I'll just write it down here so I don't forget.
+GID00081796	XHT68J09DS
+GID00081797	Chemical suits arrived today. They're bulky, hard to talk and move in. It was difficult to unlock the clasps once in place, had to get one of the staff to help me out of it. I told the construction crew keep the suits ready while working in the switching station and to be careful with them, we only have a limited number.
+GID00081798	I asked Sinclair to order more in the event of a leak in the Villa, and prepared cost estimates for another gas leak to support my case. Didn't need to, he agreed to the request immediately, then asked if he could see the workers and make sure they were all right.
+GID00081799	Admitted 3 workers from Puesta del Sol Switching Station. Exposed to some unidentified airborne toxin from the ventilation system. Caused severe lung and tissue damage, inhalation isn't the problem, it's absorbed through the skin.
+GID00081800	Researching its effects. The gas, whatever it is, may be building up in vents beneath the town. Asked foreman to look into source before government inspectors do.
+GID00081801	One thing about the liquor they're shipping in, it's making somebody talk - the big man came down today and told us that we have a sweet deal set up, and one slipped word in front of security can bring this all crashing down... for real.
+GID00081802	This is a restricted dispenser code for use in the Vending Machines that allows a user to return the selected item for Sierra Madre Chips.
+GID00081803	Codes for the public dispensers arrived today. Sinclair instructed us in their use in case of emergency. Should be able to get stims and other treatments from the machines. Sinclair indicated it could dispense more based on the nature of the medical emergency or subject's condition.
+GID00081804	Among the codes, he kept asking if we could make sure the code for Med-X was backed up. He must have said it three times, I don't think he realized it? Must be stress - made a backup of the code on this terminal just in case.
+GID00081805	This is a restricted dispenser code for use in the Vending Machines.
+GID00081806	*** Clinic Power Status ***
+GID00081807	Essential Systems
+GID00081808	* Auto-Doc: Emergency backup engaged.
+GID00081809	* Security Hologram: Emergency backup engaged.
+GID00081810	Non-Essential Systems
+GID00081811	* Music Speakers: Offline
+GID00081812	*** Clinic Power Status ***
+GID00081813	Essential Systems
+GID00081814	* Auto-Docs: Powered
+GID00081815	* Security Hologram: Powered
+GID00081816	Non-Essential Systems
+GID00081817	* Music Speakers: Powered
+GID00081818	NOTE: Please inform clinic management before shutting down generator for maintenance.
+GID00081819	This Holomessage is locked. A label on the front reads, "For Veronica." A strange sensor mounted on the back seems to be tied to the locking mechanism.
+GID00081820	Dean had his Entertainer Pass wrapped up in an old, crumbling piece of paper.
+GID00081821	Barely visible, it reads:
+GID00081822	"Huba-luba"
+GID00081823	Sierra Madre Replicator Schematics Retrieved.
+GID00081824	Boy, am I ever glad to be out of that damned suit! Almost lost a few men today getting enough samples together for the eggheads to take a look at.
+GID00081825	Complaint: Lost and Found
+GID00081826	Sierra Madre Security Log: 8:07AM
+GID00081827	Guard on Call: Morris, Tyler
+GID00081828	Describe the Incident: Mrs. Purvis daughter called down to ask if we happened to find her mother's purse, which she may have dropped during last night's "stroll." We found the purse on the main floor. None of the valuables were inside, may have been taken when the purse dropped, or Mrs. Purvis may have emptied the purse contents during last night's incident.
+GID00081829	Complaint: Mrs. Purvis/Drunk and Disorderly
+GID00081830	Sierra Madre Security Log: 11:02PM
+GID00081831	Guard on Call: Morris, Tyler
+GID00081832	Describe the Incident: 10PM, received complaints about noise in upper bar, then emergency call from the main floor cashier cage who reported (quote) "old bat on ceiling." Investigating, found guests cheering Mrs. Millicent Purvis, 72, who had climbed over the upper bar railing and was walking on the support beams, indicating loudly that she was (quote), "going to join the circus." She had already tripped over one Holo-Emitter (unhurt), and was inviting guests out on the beams so we could "use them like monkey bars."
+GID00081833	Climbed after her, cornered her near the rafter over the cashier's area, then brought Mrs. Purvis to holding and called her daughter to come escort her to her room. No damage done to rafters or the emitter. Mrs. Purvis's daughter was visibly agitated by the incident and too embarrassed to take any legal action saying that she (quote), "didn't want to cause any more trouble for Mr. Sinclair." Need to gate off the rafter area to prevent repeat incidents.
+GID00081834	Security protocol holograms do just as the name implies: provide security. They perform this function better than most conventional security guards.
+GID00081835	Shipments got routed again, and what was meant for the casino restaurant ended up in the Villa main for the umpteenth time. Hauling those crates of knives up to the main lobby ain't going to be my job, especially with no cars.
+GID00081836	This appears to be a unique 'Entertainer Pass' for the Sierra Madre.
+GID00081837	Sierra Madre Environmental Analysis Retrieved.
+GID00081838	This is a restricted dispenser code for use in the Vending Machines that allows a user to return the selected item for Sierra Madre Chips.
+GID00081839	More demolition charges showed up today - checked with Mr. Yesterday, he didn't know squat about the shipment, was only interested if anyone had made a buck off it. These something Sinclair ordered, or is it another cock-up like the knives? We got more than enough explosives already - what, is high-and-mighty planning to blow up the road to this place so no one can get up here?
+GID00081840	We have a sweet deal here. I let Mr. Yesterday know that, know that we might need to renegotiate our arrangement and move the % around. Left records in maintenance in case things got difficult, blow this deathtrap wide open. Agreed to discuss things in the switching station so we wouldn't be overheard.
+GID00081841	Another (!) shipment of kitchen knives for the Cantina Madrid came in today, with their new "space age" alloy polymer material. We've got way more than we need for the Gala Event, even if everyone had 3 steak knives! But it's always the best for Sinclair, always, always, always, always, he insists everything must be perfect.
+GID00081842	One of the cooks noticed their knife was glowing the other day. They'd left it on the stove top, and the metal started glowing red - and it didn't cool down! What kind of "Space Age" metal is this Cosmic Knife made of? It kept glowing hot for several hours, and then the knife was so weak that when we tried to use it, it simply snapped. Guess that's why the metal's not used in rockets!
+GID00081843	Sure, the Docs at the Clinic got mad, but we didn't have any choice if we wanted to get medical attention after that gas hit us. So we cut his suit open with one of those surplus steak knives (things could cut through a T-bone like it was hot butter). Rest of us tried to pry the locks on our suits, finally had to use the knives on ours, too.
+GID00081844	Can't wait until this job is over and we can let the Villa collapse on itself. They'll be too busy at the casino anyway.
+GID00081845	Vera, if you're reading this, my fears have come to pass, and this is an apology.
+GID00081846	I hope you realized what my last words meant to you. If so, they have led you here, and this place will keep you safe. I know what they meant for me, and I fear they have trapped me here.
+GID00081847	I have extracted the previous entry after our conversation tonight. It can't have been easy for you, and I am sorry for all I've put you through in silence. I know while you do not love me, you did not mean any malice in what you did.
+GID00081848	I knew about your plans to rob the casino with Dean before you told me. Hearing it from you didn't make it any easier. For what it's worth, I am glad you told me yourself, and I understood the tapes he had in his possession.
+GID00081849	I do not think either one of you realized what your addiction stemmed from, however, and that is the tragedy in this. I suspect the world would not have believed you, regardless, so I respect your desire to keep it from others.
+GID00081850	When first building this Villa, this casino, I meant it for you. As the world seemed to race headlong toward war, it became part of my desire to protect you. The loans, the funding I poured into the casino's construction...
+GID00081851	I knew it would not matter when war came for us. It was my means of creating a shelter, a defense if the world was bombarded in radiation and bombs.
+GID00081852	When Dean revealed his plans inadvertently through our introduction, I realized what had happened, and how I had been tricked. For a time, my thoughts were dark. I changed the casino vault from a shelter to a trap, as I knew the first one to enter would be Dean. He would die down here, and it would have been by his own hand.
+GID00081853	I fear, however, that I overstepped myself, and the only safe place in the casino is the Vault. I have tried to rewire the systems, change the protocols, and I cannot. I will do one last check on the pipes by the edge of the outside platform and see if anything can be done. I fear it is useless.
+GID00081854	If you come down here, do not access my personal accounts entry.
+GID00081855	It contains only a message for Dean, and it will seal the door and you will have no way out - even the elevator is designed to automatically return when the door is closed, and it will lock in place.
+GID00081856	There should be enough in the Vault to sustain you until help arrives. I have ensured that there is enough medical supplies down here to keep you comfortable.
+GID00081857	The holograms should defend the casino from any attackers, and the hologram beacon in the Villa will broadcast an emergency signal so that others know you are here.
+GID00081858	When danger has passed, rescue will come.
+GID00081859	I hope you were able to read this, and know that I loved you.
+GID00081860	Frederick Sinclair
+GID00081861	Hope you're about dead when you read this Sierra Madre out of reach
+GID00081862	Could've had it all, followed that white-arrow-graffiti bastard down here
+GID00081863	Left those beartraps as presents for you on trail hope you liked them shithead
+GID00081864	Hit my own tripwire you came to take what's mine??? Too bad, I got the last laugh
+GID00081865	Speakers'll kill you before you get out then we'll settle things in hell
+GID00081866	Sierra Madre's treasure's mine mine mine
+GID00081867	Liquor shipment finally came in today - didn't realize working here would be like working in a dry state. Just need to keep it out of sight of security and Sinclair, and ought to take the edge off the day, keep it stashed in the back.
+GID00081868	Welcome, and on behalf of your friends at N.E., we thank you for purchasing the latest in service and security technology.
+GID00081869	If you encounter any problems, contact our urgent care service representatives at any time during the weekdays from 10 to 2 on Tuesdays and Thursdays. If no one is there to respond to your emergency, leave a message and one of our trained representatives will return your call in the next three to four working days.
+GID00081870	In case of emergency, all non-essential systems are to be shut down immediately to help the automatic systems balance the load. Should the automatic systems fail, your foreman will assign one of you to enter the Manual Override Chamber located adjacent to the main regulator.
+GID00081871	Ventilation's all shot to hell, which is going to be a problem when summer hits. The pipes backed up, the chambers started spewing out this red dust cloud, like rust - whatever it was, caused the guys to start choking and vomiting. It's like the place was getting sprayed for roaches, 'cept the bug spray was hitting us. Got the boys to the Clinic, put them out of commission. Mr. Yesterday said he couldn't justify having them paid, but he'd see what he could do "on the side." Sounds like he was going to get them some chems - and a little green for keeping their mouths shut.
+GID00081872	As with service holograms, security holograms cannot leave emitter range. They will pursue a target to the emitter's perimeter, however. This usually allows a target to be subdued, and should present no obstacle to casino security.
+GID00081873	One good thing about this assignment - no more writing parking tickets. Sinclair's laid out the streets so narrow, cars can't even come into the Villa. Resources being what they are, he may not want folks to waste gas coming here. Cuts down on traffic noise, too. Chief says it's more than that, says Sinclair wanted the Villa to be "reclusive."
+GID00081874	Long as I don't have to worry about double-parking snobs or Chryslus gas-hogs clogging the Villa, I could care less. Wonder how he expects folks to get here, though. Seems extreme, even for privacy.
+GID00081875	After another "discussion" with the Puesta del Sol crew, told Chief it'd be difficult to enforce the prohibition list, let alone the searches. Chief had the Gala on his brain, said Sinclair put construction of the Villa more important than patting down the construction crews for liquor and chems as long as they didn't hurt anyone or each other. Got a little hot under the collar, Chief did too, told me to walk it off.
+GID00081876	This whole thing stinks. Chief's barely got time for me, now Sinclair's turning a blind eye to things in the Villa because his friend's running the show?
+GID00081877	Oversaw the streetside Vending Machines installation today, all working, mostly because the casino crew was running the show.
+GID00081878	Finally complained to the Chief about the machines. They feel like a "company store." We only get a few casino chips with the paycheck, so we can barely buy anything. Chief says he's not sure the chips were Sinclair's idea, only if we had any problems with the machines, let him know immediately.
+GID00081879	Didn't take long to find the problem. Heading down the main pipe, we hit traces of the gas - not the full red stuff like last time, though, minor blessing. The kicker was despite the sealant, it still got inside the suit, turns out the gas eroded the metal of the suit's locks. So not only did one of the boys get exposed, everyone who went down there got locked in their suits.
+GID00081880	Dispensers are up and running. Unlike most everything else, we've had few problems with them. I heard they'd been part of some World's Fair exhibit Sinclair had seen, so he contacted the researchers about the dispensers to see if he could use them here.
+GID00081881	Turns out, dispensers do more than supply convenience items: if there's an emergency or the threat of communist attack, codes can unlock ammo and repair kits for the dispensers. Stored back-ups of the codes in the contraband room, just in case.
+GID00081882	Sinclair was a lot more level than I was expecting. Especially after Mr. Yesterday's cracks. He's sharper than one of those knives, too. He asked a lot of good questions about the foundations, some I couldn't even answer, didn't bother him though. He knows engineering, that's for sure. Worried he's going to see through the Villa, see it for the cardboard town it is.
+GID00081883	Asked the Foreman how come no one's wised up yet, and he just winked, said we got someone watching out for us, an ace in the hole. As long as we're good until showtime, this whole Villa's going to be the biggest con of all time. That's because half the maintenance shipments aren't coming through - Sinclair's too blinded by that Starlet to see beyond the casino, so we're able to cut corners when we need to, and no one's going to look too close at the budgets while the casino's big opening is underway, and after that, we'll be long gone.
+GID00081884	Got the weapons and the mines in today, along with the shotguns and the ammo, enough to defend the Villa if trouble breaks out. Sinclair's taking the world situation seriously, even all the way out here... maybe more so because we're out here.
+GID00081885	Hate to think if someone got their hands on half the stuff we have stored here. Enough military ordinance here to turn the Villa into a mine field.
+GID00081886	This place is a safety inspector's wet dream. Or nightmare. Foreman ended up taking a fall in the switching station last night, broke one of his legs and his neck, but didn't die from it - he bled out before anyone found him. Bad luck - wasn't his shift, no idea what he was doing down there, but I'm surprised he fell and didn't have one of the platforms just collapse on him.
+GID00081887	Sinclair installed a new security system for visitors coming into and out of the Villa - he doesn't seem to care too much about what they do when they're inside, only that we confiscate any personal items that could be dangerous or foreign, and make sure we know who enters and who leaves. Asked him again about watching the construction crews. He said that was a "Villa matter" (great, that means the Prick runs the show). As long as there were no more accidents among the crews, that's what he cared about.
+GID00081888	Barely tucked my flask under the desk before he showed up. He gets that disapproving look when he sees the hard stuff.
+GID00081889	Sinclair's prohibition list is going to be difficult to enforce and told him so. He claims we're getting an automated system that would confiscate items even the slightest bit radioactive or foreign and ship them back to the visitor's source address. Asked about items already in the Villa (didn't mention the construction crew) and he dismissed it.
+GID00081890	Of course, no sooner than Sinclair gives his prohibition speech, his pal swings by the same hour, asking how "hardnosed" we were going to be. Told me he couldn't guarantee he could keep me supplied if I didn't treat his "friends" with the same respect. Prick.
+GID00081891	...town's going to get built, it just ain't built to last. Casino might be a different story, it's like a bank vault to the sky, but that's just me. It's a big show for someone, hope Sinclair survives this one.
+GID00081892	This is a restricted dispenser code for use in the Vending Machines.
+GID00081893	This appears to be the security chief's pass for a security terminal.
+GID00081894	Set up the radio room downstairs to broadcast through the speakers. Don't want to miss tonight's performance, the receiver down there is stronger than the desk radios we have up here.
+GID00081895	Stashed some supplies from the evidence room down there to celebrate once my shift is over. Way I figure it, the rest of the guards'll be too busy to check up on me.
+GID00081896	Nothing much to report. Pretty quiet tonight, even from Puesta del Sol. Imagine Morris up in the casino probably has more than enough with the guests coming in tonight, poor bastard.
+GID00081897	Set up the radios so I can listen in on the Gala Event when it fires up, and left one out for the prisoners. If Sinclair doesn't want us to be too strict with the guests tonight, I may just toss the key in the holding cage with anyone we pick up and let them unlock the door when they sleep it off.
+GID00081898	Sinclair did the rounds again today. Glad he left his ghostly entourage at the casino, those walking lightshows makes me wonder why he's even got us on staff when they could blast us in a second. Otherwise, Sinclair runs a tight ship, good to see in these days and times. Don't know how smart he is trying to make a resort to escape everything in the outside world, but rich guys can make it happen, even ones that've been hit hard like Sinclair has.
+GID00081899	This copy of Vera Keyes' partitures contains several notes on the margins of its pages.
+GID00081900	Most of the notations deal with how to best perform each melody. The first page shows a scribble that seems out of place. It reads:
+GID00081901	"Begin again, let go."
+GID00081902	*** Power Status ***
+GID00081903	Non-Essential Systems
+GID00081904	* Loudspeakers: Offline
+GID00081905	*** Power Status ***
+GID00081906	Non-Essential Systems
+GID00081907	* Loudspeakers: Powered
+GID00081908	This Holodisk contains Dean Domino's melody, "Saw Her Yesterday."
+GID00081909	I've started analyzing samples of the Cloud that surrounds the Sierra Madre. Preliminary results are promising. I need to perform a proper atmospheric analysis, that requires I travel there directly. Still, the sample I have collected in my chemistry set is enough to keep my experiments running. The Cloud Residue replenishes slowly, and I have to limit the gathering of samples to its rate of growth, allowing me to restock once per day.
+GID00081910	This is a restricted dispenser code for use in the Vending Machines.
+GID00081911	Sheila,
+GID00081912	The passcode for the cashier room security Hologram is "MrFizzle17." Please don't forget it again, I could lose my job if they found out I gave it to you. See you in the electrical closet after the Gala Event?
+GID00081913	-Bill
+GID00081914	This is a restricted dispenser code for use in the Vending Machines.
+GID00081915	If security holograms detect unauthorized guests or detect criminal action, they will display a warning "caution" color to the target.
+GID00081916	If you believe they ever display this color in error, immediately move away from the hologram's field of view until they resume their normal protocol. If the behavior persists, they will enter engagement mode, turn red, and attempt to subdue targets with their discharge beams.
+GID00081917	Note: As requested in the service contract, N.E. has installed EBE systems in all Sierra Madre security hologram emitters.
+GID00081918	/Sinclair Access 301
+GID00081919	Subject: Keyes, Vera
+GID00081920	Condition: Terminal
+GID00081921	Sinclair,
+GID00081922	There's not much more we can do for Miss Keyes except keep her comfortable. Her exhaustion will persist, as will the insomnia.
+GID00081923	Recommend continuing Med-X/Superstim treatments. This is not a viable long-term solution. The pain will persist and increase over time, and the dosages she's currently taken already carry the risk of overdose. Based on discussions, I also fear allowing Miss Keyes access to those amounts of Chems may lead to purposeful overdose, and recommend psychiatric evaluation as well.
+GID00081924	Salida Del Sol Ventilation System Status
+GID00081925	Ventilation Fan Status:
+GID00081926	Fan #1 ... Online
+GID00081927	Fan #2 ... Online
+GID00081928	Fan #3 ... Online
+GID00081929	Fan #4 ... Online
+GID00081930	Fan #5 ... Online
+GID00081931	Salida Del Sol Ventilation System Status
+GID00081932	Ventilation Fan Status:
+GID00081933	Fan #1 ... Online
+GID00081934	Fan #2 ... Offline (Power Failure, Reset System)
+GID00081935	Fan #3 ... Online
+GID00081936	Fan #4 ... Online
+GID00081937	Fan #5 ... Offline (Power Failure, Reset System)

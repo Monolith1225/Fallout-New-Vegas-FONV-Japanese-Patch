@@ -1,0 +1,173 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_awop_terminal_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00103459	Underground学校の先生のターミナル
+GID00103461	ジョニー・ライム所有
+GID00103462	Hyper-Real Project
+GID00103463	Lead Designer
+GID00103465	INBOX - Hyper-Reality or Reality?
+GID00103466	OUTBOX - 100 Year Celebrations
+GID00103467	OUTBOX - 電源喪失
+GID00103468	INBOX - 救助
+GID00103469	Hyper-Real Score List
+GID00103470	Underground学校の生徒のターミナル
+GID00103472	Ivanpah 武器研究施設
+GID00103473	オーバーチャージ計画 労働者のターミナル
+GID00103475	Outgoing Email
+GID00103476	Incoming Email
+GID00103477	Outgoing Email
+GID00103478	J. Empire所有
+GID00103479	ベータパワー計画の副チーフプログラマー。
+GID00103481	プログラマーのメモ、2123年6月
+GID00103482	Uz1zrground Cozzzztion Terzzzz/
+GID00103483	CORRUPT DATA:
+GID00103484	________________________
+GID00103485	System Restore Incomplete
+GID00103486	Status 08%
+GID00103487	________________________
+GID00103488	Press Any Key to continue.
+GID00103490	INBOX - MESSAGE CORRUPT
+GID00103491	OUTBOX - ゴミ捨て場の変更
+GID00103492	INBOX - MESSAGE CORRUPT
+GID00103493	NCR Mohave Bunker前哨基地。
+GID00103494	ようこそCaptain Petro
+GID00103496	INBOX - チーム・テスト 21/12/80
+GID00103497	OUTBOX - 有力候補者 21/12/80
+GID00103498	INBOX - チーム・テスト 07/01/81
+GID00103499	INBOX - X13 MIA 17/09/81
+GID00103500	INBOX - 至急! 応答せよ! 19/09/81
+GID00103501	Troy Cowarne所有
+GID00103502	建設主任クラス2
+GID00103504	主任の記録 22/12/2123
+GID00103505	Charlieのターミナル
+GID00103507	神からの伝言
+GID00103508	ミッションの記録
+GID00103509	Mlix
+GID00103510	共同ターミナル
+GID00103512	新しい家
+GID00103513	次元ハイパージャンプ
+GID00103514	これを見とけ - 俺たち有名人だぞ!
+GID00103515	神々の書記 Part 1
+GID00103516	神々の書記 Part 2
+GID00103517	神々の書記 Part 3
+GID00103518	神々の書記 Part 4
+GID00103519	神々の書記 Part 5
+GID00103520	神々の書記 Part 6
+GID00103521	神々の書記 あらすじ
+GID00103522	Enclaveのために!
+GID00103523	我々は決して忘れないだろう。
+GID00103525	Scowellの記録 01 02/03/2262
+GID00103526	Scowellの記録 02 06/06/2263
+GID00103527	Scowellの記録 03 07/10/2263
+GID00103528	リックのターミナル - エミリーは触るな!
+GID00103530	リックの日記 01
+GID00103531	リックの日記 02
+GID00103532	リックの日記 03
+GID00103533	リックの日記 04
+GID00103534	不明ユーザーのエントリ 01
+GID00103536	監督の記録
+GID00103537	Nipton Pit-Stop Shelter Public Terminal
+GID00103539	Steve -急げ!
+GID00103540	素敵な我が家
+GID00103541	北の敗北
+GID00103542	地下室の音
+GID00103543	戦前のHardtekホームターミナル
+GID00103544	修理者 ファーギー M. - 2270年1月
+GID00103546	Outgoing Email - 2077年10月
+GID00103547	Redoubt 6AF14
+GID00103548	Nellis 空軍基地
+GID00103549	ネバダ
+GID00103550	>\ Welcome, USER
+GID00103552	BoomerによるRedoubt報告書
+GID00103553	Freetechローカル放送ターミナル2
+GID00103556	Rothの日記 2272年1月17日
+GID00103557	Rothの日記 2272年1月20日
+GID00103558	Rothの日記 2272年1月21日
+GID00103559	Rothの日記 2272年1月30日
+GID00103560	サムソン砕石プラント
+GID00103561	技術者のターミナル
+GID00103563	受信メッセージ- 急げ!!!
+GID00103565	Redoubt 07
+GID00103566	Redoubt 6b
+GID00103567	Redoubt 91a
+GID00103568	Redoubt S4
+GID00103569	Steveのターミナル
+GID00103571	Mattがまた死んだ。
+GID00103572	ランダムな薬物テスト
+GID00103573	ハードコア!
+GID00103574	NCR サーチライトバンカー前哨基地
+GID00103575	通信用ターミナル
+GID00103576	ようこそRanovich軍曹
+GID00103578	Ranovichの記録 21-07-81
+GID00103579	Ranovichの記録 25-07-81
+GID00103580	Ranovichの記録 30-07-81
+GID00103581	Sunnytime Cigarette Area Managerのターミナル
+GID00103583	サニータイムメモ
+GID00103584	Vault-Tec Vaultの監視ステーションNV03
+GID00103585	> \ようこそ、USER
+GID00103587	EMAIL Outbox 20/06/77 09.13
+GID00103588	EMAIL Inbox 20/10/77 18.44
+GID00103589	EMAIL Outbox 20/10/77 19.20
+GID00103590	EMAIL Outbox 21/10/77 00.17
+GID00103591	Unknown User Entry 21/09/81 15.36
+GID00103592	Unknown User Entry 22/09/81 21.57
+GID00103593	アップデートターミナル
+GID00103595	アップデートエントリー
+GID00103596	Hard-Tek セキュリティシステム。
+GID00103598	Underground の歴史 Pt1
+GID00103599	Underground の歴史 Pt2
+GID00103600	Property of Da Fiendz - Fuck Off!
+GID00103602	Henryの日記 01
+GID00103603	Henryの日記 02
+GID00103604	Henryの日記 03
+GID00103605	Hardtekホームターミナル
+GID00103606	所有者不明
+GID00103607	ターミナルは適切にシャットダウンされませんでした…
+GID00103609	Fergieへの伝言
+GID00103610	User Entry01. Date Unknown.
+GID00103611	User Entry02. Date Unknown.
+GID00103612	Vault 40ターミナル
+GID00103613	南発電所
+GID00103614	> \ようこそ、USER
+GID00103616	INBOX: Get Out Now!
+GID00103617	Vault-Tec Vault 41監督者ターミナル
+GID00103619	Maddoxの記録 01
+GID00103620	Maddoxの記録 02
+GID00103621	Maddoxの記録 03
+GID00103622	Maddoxの記録 04
+GID00103623	Mini-Vault Welcome Terminal
+GID00103625	Welcome Message
+GID00103626	Underground 規則及び規定
+GID00103627	4次元ストレージ情報
+GID00103629	Dentonのメモ
+GID00103630	ようこそPhillips中尉
+GID00103632	Phillipsの記録 01
+GID00103633	Phillipsの記録 02
+GID00103634	Tonyのターミナル
+GID00103636	環境評価
+GID00103637	ムードポップ・レシピ
+GID00103638	サーチライト教会バンカー
+GID00103639	Polavo神父のターミナル
+GID00103641	サーチライトバンカーメモ
+GID00103642	Vault 40武器庫ターミナル
+GID00103644	武器庫マスターの記録 01
+GID00103645	武器庫マスターの記録 02
+GID00103646	武器庫マスターの記録 03
+GID00103647	武器庫マスターの記録 04
+GID00103648	ネバダ放射線研究施設データターミナル
+GID00103649	Butch Henderson所有
+GID00103651	Hendersonの日記 01
+GID00103652	Hendersonの日記 02
+GID00103653	Freetechローカル放送ターミナル1
+GID00104335	>\ W3lcome, USER
+GID00104336	HOUSE TOOLx Seeee Madre
+GID00104337	Master Terminal
+GID00104338	bX0010982bv
+GID00104339	Status: Crrrrpt
+GID00104341	Outgoing Mail 01/03/76
+GID00104342	Incoming Mail 04/03/76
+GID00104344	Randallの日記 Part 01
+GID00104345	Randallの日記 Part 02
+GID00104346	Randallの日記 Part 03
+GID00104347	Randallの日記 Part 04

@@ -1,0 +1,81 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc02_quest_objective_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00086280	Find the Happy Trails caravan master.
+GID00086281	Let Jed know you're ready to leave once you're traveling alone and carrying 75 pounds or less.
+GID00086282	Let Jed know you're ready to leave once you're traveling alone and carrying 100 pounds or less.
+GID00086283	Take the supplies to Daniel at the Narrows.
+GID00086284	Optional: Speak to Follows-Chalk about taking him as a guide.
+GID00086285	Optional: Defeat the White Legs assault.
+GID00086286	Move into Zion Valley.
+GID00086287	Travel to the Dead Horses camp at Eastern Virgin.
+GID00086288	Speak with Joshua Graham.
+GID00086289	Follow Jed.
+GID00086290	Find a map of the Grand Staircase region.
+GID00086291	Optional: Speak to Waking Cloud about taking her as a guide.
+GID00086292	Find a way to unlock the door to the Survivalist's cache.
+GID00086293	Locate the White Legs leader, Salt-Upon-Wounds, and deal with him.
+GID00086294	Return to Daniel at The Narrows.
+GID00086295	Fight your way to the Pine Creek Tunnel.
+GID00086296	Deal with Salt-Upon-Wounds
+GID00086297	Speak to Daniel.
+GID00086298	Use the detonator to collapse the Pine Creek tunnel.
+GID00086299	Pick the roots from 3 Sacred Datura plants.
+GID00086300	Return the roots to the Shaman.
+GID00086301	Return to the Shaman to start the ritual.
+GID00086302	Retrieve the paw from Ghost of She.
+GID00086303	Return to the Shaman.
+GID00086304	Speak to White Bird the shaman.
+GID00086305	Pick the roots from 3 Sacred Datura plants.
+GID00086306	Find the lost Mountain Bighorner Calf.
+GID00086307	Get the calf to follow you back to its mother.
+GID00086308	(Optional) Don't kill any of the Mountain Bighorners.
+GID00086309	Get the calf to follow you back to the herd.
+GID00086310	Speak with Follows-Chalk
+GID00086311	Find a way up to the Cliffs.
+GID00086312	Kill all of the Mountain Bighorners.
+GID00086313	Take the calf to Follows-Chalk
+GID00086314	Recover the map of Zion Canyon.
+GID00086315	Leave Zion and return to the Mojave Wasteland.
+GID00086316	Defeat the White Legs holding the bridge to Pine Creek.
+GID00086317	Optional: Talk to the Sorrows at the burial ground.
+GID00086318	Kill the White Legs desecrating the Sorrows' burial ground.
+GID00086319	Optional: Kill the White Legs desecrating the Sorrows' burial ground.
+GID00086320	Release the Sorrow prisoners at Ranger Substation Osprey.
+GID00086321	Optional: Kill the White Legs at Ranger Substation Osprey.
+GID00086322	Find the key to the cell door.
+GID00086323	Optional: Steal the White Legs' war totems from the encampments.
+GID00086324	Optional: Wipe out the White Leg encampments at Bighorn Bluff.
+GID00086325	Deal with the White Legs' camp.
+GID00086326	Optional: Disarm the traps on the bridge.
+GID00086327	Optional: Kill the White Legs planting the traps.
+GID00086328	Deal with the White Leg traps.
+GID00086329	Optional: Collapse the Yao Guai Cave.
+GID00086330	Optional: Kill the Yao Guai at Pine Creek.
+GID00086331	Plant mining explosives at key points within the cave.
+GID00086332	Leave the cave and set off the charges with the mining detonator.
+GID00086333	Deal with the Yao Guai at Pine Creek.
+GID00086334	Return to Daniel at the Narrows.
+GID00086335	Tell Daniel whether the Sorrows should fight or flee.
+GID00086336	Search the ruins of the crashed scout bus for a compass.
+GID00086337	Repair the broken compass at a workbench.
+GID00086338	Optional: Find a sensor module to repair the compass.
+GID00086339	Return the compass to Daniel at the Narrows.
+GID00086340	Optional: Speak to Follows-Chalk about taking him as a guide.
+GID00086341	Repair the broken compass with the sensor module.
+GID00086342	Search the Zion Fishing Lodge for walkie-talkies.
+GID00086343	Find the key to the locked cabinet in the Zion Fishing Lodge.
+GID00086344	Search the Zion Ranger Station for a medical supply kit.
+GID00086345	Find turpentine for the medical supply kit.
+GID00086346	Find duct tape for the medical supply kit.
+GID00086347	Optional: Find whiskey, vodka, or Scotch to sterilize the medical supply kit.
+GID00086348	Search the Zion General Store for five Li'l Scout Lunchboxes.
+GID00086349	Salvage the medical supply kit at a campfire.
+GID00086350	Find the key to the desk in the Zion General Store.
+GID00086351	Bring the supplies you've gathered to Daniel in the Narrows.
+GID00086352	Return to the Mojave via the Southern Passage.
+GID00086353	Find out what Daniel knows about Waking Cloud's family.
+GID00086354	Tell Waking Cloud about her family.
+GID00086355	Talk to Joshua Graham about Follows-Chalk's desire to see civilization.
+GID00086356	Tell Follows-Chalk your opinion of civilization.

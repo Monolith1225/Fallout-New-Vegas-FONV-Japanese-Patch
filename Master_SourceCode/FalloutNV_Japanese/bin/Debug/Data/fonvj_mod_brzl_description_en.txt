@@ -1,0 +1,40 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_brzl_description_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00104348	Ben Kurtz Tweaks
+GID00104349	Eric Campbell Tweaks
+GID00104350	Jamie Campbell Tweaks
+GID00104351	Jenifer Hale Tweaks
+GID00104352	Jenifer Hale Tweaks - After save Ben
+GID00104353	Johnny Matheson Tweaks
+GID00104354	Kira Mann Tweaks
+GID00104355	You're a Nerd Super Star! (-1 STR, -1 AGL, +2 INT, -1 CHR, +10 SCI)
+GID00104356	You're a Star Athlete! (+1 STR, +1 CHR, +1 AGL, -1 INT)
+GID00104357	Born to lead. Born to follow. Born Soldier (+10 Guns, +2 DT)
+GID00104358	Heavy and strong Survivalist troopers train continually. They are well fed, dangerous in combat, mostly intelligent, but highly brutish. They are hard men and women.
+GID00104359	Born to kill. Born Soldier II (+10 Guns, +2 DT)
+GID00104360	Sweet Talker - Your soothing words flow like honey. (+1 CHA)
+GID00104361	Singing epic poems is second nature to you. (+10 SP)
+GID00104362	Security for the good of the citizens of Vault 18.
+GID00104363	There's a real brain under all that muscle! (+1 INT)
+GID00104364	Scout Master - Fit for survival! (PER +1, SV +10)
+GID00104365	Cold-Blooded Killer. Born Soldier III (+10 Guns, +2 DT)
+GID00104366	Bare-Handed Vault killer. (+10 Unarmed, +3 DT)
+GID00104367	Vault Guardian (+10 Guns, +2 DT)
+GID00104368	Vault 18 was comissioned late in 2075, meant to house Senator Andrew Skolls and several others who never arrived.
+GID00104369	Vault 18 was meant to house roughly 400 people for 380 years, but the additional housing was never completed.
+GID00104370	Vault 18 was nearly depopulated 60 years ago, as their able-bodied youth left the elders behind to colonize the wasteland.
+GID00104371	Dr. Rossman is responsible for bringing the Exodite orphans to Vault 18 from their various tribes across California. Without his personal mission to save them, it's possible you would have died in the wasteland as a child.
+GID00104372	Coach John Bragg was found by a Vault 18 scouting party searching for a new Water Chip. They asked him to join their population in order to tame the wild and uncontrolable wasteland kids they had adopted, but were too old, or too disgruntled, to handle.
+GID00104373	Parts of Vault 18 were never finished, and were left empty caverns. The Vault Dwellers have found ways of using the caverns for extra space.
+GID00104374	For 9 years, John Bragg, the football coach, taught the athletic wasteland kids to believe in American idealism, and act as a group. Colonel Bragg turned the 'Patriots' into a lethal tactical force aimed at capturing Vault 18.
+GID00104375	Not all of the athletic wasteland kids liked Coach Bragg. Some openly hated him, like Mandy and Shawn Starr. To deal with them, Bragg eliminated as many as he could in his first attack.
+GID00104376	Vault 18 was an experimental vault, designed to observe a control population that became aware that the other vaults were social experiments.
+GID00104377	The only children born in Vault 18 for 60 years have been from two families: The Hales and the Christiansons. The rest have been born to the Exodite orphans. Vault 18's original population is rapidly fading away.
+GID00104378	You've become an Energy Weapon Buff - Laser Head (+10 EW)
+GID00104379	Expert Bullshitter! (+10 SP)
+GID00104380	You seem to know things. (+1 PER)
+GID00104381	While B-6-RK is a companion, unequipped chems, firearms, and ammunition within a short distance are highlighted when you zoom the camera.
+GID00104382	For defeating the Super Mutant you gain +10 damage against them in combat
+GID00104383	Johnny Matheson has blessed you. (+10 GUNS)

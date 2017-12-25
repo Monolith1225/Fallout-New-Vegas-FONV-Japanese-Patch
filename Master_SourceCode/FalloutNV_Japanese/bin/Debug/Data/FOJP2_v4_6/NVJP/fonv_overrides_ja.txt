@@ -1,0 +1,124 @@
+Strength
+Perception
+Endurance
+Charisma
+Intelligence
+Agility
+Luck
+
+Barter
+Energy Weapons
+Explosives
+Guns
+Lockpick
+Medicine
+Melee Weapons
+Repair
+Science
+Guns
+Sneak
+Speech
+Survival
+Unarmed
+
+AGL
+AP
+Caps
+CHR
+CND
+DR
+DT
+EFF
+END
+HP
+HR
+INT
+LCK
+LVL
+PER
+RAD
+RADS
+STR
+VAL
+WG
+XP
+
+H2O
+FOD
+SLP
+
+RAD RESIST
+RADS
+
+STATS
+Status
+S.P.E.C.I.AL
+Skills
+Perks
+General
+
+ITEMS
+Weapons
+Apparel
+Aid
+Misc
+Ammo
+
+DATA
+Local Map
+World Map
+Quests
+Misc
+Radio
+
+OK
+Accept
+Cancel
+Exit
+
+[%] (中立)
+[%] (歓迎)
+[%] (崇拝)
+[%] (険悪)
+
+ケージの扉: [%]
+カートケージ: [%]
+部屋のドア: [%]
+金網ゲート: [%]
+遮蔽ドア: [%]
+デスクローのオリの扉: [%]
+ドア: [%]
+ドア: [%]
+鉄格子の排水: [%]
+エレベータ: [%]
+緊急隔壁: [%]
+高速エレベーター: [%]
+ガレージのドア: [%]
+ゲート: [%]
+ゲート: [%]
+GECKコンテナ: [%]
+ガラスのドア: [%]
+ゲート: [%]
+ハンガードア: [%]
+ハッチ: [%]
+ホテルの部屋のドア: [%]
+梯子: [%]
+マンホール: [%]
+メタルドア: [%]
+緊急隔壁: [%]
+隠しエレベーター: [%]
+下水道エントランス: [%]
+下水の出口: [%]
+下水鉄格子: [%]
+部屋のドア: [%]
+サイロのドア: [%]
+サイロのハッチ: [%]
+トイレのドア: [%]
+チケットブースのドア: [%]
+公共ドア: [%]
+Vaultの扉: [%]
+木製厚板: [%]
+木製ゲート: [%]
+メタルゲート: [%]
+
+[%]？

@@ -1,0 +1,142 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc02_message_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00084793	You found the key to the White Legs' prison!
+GID00084795	Joshua Graham has given you the Way of the Canaanite perk.
+GID00084796	While Joshua Graham is in your party, any .45 caliber auto pistol you use has less spread and is twice as likely to score critical hits.
+GID00084798	Follows-Chalk has returned to the Dead Horses camp.
+GID00084800	Waking Cloud has returned to the Sorrows camp.
+GID00084802	Mountain Bighorners Killed 7/9
+GID00084804	You have lost Joshua Graham's Way of the Canaanite perk.
+GID00084806	This walkie-talkie is broken, but can possibly be restored to a fully functioning state.
+GID00084807	[Repair of 30 or greater required.]
+GID00084809	Leave it alone.
+GID00084810	Repair the walkie-talkie.
+GID00084811	Repair with parts.
+GID00084812	Take the broken walkie-talkie with you.
+GID00084813	You have lost Follows-Chalk's Well-Stacked Cairns perk.
+GID00084815	You have found the lost Mountain Bighorner Calf. It looks hungry, feed it a Banana Yucca Fruit?
+GID00084817	Leave it alone.
+GID00084818	Feed it a Banana Yucca Fruit.
+GID00084819	By finding replacements for the contaminated components of the kit, you can get it up to working order much more easily.
+GID00084820	[Requires one Duct Tape and one Turpentine]
+GID00084822	Leave it alone.
+GID00084823	Replace components.
+GID00084824	Sterilize the kit with alcohol.
+GID00084825	Salvage without replacements.
+GID00084826	Take the incomplete medical kit with you.
+GID00084827	Mountain Bighorners Killed 2/9
+GID00084829	Your Pip-Boy has picked up a radio broadcast from the Happy Trails Caravan Company. They're looking for one more member for an expedition to Zion Valley.
+GID00084831	This wiring is rigged to discharge electricity through the door.
+GID00084832	You are not able to disarm the wiring.
+GID00084833	[Repair 50 or higher required]
+GID00084835	Mountain Bighorners Killed 6/9
+GID00084837	If you don't have the parts or the skills to make repairs in the field, you can take the contaminated medical supply kit to a campfire and salvage it there.
+GID00084839	You must be outside the cave to safely detonate the mining explosives.
+GID00084841	Your senses are already heightened by this grand vista.
+GID00084843	Joshua Graham has given you the Way of the Canaanite perk.
+GID00084844	While Joshua Graham is in your party, any .45 caliber auto pistol you use has less spread and is twice as likely to score critical hits.
+GID00084846	This compass is broken, but can possibly be restored to a fully functioning state.
+GID00084847	[Repair of 30 or greater required.]
+GID00084849	Leave it alone.
+GID00084850	Repair the compass.
+GID00084851	Repair with parts.
+GID00084852	Take the broken compass with you.
+GID00084853	Without a map or a guide, you have no hope of finding your way back to the Mojave Wasteland.
+GID00084855	Honest Hearts has been loaded. Your level cap has been raised by 5.
+GID00084857	This snowglobe has been added to the collection at the Lucky 38.
+GID00084859	You need to travel with the Happy Trails Caravan on your first journey to Zion Valley.
+GID00084861	Whether you decide whether the Sorrows should fight or flee, your decision will set their destiny irrevocably in motion. You will be unable to finish any remaining quests in Zion once you make your decision, so choose wisely.
+GID00084863	This medical supply kit is mostly intact, but several of the sterile bandages have been broken open and the disinfectant bottle is leaking.
+GID00084865	The Weapon Binding Ritual fades from your mind.
+GID00084867	Mountain Bighorners Killed 5/9
+GID00084869	Would you like to craft or sleep?
+GID00084871	Craft
+GID00084872	Sleep
+GID00084873	< Something in Waking Cloud changes and she fights White Legs harder now. >
+GID00084875	Black Coffee cup broke
+GID00084877	If you don't have the parts or the skills to make repairs in the field, you can take the medical kit to a workbench and fix it there.
+GID00084879	By replacing this compass's burned-out sensor module rather than bypassing it, you can make the repair process much easier.
+GID00084880	[Requires one Compass Sensor Module.]
+GID00084882	Leave it alone.
+GID00084883	Repair with parts.
+GID00084884	Repair without parts.
+GID00084885	This wiring is rigged to discharge electricity through the door.
+GID00084886	You may be able to disarm the wiring.
+GID00084887	[Repair 50 or higher required]
+GID00084889	Leave the electric wiring alone.
+GID00084890	Disarm the electric wiring.
+GID00084891	This medical supply kit is mostly intact, but several of the sterile bandages have been broken open and the disinfectant bottle is leaking. You can try to salvage what's there, or you can find replacements for the contaminated components. Alternately, you can use alcohol to re-sterilize the bandages.
+GID00084892	[Medicine 30 or greater required.]
+GID00084894	Leave it alone.
+GID00084895	Salvage the Medical supply kit.
+GID00084896	Replace the contaminated components.
+GID00084897	Sterilize the kit with alcohol.
+GID00084898	Take the incomplete medical kit with you.
+GID00084899	Daniel has given you a detonator that is set to detonate the C4 placed above the mouth of the Pine Creek Tunnel. Firing this detonator will collapse the passage and prevent any White Legs from following Daniel and the Sorrows out of Zion.
+GID00084901	Follows-Chalk has given you the Well-Stacked Cairns perk.
+GID00084902	While Follows-Chalk is in your party, reaching any summit in Zion Valley (such as ranger stations) will reveal all nearby map markers and inspire a heightened state of awareness (+3 PER) for three minutes.
+GID00084904	You have sacrificed a portion of your life's blood to become one with your weapon.
+GID00084905	Your eyes will be keen, your limbs will not break, and your claws will strike like thunder.
+GID00084906	Fight only with your hands or the weapons of your hands to know this glory in combat.
+GID00084908	Well-Stacked Cairns perk activated by Zion summit. Adding Heightened Senses (+3 PER).
+GID00084910	The electronics in this walkie-talkie are badly damaged. If you replace them, the process will be much simpler. Requires one pile of Scrap Electronics.
+GID00084912	Leave it alone.
+GID00084913	Repair with parts.
+GID00084914	Repair without parts.
+GID00084915	Return the Mountain Bighorner Calf?
+GID00084917	Keep the Calf
+GID00084918	Return the Calf
+GID00084919	Mountain Bighorners Killed 9/9
+GID00084921	Follows-Chalk has died.
+GID00084923	This generator powers the electric charge of its connected door.
+GID00084924	You are not able to smash the generator.
+GID00084925	[Melee Weapons, or Unarmed, 50 or higher required]
+GID00084927	You found the key to the door in Morning Glory Cave!
+GID00084929	This compass is broken.
+GID00084931	Waking Cloud has died.
+GID00084933	Joshua Graham has left your company.
+GID00084935	Joshua Graham has left your company.
+GID00084937	You found the key to the locked desk in the Zion General Store!
+GID00084939	The Mountain Bighorner Calf is scared, feed it a Banana Yucca Fruit?
+GID00084941	Leave it alone.
+GID00084942	Feed it a Banana Yucca Fruit.
+GID00084943	You have lost Joshua Graham's Way of the Canaanite perk.
+GID00084945	You've killed Jed Masterson! Without his maps and mountaineering expertise, you'll never make it to Zion!
+GID00084946	(Killing Jed has rendered the Honest Hearts DLC inacessible. Please reload your last save if you wish to play Honest Hearts.)
+GID00084948	You need some mining explosives to arm this bomb.
+GID00084950	You don't have time to examine this object in the heat of battle.
+GID00084952	Follows-Chalk has given you the Well-Stacked Cairns perk.
+GID00084954	Mountain Bighorners Killed 8/9
+GID00084956	With some high-proof alcohol, you could sterilize the kit rather than replace components.
+GID00084957	[Requires one Scotch, one Vodka, or one Whiskey.]
+GID00084959	Leave it alone.
+GID00084960	Replace the contaminated components.
+GID00084961	Sterilize the kit with alcohol.
+GID00084962	Salvage without replacements.
+GID00084963	Take the incomplete medical kit with you.
+GID00084964	You've killed a member of the Happy Trails Caravan! Without their maps and mountaineering expertise, you'll never make it to Zion!
+GID00084965	(Becoming an enemy of the Happy Trails caravan has rendered the Honest Hearts DLC inacessible. Please reload your last save if you wish to play Honest Hearts.)
+GID00084967	Mountain Bighorners Killed 4/9
+GID00084969	This generator powers the electric charge of its connected door.
+GID00084970	You may be able to smash the generator.
+GID00084971	[Unarmed 50 or higher required]
+GID00084973	Leave the generator alone.
+GID00084974	Smash the generator.
+GID00084975	You have lost Waking Cloud's Quiet as the Waters perk.
+GID00084977	This generator powers the electric charge of its connected door.
+GID00084978	You may be able to smash the generator.
+GID00084979	[Melee Weapons 50 or higher required]
+GID00084981	Leave the generator alone.
+GID00084982	Smash the generator.
+GID00084983	Waking Cloud has given you the Quiet as the Waters perk.
+GID00084984	While Waking Cloud is in your party, it is much easier to sneak by the White Legs (their PER is decreased).
+GID00084986	Daniel has given you some Pre-War mining explosives and a special detonator for them. They aren't useful as weapons, but could be used to collapse certain caves, if that proves necessary in your exploration.
+GID00084988	If you don't have the parts or the skills to make repairs in the field, you can take the broken compass to a workbench and fix it there.
+GID00084990	Mountain Bighorners Killed 1/9
+GID00084992	Mountain Bighorners Killed 3/9
+GID00084994	Waking Cloud has given you the Quiet as the Waters perk.
+GID00084996	You found the key to the locked cabinet in the Zion Fishing Lodge!
+GID00084998	You cannot use the campfire while in combat.
+GID00085000	Waiting will cause you to miss important events - your mission will fail.

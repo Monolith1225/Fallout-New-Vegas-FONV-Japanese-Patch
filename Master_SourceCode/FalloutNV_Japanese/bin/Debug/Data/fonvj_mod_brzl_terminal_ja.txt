@@ -1,0 +1,224 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_brzl_terminal_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00110505	(立体駐車場)
+GID00110506	天才ハッカーのパフォーマンスショーを行います
+GID00110508	(立体駐車場) 周囲を見回す
+GID00110509	周囲を注意深く観察する
+GID00110510	変わり者と話す
+GID00110511	あなたはテックウィザードを認める
+GID00110512	変わり者と話す
+GID00110513	あなたはテックウィザードを認める
+GID00110514	変わり者と話す
+GID00110515	あなたはテックウィザードを認める
+GID00110516	変わり者を観察する
+GID00110517	周囲を注意深く観察する
+GID00110518	東へ行く
+GID00110519	あなたは東へと歩いていく...
+GID00110520	インベントリ
+GID00110521	Vault 101アクセスターミナル
+GID00110523	Vault Door認証
+GID00110524	セキュリティアクセスのみを認証します
+GID00110526	放射能反応
+GID00110527	放射線:125グレイ
+GID00110528	X線:120グレイ
+GID00110531	Dr. Kevin Rossmanのエントリー1
+GID00110533	Dr. Kevin Rossmanのエントリー2
+GID00110535	Dr. Kevin Rossmanのエントリー3
+GID00110537	Markus Evansのエントリー4
+GID00110539	Markus Evansのエントリー5
+GID00110541	フォースフィールド切断
+GID00110543	フォースフィールド切断
+GID00110544	フォースフィールドを切断しています...
+GID00110547	San Bernardino スカウト報告書 Part 3
+GID00110549	ウェイストランドスカウトミッション報告 176
+GID00110551	ウェイストランドスカウトミッション報告 214
+GID00110553	ウェイストランドスカウトミッション報告 215
+GID00110556	酒場と武器屋、そして塔が見える
+GID00110558	(Downtown) 周囲を見回す
+GID00110560	武器商人と話す
+GID00110562	武器商人と話す
+GID00110563	武器商人と話す
+GID00110564	ハッカーと話す
+GID00110565	あなたはハッカーに近づいていく...
+GID00110566	ハッカーと話す
+GID00110567	あなたはハッカーに近づいていく...
+GID00110568	ハッカーと話す
+GID00110569	あなたはハッカーに近づいていく...
+GID00110570	北へ行く
+GID00110571	あなたは北へと歩いていく...
+GID00110572	インベントリ
+GID00110573	Vault 18 Tier 2 Network
+GID00110574	Terminal 5
+GID00110575	San Bernardino スカウト報告書イメージ画像
+GID00110577	ハイウェイ01.jpg
+GID00110579	ハイウェイ02.jpg
+GID00110581	ハイウェイ03.jpg
+GID00110583	ハイウェイ04.jpg
+GID00110585	認証済みのアカウント専用です
+GID00110587	ようこそ Vault 18 セキュリティへ!
+GID00110590	巡回ルーチンの開始
+GID00110592	フォロールーチンの開始
+GID00110594	巡回ルーチンの開始
+GID00110596	Vault 18 Tier 1 Network
+GID00110598	Vault 18の歴史 Part 1
+GID00110600	2077.8.23 Vault-Tec
+GID00110601	ファイルを読み込み中...
+GID00110602	監督官 Clarence Duvnic 2077.8.23
+GID00110603	ファイルを読み込み中...
+GID00110604	警備長 Clint Dickson 2077.8.25
+GID00110605	Loading file...
+GID00110606	監督官 Clint Dickson 2077.9.25
+GID00110607	Loading file...
+GID00110608	監督官 Clint Dickson 2079.05.3
+GID00110609	Loading file...
+GID00110610	監督官 Clint Dickson 2079.05.8
+GID00110612	監督官 Clint Dickson 2080.08.20
+GID00110616	出荷記録
+GID00110622	San Bernardino スカウト現地調査ログ
+GID00110630	認証済みユーザー専用回線です
+GID00110632	vault18セキュリティへようこそ!
+GID00110648	Tier 4 Networkステータスの表示
+GID00110649	Tier 3 Network Status
+GID00110650	ようこそ監督官
+GID00110652	認証済みののちご利用下さい!
+GID00110653	タレットコントロールシステム
+GID00110655	タレットを無効化する
+GID00110658	パルス・ピースメイカー・ピストル
+GID00110668	変わり者の手記
+GID00110669	ダウンタウンの武器商人A UOweMe
+GID00110672	パスコード
+GID00110697	ようこそお客様
+GID00110702	ようこそ監督官
+GID00110705	古いロボット工場に来た
+GID00110707	(古いロボット工場)周囲を眺める
+GID00110708	周囲を注意深く観察する
+GID00110710	周囲を注意深く観察する
+GID00110711	(古いロボット工場)周囲を眺める
+GID00110712	周囲を注意深く観察する
+GID00110726	Homepage Beta 0.642
+GID00110727	Welcome &pcname; Star! 二件の未読メッセージがあります
+GID00110735	パイロット: Robert "Cockfight" Sorenson / ミッション: "Twilight Lords" / ステータス: Operation Successful
+GID00110776	San Bernardino スカウト報告書 Part 2
+GID00110805	San Bernardino スカウト報告書 Part 2
+GID00110807	Wasteland スカウトミッション報告書 112
+GID00110808	ファイルを読み込んでいます...
+GID00110809	Wasteland スカウトミッション報告書 289
+GID00110810	ファイルを読み込んでいます...
+GID00110811	Vault 18 第1階層 ネットワーク
+GID00110812	ターミナル 2
+GID00110813	Vault18の歴史 Part 2
+GID00110815	Vault 10 ログ - 2242.5.21 - Mr Tubs
+GID00110816	ファイルを読み込んでいます...
+GID00110817	Vault 3 ログ - 2242.5.16
+GID00110818	ファイルを読み込んでいます...
+GID00110819	Vaul 76 ログ 2242.5.10
+GID00110820	ファイルを読み込んでいます...
+GID00110821	Vault 8 ログ 2242.5.18
+GID00110822	ファイルを読み込んでいます...
+GID00110823	Vault 18 第4階層 ネットワーク
+GID00110828	-System offline -
+GID00110829	ERROR 0x03C663A1
+GID00110830	"ネットワークが接続されてません"
+GID00110831	"Dummy terminal inactive"
+GID00110833	>\ ようこそ。
+GID00110835	コンピュータのレジュメ制御: V18//ROBOTICS
+GID00110836	Resuming administrator control to: USER
+GID00110837	SECURITY ACCESS ONLY
+GID00110838	=====================
+GID00110839	放射線を検出
+GID00110840	ガンマ線: 12500 Rad
+GID00110841	X線: 12000 Rad
+GID00110842	ミュー中間子: UNABLE TO DETERMINE FIXED RATE
+GID00110844	Dr. Kevin Rossman エントリー1
+GID00110845	ノートを読み込んでいます...
+GID00110846	Dr. Kevin Rossman エントリー2
+GID00110847	ノートを読み込んでいます...
+GID00110848	Dr. Kevin Rossman エントリー3
+GID00110849	ノートを読み込んでいます...
+GID00110850	Markus Evans エントリー4
+GID00110851	ノートを読み込んでいます...
+GID00110852	Markus Evans エントリー4
+GID00110853	ノートを読み込んでいます...
+GID00110854	ようこそ, &pcname; Star!
+GID00110856	ホームページ Beta 0.642
+GID00110857	ロード中...
+GID00110858	エラー 404 - 第3階層オフライン
+GID00110859	ロード中...
+GID00110860	WastedGirlz.net
+GID00110861	ロード中...
+GID00110862	エラー 404 - 第3階層オフライン
+GID00110863	ロード中...
+GID00110864	NCR オンライン 2.0
+GID00110865	ロード中...
+GID00110866	Vault-Tec から Skolls 上院議員宛のノート 
+GID00110867	ロード中...
+GID00110868	Vault 101 セキュリティーセル ターミナル
+GID00110870	ERROR 0x03C663A1
+GID00110871	"ネットワークが接続されてません"
+GID00110872	"ターミナルが非アクティブ"
+GID00110874	-System offline -
+GID00110875	ERROR 0x03C663A1
+GID00110876	"ネットワークが接続されてません"
+GID00110877	"ターミナルが非アクティブ"
+GID00110905	あなたは南へと戻っていく...
+GID00110907	Vault 18 Tier 1 Network
+GID00110909	Vault 18の歴史 Part 4
+GID00110911	監督官Christianson 2258.10.1
+GID00110913	監督官Christianson 2258.10.21
+GID00110915	監督官Christianson 2258.11.1
+GID00110917	監督官Christianson 2258.11.8
+GID00110919	Vault 18 Tier 2 Network
+GID00110921	San Bernardino スカウト報告書 Part 4
+GID00111005	Vault 82
+GID00111006	Loading file...
+GID00111007	Vault 3
+GID00111008	Loading file...
+GID00111009	Vault 8
+GID00111010	Loading file...
+GID00111011	Vault 76
+GID00111012	Loading file...
+GID00111013	Vault 76
+GID00111014	Loading file...
+GID00111015	Vault 19
+GID00111016	Loading file...
+GID00111017	Vault 81
+GID00111018	Loading file...
+GID00111019	Vault 119
+GID00111020	Loading file...
+GID00111021	Vault 16
+GID00111022	Loading file...
+GID00111023	Vault 43
+GID00111024	Loading file...
+GID00111025	Vault 65
+GID00111026	Loading file...
+GID00111027	Vault 52
+GID00111028	Loading file...
+GID00111029	 Vault 118 
+GID00111030	Loading file...
+GID00111031	Vault 120
+GID00111032	Loading file...
+GID00111033	Vault 121
+GID00111034	Loading file...
+GID00111035	Vault 122
+GID00111036	Loading file...
+GID00111037	Vault 44 
+GID00111038	Loading file...
+GID00111039	Shawn Star Presents...
+GID00111040	Cybershock Alpha! ( Beta v0.21)
+GID00111042	(市街)周囲を眺める
+GID00111054	ゲームオーバー
+GID00111055	また遊んでね!
+GID00111061	ようこそ.
+GID00111076	メインフュージョンセルを起動
+GID00111077	エラー!修理が必要です。
+GID00111078	メインフュージョンセルを起動
+GID00111079	....起動開始...okay.
+GID00111080	コマンド起動 bootcfq... startup.exeを実行
+GID00111081	....トランスミッションアクティブ、システムオンライン..
+GID00111082	実行.b6rkconfig.ini // set follow.me == 1
+GID00111083	こんにちは、私の名前は``B6RK`` 忠実なロボットドッグです!ワン!
+GID00111084	Sat-Nav
+GID00111085	衛星アップリンク----オフライン
+GID00111086	現在地:地球、カリフォルニアリパブリック、ブラジルハンガー内

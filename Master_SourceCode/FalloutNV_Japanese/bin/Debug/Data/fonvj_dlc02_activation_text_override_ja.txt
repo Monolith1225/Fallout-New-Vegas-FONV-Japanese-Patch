@@ -1,0 +1,43 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc02_activation_text_override_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00097982	Datura Root を摘み取る
+GID00097983	Datura Root を摘み取る
+GID00097984	White Legs War Totem を取る
+GID00097985	リル・スカウト・ランチボックス を取る
+GID00097986	Cave Fungus を摘み取る
+GID00097987	Zion Canyon に出る
+GID00097988	Zion Canyon に出る
+GID00097989	Zion Canyon に出る
+GID00097990	Zion Canyon に出る
+GID00097991	Zion Canyon に出る
+GID00097992	Crossroads Cavern に入る
+GID00097993	Glass Chime Cave に入る
+GID00097994	Sweet Flower Cave に入る
+GID00097995	Half Mouse Cave に入る
+GID00097996	Crossroad Cavern に入る
+GID00097997	The Three Marys に出る
+GID00097998	The Three Marys に出る
+GID00097999	Three Marys' Cavern に入る
+GID00098000	Three Marys' Cavern に入る
+GID00098001	Zion Canyon に出る
+GID00098002	Stone Bones Cave に入る
+GID00098003	Half Mouse Cave に入る
+GID00098004	White Bird's Cave に入る
+GID00098005	Zion Canyon に出る
+GID00098006	Zion Canyon に出る
+GID00098007	Lost Bighorner Calf を引き付ける
+GID00098008	Northern Passage Cave に旅立つ
+GID00098009	Stone Bones Cave に入る
+GID00098010	Zion Valley に出る
+GID00098011	Zion Valley に出る
+GID00098012	Zion Valley に出る
+GID00098013	Morning Glory Cave に入る
+GID00098014	Two Skies Cave に入る
+GID00098015	Cueva Guarache に入る
+GID00098016	Zion Valley に出る
+GID00098017	爆弾を設置する
+GID00098018	爆弾を設置する
+GID00098019	爆弾を設置する
+GID00098020	Zion Valley へ旅立つ

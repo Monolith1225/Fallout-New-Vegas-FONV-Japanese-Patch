@@ -1,0 +1,1686 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_brzl_dialogue_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00104384	Sure, fine, gimme a stimpak. It'll sure be a big fucking advantage when one these assholes blows my goddamned head off!
+GID00104385	Yeah, fine, I'll have a stimpak. May as well live a few more shitty hours until some raiders or something show up and kill me.
+GID00104386	Eh, I'm kind used to puttin' needles in me, what's the worst that could happen?
+GID00104387	Sure, I could use a little pick-me-up.
+GID00104388	Ben - Lets Go Response 1
+GID00104389	Ben - Lets Go Response 2
+GID00104390	Waiting.
+GID00104391	I'll be right here.
+GID00104392	Right behind you.
+GID00104393	Alright, no time to waste.
+GID00104394	Let me know when you need me.
+GID00104395	Ok, I'll be waiting.
+GID00104396	Yeah, right behind you.
+GID00104397	Okay. Just take it easy, okay?
+GID00104398	I'm supposed to sit around, while y'all have all the fun?
+GID00104399	Right. Waiting here is no problem.
+GID00104400	Okay. I'm right behind you.
+GID00104401	Right.
+GID00104402	Sure, no problem.
+GID00104403	I'll try to stay out of sight.
+GID00104404	Aw, you should have seen it! I killed three super mutant behemoths while you were gone. Three. What did you do?
+GID00104405	Fuck yes, I'm bored outta my fucking mind over here!
+GID00104406	Oh, right, I was just about to take a hit of... eh, forget it. Let's go.
+GID00104407	Got desperate, yeah? Need the aid of the adventurer extraordinaire Johnny fucking Matheson? Let's go.
+GID00104408	Sure, no problem.
+GID00104409	Yeah, whatever meng. See you when you get back.
+GID00104410	Sure, leave the unstable drug addict orphan alone for a while. That'll work out just fine.
+GID00104411	Right here? Just stand here? In this one fucking spot? Indefinitely? I guess I could just take some buffout to pass the time, but still.
+GID00104412	Yeah, fine, go on without me. If you think you can survive without my goddamn awesome skills.
+GID00104413	Yeah, yeah, I'm moving.
+GID00104414	I was thinking the same thing.
+GID00104415	Try not to get lost in the meantime.
+GID00104416	Don't keep me waiting forever.
+GID00104417	So, that's where your true loyalties lie. Listen, you're the biggest and best fighter we have in this hole in the ground.
+GID00104418	You're brave, and in peace you earned my trust and respect. Now I'm going to give you one last chance. Fall in now, or die a traitor to your country.
+GID00104419	It's in the right lung. I made it this far... Then I passed out. I'm not gonna make it. I know the signs.
+GID00104420	You gotta fight your way through this. I'll be okay.
+GID00104421	Oh, they're on the side of the server upstairs, let me show you. Follow me.
+GID00104422	John isn't as... perceptive as I am. I know a soldier when I see one, even when they don't know it themselves.
+GID00104423	I am not simply a Security Officer, I am a lieutenant. When it is time to fight, my place is beside my men, making sure that my troops survive.
+GID00104424	If I haven't done well in teaching them to listen, then I will fail in that mission.
+GID00104425	What have you learned of me so far?
+GID00104426	System Status Menu:
+GID00104427	System Status Menu:
+GID00104428	Ha! Well, you probably should have thought of that at the beginning!
+GID00104429	It's no problem, kid. You don't have to grow up overnight. If you look around I'm sure there are some science textbooks and magazines laying around.
+GID00104430	Oh. Is that so? I guess you won the shortlist for that lottery. Why'd you wanna pick to work up here in the dark?
+GID00104431	[SUCCEEDED] What in the--
+GID00104432	[FAILED] I don't hear anything. Quit dicking around! Are you going to put on this uniform or not?
+GID00104433	Naw, kid... That bastard Bragg shot me. Got me square in the lung.
+GID00104434	I made it this far... Then I passed out. I'm not gonna make it, kid. I know the signs. You gotta stay smart, and do good work. I'll be okay.
+GID00104435	Yeah. I don't know why. This vault is totally calm and really a nice place. I don't see how anyone could be unhappy down here.
+GID00104436	This started about an hour ago. There was an explosion in the transformer down the hall. All the lights went out, and the doors opened...
+GID00104437	Then Bragg and his thugs started flushing people from their apartments. It was total chaos...
+GID00104438	Somebody tried to stop them, then the shooting began... Jamie and I weren't waiting 'til they came for us. We started to fight back...
+GID00104439	Dr. Rossman just vanished through a hole in his bedroom wall! We haven't seen him in over an hour! ...I hope he made it through okay.
+GID00104440	We built these barricades and set up our defenses with Sergeant Norman's directions. We've been fighting alone ever since.
+GID00104441	Let's go.
+GID00104442	Get going, everyone.
+GID00104443	On your feet people!
+GID00104444	Get up, we're on the move again!
+GID00104445	Woo! Party time!
+GID00104446	Yeah! Let's get 'em! Ow ow owww!
+GID00104447	Hey guys, let's get ready to go. Come on.
+GID00104448	Lets go, team! Haha. I guess it's good to say that again.
+GID00104449	Johnny - Group Let's Go Response 1
+GID00104450	Johnny - Group Let's Go Response 2
+GID00104451	Okay, time to pack up the circus.
+GID00104452	Kira this, Kira that. I'm not some shitty servant of yours.
+GID00104453	[SUCCEEDED] Well, it means I haven't seen you much lately. I miss hanging out with you while I work. I feel better having you here.
+GID00104454	You went on that football tangent, and we haven't had time to talk. Why did you try out for Bragg's team anyway? He hates you.
+GID00104455	[FAILED] What? Haha, I meant just that. Don't look too deep into it, Star. I was just being... nice. You're sweet and all, but we're just friends.
+GID00104456	[SUCCEEDED] Right, whatever. There are plastic explosives in the hall by that crate, and a set of bobby pins and a screwdriver in the box beside it.
+GID00104457	Just pick it or blow it open before the crazy bastard gets us all killed!
+GID00104458	Now go!
+GID00104459	[FAILED] You moron!
+GID00104460	Do you have any idea the dangerous shit you are playing with? This vault is sitting on a 500 ton nuclear reactor -
+GID00104461	If he triggers that self-destruct it will kill us all!
+GID00104462	Think again!
+GID00104463	There are many ways that I will train you. Physically, and mentally. You're a born soldier, and that makes you my perfect match.
+GID00104464	For now, you should ask John what he would have you do.
+GID00104465	Oh? Did she? What kind of "list"?
+GID00104466	Maintenance Menu:
+GID00104467	Maintenance Menu:
+GID00104468	Post-apocalyptic politics is what happened. Dumb lawyers doing an engineer's job.
+GID00104469	Once upon a time, Vault 18 was supposed to be the center of the American wasteland. We had this big machine at the core of that promise.
+GID00104470	But the Great War screwed that up quick. What wasn't blown to hell in about 30 minutes has been scavenged and sacked for small settlements.
+GID00104471	You see, the network was a set of cables running all over the country, and this server kept the vaults connected.
+GID00104472	But, one by one, the others have failed. Some were destroyed, others just vanished. Then one day, 18 years ago, they all just blinked out.
+GID00104473	When the first Overseer, a guy named Clint Dickson, took over Vault 18, he severed the links to the outside. Said it was a toxic influence.
+GID00104474	He kept a few cables alive, but severed the rest. It's just been just little updates ever since, until they all stopped a few years ago.
+GID00104475	Now we just have what's left for you to play with. Hope you spot where those weird I/O spikes are coming from.
+GID00104476	Exploring? What for? didn't you just play a game of football?
+GID00104477	Don't leave me here too long.
+GID00104478	I hate waiting.
+GID00104485	No Problem.
+GID00104486	Sure.
+GID00104488	Uhhh-huh. *hums softly*
+GID00104489	The buddy system discourages murder.
+GID00104490	Awaiting input.
+GID00104492	Wha... what in the hell are you talking about little miss?
+GID00104493	Jesus Christ on a fuck bucket, do you have any idea what sort of shit I'd get into for just hearing that load of crap?
+GID00104494	That's a good soldier. Now put on that uniform, so you look presentable. The next time I talk to you, it'll be as an officer!
+GID00104495	I'm sure you simply misunderstood the situation. Return to his position and carry out your orders.
+GID00104496	Something is wrong here. I can't just set it right alone. Can I trust you to help me with this?
+GID00104497	[SUCCEEDED] Yeah, yeah! We can do this!
+GID00104498	[FAILED] I... I can't! I'm sorry!
+GID00104499	What's the matter with you, huh? This is life. You can't just escape it! Sooner or later the enemies you leave behind will come back and get you.
+GID00104500	But if you've gotta run, then run. I'll... I'll stay here and... Watch over the Vault... For ya...
+GID00104501	Yeah... I know what you mean. I'm sorry. We're alone enough as it is; we should have been there for you.
+GID00104502	Being orphans, people treat us a little differently. It's nice to know we're in a better place than we would have been, but...
+GID00104503	I wish we were treated equally here.
+GID00104504	Oh, okay. Did you have something else you wanted to talk about?
+GID00104505	Oh really? Well why don't you explore this lecture from old Rossman?
+GID00104506	I saw what you did to Johnny Matheson. Tragic. Turned that dumb oaf's face inside out. How'd you do that?
+GID00104507	Oh! Yes! I sent him that order. We get such fast service from you wasteland kids!
+GID00104508	It started about a week ago. I kept smelling these really harsh fumes coming out of the grate. I may be going crazy, but I wanted to be sure.
+GID00104509	Right out the door behind you is the problem. I hope you can figure it out.
+GID00104510	I... honestly don't know what to tell you. I really have a hard time remembering. It's something that keeps me up at night.
+GID00104511	Dr. Rossman found me out there, just like everyone else. Just, I came to the vault when I was way older than you guys.
+GID00104512	That was a couple years ago, and I've had memory problems the whole time. They've gotten better, though. I can hold onto things longer.
+GID00104513	But when I think about my past... I-- I just...
+GID00104514	You know when you stare at a light? And everything slowly just explodes with color 'til it's all white?
+GID00104515	It's like that. And it gets hotter and hotter as I go back, like it was just burned out of my head with a fire that spread from branch to branch.
+GID00104516	Not many. It's just me and Sgt. Norman holding the line. We had three others... But they didn't make it. A few kids and elders are hiding upstairs.
+GID00104517	Also, Jamie is in our apartment in the back. She's trying to fix a broken service rifle to keep us going.
+GID00104518	Could you please check up on her? We're the last door on the north, right up there. She's probably really scared, and I want to make sure she's okay.
+GID00104519	Everyone - wait here.
+GID00104520	Wait here, everyone.
+GID00104521	Take a break, and be ready to move on.
+GID00104522	Alright, we'll stay here.
+GID00104523	Eric, come on, lets chill here a while.
+GID00104524	Sure. Come on, let's try to relax a bit.
+GID00104525	Sure... Hey, hold on. Something's going on.
+GID00104526	Hey guys. Hold on for a second.
+GID00104527	Johnny - Group Wait Here Response 1
+GID00104528	Johnny - Group Wait Here Response 2
+GID00104529	Yeah, we're not moving anywhere.
+GID00104530	Good. We'll wait until the world ends. Again.
+GID00104531	You've always been the best athlete in the Vault, and I've always followed you.
+GID00104532	But... do you really think that's a good idea?
+GID00104533	Look. I'm not the kind of girl that gets scared easily, but this is the most afraid I've been in my whole life.
+GID00104534	I've been in this room listening to the sounds of my friends and family turning on each other. I'm repairing a rifle and getting ready for war...
+GID00104535	I know things have been hard on all of us... But did you ever think it would come to this? Those are the other wasteland kids fighting for Bragg...
+GID00104536	They were our family.
+GID00104537	Oh... yeah. I guess. I don't know. It's kind of a hard thing to talk about. It's where our parents came from... Our real parents.
+GID00104538	None of the vault dwellers want to talk about it, and Dr. Rossman always shrugs it off. He says it makes him depressed.
+GID00104539	That... doesn't look like nothing, Star. Just tell me, what's going on?
+GID00104540	You are out of line, soldier!
+GID00104541	I'm staying here to slow down the reaction. Otherwise, none of us will make it out alive. I'll be right behind you.
+GID00104542	Rally your men, and get out of here!
+GID00104543	Now go!
+GID00104544	[SUCCEEDED] No... not him. Christianson has lost his mind... But, there is another way.
+GID00104545	That Jennifer Hale woman - the slut with the blond pony tail.
+GID00104546	She managed to steal half of my Stealth Boys from a hard case with her lockpicking skills - something I'm sure you know nothing about.
+GID00104547	Go find her. She may still be alive in the lower apartments, if the cave-in didn't kill her.
+GID00104548	Now go!
+GID00104549	[FAILED] You moron!
+GID00104550	Do you have any idea the dangerous shit you are playing with? This vault is sitting on a 500 ton nuclear reactor -
+GID00104551	If he triggers that self-destruct it will kill us all!
+GID00104552	Think again!
+GID00104553	Uuuuh, brains! Need to grow more brains, haha! You really knocked yourself out cold, kid. Nothing a couple of stimpaks can't take care of.
+GID00104554	Now sit your ass down and let me take a look at you again. Mmm, damn...
+GID00104555	Aha, it speaks at last. Well kid, you decided to play the unstoppable sword against the invincible shield.
+GID00104556	You tried to dodge Johnny Matheson, the meat shield of doom.
+GID00104557	As you can tell from the splitting pain you're in, you lost. Lets just get, uh, these x-rays goin' and see what we've got.
+GID00104558	Hmm... Woah! Now I'm no medical expert, but that doesn't belong there.
+GID00104559	Scratch what I said, stimpaks ain't gonna do shit. Looks like a cast and crutches for you, Dr. Hawking.
+GID00104560	Great. Questions. What is it?
+GID00104561	Great. Questions. What is it?
+GID00104562	Great. Questions. What is it?
+GID00104563	Dr. Rossman is the one who decides who joins the Wasteland Scouts, and it is Sgt. Norman who approves and leads missions.
+GID00104564	Dr. Rossman will either be in the computer lab or in his home preparing for bed in the lower apartments. You should seek him out to hear his stories.
+GID00104565	They may teach you something about serving me.
+GID00104566	Well, are you going to be having sex with her immediately, or wait until lights out?
+GID00104567	No kidding? You should try actually going to talk to him. First step in the right direction, right?
+GID00104568	Haha, yeah, that was... great... do you think you could meet me back at my room? You know, it's right next door to your new place?
+GID00104569	[SUCCEEDED] OriansGirl01: Um... well, yeah, but this is different. This is a big underground complex.
+GID00104570	OriansGirl01: Like a Vault, just there aren't really any walls, and it was built out of rocks.
+GID00104571	[FAILED] OriansGirl01: Huh. Like I haven't heard that before. This is a big underground city. It has nothing to do with the country.
+GID00104572	OriansGirl01: Like a Vault, just there aren't really any walls, and it was built out of rocks.
+GID00104573	< ... >
+GID00104574	< ... >
+GID00104575	Yup, now that you mention it.
+GID00104576	I'll let you head up to the main elevator and check out the robotics lab upstairs. Just drop my name at the guard and he'll let you in.
+GID00104577	It's dark up there. We keep the upstairs reactors offline to save power, so just follow the signs to the main entrance.
+GID00104578	You'll find the robotics lab at the end of the hall, last door on your right before you reach the vault exit.
+GID00104579	What the hell kinda punk attitude is that? Eh, whatever. I just need your able body. I don't care how you act.
+GID00104580	I'm rememberin' you being good with a line of terminal code. Rossman always thought highly of you in that regard.
+GID00104581	On the far end of this room you'll find an aerosol cleaning jet control terminal. We use it to pump disinfectant into the airlock.
+GID00104582	If you can find a way, increase the propellant to antibody ratio. You can ignite the jets and barbeque some of your cousins.
+GID00104583	There is also a turret station on the roof. This fine girl pulled it from upstairs during the attack... Now we're just trying to keep her alive.
+GID00104585	[SUCCEEDED] I should probably just take care of you right here and now... But go on, I'll see you back here in five minutes! Now, go!
+GID00104586	[FAILED] Like hell! If you wanted to be a coward, you could have just been honest. Light him up!
+GID00104589	I see. It seems we've been in a similar position.
+GID00104591	Dismissed.
+GID00104592	Sure. Right behind you.
+GID00104593	I know, it's fucked up! They're trying to kill the Overseer. I don't know why, nobody does.
+GID00104594	They blew up the transformers in the upper apartments, destroyed my house! Then they sealed the gym and lit it on fire...
+GID00104595	[SUCCEEDED] My what!? Oh! RRrrraaaaawwwww!
+GID00104596	[FAILED] Ahhhhhhh!!!
+GID00104597	I won't sell you any bullshit. It's bad, and by bad I mean we're deep down the Devil's ass.
+GID00104598	Those... Patriots, as they call themselves, are in control of the vault entrance.
+GID00104599	After all these years, we never saw this coming. Probably, even as we speak, Enclave troops are getting inside.
+GID00104600	It's just a matter of time 'til we're overrun.
+GID00104605	Okay! Good night, Star! Sleep well!
+GID00104606	[SUCCEEDED] A delicate topic. Some of us were exodites simply returning home, others just merchants or wanderers passing by.
+GID00104607	All our able-bodied youth left after the earthquake sixty years ago, to... Blend... With local tribes. It devastated our numbers.
+GID00104613	[FAILED] I don't really want to get into the... Intimate discussion of our reproductive plans with someone of your age.
+GID00104614	Well, and of course you're the best at playing grab-ass with Bragg's "Patriots".
+GID00104616	...Alright. Lets talk.
+GID00104619	 Alright. Lets talk.
+GID00104620	You've managed to earn my respect with previous comments, but this is another issue entirely.
+GID00104622	Oh, yes! Is the door not open? He may have gone to bed. Let me make sure. Just go check and see if Albert is still there.
+GID00104627	We... Well, we had a few illegal pieces hidden in the apartments, but most of it came from Dr. Rossman's house. The guy was like an ammo packrat!
+GID00104628	So yeah, we've got a lot of guns, but not enough hands to hold them. Take whatever you need.
+GID00104633	Get your asses on the ground. It's time to rest.
+GID00104634	You heard 'em. Take a break.
+GID00104635	Everyone - take a break.
+GID00104636	This is a good place to rest.
+GID00104637	Break time, everyone.
+GID00104638	Take your time and relax folks. There may not be another chance for a while.
+GID00104642	After the hole in Dr. Rossman's wall, I have no idea. None of us have ever been through the cistern before.
+GID00104643	He said he would drop flares to lead the way, though. We should try to follow them.
+GID00104644	[SUCCEEDED] Star... I know you want to make the best choice, and having me follow you may seem like a bad idea...
+GID00104647	[FAILED] What kind of question is that?
+GID00104648	Listen, I've been an athlete my entire life. Running, fighting, and plowing through guys who get in my way is how I chose to live.
+GID00104649	Just because I've been hiding in the dark for a few weeks doesn't mean I'm not fit.
+GID00104650	I'm okay. We've been fighting up here for over an hour. I'm just glad you made it, I was so worried!
+GID00104651	When the bombs went off, you were the first person I thought of. Eric forced open our door and ran into the hall.
+GID00104652	I saw the smoke from the transformer... It's right on top of your apartment. I couldn't help but imagine the worst.
+GID00104653	Where are Mandy and Shawn? Are they alright?
+GID00104655	I'm sorry. I just woke up and everything was on fire. The rocks slid over my bed. My parents...
+GID00104656	I don't know where my brother and sister are. I'm so scared...
+GID00104658	Yeah, sure, we'll be best goddamn buds. What an idealistic little shit.
+GID00104659	Didn't mean to? Didn't mean to?! I don't give a shit if you meant to give me a bear hug, you fuckup.
+GID00104660	My career in sports is over now, and guess what? I don't exactly have a fall-back option.
+GID00104662	Okay. Well... I think I'm done working here for now. I'm going to head upstairs. Good night.
+GID00104663	[SUCCEEDED] You're a sharp one, soldier, I'll give you that.
+GID00104665	I'm uploading what's in these databanks to John Henry through Vault 18's radio transmitter array.
+GID00104669	Now go!
+GID00104670	[FAILED] You are out of line, soldier!
+GID00104673	Now go!
+GID00104674	[SUCCEEDED] My god, you're a monster. Frank Horrigan incarnate!
+GID00104675	[FAILED] You moron!
+GID00104678	Think again!
+GID00104679	One and the same. Surprised you recognized me through that haze of stupid you're in. What were you thinking, trying to play football with the jocks?
+GID00104680	I'm sorry to break the news, kid, but the prognosis is in - You're a chronic nerd.
+GID00104681	Ha, right. Now get out of my office, punk ass.
+GID00104682	Ha, right. Now get out of my office, punk ass.
+GID00104683	Ha, right. Now get out of my office, punk ass.
+GID00104691	Huh. Well, never mind then. Get the fuck out.
+GID00104692	Ooh. That bad? Well... maybe there is another way. We'll have to go somewhere really quick, though. Will you follow me somewhere?
+GID00104693	Oh... Well, okay. I'll just be in my room, then. See you later, tiger?
+GID00104696	Oh, you want to know what it's like in the great outdoors? Well, let me give it to you straight: It's hell upstairs, kid. A nightmare.
+GID00104697	The things you think about when you're in the dark and a clawed hand reaches for your shoulder? It's real, and it lives up there. Hundreds of them.
+GID00104698	But that's just the wildlife. It's the people that make you wish the war had really ended everything, but it only did half the job.
+GID00104699	Don't you forget this, kid. The strong prey on the weak, and the closer you get to society, the worse things get.
+GID00104700	The people that walk around up there are miserable. Half dead - struggling to see tomorrow. Kids are starving, families are broken.
+GID00104701	Those that say they're here to help you are just waiting until you fear for your life. Giving them what they want to keep you safe.
+GID00104702	Then you realize what kind of slave you've become. That's what the wasteland is like. Don't ever think it's gonna change, because it isn't.
+GID00104703	Uuuhn. It ain't that hard. The atrium is designed a little retarded, "for security reasons", but you can figure it out.
+GID00104704	Go to the administration office. At the front desk, Sarah Carter will be sitting at a computer. Talk to her. She'll point it out.
+GID00104708	[SUCCEEDED] Then it is we who must change! ...But I could not bear to watch the change that must take place to win this war against Bragg...
+GID00104709	After decades of conflict in the Vault, years of hiding from the Survivalists and NCR, we are defeated by our own children. I'm so sorry...
+GID00104710	[FAILED] Then it is we who must change! Don't they understand? Don't they understand...
+GID00104713	Return to your duties.
+GID00104714	Good. Follow his orders as a first priority, then report back to me.
+GID00104715	This is my last spare. Use it smart.
+GID00104716	It started about an hour ago.
+GID00104717	I was up late, reviewing some prime... Uh, security footage, when all of a sudden a huge explosion rocked the vault.
+GID00104718	The lights went out. Nobody knew what was going on. We thought it was an earthquake.
+GID00104719	Chevy from Security called over the intercom for everyone to go to the gym.
+GID00104720	Bragg was there, sorting people according to a list.
+GID00104721	Terra grabbed me and threw me in line, which would normally be great, but she pointed a gun at my head.
+GID00104722	After a few minutes, Overseer Christianson called, and tried to counter the order. We saw Bragg nod, then the Patriots ran into the Atrium.
+GID00104723	That's when I ran here. I got out of the Gym before I was sorted. Then the shooting began, and I've been trapped in this hall ever since...
+GID00104727	We're sitting tight. It'll be fuckin' hard, but we gotta hold up right now and let the Overseer do the talking.
+GID00104728	As far as I know Christianson... And I know him good... He's not going to give even a piece of the vault to those shitheads.
+GID00104729	If they don't back off... He'll set the vault reactors to self-destruct.
+GID00104730	Before Rossman ran out on us, he showed me the way. It's right through that door over there, out the bathroom wall.
+GID00104731	Crazy coot turns out to be the sanest one of us. Ridiculous.
+GID00104733	The... New Security lieutenant? Nuh-uh, I don't want to. I hear she's a real tough bitch. It's a small vault, but I keep my head down.
+GID00104734	I'm... Kinda shy, Star, you know that.
+GID00104735	Ah, ow, ow-- Damn, Mom, chill out! God, I meant to, it's just that this is all the time Jason and Mandy had to play our table top this week!
+GID00104736	With all the shit going on in the vault, we'll be lucky if we get another chance to play this decade, let alone this month.
+GID00104737	We just beat the third dungeon boss, and we're about to--
+GID00104738	Ah, ow, ow-- Damn, bro, chill out! God, I meant to, it's just that this is all the time Jason and Mandy had to play our table top this week!
+GID00104747	[FAILED] It may have been a problem once, but not anymore. Coach Bragg has really worked miracles.
+GID00104748	I know, I was watching. You really pulled it through this year. I'm proud of you. The final touchdown of the season...
+GID00104749	There haven't been enough students to fill two teams in the Vault for sixty years. It's an exciting time in our history.
+GID00104750	The orphans we adopted from the wasteland are finally growing up. Jason is getting good grades, Mandy has started her chemistry research, and Shawn..
+GID00104751	Well, Shawn is still here.
+GID00104754	Oh. Well, that's weird. Haven't you seen everything a hundred times already?
+GID00104755	If you're getting stir crazy, you should report to the infirmary and get checked out.
+GID00104756	Vault madness is your responsibility, no one else's.
+GID00104765	Check up with Sergeant Norman, he's in charge here. He's got more combat experience than all of us combined.
+GID00104766	No doubt. Jamie said Matheson looks like he was run over by a sentry bot. Poor guy.
+GID00104767	I guess everything is fine. I don't have much free time lately. Still working on a lot of Dr. Rossman's assignments.
+GID00104768	The only way to become a Wasteland Scout is through him or Chief Evanson.
+GID00104769	Dr. Rossman is... Well, he's crazy. But he's also a slave driver. I respect his work ethic, but damn, I'm overwhelmed.
+GID00104773	I guess that will be alright. Eric and Sgt. Norman will be holding the downstairs hallway.
+GID00104774	I'll keep working on this broken rifle and see if I can get it firing.
+GID00104775	Good luck, Star.
+GID00104776	Yeah, I know what you mean.
+GID00104777	There must be others in Vault 18 willing to follow you. Johnny Matheson or Ben Kurtz might make good fighters.
+GID00104778	I know they are both totally crazy, but they just might come along. They are orphans too, remember? We grew up together, us versus the grown ups.
+GID00104779	Help me get these weapons and armor put in the hands of people who can use them. What do you think I should do?
+GID00104780	Dude, yeah, what was left of you. You should have seen it! It was like, Johnny was barreling right at you, and Bragg was all "Get him, kid!"
+GID00104781	And you were all "AAAAAH" and Johnny was all "RRRRGH"! Then BLAM! Then you were all SPLAT!
+GID00104782	Then when I get you to the infirmary, they stripped you naked right there in front of me! Haha! It was awesome!
+GID00104783	Oh thank god! Someone else is alive! I was afraid I... I was the only one left! I thought I was burried alive and I was--
+GID00104793	Shut up! My ears are still ringing from the explosion and I'm...
+GID00104794	God, I'm being such a bitch aren't I? God, I'm sorry. I just need to find my family. Then I'll be okay.
+GID00104795	Oh... okay... I'll try to stay quiet. Thank you. I mean it.
+GID00104796	Well, it looks we have something in common, asshole. Maybe you'll care more when you realize you'll never play sports again, you arrogant cripple.
+GID00104797	I'm going to be crippled for the rest of my goddamn life. That's some pretty fucking tough luck. There's not jack shit else I can do now.
+GID00104798	Well, you look a little bit lost. Let me help you, the door is right there.
+GID00104808	Do you understand!?
+GID00104811	I don't know. Jamie and Terra pulled you in from the gym and dropped you on the table like a sack of wet sponges.
+GID00104812	I guess Terra just grabbed the only "Dr." she could find.
+GID00104813	Dr. Bishop is in the hydroponics lab today, so you're stuck with me.
+GID00104814	Sorry. Haha.
+GID00104826	FAILED] Wow. You should really work on that. Lets go over this again. Are you here to see Jen?
+GID00104829	[SUCCEEDED] Wow, haha, we're off to a really hot start. Come to my room later, Cutie. I've got some post-game questions I'd like to throw at you.
+GID00104830	[FAILED] Awww, you actually thought that would work on me? You're cute. Try again, slick.
+GID00104831	 Impresionante! Opcion nueve seleccionados.  Le gustaria iniciar la autodestruccion?
+GID00104832	 Impresionante! Opcion nueve seleccionados.  Le gustaria iniciar la autodestruccion?
+GID00104837	I thought it was impossible to win. Chief Evanson informed me of the odds. We were outgunned from the start, and all my men were trapped.
+GID00104838	Then you happened. The Guardian of Vault 18. Slayer of Patriots.
+GID00104839	Then you did the impossible, and crushed all of our enemies. You stopped them from taking the lab. Now, here you stand. A giant before a coward.
+GID00104841	I have no need for dazed soldiers in my ranks.
+GID00104842	Evans, kill him.
+GID00104843	I have no need for dazed soldiers in my ranks.
+GID00104844	Evans, kill her.
+GID00104845	Alright. Right behind you.
+GID00104848	I don't know! Vault Security blocked those doors. We'll have to find another way in.
+GID00104849	Yeah, drop by more often. Next time, I'll get you a beer.
+GID00104850	Here. You need to get over there and see if Albert is doing okay. Here is the key to the hydroponics lab.
+GID00104851	It's right in the lung. I made it this far... But then I passed out. I'm not gonna make it kid. I know the signs. This is my grave.
+GID00104852	You need to fight your way through this. There's nothing you can do for me now.
+GID00104853	Oh, really? Um... I'm sorry Star. I... Don't know much about football, and we've been here all night. We haven't even left, really.
+GID00104854	I'll make it up to you somehow. Is there anything I can do right now?
+GID00104855	Oh... Wow, that's unusually forgiving. I was worried all night that you would be pissed when you got home... You're not pissed?
+GID00104869	[FAILED] To be honest with you, we documented this case poorly. In our haste, we failed to keep accurate records.
+GID00104870	You may have more success talking with Dr. Rossman, or Kira Mann.
+GID00104871	Star... I'm only going to ask this once.
+GID00104872	Moments ago, a hologram of a giant armored cockroach appeared in my office.
+GID00104873	Did you... Have anything to do with that?
+GID00104875	Why do I feel there's gonna be something else you want? Y'know, I'd say goodbye, but you're just gonna come back. Why don't you just go home?
+GID00104876	Have a good night!
+GID00104889	Right. I'll keep watching the entrance. Hey Star, Please check up on Jamie. I'd really appreciate it.
+GID00104890	Yeah, I'm always keeping my fingers crossed for Jamie's team.
+GID00104891	She's a tough girl, but I don't like seeing her get hurt. Thanks for keeping her safe, Star.
+GID00104892	Listen... honestly... Fuck those rumors, alright?
+GID00104893	Our life is our business. Everybody thinks they have a right to point out what they see as different,
+GID00104894	but they have no idea what it's like on our side of the story.
+GID00104895	A single stupid remark can lead us to having a fight, or end up hurting each other.
+GID00104896	People can talk all they want, but hey don't have to live in the middle of it. So fuck them.
+GID00104899	Alright. Let's do this.
+GID00104900	Just... Try to keep me behind, okay? Eric is going to be right there next to me the entire time. He's been a little shaken by what's happened.
+GID00104904	[SUCCEEDED] I'm sorry! Please, try to understand... I think I lost my parents... my brother and sister...
+GID00104915	Alright.
+GID00104918	Oh... it's you... What do you want, Star fuckup? Here to try and take revenge?
+GID00104919	Oh... it's you... What do you want, Star fuckup? Here to try and take revenge?
+GID00104920	Well, I don't give a shit about your shitty little life, geek. I'm the star athlete. The guys wanna be me, and the girls wanna fuck me.
+GID00104921	You're nothing, fuckface.
+GID00104922	Did you just come all the way to the Vault Hospital to make that pathetic attempt at a macho boast? You must think you're such a fucking badass.
+GID00104925	Well... if you must know, I'm trying to fix this pistol so it will work as a ranged soldering tool. I have a severed cable that's too high to reach.
+GID00104926	This mess is from productivity. Have you done something "productive" today, star player?
+GID00104949	Uh huh. Shoo.
+GID00104950	Well. That you did. Great job kid, I'm really impressed. What did you find?
+GID00104968	Woof! Let's go.
+GID00104974	I had no choice. The vault is lost. My son is dead. All of my flock, gone. I had no choice...
+GID00104975	[SUCCEEDED] Wait... Wait! This one may be of use to us after all.
+GID00104977	[SUCCEEDED] Wait... Wait! This one may be of use to us after all.
+GID00104979	[FAILED] Humph.
+GID00104980	You will WALK to the detention area. You will NOT deviate from this hallway. Get moving.
+GID00104981	Very well.
+GID00104987	I remember when we first brought John down here, it was because the Overseer said he'd be good for the kids, and teach them to behave.
+GID00104990	I'm sure you'll be in and out of there more than an athlete is in and out of other folks beds.
+GID00104995	What!? How the fuck did that happen!? What are we gonna to do?
+GID00104996	Holy shit... it's actually happening. Alright, we'll be right behind you.
+GID00105002	You're welcome! Take care out there, kiddo!
+GID00105018	Mom, dad... I'm sorry... goodbye.
+GID00105019	They... they're dead. What are those uniforms? That's Kalin... Jarel... they're all wasteland kids. Athletes.
+GID00105020	I don't want to go this way. There's something wrong, we should just go back! Please!
+GID00105021	This place has always terrified me. Be careful, and watch where you step. There are cables everywhere. And spiders.
+GID00105022	Star, look out! At the end of the hall! They might see us if we're not careful.
+GID00105023	Oh my god. This is unbelievable... There are people trapped in the gym! why are they doing this?
+GID00105062	Great work out there today, Star! Have a good night!
+GID00105063	Great work out there today, Star! Have a good night!
+GID00105108	Dear god. So many of our own, dead. Everything we worked for. Everything we suffered through...
+GID00105109	All of it has been lost in one night. Thousands, millions of lives will simply be erased. Forgotten, all for one man's war for change... I'm sorry.
+GID00105110	I set the self destruct. I understand now why they called us a false control. We were never free from the Vault-Tec experiment. It was so easy.
+GID00105111	This entire vault was an experiment to see how soon someone would push this button, and they actually rigged it to work. 200 years of history...
+GID00105112	I am such a fool! I apologize profusely at your feet. You are the last of my adopted children.
+GID00105113	Bragg killed my wife to capture me. He killed my son. 200 of my citizens, locked in a burning stadium...
+GID00105114	With the darkness surrounding me, the sounds of the gunshots echoing... I only had one weapon against them. One button.
+GID00105115	It seemed so insignificant then. Just one key. One turn. One push.
+GID00105116	It's not that simple. The fission rods, they're rammed into the cores. The water has been vaporized.
+GID00105117	By now, 16 of the reactors must be burning. When the gasses separate, the hydrogen will ignite. After that... They will melt down.
+GID00105118	There's only 15 minutes left. The vault will collapse in on itself, sealing us in. Forever.
+GID00105119	You... You are brave, Star. Braver than any of us. My security forces will go down with the ship. The Patriots...
+GID00105120	You must deal with them. How many can you save? What is the point?
+GID00105121	There is only 15 minutes before the reactors melt down. The vault will collapse, sealing us in. Forever.
+GID00105122	You should run... Run, you fool! Find a way to open the main vault door! Escape while you still can.
+GID00105123	I will remain here. Guarding my empire of dirt under a rock... Good bye, Star.
+GID00105125	YOU!
+GID00105126	You are a parasite to this great nation! I've been looking forward to this for nine years!
+GID00105127	YOU!
+GID00105128	You are a parasite to this great nation! I've been looking forward to this for nine years!
+GID00105129	[SUCCEEDED] What in the--
+GID00105130	[FAILED] Open fire!!
+GID00105131	YOU!
+GID00105132	You are a parasite to this great nation! I've been looking forward to this for nine years!
+GID00105133	Where the hell are you all going!? Stand your ground! No!
+GID00105134	[SUCCEEDED] What in the--
+GID00105135	[FAILED] I don't hear anything. Quit dicking around! Are you going to put on this uniform or not?
+GID00105136	That's a good soldier. Now put on that uniform, so you look presentable.
+GID00105137	Then so be it.
+GID00105138	YOU!
+GID00105139	You are a parasite to this great nation! I've been looking forward to this for nine years!
+GID00105143	Soldier! Get over here and report on your status!
+GID00105144	There! Execute that civilian, don't let them escape!
+GID00105145	Mmm.
+GID00105146	Grr. Evans, kill him.
+GID00105147	Grr. Evans, kill her.
+GID00105148	There! Execute that civilian! Don't let them escape!!
+GID00105157	[SUCCEEDED] You... You are the most beautiful of the vault dwellers. I might have... Other uses for you.
+GID00105158	Evans, take this one below deck, and place him in the hold with the other until we have secured victory.
+GID00105159	[SUCCEEDED] You... You are the most beautiful of the vault dwellers. I might have... Other uses for you.
+GID00105160	Evans, take this one below deck, and place her in the hold with the other until we have secured victory.
+GID00105161	[FAILED] Unlikely.
+GID00105162	[SUCCEEDED] Wait... Wait! This one may be of use to us after all.
+GID00105163	Evans, take him below deck, and place them in the hold with the other until we have secured victory.
+GID00105164	[SUCCEEDED] Wait... Wait! This one may be of use to us after all.
+GID00105165	Evans, take her below deck, and place them in the hold with the other until we have secured victory.
+GID00105166	[FAILED] Humph.
+GID00105173	Here are your fatigues and your rifle. 60 rounds is all you get issued, so don't waste it.
+GID00105174	Come on. Follow me.
+GID00105175	Hey, just one second. What happened back there? Where are Mandy and Shawn?
+GID00105179	Right. Never mind.
+GID00105180	Right. Never mind.
+GID00105184	He's a sick fuck that doesn't care about anybody. We have to put a stop to this.
+GID00105185	But that son of a bitch isn't alone. He has others waiting for him out in the Wasteland, these "Enclave" bastards.
+GID00105186	They're behind all of this. They set us up.
+GID00105187	They plan to ship us off to some base when we're done fighting for them, just so they can take over what's left of this vault after the battle.
+GID00105188	From what I heard he and Chevy talk about, Vault 18 will serve as their forward base on the West Coast in a bigger war.
+GID00105189	They're planning on invading some place called "Brazil" out near the ocean in L.A., and something down here has information about it.
+GID00105202	[SUCCEEDED] I... I hadn't noticed. It must be Jennifer Hale. I'd recognize her crying sounds anywhere. I've got them on holotape.
+GID00105203	[FAILED] I don't hear anything. You must have hit your head in the explosion.
+GID00105204	[SUCCEEDED] Oh, shit! You're right!
+GID00105205	Look, I have this laser pistol. I built it custom from a kit I found in the wasteland. It'll definitely help!
+GID00105206	[FAILED] I don't know. I'm too scared to even think about it.
+GID00105207	Right! I've been listening to that radio on that, ahh, dead guy over there. Jim, I think his name was...
+GID00105208	Anyway, the rest of Vault Security is defending the upper apartments. That's where we need to go.
+GID00105209	We can probably run to one of the bathrooms and get into the pipeworks. Jim has the key to the access hatches.
+GID00105210	Otherwise, the only way in is through the administration hallway near the computer lab, which is controlled by Bragg.
+GID00105211	Um... Now that you put it that way... Listen, maybe you should go on ahead.
+GID00105212	If you can search, ah, Jim's body over there, I'm sure he has the key to those maintenance hatches.
+GID00105213	You could unlock one of those, and sneak through the pipeworks. I'd get the key myself, but he's... Dead... And that's gross.
+GID00105214	[SUCCEEDED] Oh jesus, fine!
+GID00105215	[FAILED] Woah, woah, woah, no way! You're fucking crazy! I'm staying right here, where it's safe, and not full of bullets or angry people!
+GID00105216	Fuck you, asshole! My sweet-ass gun and I are staying right here! We're too cool for you anyway!
+GID00105217	Aw, fuck! You-- You really are an asshole jock! How is killing everyone going to help anything?
+GID00105218	Woah, woah, woah, no way! You're fucking crazy! I'm staying right here, where it's safe, and not full of bullets or angry people!
+GID00105219	No! You're insane! He's not my president!
+GID00105220	No! You're crazy, man!
+GID00105221	Right.
+GID00105222	Oh, fuck! I thought you guys were dead!
+GID00105223	Get me outta here! I can't die a virgin!
+GID00105224	Oh. Fuck, dude, I'm sorry. Damn, your sister was the only one I had a chance with.
+GID00105225	It's Coach Bragg. He and his Patriots freaked, and started shooting everyone! They've turned on us and blew up half the vault!
+GID00105235	Don't make any sudden moves. You will WALK to the detention area. You will NOT deviate from this hallway. Get moving.
+GID00105236	You will turn left here. Walk down this hall.
+GID00105237	Open this door, and step inside. Be dealing with you after this is all over. You better hope you're worth the effort.
+GID00105241	Don't ask me. Send them your question next time they show up... Along with a few bullets.
+GID00105242	Sure, I'm not going anywhere right now.
+GID00105243	Madness? Yeah, it is. But this is what we've got to deal with.
+GID00105244	So, I assume you'd rather get a bullet through your head? You think they came to preach about love 'n peace?
+GID00105245	Look around! There'll be no mercy to those who oppose them. We need to draw out our biggest guns if we want to live.
+GID00105246	World is a shitty place, and I'm not laying down my gun. Negotiations will be rough, but we have no other choice.
+GID00105247	Our survival is at stake, and I trust the Overseer on this one.
+GID00105248	Tell that to the dead in the admin hallway. We've lost half of the squad down here. No, they've got superior forces and we're keeping this position.
+GID00105249	Apart from that, someone has to protect the civilians here.
+GID00105250	Listen, you want some more fighting? Get your ass to the hydroponics lab, find Chief Evanson, and see if he has some use of you.
+GID00105252	K... kid? Is that you? Uuugh. *coughs*
+GID00105253	[SUCCEEDED] No! Don't try to be smart, Star. I'm old. You gotta save your resources. Don't you share that shit with nobody.
+GID00105254	You just watch out for yourself and your people. Where you're goin', ain't nobody gonna tell you that twice.
+GID00105255	[FAILED] Haha. That's not how this world works, Star. Everyone is allergic to lead bees. You've gotta let me go.
+GID00105256	I'll just slow you down where you're goin.
+GID00105257	The wasteland, Star. There's nothing left down here. You have to live the adventure where the old Wasteland Scouts left off... This is your time.
+GID00105258	You'll remember everything once you're out there... The danger. The-- The--
+GID00105259	Haha. Don't tell me what to do. Listen... Gimme your Pip Boy...
+GID00105260	...There.
+GID00105261	There's a town called Pinehaven at this point. Up the road to the north is a little house. I got some old friends that live there.
+GID00105262	You can take cover with them. Tell 'em what happened here...
+GID00105263	I'll... I'll stay here and... Watch over the Vault... For you.
+GID00105264	Hah, dyin' ain't sleepin'. Listen... Gimme your Pip Boy...
+GID00105265	There. There's a town called Pinehaven at this point. Up the road to the north is a little house. I got some old friends that live there.
+GID00105266	You can take cover with them. Tell 'em what happened here...
+GID00105267	I'll... I'll stay here and... "Take a nap"...
+GID00105273	You gotta go outside now. It won't be your first time. You'll remember how it is once you're out there. Sunshine, cool breeze... Green grass...
+GID00105276	You gotta go outside now. It won't be your first time. You'll remember how it is once you're out there. Sunshine, cool breeze... Green grass...
+GID00105279	You gotta go outside, now. It'll all come back once you're out there. Sunshine, cool breeze... Green grass... You won't even remember me.
+GID00105280	Uuuh...
+GID00105281	One last time. Where is the key to unlock that door!?
+GID00105282	I won't tell you. You're a sick bastard, Bragg. Try all you want, I'll never--
+GID00105283	I was just following her... I was just following...
+GID00105284	Hey! You, over there!
+GID00105285	Are you one of us, or are you one of them?
+GID00105286	Oh, it's you. What are you doing down here in the dark? You should know your number and have fallen in line already.
+GID00105293	Good. Come with me.
+GID00105299	[SUCCEEDED] Hmm. Right. Colonel Bragg is in the Administration Office attempting to... Coerce the vault dwellers into surrendering control.
+GID00105300	We should head there.
+GID00105302	Mandy and Shawn are dead? That's... That's a shame. A lot of good people have died tonight. Some that didn't deserve it...
+GID00105303	I placed the charges on that transformer in the storage area. Alex flipped the switch. We never expected the lower levels to collapse. I'm sorry.
+GID00105304	[SUCCEEDED] I... I don't know. I thought I did. I was so sure of myself. Of everything... My dad is old, my mother is gone...
+GID00105305	I just didn't want to watch him die in here...
+GID00105306	I wanted to ensure that there was a day that he could go to sleep under the stars, and not worry anymore. I wanted this this living tomb broken.
+GID00105307	Chevy taught me to obey her. She twisted my mind. I don't know who I've become! I was just following orders! I was just following...
+GID00105308	[FAILED] I... I have my reasons. I'll live with them on my own.
+GID00105310	That's now how this works, cowboy.
+GID00105311	Unless you wanna join your brother and sister, you will follow me back to the Colonel's position, and answer to him.
+GID00105312	Good. Come with me.
+GID00105317	Oh. It's you. Why weren't you in the gym when we sealed it? That's a mistake I can fix myself.
+GID00105318	Oh, shit!
+GID00105319	Ha, no? I don't care. Vault Ball is stupid. I really couldn't care less, honestly.
+GID00105326	Will do. Say... Next time, why don't you join us? Could be a fun distraction from all the other bullshit going on.
+GID00105327	Later.
+GID00105328	Yay! It's our hero! Great work out there! You were fantastic!
+GID00105329	But... What... Oh, yeah, it's... I'm sure it was great...
+GID00105330	Shawn!
+GID00105331	I..I thought we were going to try to fake it...
+GID00105332	Hey Shawn! What would it be like if the robots were... like us?
+GID00105333	You mean, like, androids?
+GID00105334	Yeah. Just, instead of all wires and goo, they had become more human or something.
+GID00105335	You mean, like replicants.
+GID00105336	I guess? What're those?
+GID00105337	They're these biological machines manufactured to replicate human attitudes and functions. They're in the game too, just harder to find.
+GID00105338	Oh... do you think my Robot can become one of them?
+GID00105339	Maybe. We'll have to do a dice roll on that, but despite New Vegas being about gambling,
+GID00105340	the guys at Bethesda/Obsidian never added a dice rolling animation for NPCs. So we'll just use plot points.
+GID00105343	Yeah, sometimes. I've read the reports, heard the rumours... I even looked at our gene projections once.
+GID00105344	Shawn and I are from the same mom as you, but we have a different dad. It's really made me want to learn our history, you know?
+GID00105345	What were they like? Where were they?
+GID00105346	Maybe we'll never know. The place they found us is over a hundred miles away. They could really be dead, or worse.
+GID00105347	Kira's always believed they were kidnapped. She's a weird girl, though, and I'm not ready to believe her.
+GID00105348	She's too like her adopted parents... Ready to stab you in the back.
+GID00105349	Not really. She should see how people treat their children in the wasteland! From what Dr. Rossman says, it's hell.
+GID00105350	They're all slaves, or just used as soldiers.
+GID00105351	I... Don't want to gossip. I'm not like the other vault dwellers. Did you want to ask something else?
+GID00105352	Me too, Star. I love you. Was there something else you wanted to ask?
+GID00105358	I'll teach you eventually, Star! I promise!
+GID00105359	Oh, okay. Anything else?
+GID00105360	Ooh! Yes I do! Here! I just so happen to be studying medicine, and this is part of the kit I made in lab this week. Don't be scared. Hold still.
+GID00105361	There. All better! Is there anything else?
+GID00105362	Oh! Yay! That's good. I wouldn't want you to be mad at me.
+GID00105363	Um... Okay. Well, I was just trying to be nice. If you wanna be that way, fine. Just go to bed and leave us alone.
+GID00105364	Yeah! He's playing Robots with Shawn and me. Though, I haven't talked to him much... He's been acting really weird lately.
+GID00105365	Normally he sleeps at the Overseer's house, but he's been feeling like... Homesick or something, so he's crashing here tonight.
+GID00105366	Jason is close to his adopted dad, but... He's still one of our brothers. You should really go talk to him.
+GID00105367	Hey! Welcome back!
+GID00105368	Yeah. Sorry we missed it, man! We had a game going on tonight.
+GID00105369	What!?
+GID00105370	Oh... Haha... Oops.
+GID00105372	Alright, back to business. So, your knight protectron attacks the rogue sentry with a laser blast, hitting for 13 damage.
+GID00105373	Isn't that a little low?
+GID00105374	No? Not really. It's balanced to make sure that the NPCs have a chance. The players already have a huge advantage in high health and custom stats.
+GID00105375	Yeah, but in real life, an 800 watt laser blast would burn a hole right through your arm, man.
+GID00105376	Yeah... But this is an RPG, dude, not a first-person shooter.
+GID00105377	But still, it's hard to imagine an 800 watt laser not ruining your day - that's like having a little piece of the sun thrown at your fuckin' face.
+GID00105378	Even if it misses, the air around the shot will heat up from the incident light...
+GID00105379	Uugh, dude, this is why engineers should never play RPGs.
+GID00105380	Haha, no. It was the arrow with a piercing shard +3 attached to the bag of holding, sandwiched between two portable holes.
+GID00105381	That's why I can't play RPGs.
+GID00105382	Just get back to the game, dude, please?
+GID00105384	Hey, have a good night man.
+GID00105385	Hey! Just because our avatars don't actually run around and do shit on a football field doesn't mean there aren't variables to our game!
+GID00105386	It's about character building, enjoying the experience before it ends. Talking to each other. Building a story and history together.
+GID00105387	You can't just go do that when all you're planning to do is shoulder check some dude on the other team.
+GID00105388	I'm sorry I missed your big game, but we had to do this. Our characters compelled us, man.
+GID00105389	There were what, 18 games this season anyway? Give us a break.
+GID00105390	Oh. Shit, Star, really? I'm sorry. Are you okay?
+GID00105391	I'm sorry, dude. Look, maybe if you just go rest up, it'll wear off.
+GID00105392	Bragg is a real coochinator. Like, douchebag doesn't begin to explain it. I really hate that guy. Why were you messing with him in the first place?
+GID00105393	Yeah, right. Just because we're from the outside, we have to be treated like we're a bunch of diseased retards.
+GID00105394	The Vault may have saved us from a shitty situation,
+GID00105395	but I thought democracy was about not treating people differently because of where they came from.
+GID00105396	Ugh. Anyway, sorry for not being there for you tonight. You should just join us for our next game, okay? We have a character all lined up for you!
+GID00105397	Haha. Okay, man. Just call again if you wanna join the cult. Have a good night, okay?
+GID00105398	Oh! Well, we're playing something called "Robots 2500." It's a miniatures role-playing game.
+GID00105399	It's all about this future where the robots have saved the world 300 years from now.
+GID00105400	Only... Not all the robots are good.
+GID00105401	When they rebuilt the Earth, there were a bunch of different factions from different corporations competing for resources...
+GID00105409	Yeah, I'm sure I'll hear about it later.
+GID00105410	Aw, really, man? Cool, I can take the hint. I'll go sleep in the bathroom... AGAIN. Thanks, dude.
+GID00105411	Oh... Wow, that's unusually forgiving. I was worried all night that you would be pissed when you got home... You're not pissed?
+GID00105412	Aw, really, man? Cool, I can take the hint. I'll go sleep in the bathroom... AGAIN. Thanks, dude.
+GID00105413	Oh! Well, We're playing something called "Robots 2500." It's a miniatures role-playing game.
+GID00105414	It's all about this future where the robots have saved the world 300 years from now.
+GID00105415	Only... Not all the robots are good.
+GID00105416	When they rebuilt the Earth, there were a bunch of different factions from different corporations competing for resources...
+GID00105417	Well, the story has nothing to do with the gameplay, it's just there to add depth. You know, immersion?
+GID00105418	Dude. Clearly, you do not get this shit. Just go play with yourself on the computer like jocks normally do.
+GID00105419	Some things will never change. Night, dude.
+GID00105420	Hey, yeah, no problem. Have a good night.
+GID00105454	Say hello to Jason for me. He has been acting rather strange lately, and is staying at your house tonight.
+GID00105455	Good night, Star.
+GID00105456	Very well. If you think of anything else, just come back and let me know. I will keep the door open for you.
+GID00105457	Say hello to Jason for me. He has been acting rather strange lately, and is staying at your house tonight.
+GID00105458	Good night, Star.
+GID00105459	Very well. If you think of anything else, just come back and let me know. I will keep the door open for you.
+GID00105460	Good night, Star.
+GID00105461	[SUCCEEDED] Hmm. I am glad to hear that. Let me know how that turns out. Shawn has always been the one to ignore authority and act on his own accord.
+GID00105462	If you can breathe sense into him, it would show a lot about your character.
+GID00105463	Now, let's get back to the topic at hand.
+GID00105464	[FAILED] I... Doubt you have the... "charismatic" overtones required in dealing with Shawn's behavior. He is quite a deviant by nature.
+GID00105465	[SUCCEEDED] I'm sure you understand.
+GID00105466	His worrying habits of wanton sexual intercourse and spreading tall tales through "Role-Playing Games" consistently land complaints on my desk.
+GID00105467	I'm glad you appear to have turned out... differently.
+GID00105468	[FAILED] No, not at all. You are not as clear-seeing as you would like to pretend.
+GID00105469	I see you would like to get straight to the point.
+GID00105470	Originally, I wanted to congratulate you on your victory. It was truly spectacular...
+GID00105471	But there is something far more pressing than sports at work here.
+GID00105472	It has come to my attention that Coach Bragg offered you a job outside of maintenance.
+GID00105473	There aren't that many jobs open in Vault 18, and I believe in competition.
+GID00105474	Lieutenant Chevy has every right to offer you this post if she wishes to. But many of our security officers are simply volunteers.
+GID00105475	A career post is a big event.
+GID00105476	I would like to know why you were offered the job so easily, and what she is planning to do with you that Joe Marshall cannot offer.
+GID00105488	Oh. I see.
+GID00105489	In that case, I really don't see what else there is to say. I apologize for any embarrassment this may have caused.
+GID00105490	After all, you are my son's half-brother. That makes us family.
+GID00105491	I will let you go. Is there anything else you want to ask before you leave?
+GID00105492	[SUCCEEDED] Oh. I see... Very well. Carry on then.
+GID00105493	[FAILED] Oh, then I assume I just received a visitation from his holiness Cock'kahali, god of the bug people?
+GID00105494	I am not an idiot, or easily persuaded to act like one. Now, did you have anything to do with that hologram?
+GID00105495	When something this disturbing happens the night of a traumatic injury, do you think it's wise to work so much?
+GID00105496	I think it should be looked into in the morning.
+GID00105497	I don't see why not. Good night.
+GID00105498	I'm not blaming you for terrorizing my staff and I. I simply want to know what caused this to appear.
+GID00105499	This... This is disturbing news. That is privileged knowledge, reserved exclusively to this desk.
+GID00105500	Those lines have been severed for almost 200 years. Overseer Dickson cut them himself, our first week in Vault 18.
+GID00105501	If they were reconnected, and they are still in active use... That can only mean one thing...
+GID00105502	Do you know if we lost any data in the feed? Anything at all?
+GID00105503	Ah, it doesn't matter. You're injured. We will launch an investigation in the morning. Good night, Star.
+GID00105504	No... No, it's best you not. There are some secrets that are best left buried. You should go.
+GID00105505	We will launch an investigation in the morning. Good night, Star.
+GID00105509	Damnit, damnit! Uuugh, why the fuck does this stupid game keep crashing every 5 seconds!?
+GID00105510	You'd think after 200 years someone would have fixed the stupid stutter bug.
+GID00105511	Why aren't the NPC faces better? Because it's text based. What do you want, comic sans?
+GID00105512	Every time it crashes, another little crack appears in the dam holding back my epic nerd rage.
+GID00105513	The Overseer will see you now... ball juggler. Yeah... Bragg blower! Nice! St... stupid... Damn, should have stuck with Bragg blower.
+GID00105514	Hey! Those claims were totally unsubstantiated! I do not like to--
+GID00105515	Oh, okay, I get it. Pick on the skinny guy. Alright meathead, why don't you just go talk to the Overseer. Then you can go back to playing with balls.
+GID00105521	[SUCCESS] Hmm. Well how about this, meathead:
+GID00105522	That poor boy's gonna be laid up for the next six months, probably going to be crippled for the rest of his life!
+GID00105523	Just remember this: Even when you have no choice, your actions have consequences.
+GID00105524	Shit gets screwed up, and no matter how fantastic you are at screwing them, they stay that way.
+GID00105525	Even if you had no other option but to get hurt yourself - and I don't blame you - it's all gonna come back to ya.
+GID00105526	You may get to walk away, but that life is changed forever.
+GID00105527	Now was there something else you wanted? Or can I finish my work and go to bed?
+GID00105529	Just remember this: Even when you have no choice, your actions have consequences.
+GID00105530	Shit gets screwed up, and no matter how fantastic you are at screwing them, they stay that way.
+GID00105531	Even if you had no other option but to get hurt yourself - and I don't blame you - it's still gonna come back to ya.
+GID00105532	You may get to walk away, but that life is changed forever. Now was there something else you wanted? Or can I finish my work and go to bed?
+GID00105534	You ended his career today, "Star Player". Johnny may be screwed up, but he was a good kid.
+GID00105535	Just remember this: Even when you have no choice, your actions have consequences.
+GID00105536	Shit gets screwed up, and no matter how fantastic you are at screwing them, they stay that way.
+GID00105537	Even if you had no other option but to get hurt yourself - and I don't blame you - it's still gonna come back to ya.
+GID00105538	You may get to walk away, but that life is changed forever. Now was there something else you wanted? Or can I finish my work and go to bed?
+GID00105539	[FAIL] Ha! Good job there, Ong Bak! He probably just tripped over your shoelaces!
+GID00105540	That poor boy's gonna be laid up for the next six months, probably going to be slightly crippled for the rest of his life!
+GID00105541	You ended his career today, "Star Player." Johnny may be screwed up, but he was a good kid.
+GID00105542	Just remember this: Even when you have no choice, your actions have consequences.
+GID00105543	Shit gets screwed up, and no matter how fantastic you are at screwing them, they stay that way.
+GID00105544	Even if you had no other option but to get hurt yourself, and I don't blame you, it's all gonna come back to ya.
+GID00105545	You may get to walk away, but that life is changed forever.
+GID00105546	Now was there something else you wanted? Or can I finish my work and go to bed?
+GID00105555	Just remember this: Even when you have no choice, your actions have consequences.
+GID00105556	Shit gets screwed up, and no matter how fantastic you are at screwing them, they stay that way.
+GID00105557	Even if you had no other option but to get hurt yourself - and I don't blame you - it's all gonna come back to ya.
+GID00105558	You may get to walk away, but that life is changed forever.
+GID00105570	[FAILED] Kid, lying to me about a simple question isn't gonna get you anywhere. Why are you even talking to me? Get out of my sight!
+GID00105602	Hey Carter. Where are you going this time of the night?
+GID00105603	Oh, just have to hand in some paperwork to Aaron in the Vault Security office. Albert gave me some late night work orders after the big game.
+GID00105604	Hmm. Working overtime trying to get that cave straightened up?
+GID00105605	Yeah. Apparently someone tried to break into the Terrarium. No idea why, but he wanted me to file a report.
+GID00105606	Ha! Punks probably. The wasteland is too dangerous to mess around with right now, else I'd take them sightseeing.
+GID00105607	Show them how the Survivalists treat misbehavior. It's better than babysitting this nerd, waiting on 'em to get in trouble.
+GID00105608	Haha! Oh! Hey, Star. I didn't even notice you there. Sorry to hear about your leg. That must have hurt.
+GID00105609	Only the kid's pride. Listen, we got to get to work. Take care, honey.
+GID00105610	Yeah, sure. You two have fun.
+GID00105611	Yeah, it was really impressive! I'm glad Coach Bragg has started getting you kids in shape!
+GID00105612	So, what brings you to the Administration Office tonight?
+GID00105613	Oh! That's very helpful of you, Star! I'm glad you and your family are starting to fit in around here! Well... Except for Shawn.
+GID00105614	So, what brings you to the Administration Office tonight?
+GID00105615	Oh, good! Yeah, it's the little valve by the grate. Thank you, Star!
+GID00105619	I really hope your leg gets better. You weren't that bad of a player... before you, um, made that fatal decision.
+GID00105621	I am here for you to face your doom! Fight me, little one! Or else I will eat your bones!
+GID00105622	Then end we must.
+GID00105625	[SUCCEEDED] Human! I am your father!
+GID00105626	[FAILED] Your death!
+GID00105628	Now entering sleep mode.
+GID00105633	No. That isn't my name. It never was. I am Kurtz, of the California tribe.
+GID00105634	[SUCCEEDED] Not really. Only flashes. Sensations. It's like my personality just rose up out of the cracks and blew away the dream.
+GID00105635	I came here to find a way out. To find a way to win the game, and to find... The girl.
+GID00105636	[FAILED] No. And you should likely be aware that there is a price to pay for being stupid like that in the future.
+GID00105637	I came up here to find a way out. To find a way to win the game, and find... The girl.
+GID00105646	I'm not sure. I remember facing Chevy in the Atrium. She raised her weapon at me, but I reacted before she could fire.
+GID00105647	As I heard the shot, my vision went white. I thought I was forgetting that moment, but when I opened my eyes, she was dead.
+GID00105648	My spear was shoved through her chest, and the two with her were leaning against the walls.
+GID00105649	That's impossible. I remember her eyes glazing over as she slid off the blade. Unless... she's a demon, and she can return from the dead.
+GID00105650	You're right. We should go, before the Vault begins to collapse.
+GID00105651	It's... the way I decided to handle these "patriots." I heard there were 30 of them. 2 surrendered, I took out 5, 15 died downstairs...
+GID00105652	I think you get the picture. I wear these red marks to repesent the rivers of my Tribe. If you're willing, we may find them along our journey.
+GID00105758	How the hell did you get in here?
+GID00105759	Right. Forget it. It's good to see you. We really needed to come across a friendly face for a change!
+GID00105760	-- Shit, they're back. Grab that rifle and get down!
+GID00105761	You know what? ...Shit, never mind. Grab that rifle and get down! They're attacking again!
+GID00105762	We were lucky, and managed to barricade the doors... We had a few guns hidden away too.
+GID00105763	That slowed the bastards down, but we'd be dead if not for Sergeant Norman's counterattack.
+GID00105764	We pushed back and hunkered down here. Rossman and Norman were amazing. I never knew they were such badasses in combat. It was awesome!
+GID00105770	No problem, what would you like to know?
+GID00105771	Hell yeah, man. I've been working on my physical conditioning and I'm passing all my firearms tests. Mrs. Kowalski is easy to please.
+GID00105772	I'm finally done with cartography too, but that shit comes easy to me. I mean, we were born in the wasteland. It's in our blood.
+GID00105773	It's hard studying and getting ready for what's up there while we're locked down here in the dark. I can't wait to get outside and kick some ass.
+GID00105774	True, he's never impressed with my firearm stats. Says I should focus on academics. Last week he hit me with a full course of plant identification!
+GID00105775	He's gonna turn me into a freaking botanist or something!
+GID00105776	Oh well, at least they say I might be ready in the next few months to go with other scouts on a first patrol. That should be exciting.
+GID00105777	Maybe we'll all go where this started, where they found our home in the wasteland. That would put to rest a lot of questions.
+GID00105778	I've always wondered what it was like up there for us. You know? We were two, yeah, but what happened?
+GID00105779	I want to go up there and try to set things right.
+GID00105780	Yes, I am. It's still in me, the call of the wasteland... To see it, to fight. It's not like we can hide in the vault indefinitely.
+GID00105781	We'll have to face the outside world one day. We'll need someone to lead us. Somebody who knows its secrets.
+GID00105782	Hell, I hope so. You know, this is my home too. I care about it. Everyone here is family  Well, at least some of them.
+GID00105783	It will end someday. I can assure you. Everything does.
+GID00105784	Sure, anything else?
+GID00105785	What is there to ask? You should have noticed on your own. Yes, we're together. What does it matter?
+GID00105786	If you fell in love with a molerat, I wouldn't care. Do you know how rare love is? Period?
+GID00105787	Try finding it 200 years after a nuclear war. Try finding it in a vault full of 300 prudes and old people.
+GID00105788	Not so easy to hit one in a million is it? Especially when there aren't a million left to hit.
+GID00105789	Maybe. There's no proof of that. We just look alike. Any problems, meng?
+GID00105790	Dude, serious? I thought you were better than the others. You know what? Fuck off!
+GID00105791	Look. We've always been together... It all started in the wasteland, when we were little.
+GID00105792	We were found in the third camp Dr. Rossman visited. Ours was abandoned long before the others, leaving us starving and lost, without parents.
+GID00105793	Jamie and I were the oldest in the camp, taking care of the others. Alone. We had to adopt the role our parents set, and we did. We kept them alive.
+GID00105794	We couldn't just give that up once we were safe in Vault 18... The others? They were too young to remember. Or they're just a bunch of dicks.
+GID00105795	Yeah. People here... They're not shimmering examples of tolerance. But for us, that's just one more reason to stay together.
+GID00105796	I have to keep her safe. And I have to keep them safe from us.
+GID00105797	[SUCCEEDED] I hoped you'd understand. Thank you. You're really a good friend.
+GID00105798	It's not easy standing up for something no one believes in but you. They always tell you that you're alone, and that's what makes it so hard.
+GID00105799	But even if just one person stands up and says, "Hey, it's okay, I'm with you...", it makes all the difference.
+GID00105800	You can have a hundred enemies, but you only need one friend to make it worth it.
+GID00105801	[FAILED] That wasn't really convincing. I'd rather you tell me what you really think.
+GID00105802	Thanks, but we'll be fine.
+GID00105803	Sometimes it feels just... Just like the whole world is against us. It's not easy to endure, especially for Jamie.
+GID00105804	She's tough on the outside, but truth is, she really takes it to heart.
+GID00105805	Jamie... Likes to pretend that she's invincible. That she doesn't care about anything, and she can beat every impossible odd. But she can't.
+GID00105806	I'm always patching her heart back together. She fools everyone else, but not me. I just wish she would be easier to hold onto, you know?
+GID00105818	I really hate those jerks for picking us to pieces behind our backs. Yes, we love each other, and all those haters should mind their own business.
+GID00105819	Do you know how rare love is? Period? Try finding it after 200 years of nuclear war. Try finding it in a vault full of 300 prudes and old people.
+GID00105866	Hey! If Bragg is going to break through that door, we have to be ready! What can we do to help?
+GID00105867	I wish I did, I'm sorry. I should have paid more attention... I'll try to pick some up after the battle is over.
+GID00105868	Okay. Right. I'll wait there by the base of the stairs if you need me.
+GID00105870	[FAILED] That was really a stupid thing to say to me. Seriously. I can't believe you'd ask me to...
+GID00105871	I'm going to wait downstairs. Come see me after this battle is over. If you need something else, just let me know.
+GID00105872	I'm going to go wait downstairs. Come see me after this battle is over. If you need something else, just let me know.
+GID00105875	Okay. Right. I'll wait there by the base of the stairs if you need me.
+GID00105877	Right. Let's go.
+GID00105900	I guess it makes sense. Everybody has something they want... Just not everybody is willing to risk their life to get it.
+GID00105901	With the food shortages and paranoia of not leaving the vault for so many years, something was bound to happen eventually... But this?
+GID00105902	Something deeper has to be going on. Something we don't know.
+GID00105903	Yeah. I'm sure.
+GID00105917	Listen... Eric and I have been together a long time. Even before we remember.
+GID00105918	Since we've always been treated like we're just dumb punks, we have a different way of seeing things.
+GID00105919	Eric doesn't respect authority. Or anybody, really... and he won't trust you. Just be careful, Star.
+GID00105920	You know you don't have to. We can each take care of ourselves. Eric and I will stick together.
+GID00105921	He watches me with his rifle, and I watch him with my short leash.
+GID00105922	I know you will. Just remember... I still have feelings for you, too. And he won't let it go.
+GID00105923	Come on. We have a war to fight.
+GID00105924	Yeah, sure. Just have her wait here and I'll see what I can do. What happened to her?
+GID00105925	God, that's horrible. Yetti was a good man. I wish he could be here right now.
+GID00105926	I'll give her a pep talk as best as I can. Don't worry about it.
+GID00105927	I... I'm so sorry. I'm just glad you're alright.
+GID00105928	Our whole family is dead... the ones that survived are trying to bury us.
+GID00105929	I know it's insane... but what if we're better off in the wasteland? Life may never go back to normal here again.
+GID00105930	Even if it did... maybe they were right. Maybe we are just outcasts... The first step has to be out of this room. What do you want to do?
+GID00105935	[SUCCEEDED] Woah, thanks hon! You always make me feel like I'm part of the team. You're the best!
+GID00105936	Muah!
+GID00105937	[FAILED] Haha. Sure, dude, say what you really think. You should work on your people skills, seriously.
+GID00105938	You sound like a dick. Nobody's going to believe you like that. Later.
+GID00105939	'Cause I like you! Haha. Hope you don't mind?
+GID00105940	Really? Wow, um... I'd like to hear more about that. I'm, you know, not usually the girl people choose to pick to like because of... Well, stuff.
+GID00105941	You know. Drama. Is that true?
+GID00105948	[SUCCEEDED] Woah... that's... Wow. Thank you. You... You're fantastic. I love you.
+GID00105949	[FAILED] Haha. Sure, dude, say what you really think. You should work on your people skills, seriously.
+GID00105962	[FAILED] What? What do you mean by that? What we have isn't for your enjoyment. You want to watch or something?
+GID00105963	Back off, sicko. From now on, how about you just leave us alone.
+GID00105965	Haha, yeah? Sure. Okay. Hey, I'll see you later, yeah?
+GID00105968	[SUCCEEDED] Well, you sure are a Star, that's for sure. Haha. I kinda liked it. Wait, what am I saying? Gah!
+GID00105969	No, you're a nerd! And it was strictly in a medical capacity.
+GID00105970	Besides, it looked like you were bent into a pretzel. It's a wonder you're still alive!
+GID00105971	[FAILED] No, you're a nerd! And it was strictly in a medical capacity.
+GID00105972	Besides, it looked like you were bent into a pretzel. It's a wonder you're still alive!
+GID00105973	[SUCCEEDED] Huh... That's... really forward of you. But, you're right. Maybe I would have. In another life, sure.
+GID00105974	[FAILED] Haha, no. You should get your eyes checked, love guru. Plus, in that scenario, I'd probably end up dead. Or knocked up.
+GID00105975	Or dead and knocked up, and that'd just suck!
+GID00105976	G'night Star!
+GID00106009	Good to see you... 'coach.' It's just a simple door. What's the problem?
+GID00106010	Your masters never taught you how to pick a lock, eh? Pathetic. Here...
+GID00106011	[SUCCEEDED] Uuugh. I'm sorry. I don't know what's wrong with me. I need to get my shit together. Just give me a second...
+GID00106012	Okay...
+GID00106013	I heard gunshots. What's going on?
+GID00106016	What do you mean? What's in the hydroponics lab? Is it an earthquake? Is that where my mom and dad went?
+GID00106017	Oh... Okay... I'll follow your lead then. Let's go.
+GID00106026	Fuck, this is impossible. How did this happen?
+GID00106027	I don't want to just stay here in the dark. Please, I have to get out of this grave. Let me come with you!
+GID00106028	I think so. Dad taught me how to handle a gun, and I'm pretty setllar with my fists.
+GID00106029	The hardest fight I've ever been in is with Kira Mann! That and Terra Mayson... broke that bitch's nose once... but she put me in the infirmary.
+GID00106030	Right... I'll keep a look out for locks I can pick. I'm still pretty out of it, but... lets try to find my dad. He must be out there somewhere.
+GID00106032	What do you mean? What's in the hydroponics lab? Is it an earthquake? Is that where my Mom and Dad went?
+GID00106041	You son of a bitch! What the hell is wrong with you? Why are you always such a dick?!
+GID00106042	All of you! Your brother, your wasteland friends! You've always treated me like I'm not good enough for you!
+GID00106043	Now look what's happened. This is all your fault!
+GID00106045	All of you! Your brother, your wasteland friends! You've always treated me like I'm not good enough for you!
+GID00106046	Now look what's happened. This is all your fault!
+GID00106047	Oh god! What the hell is going on! Why is everyone dead?! Just get out of here and leave me alone!
+GID00106048	I'm sure. That's why you- god, okay lets get out of here. I'll follow you. But don't expect me to drop my guard just because you think you're a hero.
+GID00106054	But why! What's going on!? Where is my family?
+GID00106055	You son of a bitch! Why the hell would I want your help after saying that! Just-- fuck you! Get out of here!
+GID00106056	No! Not with you! I tried to be your friend, but you were always too busy, or too much of a jerk! Why should I want your help now!?
+GID00106059	Wait... what? Star, you... you can't be on Bragg's side, you can't!
+GID00106060	I... I don't know what to say, tell me you're just faking it!
+GID00106061	Uuugh. I'm sorry. I don't know what's wrong with me. I need to get my shit together. Just give me a second...
+GID00106062	Okay...
+GID00106063	I heard gunshots. What's going on?
+GID00106064	Uuugh. I'm sorry. I don't know what's wrong with me. I need to get my shit together. Just give me a second...
+GID00106065	Okay...
+GID00106066	I heard gunshots. What's going on?
+GID00106067	Wait... what? Star, you... you can't be on Bragg's side, you can't!
+GID00106068	I... I don't know what to say, tell me you're just faking it!
+GID00106074	Wait... what? Star, you... you can't be on Bragg's side, you can't!
+GID00106075	I... I don't know what to say, tell me you're just faking it!
+GID00106076	That... I don't know. I guess Jamie and I have never really gotten along.
+GID00106077	I suppose it doesn't matter now, though. I'll go wait there for you. Stay safe. And thank you.
+GID00106078	Alright, what is it?
+GID00106079	Right. I'm right behind you.
+GID00106084	This is too difficult. We'll have to try something else.
+GID00106085	Shit! Can't get it open...
+GID00106086	Ha! No problem.
+GID00106098	If you'd just said "try not to die", I'd be a little embarrassed.
+GID00106099	Ah, sure. I'll try to look menacing.
+GID00106126	I just took the entire med cabinet's supply of Psycho and Med-X! I can't be stopped! I can't be killed! I'm the fucking HULK!
+GID00106138	Motherfucker! I will watch you die!
+GID00106149	[SUCCESS] Maybe, maybe. But freedom has a price, and I'm all broke. Caught me at a bad time for gratitude, asshole.
+GID00106150	Not everyone you save is gonna give a shit. You want something, just like they do. You want it, you buy it - or you take it.
+GID00106151	[FAIL] Oooh, yeah, real words of wisdom from the peanut gallery! How about I liberate your jaw, smartass?!
+GID00106152	How about you get the fuck out of my way, dorkus!
+GID00106153	Well well, if it isn't little miss gimpface. Thanks for the help, dork. Glad to see you're still skulking around.
+GID00106154	Well well, if it isn't little senor gimpface. Thanks for the help, dork. Glad to see you're still skulking around.
+GID00106163	[FAILED] Sure, try and justify your own incompetence by making accusations. You don't have any proof to back up your claims, asshole.
+GID00106172	I'm not forgiving you, asshole. But, uh, thanks for visiting. Urgh, I really need something for the pain. Maybe I could brew something myself...
+GID00106175	What a fucking pansy you are. But, at least you're trying to help, even if you're shit at it. Still, that ain't gonna help the pain.
+GID00106176	Maybe I could whip up some homemade Med-X... Yeah. That could do the trick.
+GID00106185	Don't you dare call me a motherfucking cripple, you fuck! Get out! Now. I'm gonna make some goddamn Jet to get my mind of this shit. Fuck you!
+GID00106188	Alright, whatever, man.
+GID00106189	Whatever, man.
+GID00106292	All the better to make you go away with my dear. Now get out, you fucking waste of oxygen.
+GID00106293	Ummm. No? Getting up Bragg's butt for a reacharound isn't really my idea of being productive.
+GID00106294	Look, do you have a reason to be in here?
+GID00106296	[FAILED] This conversation just keeps becoming more rewarding every second... Are you at least going to TRY to say something useful?
+GID00106297	Uh huh, just don't... touch anything. Okay? Uugh.
+GID00106330	Hey Dr. Rossman, how are-- oh, wow. are you okay?
+GID00106347	I'm done working here for now. I'm going to head upstairs... good night.
+GID00106349	Star... you had better let me go back to sleep, or so help me, I will end you.
+GID00106437	Well done, soldier, now to--
+GID00106438	No... where the hell is he?
+GID00106439	Find me the access codes to get into the hydroponics lab! The son of a bitch escaped through the pipeworks!
+GID00106440	We'll find our own way in.
+GID00106442	*growls* Good. Come with me.
+GID00106462	Ha! I'm glad it was just a waste...
+GID00106463	Sir, forward team just radioed in, the torches have breached the Lab doors.
+GID00106464	You will address the Colonel as sir, and only when spoken to. Unlock this door!
+GID00106465	Sir, the forward team just radioed in, they have breached the Lab doors.
+GID00106466	Well. Then you'd better get runnin'.
+GID00106467	[SUCCEEDED] Survivalists, you mean? Yeah, that's us. Now, I'm asking nicely, why are you out here?
+GID00106468	[FAILED] Puh. New to this place, huh? Ain't no secret you're in for a rude awakening. Now, what's the hurry?
+GID00106469	Humph. Picked a fine day to leave your asshole, didn't you, turd? I don't envy you. You're gonna get your mouth shot off out here.
+GID00106471	What the hell happened down there!?
+GID00106472	Any remaining security forces, converge on the stadium! Tell everyone to evacuate the Vault!
+GID00106473	Repeat - evacuate the vault! Executive command override code 00981! We'll reconvene at the Pinehaven safehouse. Godspeed.
+GID00106474	Alright. When this door opens, get ready for anything. Norman... you know what to do. Keep them off the civilians, at all costs.
+GID00106475	Alright. When this door opens, get ready for anything. ... you know what to do. Keep them off the civilians, at all costs.
+GID00106476	Star: I want you and your companions to book it for the main gate. No fighting, no waiting. Just get out of here! We'll keep them busy!
+GID00106477	Jesus! Grab everyone you can find, tell them to make a dash for the main entrance!
+GID00106478	The door will open automatically when I give the signal. I'll meet you at the main entrance! Get going!
+GID00106479	Hey kid. I've got a special mission for you. This may look like it's over, but it isn't. Not by a long shot.
+GID00106480	I need you to go check on Overseer Christianson. He's in that big cavern at the far end of the vault.
+GID00106481	Go through the door at the end of the lab... He may not want to see anybody right now, so tread lightly. I've got to go take care of these wounded.
+GID00106482	Kid, there's a million things we need answers to.
+GID00106483	Chevy is still in control of the Security Office and the Main Entrance. Our next move is to take her out, quick and easy, then hit the gym.
+GID00106484	We've still got more than 200 people trapped in the stadium, and the place is burning up quick. Finish what you've gotta do, then report back.
+GID00106485	Kid, there's a million things we need answers to.
+GID00106486	We've still got more than 200 people trapped in the stadium, and the place is burning up quick. Finish what you've gotta do, then report back.
+GID00106487	I... tried not to notice that. Go pop a few rounds off in him, just in case. I won't say a word. Then go see to the Overseer for me.
+GID00106488	Good. Let me know his status.
+GID00106489	Alright men, this is going to be it. We get five minutes, then it's all over.
+GID00106490	Those punks are going to break down that door and come in hot. We don't want to be in their way when they do.
+GID00106491	Hold positions on either side of the room, then make for the barricade. Let them funnel into your shots. Don't be where they expect you!
+GID00106492	It's split seconds and gnat hairs separating you from the grave in this place.
+GID00106493	Use your real estate, and make every shot count. Now, go on... man your stations.
+GID00106496	Here they come! Into positions! Move move!
+GID00106497	Well, if you can get through I'm sure they can. Are you sure you weren't followed?
+GID00106498	It's not good. It looks like Bragg finally gave up on trying to get into the Overseer's office and decided to torch the airlock.
+GID00106499	Bastards tried to pump reactor exhaust through the vents, but Rossman stopped it. I guess they've figured their last approach is through the front door.
+GID00106500	The path you took getting here is our only supply line to the rest of the vault, and they've had it locked down for over an hour.
+GID00106501	Oh, fuckin' hell if I know. Crazy old coot ran out mumbling about robots and reactors.
+GID00106502	For all we know, he could be halfway to Los Angeles on some secret helicopter he built out of tin cans and duct tape. Wouldn't surprise me.
+GID00106503	The old man? He's in bad shape. It's the reason I'm standing in this hallway instead of guarding his private office.
+GID00106504	Not long ago, we get word that Jason was killed by Chevy in the atrium. Albert just about went to pieces in front of us. Ordered us out.
+GID00106505	We've been standing in the dark ever since.
+GID00106506	I'm giving the orders here, kid! You get into position along that wall the moment you see sparks on that door.
+GID00106507	If Rossman was right... you've got five minutes to get ready.
+GID00106508	Hell kid, you know about as well as I do what we're up against. John and Chevy have their boots at our throat.
+GID00106509	With all you kids turned against us, we can hardly stand up before they knock us back. I don't know what they taught you all, but it's working.
+GID00106510	Try your hand with the light machine gun on that barricade and see if you can shore up our defenses along that wall. We could use the help.
+GID00106511	Holy shit! Where the hell did you come from, kid?
+GID00106512	Some safety feature. You should hook up with one of the scientists and see what you can do to help.
+GID00106513	Dr. Kobal could use some help, I'm sure. After Dr. Rossman ran out on us during the reactor scare, we've been without a technical expert.
+GID00106523	Come on, I'll show you where the old server is and you can get to work.
+GID00106524	Is that the one from the wasteland with the lazy eye?
+GID00106525	No, I'm talking about *the* Jane, the secondary adjunct computer monitoring sewage disposal and reclamation. She's a coy one.
+GID00106526	She's been randomly loop-compiling important monitoring data. Poor girl. I wonder what's bothering her... Probably 200 years of misuse.
+GID00106527	Not everybody before me has been as good to her as I have.
+GID00106528	Hell no I don't. I'm a career scientist. I may have been born in the wastes, but my heart is with the technology of this place.
+GID00106529	Cold, thoughtful machines are my first love. Humans? That's a machine I can't fix.
+GID00106530	That's why I like to escape every now and again. Lead away missions and scout the mountains, trading for technology. Keeps me sane and busy.
+GID00106531	Read this book once. Final line of the last chapter, "Hell is other people." At least I think it was the last line.
+GID00106532	The book was burned for heat by some illiterate wastelanders.
+GID00106533	You see what I'm sayin'?
+GID00106534	Scoring Computer? You mean Sarah? That slut! I wouldn't be surprised if that bucket of bolts started early.
+GID00106535	Listen, I'm sure the all-knowing Coach John Bragg the Magnificent could convince that whole team to jump off a cliff if he wanted to.
+GID00106536	But you? You learned a valuable lesson today - Men aren't to be trusted with leadership without questioning from the lower ranks.
+GID00106537	You ended up out there with no way to win. What made you want to be one of Bragg's Patriots anyway?
+GID00106538	Ah, that's it. The GOAT? Where'd you dig up that piece of communist trash? You must have been hacking into some pretty serious shit to find that.
+GID00106539	From what I know of Vault 18 history, the first Overseer did away with that junk in the early days. This is a democracy.
+GID00106540	Down here, we rely on hard work and nepotism.
+GID00106541	I'm impressed though. Glad you found it, but don't let other people tell you who to be. Ever.
+GID00106542	Say, nerds love science - I've got some work you may be interested in.
+GID00106543	Clearly you ain't gonna hobble out onto Bragg's field again. "You will stand duty, you will do fine, do you understand!?"
+GID00106544	Haha, that dude's a dick.
+GID00106545	Oh? Really? Come on, man, give me a break.
+GID00106546	Let me spell it out for you: You are a nerd. Hardcore, unadulterated, 100% sex-proof keyboard barnacle.
+GID00106547	If you think getting your ass handed to you is gonna make that life easier, you'd better get used to sitting in the infirmary with my charming ass.
+GID00106548	Now come on, tell the truth. Use your intelligence.
+GID00106549	Foot. You mean, "when can I get back on my foot." Autodoc says amputate. And I ain't one to argue with my machines, neither.
+GID00106550	So unless you've come up with a better prognosis, or have the magic touch to fix this thing, I'm just going to assume you're toast.
+GID00106551	There you go, shinin' like a Star student now. I've already fixed your butt up as best I could when you were knocked out.
+GID00106552	Listen, you've always been a really bright kid.
+GID00106553	I'm sorry for making fun of you, but you gotta understand, it's in your best interest to listen to me.
+GID00106554	I've got some cool stuff to show you in the lab...
+GID00106555	...Computers with data 200 years old. Stuff nobody has time for. But you? You can fix it in your down time.
+GID00106556	Let's get you on your feet and over to the Vigor Tester to make sure you got all your bits in the right place...
+GID00106557	Or as right as your jigsaw butt is gonna be.
+GID00106558	No, I don't, and I can't say I want to either.
+GID00106559	Listen, I'm not from here, kid. I've traveled the wasteland, from Vegas to Alton, and back. I'm a Scout. I see things before anyone else does.
+GID00106560	And that guy? From me to you? He's trouble. Shows up with a water chip, just as we need it, 3 years ago? Gets in good with the right people?
+GID00106561	I ain't saying he's a deathclaw in disguise or nothing, he's done a lot of good to this place. But I don't like what he adds to the air.
+GID00106562	America is dead, I don't care what people say. It blew itself and the whole world to high hell for a reason. That was the only end for that game...
+GID00106563	...Let's not repeat it here.
+GID00106564	Well kid, you could take up a sport with your hands - not that you need my advice on that.
+GID00106565	You could take up juggling! I thought chicks would really dig it when I was a kid. Ended up stuffed in a locker by wasteland girls, though.
+GID00106566	And they took my balls!
+GID00106570	Computers with data 200 years old. Stuff nobody has time for, but you? You can fix it in your down time.
+GID00106571	Let's get you over to the Vigor Tester, to make sure you've got all your bits in the right place. Or as right as your jigsaw butt is gonna be.
+GID00106572	Hey, I could tell you to go suck a dick too, but I'm a bigger man than that.
+GID00106573	I'll blow off that little bit of disrespect on account of you bein' as dumb as you are crippled.
+GID00106574	Oh yeah? Well then why don't you hobble your ass over to the Vigor Tester and prove it to me?
+GID00106577	I've got some cool stuff to show you in the lab.
+GID00106578	Computers with data 200 years old. Stuff nobody has time for. But you? You can fix it in your down time.
+GID00106579	As beat up as you are, being strong clearly ain't your thing. You should try to focus on intelligence, kid, and quit wasting your talents.
+GID00106580	Well now, guess it's time for me to play "Dr. Rossman, Medicine Man" again. I'll try to be a little more pleasant this time.
+GID00106581	That was the best play I've seen in years, kid. The whole vault is singing your praise this season.
+GID00106582	Looks like Bragg's Patriots put another trophy on the shelf, thanks to you.
+GID00106583	Now, I've been told you've got a career to look forward to.
+GID00106584	You made the final touchdown of the season, so that should give you just about any job you want in here.
+GID00106585	Shame you can't put it to real use out in the wasteland. With a backbone like that, you could do a lot of good up top.
+GID00106586	You're welcome, and don't call me sir. I work for a living.
+GID00106587	Oh, great, you came back a moron. "Erm, der! Tanks, Coach sir!"
+GID00106588	Come on, kid! Put together a damn sentence for gods sake. Jesus Christ.
+GID00106589	You know, you always have been my star player, despite how numb you are.
+GID00106590	I was talking to Chevy up in the security department. Those half-wits in the Overseer's office actually want to put you to work in maintenance.
+GID00106591	Idiots don't know what kind of "special mind" you've got. How would you like to work for Vault Security instead of those crap scrubbers?
+GID00106600	Well, that's real good, kid. Real group mindset. But this is a moment to be proud of yourself.
+GID00106601	Never put the collective above your own success. That's what I've always lived by.
+GID00106602	There comes a time where you have to pick your own team. It can't just be the one you're born into either.
+GID00106603	It has to be the right choice in who you throw your weight behind.
+GID00106604	I was talking to Chevy up in the security department. Those god damn morons in the Overseer's office actually want to put you to work in maintenance.
+GID00106605	Idiots don't know what kind of attitude you have. How would you like to work for Vault Security, kid?
+GID00106606	Well shit. I suppose you're a genuine "patriot". Oh yes, I'm a big fan of our "benevolent Vault-Tec Overlords".
+GID00106607	All hail the Overseer. Democracy and all that.
+GID00106608	You're damn right. You remind me of myself growing up, back in the... vault, under the midwestern plains.
+GID00106609	I was gung-ho in love with the brass and holster look of the cowboys and soldiers that rode through town in old TV shows.
+GID00106610	My pop gave me my first gun at age 10, and I've loved it ever since.
+GID00106611	Of course, I've always been more fond of the higher caliber automatics myself. Here, take a few old gun magazines with you. My treat.
+GID00106612	It'll whet your appetite for bigger and better things.
+GID00106615	Hahaha! Damn right. You know, you've always have been my star player.
+GID00106620	You're damn right. You remind me of myself growing up, back in the vault, under the midwestern plains.
+GID00106627	Hey kid, before you go, I wanna ask you something.
+GID00106628	You were born in the wasteland, from what I understand. Now I'm new to this place, and I like to get to know my best players,
+GID00106629	but I don't know much about you yet.
+GID00106631	Huh. Strange. Well, at any rate, you've been raised by your fellow Americans, and that's what matters to me.
+GID00106632	I'm starting to organize an after school program for motivated athletes like yourself, and I'd like you to be there.
+GID00106633	You've picked yourself a bright future, but what if one day that future was threatened?
+GID00106634	Would you be willing to stand up next to me and fight for your country?
+GID00106635	That's my Star player, always reliable!
+GID00106636	I'm talkin' about the possibility of this vault falling to the tide of outside forces.
+GID00106637	I'm talkin' about the New California Republic. The Survivalists. Super mutants.
+GID00106638	But it doesn't just stop at the vault door. A few of us believe that the future is inevitable.
+GID00106639	Not all of us have been callin' Vault 18 home for 200 years.
+GID00106640	We know what's up there. What's comin', like it came for the others. We can't just sit and hide while the powers above storm over this great nation.
+GID00106641	People like you and I have gotta fall in, and throw our weight behind an effort to save the America we survived to protect and serve.
+GID00106642	You understand what I'm sayin'?
+GID00106643	Damn right, soldier. I can tell you have a high endurance already, and you have the strength you need to survive in this world.
+GID00106644	Now listen. I think you have what it takes to be a great leader, but you're gonna need above average charisma and a damn fine set of combat skills.
+GID00106645	I want you to go check out that vigor tester on the wall over there, and if you score right, I'm gonna put you at the top of my A-list.
+GID00106646	Give me a shout when you're done.
+GID00106653	Ah. Well then, let's see just how far you get with that attitude, wiseass.
+GID00106654	Why don't you trip over your pussy stain and check out that vigor tester on the wall by the door?
+GID00106655	I'm interested to see just how a little bitch like you can survive in this world.
+GID00106656	Then get your pantywaist of an attitude the fuck out of my office before I break your face over the corner of this desk.
+GID00106657	Don't be a moron, Star. I mean America! This ain't just a concern for a few extra hours, it's a lifetime commitment.
+GID00106659	I'm talkin' about the New California Republic. The Survivalists. The super mutants.
+GID00106662	You know what's up there? What's comin', like it came for the others. We can't just sit and hide while the powers above storm over this great nation.
+GID00106663	People like you and I have gotta fall in, and throw our weight behind an effort to save the America we survived down here to protect and serve.
+GID00106664	Do you understand?
+GID00106669	Hmm... I've seen what home used to mean, before the Great War.
+GID00106670	America used to be a great nation. A golden paradise of freedom from sea to shinin' sea. And I want it to be again.
+GID00106671	From what I understand, your grandparents left Vault 18 sixty years ago in search of the true America. Brave people.
+GID00106672	You seem to have inherited their courage.
+GID00106676	Ah. Well then, let's see just how far you get with that attitude, wiseass.
+GID00106677	Why don't you trip over your shit stain and check out that vigor tester on the wall by the door?
+GID00106678	I'm interested to see just how a moron like you can survive in this world.
+GID00106679	Then get your pantywaist of an attitude the fuck out of my office before I break your face over the corner of this desk.
+GID00106680	[SUCCEEDED] Well then. You do have that glimmer of greatness in your eyes. What do you want to know?
+GID00106682	It's... hell on earth, kid. I've seen cities sunken below seas of radioactive sand, the ashes of the dead choking the air.
+GID00106683	There are places in this world where the fires of the war still burn as if the bombs fell yesterday.
+GID00106684	Most everything kind about what's above ground is a mirage shimmering out of the corner of your eye, tempting you to make a wrong move.
+GID00106685	I've seen the eyes of Satan glimmer in the dark, with bullet holes next to my head when I wake up in the morning.
+GID00106686	And I've felt the ghosts of ages past whisper on my shoulder before blowing away in the dust.
+GID00106687	You feel trapped, even out in the open. Not even the cool breeze of the coming rain across your sun-cracked skin is good news.
+GID00106688	The only hope is that, some day, you'll hear on the airwaves the song of an army coming to save the day.
+GID00106689	The song of America, starting to wake up from her nightmare. Father time breathing life back into her dreams.
+GID00106690	Does that answer your question?
+GID00106708	[SUCCEEDED] As a matter of fact, yes I do. Guns and Ammo, Pugilism Illustrated, and a few Grognak comics I lifted off of that dumb punk Johnny.
+GID00106709	Feel free to let him know where you got 'em, and kick his ass for me if he tries to take 'em back. Hahaha!
+GID00106721	[SUCCEEDED] Damn fine work, but we already knew that. What else does it say?
+GID00106724	[SUCCEEDED] Hmm, so it does. That's definitely a key factor. And?
+GID00106725	[FAILED] Ha! Like hell! You couldn't convince me to shit in a golden toilet if all I had was a bucket!
+GID00106726	You should be a comedian. Now get out of my office.
+GID00106727	[SUCCEEDED] Nice! Well done, soldier. Alright, that has me convinced. You're in the top of your class. Congratulations.
+GID00106728	You've done everything right by my standards. Report to Chevy in the security office and have her issue you the best gear and post in the base.
+GID00106729	You've earned it, Star.
+GID00106734	[FAILED] Hilarious. If you want to waste your talent on meaningless crap, do it on your own time.
+GID00106735	If you want to be a soldier, change your statement.
+GID00106736	Oh! Hey, Star! You're here to see Chevy?
+GID00106737	Sure you can, sport! Just remember that Chevy... well, she's a tough one. Tread carefully. Come on.
+GID00106738	WOAH! Slow down, there, Turbo. That's a fast way to get yourself thrown out of here. God damn.
+GID00106739	We take security very seriously here. You should be aware of that. Well aware.
+GID00106740	I'll let you in to see the boss. Tread carefully, youngling.
+GID00106741	Great work out there today, Star! Have a good night!
+GID00106742	Mistress? The player that won the football game is here to see you. Your brother sent him.
+GID00106743	Mistress? The player that won the football game is here to see you. Your brother sent her.
+GID00106744	I know. Thank You, Aaron. You are dismissed.
+GID00106745	Yes-- Yes, of course.
+GID00106750	So, you're the replacement. What's your name, recruit?
+GID00106751	[SUCCEEDED] Interesting. Try again.
+GID00106752	[FAILED] Interesting. Try again.
+GID00106753	Hmm. I see. We're done here. You can go to work for maintenance. I have no need of you.
+GID00106754	Mmm hmm. If you come back again, I'll have you shot. Now, go away.
+GID00106757	[FAILED] Hmm. I see. We're done here. You can go to work for maintenance. I have no need of you.
+GID00106793	8... 7... 6... 5... 4... 3... 2... 1...
+GID00106834	Dad!
+GID00106835	What? Haha?
+GID00106836	Sorry, don't, let dad freak you out. We don't have to make babies if you don't want to.
+GID00106837	Yes you do.
+GID00106838	Shut up, Dad!
+GID00106839	Uuugh. Come on, follow me.
+GID00106840	it's our duty to keep the human race going sweetheart, and you're--
+GID00106841	Dad, seriously. Knock it off! Privacy mode, engage.
+GID00106842	Sigh, ears turned off. Just make sure to clean up.
+GID00106843	Uuugh.
+GID00106844	Hey, we'll be right back okay? I just need to go say thank you.
+GID00106845	No problem, honey. Just get it in deep and aim for twins.
+GID00106846	This is getting old, pop.
+GID00106847	So am I, and I just want to have grandkids before I get wrinkles. Have fun, you two.
+GID00106848	I'll be right back.
+GID00106849	Ha, just kidding. But not really, we need more babies in Vault 18, so go have fun. No seriously--
+GID00106850	[SUCCEEDED] Ha, just kidding. But not really, we need more babies in Vault 18, so go have fun. No seriously--
+GID00106851	[FAILED] Ba! Hahahaha!! Wow, Star, you're a hilarious kid. Go get in there and talk to Jen.
+GID00106852	--Not a problem! I won't judge. Just make sure a baby comes out of it somehow. Hell, I won't ask questions.
+GID00106853	I've been using the place to hide ever since I was a little girl. The wasteland kids were always trying to pick on me, and I'd come here to get away.
+GID00106854	No offense to you, Star. You and your brother and sister are the good ones. Anyway, I found this stuff, and I've been stashing it here ever since.
+GID00106855	Just let me unlock my little safe.
+GID00106856	It's... a secret. but, when we get into the hallway, I'll race ya?
+GID00106857	Oh... well, thanks anyway. I guess I'll never know. It's okay. Have a good night, Star Player...
+GID00106872	Don't. Touch. Anything. Just look for the list on the computer, then let's get out of here.
+GID00106873	Hey, let's make this fast. It's getting late, and I want to get there quickly. Try to keep up, athlete.
+GID00106874	Shh. We're not supposed to be down here. So try to be stealthy.
+GID00106875	Hey! Psst! Here he goes. Come on, let's sneak into the gym while we have our chance. Go. Go!
+GID00106876	Thanks for coming. I know it's your big night and all. Probably everybody wants a piece of the star player's action, huh?
+GID00106877	I-- I know. I know. Family. Sorry, I should have mentioned it. But, I wanted to talk to you, and I had to come home to help Mom with the midgets.
+GID00106878	Well, I know you just had a chance to talk to Coach Bragg, and Lieutenant Chevy.
+GID00106879	I was wondering if you managed to, well, see a secret list when you were in there?
+GID00106880	Yeah...so last night, after cheer practice, I let the girls wander off, and I stopped by to spy on the competition.
+GID00106881	Coach Bragg was in his after school meeting with the "Patriots," without you, of course. And he was talking up some "list."
+GID00106882	Everyone in the vault is on it, and they're all given grades or something.
+GID00106883	I wouldn't normally care, but he mentioned me directly. At first I thought he'd noticed me listening in the hall, but I'm a real good Scooby.
+GID00106884	He said that I'm on the B-list, because I'm not smart or fit enough to make it to the winning team, but I'm fit for 'other' things.
+GID00106890	I-- I know this sounds stupid, but if you could talk to him? You're his best player, and I know you have a way with words...
+GID00106891	It's a long shot, but maybe he could honestly tell you what it's about, and then I'd be okay. Maybe it's just a stupid health thing, or whatever.
+GID00106892	But what if it isn't? Dad is a Wasteland Scout. He's... seen things. He told me that Bragg gives him a good feeling, but it's never that simple.
+GID00106893	Vault 18 has a dozen enimies... and some of the shit Bragg has been training his "Patriots" to do... it's getting scary.
+GID00106896	Like I said, I hope it's nothing. But if it isn't, then I want to know about it. I'm studying every day to be a Wasteland Scout like dad.
+GID00106903	It's something I'm really passionate about.
+GID00106904	If Bragg really is up to no good with his "Patriots", then the Overseer will listen to me.
+GID00106905	I can't just bring this to him without proof though. Which is where you come in. Bragg trusts you. He'll be willing to talk.
+GID00106906	Let me know what you find, and if he won't hand over the information, we'll go on an adventure together.
+GID00106907	Good luck.
+GID00106910	Ooh. That bad? Well... maybe there is another way. We'll have to go somewhere real quick, though. Will you follow me somewhere?
+GID00106911	It's... a secret. But, when we get into the hallway, I'll race ya?
+GID00106918	Really? Ah, thank god. Me neither. The guy scares me. Like, he's got a really dark presence to him...
+GID00106919	Here's the condensed version of the story: I've been watching Bragg and the Patriots for a while now. You know... spy stuff.
+GID00106920	After cheer last night, I overheard him talking about this list he keeps on his terminal in his office.
+GID00106921	Everyone in the Vault is on it, and they're organized somehow by letter. Like some kind of... intenerary.
+GID00106922	I wouldn't normally care, but he mentioned me directly. At first I thought he had noticed me listening in the hall, but I'm real good Scooby.
+GID00106923	He said that I'm on the B-list, because I'm not smart or fit enough to make it onto his winning team, but I'm fit for 'other' things.
+GID00106930	Here. Take this. I found these in one of Bragg's private boxes that he keeps down here.
+GID00106931	You can use it by just turning that little knob, and wearing it on your wrist.
+GID00106932	Yeah? What can I say? I have sticky fingers and I'm a master with a bobby pen and screwdriver. Plus, Bragg is a wastelander. We can't just trust him.
+GID00106941	[FAILED] Let's just not get into that. I'm just using them for this. Now come on, lets go.
+GID00106942	We're going to check out his computer. Then we'll look through his desk, and I'll lockpick his safe.
+GID00106943	I'm a magician, so I can make magic happen with locks.
+GID00106944	Let's just go. Come on. We'll wait in the atrium diner until Bragg leaves, then go in behind him. I'll follow your lead.
+GID00106947	You were adopted, though. You're one of us now.
+GID00106948	You guys are older than me, so I've grown up listening to the stories of how the Stars came from the outside, but they used to be some of us.
+GID00106949	Your grandparents were from Vault 18, but they left 60 years ago to find a better place. Then, when your parents disappeared,
+GID00106950	Dr. Rossman brought you guys back to us.
+GID00106951	At least, that's how the story goes. So yeah, I can trust you. You're helping me keep the vault safe from bad guys, so don't wimp out on me now.
+GID00106952	Plus, a little bit of moral ambiguity is hot. Come on. Coach Bragg leaves his office at 10:00 every night.
+GID00106953	We have to get in there by 10:05, and get back out by 10:15 - that's when they lock the doors on game nights.
+GID00106954	There will be a janitor sweeping the floor, so we have to be careful and not get caught. These stealth watches only last like, 5 minutes.
+GID00106955	Are you ready?
+GID00106956	Did you find it?
+GID00106957	Shit... Well, I guess that's it then. Just a list of names...
+GID00106958	Okay, let's get the hell out of here. I'll just head straight home after we get out of the gym.
+GID00106959	I'll see you tomorrow, okay? It's probably better if they don't see us both together, just in case. Thanks for helping me again, babe.
+GID00106960	I owe you bunches.
+GID00106961	I owe you.. a lot. Maybe I'll find a way to pay you back some day.
+GID00106963	Alright. I'll meet you back at my place sweet cheeks.
+GID00106964	Oh... wow, um, never mind then... asshole.
+GID00106966	OriansGirl01: Oh!....Oh! O_O Hey! OMG, someone's out there! I'm sorry! Who are you?
+GID00106967	OriansGirl01: ZOMG, um, I'm Annai!! Nice to meet you &pcname;! Wow! I thought this site was dead for good! How did you find it!?
+GID00106968	OriansGirl01: You mean WastedGirls? It's this website I made to connect nerd girls to nerdy boys across the wasteland.
+GID00106969	OriansGirl01: Like, a safe dating thing. But how did you find it?
+GID00106970	OriansGirl01: ...
+GID00106971	OriansGirl01: Oh, this is a new thing! It's not pre-war tech, it's stuff the NCR built. You must be out in the frontier somewhere!
+GID00106972	OriansGirl01: Yeah, and it's open to the public! Super cool, huh? I'm in Los Angeles, but I live in a city called 'Brazil.' Where are you?
+GID00106973	OriansGirl01: Um... dude, really? It's because the country of Brazil was a vacation paradise... This is an underground cave.
+GID00106974	OriansGirl01: It makes us feel better to call it paradise than "Giant hole in the ground." Duh?
+GID00106975	OriansGirl01: okay, woah...calm down.
+GID00106976	OriansGirl01: ...Whatever. Loser.
+GID00106977	[SUCCEEDED] OriansGirl01: Ooh. Okay! :)
+GID00106978	OriansGirl01: Haha! You're cute, lol. And smart. ^_^ We should chat some more! I have time. :D
+GID00106979	[FAILED] OriansGirl01: hahahaha! lol, wut? You just insulted my city. There is no me&u. There's only You. Good bye.
+GID00106980	[SUCCEEDED] OriansGirl01: "Ooh. Okay! :)
+GID00106981	OriansGirl01: Haha! You're cute, lol. And smart. ^_^ We should chat some more! I have time. :D
+GID00106982	[FAILED] OriansGirl01: "hahahaha! lol, wut? You just insulted my city. There is no me&u. There's only You. Good bye.
+GID00107008	President Eden! I just lost the feed and--
+GID00107009	Who-- Wha-- What the hell is this? That's going... A vault! Our systems have been hacked! Quick, initiate lockout and backtrace the signal!
+GID00107010	Who are you, wise guy? You'd better be ready to die for your country, 'cause I'm gonna dispatch a verti assault squad to--
+GID00107011	Okay kid, I'm going to leave you here for a while. This big computer mainframe is named Maria.
+GID00107012	She's a big box of mystery, always has been. I have all the access nodes loaded up now. It's up to you to hack your way to victory and make me proud.
+GID00107013	Si! cinco... cuatro... tres... dos... uno... Just kidding! Main Menu:
+GID00107014	Si! cinco... cuatro... tres... dos... uno... Just kidding! Main Menu:
+GID00107015	Aw, That's too bad. Display Main Menu:
+GID00107016	Aw, That's too bad. Display Main Menu:
+GID00107017	Aw, That's too bad. Display Main Menu:
+GID00107018	Aw, That's too bad. Display Main Menu:
+GID00107020	Please refer to the Maintenance Menu and perform the specified tasks in the order listed.
+GID00107023	Tier 1 systems optimal.
+GID00107024	Please refer to the Maintenance Menu and perform the specified tasks in the order listed.
+GID00107025	[SUCCEEDED] <You navigate menus and subsystems for half an hour before a successful change is made. Some local computers are unlocked.>
+GID00107026	[FAILED]  Os escupo en la cara, curr falta!
+GID00107028	Please refer to the Maintenance Menu and perform the specified tasks in the order listed.
+GID00107029	[SUCCEEDED] <After about 2 hours of navigating, you come across some parsed code that everyone else overlooked.>
+GID00107030	<After that, some local computers unlock nearby.>
+GID00107031	[FAILED]  Usted es una verguenza con sus cifras insignificantes y habilidades debiles!
+GID00107032	Tier 2 systems optimal.
+GID00107033	Please refer to the Maintenance Menu and perform the specified tasks in the order listed.
+GID00107034	[SUCCEEDED] <After about 2 hours of navigating, you come across some parsed code that everyone else overlooked.>
+GID00107035	<After that, some local computers unlock nearby.>
+GID00107036	[FAILED]  Usted es una verguenza con sus cifras insignificantes y habilidades debiles!
+GID00107037	Tier 3 systems optimal.
+GID00107038	Please refer to the Maintenance Menu and perform the specified tasks in the order listed.
+GID00107039	[SUCCEEDED] <After working for a far less astounding amount of time than was expected, you unlock several blocked firewalls...>
+GID00107040	<... and gain access to an old proxy gateway.>
+GID00107041	[FAILED] Uh Uh Uh, no has dicho la palabra magica. Uh uh uh.
+GID00107042	Tier 4 systems optimal.
+GID00107043	Please refer to the Maintenance Menu and perform the specified tasks in the order listed.
+GID00107044	[SUCCEEDED] <After annihilating every firewall and security measure set in place 200 years ago,>
+GID00107045	<you expose a damaged connection and unlock a strange signal.>
+GID00107046	[FAILED] Uh Uh Uh, no has dicho la palabra magica. Uh uh uh.
+GID00107047	Main Menu:
+GID00107048	Main Menu:
+GID00107049	There are no tasks in the maintenance queue.
+GID00107050	There are a set of switches on the side panel of the server in the main computer lab. The top Tiers are currently disabled.
+GID00107051	You should switch them on to start the local area network.
+GID00107052	There are no tasks in the maintenance queue.
+GID00107053	There are a set of switches on the side panel of the server in the main computer lab. The top Tiers are currently disabled.
+GID00107054	You should switch them on to start the local area network.
+GID00107055	You must complete the Tier 1 maintenance task before proceeding to Tier 2.
+GID00107056	There are no tasks in the maintenance queue.
+GID00107057	There are a set of switches on the side panel of the server in the main computer lab. The bottom Tiers are currently disabled.
+GID00107058	You should switch them on to start the local area network.
+GID00107059	You must complete the Tier 1 maintenance task before proceeding to Tier 2.
+GID00107060	There are no tasks in the maintenance queue.
+GID00107061	There are a set of switches on the side panel of the server in the main computer lab. The bottom Tiers are currently disabled.
+GID00107062	You should switch them on to start the local area network.
+GID00107063	You must complete the Tier 2 maintenance task before proceeding to Tier 3.
+GID00107064	There are no tasks in the maintenance queue.
+GID00107065	Outside the cement Vault shell, in the cavern, is a port leading from the Vault 18 computer lab to the cable network above. These cables are severed.
+GID00107066	You should gain access to the Vault 18 cistern - the hatch located in the hall by the door to this room - to repair these cables.
+GID00107067	You must complete the Tier 3 maintenance task before proceeding to Tier 4.
+GID00107068	There are no tasks in the maintenance queue.
+GID00107069	Outside the cement Vault shell, in the cavern, is a port leading from the Vault 18 computer lab to the cable network above.
+GID00107070	One of these cables is active, leading to a secure hard-point. The only indication it even exists is a steady indicator light showing heavy activity.
+GID00107071	You should gain access to the Vault 18 cistern - the hatch located in the hall by the door to this room,
+GID00107072	to reconfigure these cables to the main lab room.
+GID00107073	Wha... what the hell was that!? I didn't even know that Maria had a hologram emitter!
+GID00107074	Did you see that thing? It looked like a giant metal cockroach! I'd play it back, but shit,
+GID00107075	I don't think there is a memory bank in Vault 18 that can hold that much data!
+GID00107076	Enclave? ...Enclave!
+GID00107077	Hell, last I heard, the NCR kicked their asses into oblivion.
+GID00107078	I had no idea they were still out there! I thought they were all wiped out!
+GID00107079	Well, shit... I'm gonna pull that connection. No more Enclave business in my vault, that's for damn sure. You'd better head off to bed.
+GID00107080	I'll fix this myself. Torch time!
+GID00107081	Child, do you want me to smack you in the back of yo' head? This ain't no time for jokes!
+GID00107082	Well, shit... I'm gonna pull that connection. No more Enclave business in my vault, that's for damn sure. You'd better head off to bed, now.
+GID00107083	I'll fix this myself. Torch time!
+GID00107088	Well, I'll be. That's a word I haven't heard in a long time. Exodites. Damn.
+GID00107089	You know, leading theory is, when you kids were brought up here, it was because your parents were part of the Exodus.
+GID00107090	We never found out exactly what happened to them. Just that they disappeared. I hope it kept you entertained.
+GID00107091	Now go on. You've had a tough day. Now, you should just go off to bed now. And don't let those deathclaws getcha from under the bed.
+GID00107103	Huh. Great. We used to have an application process for this. Well, tomorrow would be great, but I have a job for you now.
+GID00107104	There's this pipe down in the admin hallway that needs fixin'. Don't know what's wrong, I just got the work order. You wanna go down there?
+GID00107105	Pah. Everything seems meaningless until you give it purpose. You have to invest yourself in it, and at least try to care about every moment you live.
+GID00107106	Otherwise, you're not really living, are you?
+GID00107109	Uuhn. Well, as long as you're interested in how the vault sticks together.
+GID00107110	It's a fascinating place, really. You can just listen to the sounds, and hear the stories in it.
+GID00107111	The pipes and the water running through 'em. Air vents, electric lights... You learn to judge its health by those sounds.
+GID00107112	Huh. There are dozens, kid, But nothing is secret down here. You can hardly fart without ten people knowing about it.
+GID00107113	Down in the lower cistern, you can get into the hydroponics lab, or even into the apartments if you're clever.
+GID00107114	Then, there's a pipe network running under the Atrium that connects to every part of Vault 18's lower levels.
+GID00107115	And if you ain't afraid of getting zapped by radiation you can swim around in the upper cistern and navigate the cave 'til you find the robotics lab.
+GID00107116	All of that requires my key, though, and you ain't gonna get your own unless you work up here for a long time. Or you find me dead. Same deal.
+GID00107117	What? Oh. Well, the way this place was built was pretty stupid.
+GID00107118	A bunch of experimental Terra-Tec droids were used to put the place together for some Senator in L.A. He never made it to the vault before the war.
+GID00107119	They dug a straight shaft right down through the mountain and outlined everything, then built the cement shell using prefab rooms like any vault.
+GID00107120	The war hit sooner than anyone expected. Wiped out all the Vault-Tec factories. There was a huge revolt in the first week everybody came down here.
+GID00107121	Despite the mess, the droids kept building and digging. They didn't have the prefab parts to finish, so a lot of our bigger spaces are just rock.
+GID00107122	Well, that filter room leads to a big cave where water collects from rain and snowmelt.
+GID00107123	That cave is radioactive, though. Without our water chips the entire vault would be flooded with toxic sludge. That almost failed about 6 years ago.
+GID00107124	That Bragg fellow showed us another vault down the mountain with a few old chips we recycled to get it working again. Saved our asses, too.
+GID00107125	The upper vault is always dark. It keeps the tax on our power low. Otherwise, we couldn't keep everything running for 200 years.
+GID00107126	The lower vault is on low power cuz it's night time. People are going to bed, and want it dark. So, we dim the lights down in Operations.
+GID00107127	Uun-huh. Have a good night.
+GID00107128	Eh. Well, wander all you like. Won't get far without my key, anyway. If you break anything, I'll report you to security.
+GID00107129	Oh, that? I built that thing to get radio signals in from L.A. Call me a freak, but I like to listen to some of that death metal.
+GID00107130	I got a Droid Radio Unit from that broken robot dog in the lab. Hope you don't need it for anything. The DRU is all that's cleaning up my signal.
+GID00107131	Uuun-huh. Good night.
+GID00107132	Hehehe, so, since we won the game of the year, how should we celebrate?
+GID00107133	I don't know. The Coach said we have the night off... however we want.
+GID00107134	I can think of a few ways. Come on back to my room. We can figure it out from there.
+GID00107135	Haha, alright.
+GID00107138	The Stadium is closed. You know the rules. Get the fuck out of here!
+GID00107139	The Stadium is closed. You know the rules. Get the fuck out of here!
+GID00107141	I am not who you seek. You must go, and face your challenges in the temple ahead.
+GID00107142	Soon, you will journey beyond the mountain, towards the city of lost lights. What you learn here will be your guide.
+GID00107143	Awaken, Vault Dweller...
+GID00107146	[SUCCEEDED] Indeed. In your sleep, you have been killed by the Patriots. You are dead, lost one, and you must struggle to rise again.
+GID00107147	[FAILED] Nothing is wrong. All is as it is.
+GID00107150	[Failed] You must look into yourself before you can look into the world.
+GID00107169	Oh god... uhn, this hurts... ow...
+GID00107184	They won't stand a chance.
+GID00107211	01011001-01100101-01110011.
+GID00107212	01011001-01100101-0111.
+GID00107213	Woof! Woof!
+GID00107284	Initializing track mode.
+GID00107285	01011001-01100101-01110011-00101110-00100000-01000110-01101111-01101100.
+GID00107286	Look out!
+GID00107295	You're listening to New Cailfornia Republic radio.
+GID00107297	Project Brazil - Radio DETH 98.1
+GID00107298	Empty
+GID00107301	Aw, come on man, I don't have time for this!
+GID00107319	Aha!
+GID00107322	Lost target acquired!
+GID00107376	Jesus Christ the Vault Dweller, why does everyone want us dead?
+GID00107427	Jamie, get behind me.
+GID00107429	Shit, shit shit!
+GID00107430	Get down!
+GID00107431	Please don't jam, Please don't jam...
+GID00107437	Found ya, motherfucker!
+GID00107450	Tango spotted!
+GID00107451	Security breach!
+GID00107460	Oh, shit!
+GID00107473	Tango spotted... open fire!
+GID00107484	What the hell was that?
+GID00107485	Hey, hey... I think there's something out there.
+GID00107486	What was that?
+GID00107487	Anyone say something?
+GID00107488	Alert level yellow. Now scanning for threats.
+GID00107489	I'm going to go check it out.
+GID00107490	Did you hear something?
+GID00107491	Huh?
+GID00107492	Target possibility. Standby.
+GID00107498	Keep looking.
+GID00107500	Keep looking guys, it's still out there!
+GID00107501	Where did it go? Where did...
+GID00107502	I know you're out there...
+GID00107503	Come out and fight!
+GID00107504	C'mon, ya piece of slippery shit! I know you're out there.
+GID00107505	You're out there! I know you're out there! Come out and fight, asshole!
+GID00107506	Keep looking.
+GID00107507	He couldn't get too far.
+GID00107508	Now scanning for threats...
+GID00107510	You can't hide from me forever.
+GID00107511	I'm going to find you.
+GID00107512	Expanding search pattern.
+GID00107513	Switching to pattern zeta-seven-four.
+GID00107514	Still no eyes on target.
+GID00107515	Still no sign of target.
+GID00107516	Scope still negative. No tangos.
+GID00107517	Zero targets detected.
+GID00107518	I heard something. Stay on guard.
+GID00107519	Be alert. There could be an ambush.
+GID00107521	Careful, there might be more nearby.
+GID00107522	Alright, this is getting scary, where is it?
+GID00107526	So, where are you hiding?
+GID00107527	I'm pretty sure there was something.
+GID00107528	Now scanning for threats...
+GID00107529	Anybody there?
+GID00107531	What was that?
+GID00107532	Possible target in vicinity.
+GID00107534	Target may be in range.
+GID00107535	Yellow alert. Keep sharp.
+GID00107536	Possible threat detected.
+GID00107538	You'd better get out of here if you know what's good for you.
+GID00107539	Keep moving.
+GID00107542	Had it coming.
+GID00107544	God... what a dick. Totally had it coming.
+GID00107550	Oh my god!
+GID00107551	You... How could you?
+GID00107556	Murderer!
+GID00107557	What have you done?
+GID00107560	Ow, fucker! You're going to pay for that!
+GID00107562	Augh!
+GID00107564	What the hell?!
+GID00107565	What was that for?
+GID00107566	You dirty coward!
+GID00107567	The next time you do that will be the last.
+GID00107568	Better not hit me again...
+GID00107571	Let's be friends.
+GID00107572	That doesn't belong to you!
+GID00107573	You can't just take that!
+GID00107574	Thief!
+GID00107575	This isn't supposed to happen... until... the last issue...
+GID00107576	ahhh!
+GID00107578	Aaagh... ahh...
+GID00107579	Aaaghh.. ughh... oww...
+GID00107581	G-Good night...
+GID00107582	See you t-tomorrow...
+GID00107584	Urgh!
+GID00107585	Gaaah!
+GID00107586	Aaahh aahh hhah hh...
+GID00107604	Watch it!
+GID00107607	Take cover!
+GID00107632	Fuck, fuck, fuck, FUCK!
+GID00107637	I'm fuckin' gone, bro.
+GID00107638	Help!
+GID00107642	Ouagh!
+GID00107643	Ugh!
+GID00107645	Dammit!
+GID00107647	Ah!
+GID00107648	Aah! Grrr!
+GID00107650	Aagh!
+GID00107651	Unh!
+GID00107652	Oww!
+GID00107653	OW!
+GID00107654	Uugh!
+GID00107655	Hgh!
+GID00107656	Oooh, fucking-- I'm hit!
+GID00107657	Damnit!
+GID00107658	Ouh!
+GID00107659	Please stop.
+GID00107662	Damn!
+GID00107663	I'm hit!
+GID00107664	My leg!
+GID00107665	My arm!
+GID00107667	I'm hit!
+GID00107687	Now you die.
+GID00107690	It's your bad day.
+GID00107691	You're dead, man.
+GID00107694	Uh!
+GID00107695	Hey!
+GID00107696	Die, fucker!
+GID00107697	So there!
+GID00107698	Show me what you've got!
+GID00107699	I'm going to fucking rip out your heart!
+GID00107700	Die! Die!
+GID00107701	Eat this!
+GID00107702	Raagh!
+GID00107703	You're dead!
+GID00107705	Grrr!
+GID00107709	You like that?
+GID00107710	Firing!
+GID00107716	Target locked!
+GID00107719	Eliminate target!
+GID00107727	Go go go!
+GID00107735	Hello.
+GID00107736	Hey kid. How's Maria treating you? Hope she ain't too much girl for you, hehe.
+GID00107737	Hey, have you seen my Programmer's Digest lying around? I hope you didn't read it, but it would explain why it just disappeared.
+GID00107738	Good to see you're not, you know, wasting time or anything.
+GID00107739	Oh, alright! Have a good night, Star. I'll try to play quietly.
+GID00107740	Oh... Um, okay.
+GID00107741	So, what brings you to the Administration Office tonight?
+GID00107744	You're welcome! Take care out there, kiddo!
+GID00107751	Haha, yeah? Sure. Okay. Hey, I'll see you later, yeah?
+GID00107758	I don't think I'm going to. If you were a nerd and adorable, maybe. But you're not. You're one of "them". The others. I'm not one of them.
+GID00107761	As you are disappointed in your experience, your dream is disappointed in you.
+GID00107789	Later.
+GID00107791	I'll trade you a repair job, for a bottle cap?
+GID00107794	Yeah man, no problem.
+GID00107821	Stay safe.
+GID00107823	Dude, just... make up your mind already!
+GID00107825	Please... help us, vault kid...
+GID00107828	Bah bah bah bah, ba-da ba ba...
+GID00107829	Bye!
+GID00107831	Bye!
+GID00107834	Later.
+GID00107839	Yeah, sure. Lets go.
+GID00107841	Haha, yeah, later.
+GID00107851	Right. O...kay...
+GID00107881	Goodbye.
+GID00107883	Great job out there tonight. Have a good night.
+GID00107884	I'm really glad we had the game to get the old folks out of my hair tonight.
+GID00107885	Hey... Sorry we had to manhandle you off the field. You were pretty banged up.
+GID00107886	I really hope your leg gets better. You weren't that bad of a player... before you, um, made that fatal decision.
+GID00107887	Bye.
+GID00107889	Woof! Woof!
+GID00107890	Rrruff!
+GID00107892	Grenade!
+GID00107893	Good arm!
+GID00107894	Good arm!
+GID00107895	Boom, baby!
+GID00107896	Grenade!
+GID00107898	Checking ID... &pcname; Star ... confirmed.
+GID00107900	Checking ID... &pcname; Star ... confirmed.
+GID00107901	What in the hell is wrong with you?
+GID00107902	I can't believe this. I was this close to working out what was wrong with Jane,
+GID00107903	and now I have to tend to some dumb kid that can't even grasp the basic concept of football!
+GID00107904	Just finish the test, then you and I will go to the computer lab and hack some terminals. Don't skimp on those science stats, you'll need 'em.
+GID00107905	Just finish the goddamn test.
+GID00107906	Fuck off, maggot. You want to waste my time, I want to waste your life. Now get out of here.
+GID00107907	So, how did it turn out?
+GID00107908	It's about time for you to go to bed, ain't it, Star Player?
+GID00107909	[Black Widow] It's about time for you to go to bed, ain't it, Star Player?
+GID00107910	Fuck off, maggot. You want to waste my time, I want to waste your life. Now get out of here.
+GID00107911	It's about time for you to go to bed, ain't it, Star Player?
+GID00107912	Hey, there she is! Vault 18's tomboy warrior. Say, uh, do you have time for a little girl talk before you turn in?
+GID00107914	Hey, Star, how are you?
+GID00107916	You... What do you want now?
+GID00107917	Who's there? What do you want?
+GID00107918	Oh... man... what the hell is... what's going on?
+GID00107919	What do you want? Please, just leave me alone...
+GID00107920	Jesus christ! That was insane! I can't believe this is happening!
+GID00107921	What is it?
+GID00107924	Please, just... leave me alone.
+GID00107928	Go do what you need to do, Star. I'll wait for you here.
+GID00107929	What the hell is going on? Why is everyone in a panic?!
+GID00107930	You're back! What do you need?
+GID00107935	Hey there.
+GID00107938	You motherfucker! You son of a bitch! You broke my fucking kneecap! I'm never gonna fully recover. I'm finished as a goddamn athlete.
+GID00107939	Hope you're happy!
+GID00107940	Oh, uh, hey. My folks are making me do this bullshit. They don't get that I'm a pro. So let's get it over with... I'm sorry for breaking your leg.
+GID00107941	Fuck off, dork.
+GID00107942	Uuugh... uuuhh....
+GID00107943	Who the hell is that!? Who's there?
+GID00107944	Fuck off, dork.
+GID00107948	Hey, pal, what do you need?
+GID00107950	Heeey, buddy! What's good, huh?
+GID00107957	Woah. You look like you fell down the elevator shaft. What happened?
+GID00107958	Um... Hi? I'm a little busy right now. What's on your mind?
+GID00107960	So, you're back again? Just... What do you want?
+GID00107973	Dude, congratulations! It's great to see you finally get that trophy you've been working for!
+GID00107979	It's good to see you, my friend.
+GID00107980	We should go, before the vault begins to collapse.
+GID00107987	Yeah? Do you need something?
+GID00107988	What is it?
+GID00107989	Yes?
+GID00107990	Hey.
+GID00107991	Hey! I heard you did a great job on that last play. We owe you a win.
+GID00107992	There's nothing for us to talk about, asshole. Get lost.
+GID00107993	How's it goin?
+GID00107994	Hey, what's up?
+GID00107995	Wow! Where did you learn to fight like that? You really saved our asses. I owe you one.
+GID00107996	Please check up on Jamie. She's upstairs, in our apartment. I'd really appreciate it.
+GID00108004	How's it goin?
+GID00108006	Hey, what's up?
+GID00108007	Hey, congratulations on the big win, player. Great work out there. That was some sick footwork, knocking over Johnny Matheson.
+GID00108008	Guy didn't stand a chance... You're a bruiser.
+GID00108009	Oh, man! You got annihilated! You okay, little buddy?
+GID00108011	Grrr! Fuck off, asshole!
+GID00108013	Man, bed tonight is gonna be awesome!
+GID00108014	Oh. It's you. What do you want?
+GID00108015	Oh my god! How did you get up here? We were afraid you were killed in the explosion! Are you alright?
+GID00108016	Oh my god! Star! We were afraid you were killed in the explosion! How did you get up here?
+GID00108017	You're back? Did you want to talk about something?
+GID00108018	What is it?
+GID00108019	Just... go do what you need to do, Star. I'll wait here.
+GID00108020	Be careful. I'll be right here when it's over.
+GID00108023	Star? What the hell is that sound? I've never heard this alarm before. What's going on?
+GID00108030	Yeah, what's up?
+GID00108031	Hey, Star, how's it goin'?
+GID00108032	Mmn, yeah? Need something?
+GID00108033	That Carter sure is a sweet girl. You kids got too much time on your hands, being cooped up down here with no direction.
+GID00108034	Probably why Coach Bragg has such an easy time convincing kids that smashing into each other is a good idea.
+GID00108035	I remember when they first brought John down here. It was because the Overseer said he'd be good for the kids, and teach them how to behave.
+GID00108036	Not that I've seen much change. Time will tell, though.
+GID00108037	And there's the computer lab. Home sweet home.
+GID00108038	I'm sure you'll be in and out of there more than an athlete is in and out of other folks beds.
+GID00108039	That leg must really be bothering you, kid. You're wobbling like a protectron with a loose screw.
+GID00108040	If you need to catch up, I'll just slow down and wait for ya. It's a bit of a walk.
+GID00108041	I'm sure your sister has something at home that'll fix you up overnight. You might want to check in with her when you get home.
+GID00108042	Yeah, kid, what is it? Haven't found yourself in trouble again, have you?
+GID00108043	Checking ID... &pcname; Star ... confirmed.
+GID00108044	Hola, Star!  Habla usted espanol?
+GID00108045	Checking ID... &pcname; Star ... confirmed.
+GID00108046	Chat Log Start: OriansGirl01: "..."
+GID00108047	Hey kid. Here to see my daughter, are you?
+GID00108048	Hope you and Jen are having fun.
+GID00108049	So... How did that chat with Bragg go? Jr. Scooby?
+GID00108050	Um, just a sec...
+GID00108051	Shh. We should hurry...
+GID00108052	Shh. We'll talk later...
+GID00108053	I'll meet you in my room, okay?
+GID00108054	Greetings, lost child. A great misfortune has befallen you and your kin.
+GID00108055	It is time for you to face the temple of challenges, and become the warrior you are meant to be.
+GID00108056	You must follow the path of lights back to your world.
+GID00108057	Hahaha! What are you doing in the depths, human? Come to face me? Prepare to be torn apart.
+GID00108058	Aw, yeah, man. Sorry about that. We were just sitting down to set up our game, and--
+GID00108059	So... Did you want something?
+GID00108060	Hey, Star! I'm sorry about missing your big game. We just really wanted to get into this RPG before the next wave of tests in chemistry.
+GID00108061	But hey! I heard you won! Congratulations!
+GID00108062	Oh! Hey, Star! I thought you were going to bed.
+GID00108063	Hey man, have you seen my Engineering Guide laying around? I kinda need it for my test next Tuesday.
+GID00108064	Back again, huh? What do you need?
+GID00108065	Huh... What? Oh-- Oh, it's you. What do you want?
+GID00108066	Ah ha, come to make a living up in the dark, have we? Well, I'm glad to see you, at any rate. What are you doing up here at this time of night?
+GID00108067	Unh. Did you fix the problem with that pipe yet?
+GID00108068	Back again? What do you want now?
+GID00108077	Star... They got me pretty good. I was trying to get to the robots. They can fight Bragg better than I can.
+GID00108078	But I... I didn't make it. Where are you going?
+GID00108079	You! You were never very bright, kid, but you could still make a good soldier on the front lines. How about you fall in and pick up this rifle?
+GID00108080	Get into uniform, soldier, then we'll talk. Don't be modest, just do it!
+GID00108082	I don't wanna die!
+GID00108083	Dude! I always knew you were cooler than those assholes. Where are your brother and sister?
+GID00108084	To hell with this shit! I'm staying right here!
+GID00108085	What? Did you hear something?
+GID00108087	Star! Quit wasting time! Change out of your uniform so Sergeant Norman won't shoot us on sight! Come on! I'll follow you in.
+GID00108088	Star! Quit wasting time! Come on! I'll follow you in.
+GID00108089	What is it?
+GID00108090	Keep your head down. They might be back any moment.
+GID00108091	I... Was just following her... I was just following...
+GID00108092	We should report back to the Colonel and receive new orders.
+GID00108093	Star, you need to talk to the Colonel.
+GID00108094	You should talk to the Colonel.
+GID00108095	What's happening?
+GID00108096	This mission has been underway for over an hour. Where have you been?
+GID00108097	You're back. Report on what happened.
+GID00108099	You need to get your ass to the hydroponics lab and see if Albert is ok.
+GID00108100	Hold the line!
+GID00108101	Hold the line!
+GID00108103	<spare>
+GID00108104	<spare>
+GID00108105	<spare>
+GID00108106	<spare>
+GID00108107	<spare>
+GID00108108	<spare>
+GID00108109	There. That uniform looks damn fine on you, soldier.
+GID00108110	Now, I have a special task suited to your skills. This door is sealed shut, and that coward, Christianson, is hiding on the other side.
+GID00108111	We need to get him before he sets the self destruct. It's a matter of life or death.
+GID00108112	I want you to find us a way in. Any bright ideas?
+GID00108117	<spare>
+GID00108118	<spare>
+GID00108119	I'm done talking with you.
+GID00108121	What part of "I'm done" don't you get?!
+GID00108122	Christ's sake, asshole, visiting hours are over!
+GID00108123	What's your problem? Get out!
+GID00108124	You do know that you can be sentenced to life in prison, or even death, for lingering here after visiting hours?
+GID00108125	Well, you're insane. Or suicidal.
+GID00108126	What the fuck.
+GID00108127	What is it?
+GID00108128	Do you need something?
+GID00108129	This vault could explode any moment! What are we waiting for?
+GID00108130	You seem like you're in a big hurry, vault dweller. What's the rush?
+GID00108131	My god. Star! You... You survived!
+GID00108132	What of Mandy? And... Shawn? Oh... What have I done... What... have I--
+GID00108133	Leave me here! I will go down with my ship, as it should be.
+GID00108134	I'm not supposed to talk to the camera.
+GID00108135	Hey pal, looks like you found a weapon. Good. You're gonna need it to repay Bragg and his goons for what they've done.
+GID00108138	What is it? Gah, my veins are on fire! What the hell do you want?!
+GID00108139	Hey, hey hey hey, we gotta get out of here! This place is going to explode! We gotta get out!
+GID00108140	What do you need?
+GID00108141	You are an incredible disappointment. Why don't you just go on, and just let me live out the rest of my life while there's still some joy left in it?
+GID00108145	Damn, Star! What in the hell are you doing in my computer lab?
+GID00108147	Yep. There you are. What is it now, kid?
+GID00108148	Fuck off, maggot. You want to waste my time, I want to waste your life. Now get out of here.
+GID00108149	Hope you and Jen are having fun. You know?
+GID00108150	This way...
+GID00108151	Not now, Star...
+GID00108152	You have filled your purpose here. You will leave.
+GID00108153	Hey. Go catch up with Dr. Rossman. I have to file this report.
+GID00108154	I'm sure your sister has something to take care of that limp. Have a good night, star.
+GID00108155	Great job winning the game, star! Congratulations!
+GID00108156	Oh, hello. Done with Dr. Rossman's super exciting late night computer experiments?
+GID00108157	Hello again! What brings you to the Administration Office?
+GID00108158	Yo, jock! Your ears still ringing from the game? The Overseer wants to see you in his office. It's all over the intercom.
+GID00108159	Just 'cause you can run fast or some shit doesn't mean you get to ignore the Overseer.
+GID00108160	You can "hustle" ahead to the Administration Office, since you guys like running so much, or follow me back. Carter can let you in too.
+GID00108161	The Overseer will see you now... Ball juggler. Yeah! Bragg blower! ...Nice! S--Stupid... Damnit, should have stuck with Bragg blower.
+GID00108162	Are you in trouble? Did he pull you off the team? Aw, if you're in detention, I'm going to have him assign you to clean my bathroom!
+GID00108163	So, it's been a while. How have you been?
+GID00108164	I'm sure Earnest will see you through the door. Good night.
+GID00108165	So, you're back. Did you think of anything?
+GID00108167	<spare>
+GID00108168	<spare>
+GID00108169	<spare>
+GID00108175	<spare>
+GID00108176	<spare>
+GID00108177	<spare>
+GID00108178	<spare>
+GID00108179	<spare>
+GID00108180	<spare>
+GID00108181	<spare>
+GID00108182	Get to the barricade, kid. Then come back and report to me if we all survive.
+GID00108183	Still haven't gone to see Albert yet? What's the holdup?
+GID00108184	Go on! Get out of here! We'll work on getting the gym open, and free the others. I'll meet you upstairs.
+GID00108185	Star, I want you and your companions to book it for the main gate. No fighting, no waiting. Just get out of here! We'll keep them busy!
+GID00108186	Hello: USER.
+GID00108187	Woof! I am B-6-RK, and I was designed by the genius Dr. Kyoto to be your best friend and USE LETHAL FORCE AGAINST ALL THREATS.
+GID00108188	Will you be my adventure buddy?
+GID00108189	Will you be my adventure buddy?
+GID00108190	Rrruff!
+GID00108191	Woof! Woof!
+GID00108192	Updating files...Please return later.
+GID00108193	Hello.
+GID00108194	What's up?
+GID00108195	Hey.
+GID00108196	Need something?
+GID00108197	Sir!
+GID00108198	Ma'am!
+GID00108199	Fall in, soldier!
+GID00108200	Keep your distance, traitor. We'll deal with you soon enough.
+GID00108201	This vault is ours now. We'll sort out what to do with you later.
+GID00108202	We may have been lost, but Colonel Bragg showed us we had purpose.
+GID00108203	When this is all over, I want to try out for an officer position, like you.
+GID00108204	You were never one of us. Now you'll get to find out what it's like to be on the outside.
+GID00108205	Colonel Bragg showed us what the world was like before the war. After this, we're going to restore it to its former glory.
+GID00108206	Keep moving!

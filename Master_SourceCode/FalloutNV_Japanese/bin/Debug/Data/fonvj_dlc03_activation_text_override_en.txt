@@ -1,0 +1,36 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc03_activation_text_override_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00097950	Drink
+GID00097951	Drink
+GID00097952	Drink
+GID00097953	Drink
+GID00097954	Initiate Test Fire
+GID00097955	Turn Off Proximity Detector
+GID00097956	Pick Mutant Cave Fungus
+GID00097957	Take Christine's COS Silencer Rifle
+GID00097958	Take Elijah's Advanced LAER
+GID00097959	Take Elijah's Jury-Rigged Tesla Cannon
+GID00097960	Take Sterilizer Glove
+GID00097961	Drink
+GID00097962	Take Hazmat Suit
+GID00097963	Collect
+GID00097964	Damaged Prototype
+GID00097965	Take Corrosive Glove
+GID00097966	Take X-2 Antenna
+GID00097967	Open Door to Z-43 Innovative Toxins Plant
+GID00097968	Exit to Big MT
+GID00097969	Open Gate to Big MT
+GID00097970	Open Door to Z-38 Lightwave Dynamics Research
+GID00097971	Exit to Big MT
+GID00097972	Enter The Cuckoo's Nest
+GID00097973	Collect Hanging Meat
+GID00097974	Collect Hanging Meat
+GID00097975	Collect Hanging Meat
+GID00097976	Collect Hanging Meat
+GID00097977	Exit to Big MT
+GID00097978	Take Elijah's Advanced LAER
+GID00097979	Exit to Big MT
+GID00097980	Enter Ulysses' Point
+GID00097981	Open Door to Big MT

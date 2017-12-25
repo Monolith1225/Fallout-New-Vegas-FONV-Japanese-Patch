@@ -1,0 +1,43 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc02_activation_text_override_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00097982	Pick Datura Root
+GID00097983	Pick Datura Root
+GID00097984	Take White Legs War Totem
+GID00097985	Take Li'l Scout Lunchbox
+GID00097986	Pick Cave Fungus
+GID00097987	Exit to Zion Canyon
+GID00097988	Exit to Zion Canyon
+GID00097989	Exit to Zion Canyon
+GID00097990	Exit to Zion Canyon
+GID00097991	Exit to Zion Canyon
+GID00097992	Enter Crossroads Cavern
+GID00097993	Enter Glass Chime Cave
+GID00097994	Enter Sweet Flower Cave
+GID00097995	Enter Half Mouse Cave
+GID00097996	Enter Crossroad Cavern
+GID00097997	Exit to The Three Marys
+GID00097998	Exit to The Three Marys
+GID00097999	Enter Three Marys' Cavern
+GID00098000	Enter Three Marys' Cavern
+GID00098001	Exit to Zion Canyon
+GID00098002	Enter Stone Bones Cave
+GID00098003	Enter Half Mouse Cave
+GID00098004	Enter White Bird's Cave
+GID00098005	Exit to Zion Canyon
+GID00098006	Exit to Zion Canyon
+GID00098007	Interact with Lost Bighorner Calf
+GID00098008	Journey to Northern Passage Cave
+GID00098009	Enter Stone Bones Cave
+GID00098010	Exit to Zion Valley
+GID00098011	Exit to Zion Valley
+GID00098012	Exit to Zion Valley
+GID00098013	Enter Morning Glory Cave
+GID00098014	Enter Two Skies Cave
+GID00098015	Enter Cueva Guarache
+GID00098016	Exit to Zion Valley
+GID00098017	Plant Explosive
+GID00098018	Plant Explosive
+GID00098019	Plant Explosive
+GID00098020	Journey to Zion Valley

@@ -1,0 +1,124 @@
+Strength
+Perception
+Endurance
+Charisma
+Intelligence
+Agility
+Luck
+
+Barter
+Energy Weapons
+Explosives
+Guns
+Lockpick
+Medicine
+Melee Weapons
+Repair
+Science
+Guns
+Sneak
+Speech
+Survival
+Unarmed
+
+AGL
+AP
+Caps
+CHR
+CND
+DR
+DT
+EFF
+END
+HP
+HR
+INT
+LCK
+LVL
+PER
+RAD
+RADS
+STR
+VAL
+WG
+XP
+
+H2O
+FOD
+SLP
+
+RAD RESIST
+RADS
+
+STATS
+Status
+S.P.E.C.I.AL
+Skills
+Perks
+General
+
+ITEMS
+Weapons
+Apparel
+Aid
+Misc
+Ammo
+
+DATA
+Local Map
+World Map
+Quests
+Misc
+Radio
+
+OK
+Accept
+Cancel
+Exit
+
+[%] (Neutral)
+[%] (Accepted)
+[%] (Idolized)
+[%] (Vilified)
+
+Cage Door to[%]
+Cart Cage to[%]
+Cell Door to[%]
+Chain Gate to[%]
+Containment Door to[%]
+Deathclaw Cage Door to[%]
+Door to[%]
+Doors to[%]
+Drainage Grate to[%]
+Elevator to[%]
+Emergency Bulkhead to[%]
+Express Elevator to[%]
+Garage Door to[%]
+Gate to[%]
+Gate Door to[%]
+GECK Container to[%]
+Glass Doors to[%]
+Grate to[%]
+Hangar Door to[%]
+Hatch to[%]
+Hotel Room Door to[%]
+Ladder to[%]
+Manhole to[%]
+Metal Door to[%]
+Raven Rock Entrance to[%]
+Secret Elevator to[%]
+Sewer Entrance to[%]
+Sewer Exit to[%]
+Sewer Grate to[%]
+Shack Door to[%]
+Silo Door to[%]
+Silo Hatch to[%]
+Stall Door to[%]
+Ticket Booth Door to[%]
+Utility Door to[%]
+Vault Door to[%]
+Wood Planks to[%]
+Wooden Gate to[%]
+Metal Gate to[%]
+
+[%]?

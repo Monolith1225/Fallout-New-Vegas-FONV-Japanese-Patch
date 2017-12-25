@@ -1,0 +1,2015 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_base_message_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00032067	There are also several riots breaking out in the area surrounding New Vegas. The looters have taken to the streets.
+GID00032069	There is chaos breaking out at McCarran. The Fiends are using the opportunity to attack the base.
+GID00032071	The box contains a large amount of Jet. You could lace the Jet with some Psycho if you had some.
+GID00032073	Leave the jet alone.
+GID00032074	Take the jet.
+GID00032075	Take the Jet and leave Ralph's forged letter.
+GID00032076	Take the Jet and leave Jean-Baptiste's letter.
+GID00032077	Spike the Jet with Psycho.
+GID00032078	Troopers have managed to contain several small riots that were breaking out in the area surrounding New Vegas.
+GID00032080	You quickly find a manilla folder with Pacer's name on it in the drawer marked "N-R".
+GID00032084	The quest screen in your Pip-Boy's Data section tracks your progress in every quest you have undertaken. To the left is a list of quests: those with bright text are active; those with darkened text have been completed or somehow failed. Your active quest is marked by a small box.
+GID00032085	On the right-hand side of the screen are the objectives for each quest. The active objectives have bright text and are on the top of the list; the completed or failed objectives have darkened text and are at the bottom of the list. Some objectives are marked as "(Optional)," and their completion is not necessary to successfully finishing the quest.
+GID00032086	You can select any quest as the currently "active" one, or immediately view the location of the active quest's current target on the World Map (if the location is known). Quest Targets are show on your compass and maps for the active quest only.
+GID00032088	Closing Bink for Ending Sequence
+GID00032090	The door has been sealed shut until main power is back online.
+GID00032092	UNUSED
+GID00032094	Veronica has given you the Scribe Assistant perk.
+GID00032096	Player Sided With Eden Bink for Ending Sequence (Plays if the player DID poison the FEV as Eden wished)
+GID00032098	Player Didn't Side With Eden Bink 2 for Ending Sequence (Plays if the player didn't poison the FEV as Eden wished, and also destroyed Raven Rock and President Eden.)
+GID00032100	The trap could be re-armed with a grenade.
+GID00032102	Leave it alone.
+GID00032103	Re-arm trap.
+GID00032104	This network access point can be monitored by the Followers of the Apocalypse with some adjustments to data routing protocols.
+GID00032105	[Science of 50 or greater required to monitor the Lucky 38's data network.]
+GID00032107	Leave the access point alone.
+GID00032108	Monitor the Lucky 38 network.
+GID00032109	Player Didn't Side With Eden Bink 1 for Ending Sequence (Plays if the player didn't poison the FEV as Eden wished, but Eden and Raven Rock weren't destroyed by the player.)
+GID00032111	This Laser Tripwire Emitter is disarmed.
+GID00032112	You could rig it to activate when the power is restored. With the power off, it is easier to manipulate this device.
+GID00032113	(Repair [%] or higher required) or
+GID00032114	(Science [%] or higher required)
+GID00032116	Leave it alone.
+GID00032117	Arm the Emitter.
+GID00032118	Rig the Emitter.
+GID00032119	Player Dies (Evil) Bink for Ending Sequence (Plays if the player lets Project Purity blow up before the purifier is started)
+GID00032121	Player Lives Bink for Ending Sequence (Plays if Sarah Lyons sacrifices herself in the Project Purity chamber instead of the player.)
+GID00032123	Vault Theme Added to House
+GID00032125	Cass has gained the Calm Heart perk, giving her a permanent Health bonus.
+GID00032127	Disarming the bomb requires considerable skill with explosives. You probably should leave it alone.
+GID00032128	(Note: Atomic explosions are rumored to be quite dangerous.)
+GID00032130	Do nothing.
+GID00032131	Whatever. I know what I'm doing.
+GID00032132	Close eyes, pick a wire, and pull.
+GID00032133	Your repair skill allows you to grab the Microfusion Cells without getting shocked.
+GID00032135	Leave the Microfusion Cells alone.
+GID00032136	Take the Microfusion Cells.
+GID00032137	You examine the circuit board on the gun console. You may be able to short it out and cause the gun to explode during the speech. (Repair 50 or higher Required)
+GID00032139	Leave the circuit board alone.
+GID00032140	Short out the circuit board.
+GID00032141	The express elevator's power has been restored.
+GID00032144	You do not have the items required to create a Rock-It Launcher. You currently have: Vacuum Cleaner: [%], Leaf Blower: [%], Firehose Nozzle: [%], Conductor: [%]
+GID00032146	You are still dressed as a member of the Followers of the Apocalypse.
+GID00032148	Nero has died!
+GID00032150	Emergency Radio greeting.
+GID00032152	Sawbones has damaged you.
+GID00032154	You helped save Butch's mom from the radroaches. +100 karma.
+GID00032156	You leave the mainframe alone.
+GID00032158	His wounds are too severe. You must have a Medicine skill of at least 40 to try and help him.
+GID00032160	Leave him alone.
+GID00032161	Put him out of his misery.
+GID00032162	The corpse has been disarmed.
+GID00032164	Rearm as a proximity trap.
+GID00032165	Rearm as a timed trap (10 seconds).
+GID00032166	Loot corpse.
+GID00032167	Leave it alone.
+GID00032168	You are still dressed as a member of Caesar's Legion.
+GID00032170	Bottlecap Mine created.
+GID00032172	Crimes are divided into two categories: major and minor.
+GID00032173	Minor crimes cause only the victim to become hostile to you:
+GID00032174	* Theft: If the owner sees you steal something that she owns, she will try to take it back from you. If you try to escape, or persist in stealing from her, she will attack you (or run for help). If you fight back, you are now committing a major crime (Assault, see below).
+GID00032175	* Trespass: If the owner sees you open a locked door, container, or computer, he will immediately attack you.
+GID00032176	Major crimes cause the victim and the victim's friends to become hostile to you:
+GID00032177	* Assault: Attacking someone without provocation, or fighting back when someone attacks you for a minor crime.
+GID00032178	* Murder: If there are witnesses who care about the victim, they will become hostile to you.
+GID00032179	If a fight starts that you did not intend, you can attempt to yield by holstering your weapon. This may or may not be successful depending on how the attacker feels about you.
+GID00032183	You use the Med-X and dull the patients pain. Carefully, you use the tweezers to pick out pieces of shrapnel. Due to the extreme loss of blood, the patient goes into circulatory shock. You quickly use the Super Stimpak to stabilize the patient. The patient will make a complete recovery.
+GID00032185	When you are hurt, there are several ways to restore your health:
+GID00032186	* Visit a doctor and pay for healing.
+GID00032187	* Use a Stimpak.
+GID00032188	* Eat food or drink water.
+GID00032189	* Sleep in a bed.
+GID00032191	You do not have the specialized equipment to rig the bomb to explode. [Requires a Fusion Pulse Charge]
+GID00032195	Boone now has 1st Recon Survival Armor, fitted with extra features and storage designed to help a sniper and his comrades survive the harsh desert environment. It will not count against his carrying capacity.
+GID00032197	Your companion is unable to wear that faction armor.
+GID00032199	You lack a key or lockpicks to unlock the door.
+GID00032201	Do nothing.
+GID00032202	"Let your words be your weapon."
+GID00032206	You are no longer dressed as a member of the Great Khans.
+GID00032208	You have been fully detoxified.
+GID00032210	Would you like to Rearm the trap?
+GID00032212	Do nothing.
+GID00032213	Rearm the trap.
+GID00032214	Using spare array components, you easily repair the damaged array.
+GID00032218	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00032219	The inscription on the base reads "Let your words be your weapon."
+GID00032220	Your Speech skill has been permanently increased by 10 points.
+GID00032222	This patient's condition is worse, but still stable. There is nothing more for you to do here.
+GID00032224	Johnson Nash has died!
+GID00032226	Red has died.
+GID00032228	The express elevator to the lobby has no power. A Fission Battery is required to restore it to working order.
+GID00032230	Your follower has died.
+GID00032232	Loyal's detonator stops beeping.
+GID00032234	You should get your stuff from your desk before you leave.
+GID00032236	Argyll has revoked your operating privileges in his medical bay. You can no longer operate on any patients.
+GID00032238	All four VIP targets have died.
+GID00032244	You need to have a higher Endurance before your body can accept any more implants.
+GID00032246	Your Science skill is not high enough to fix this broken door.
+GID00032247	(Science [%] or higher required)
+GID00032249	The radio immediately cuts to static.
+GID00032251	These replica outfits show just how conscious Vikki was of the styles of the period. Vikki was well known for her sense of fashion and her fixation on expensive clothing was thought to be one of the reasons the pair chose a life of crime.
+GID00032255	ok
+GID00032256	You must have an Explosives skill of at least 60 to rig the C4 properly.
+GID00032258	Leave.
+GID00032259	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00032260	The inscription on the base reads "Only through observation will you perceive weakness."
+GID00032261	Your Perception has been permanently increased by 1.
+GID00032263	Ammunition is used by almost all Guns and Energy Weapons but is sometimes used by other weapon types. Basic ammo types have no special effects, but ammo subtypes may increase damage, reduce an enemy's Damage Threshold, or even decrease a weapon's spread. Effects are listed on the ammo submenu when the ammo is highlighted. Most weapons can use any ammo subtype that starts with the same name as the base ammo. Common ammo subtypes include:
+GID00032264	* Armor Piercing: Ignores a large portion of the enemy's Damage Threshold, does slightly more damage.
+GID00032265	* Hollow Point: Does much more damage, but is easily blocked by armor.
+GID00032266	* Over Charge: Used by Energy Weapons, increases damage but degrades the weapon more quickly.
+GID00032267	* Slug: Used by shotguns, slugs replace buckshot with a single, large bullet that is more accurate.
+GID00032268	To switch ammo subtypes, equip them on this menu. Outside of the Pip-Boy, press 2 to cycle through ammo subtypes for your currently equipped weapon.
+GID00032270	You do not have the required skill to disarm the bomb. [Explosives [%]]
+GID00032272	This control box is connected to the main computer banks at Hoover Dam.
+GID00032274	Leave it alone.
+GID00032275	Install the override chip.
+GID00032276	You attempt to plant the bomb on the vertibird, but aren't sure exactly what to do. You decide to stop before anyone notices you.
+GID00032278	Raul has returned to his shack.
+GID00032280	Clover has died!
+GID00032288	Would you like to make Wonder Meat? (1 Mole Rat Meat, 1 Wonder Glue)
+GID00032290	Yes
+GID00032291	No
+GID00032292	Your Science skill is is not high enough to disarm the trap.
+GID00032293	(Science [%] or higher required)
+GID00032295	Butch has died!
+GID00032297	[%]: Picked unique
+GID00032299	There's no response from the elevator.
+GID00032301	The note reads: "Your debt still remains unpaid. We have warned you twice. There will not be a third warning, only consequences. You have one day."
+GID00032303	The generator looks to be fine, but some kind of large vermin has chewed into the power cable. With the proper know-how and some scrap metal, you could repair the connection and improve its output bandwidth. Otherwise you'll need help.
+GID00032304	(Repair of 35 or higher and one piece of scrap metal required)
+GID00032306	Do nothing.
+GID00032307	Repair the wire.
+GID00032308	Elder Hardin
+GID00032310	Administering some low-grade stimulant could benefit the growth of this colony's pupae, but you don't have anything suitable.
+GID00032312	The Tops Floor Manager is coming to speak with you.
+GID00032314	<Sound that can only loosely be labeled music comes from the speaker.>
+GID00032316	The door to the Ewers's House is locked.
+GID00032318	Knock on the door.
+GID00032319	Do nothing.
+GID00032320	April Martimer has died!
+GID00032322	You need at least 5 packs of C4 to get the job done.
+GID00032324	Leave.
+GID00032325	Grouse is dead.
+GID00032327	Cass has gone... reluctantly... to the Lucky 38.
+GID00032329	You reset the circuitry inside the robot. It should behave normally now.
+GID00032331	Caesar is in a coma and is near death. Only an operation to remove the tumor from his brain will save him.
+GID00032332	You will need a Doctor's Bag and a set of Surgical Tools before you can perform the operation.
+GID00032334	Leave Caesar alone.
+GID00032335	<div>
+GID00032336	In order to heal a crippled limb, you have three choices: sleep in a bed, find a doctor, or use a Stimpak to heal yourself. In Hardcore Mode, you may only heal crippled limbs by using Doctor's Bags or by visiting a doctor for medical care.
+GID00032337	<p>
+GID00032338	Stimpaks can be used for general healing (which will also slightly heal crippling damage), or they can be applied directly to a limb to heal crippling damage.
+GID00032339	<p>
+GID00032340	To heal a crippled limb directly using a Stimpak, navigate to the Stats screen in your Pip-Boy, then left-click on a limb to use a Stimpak on that limb.
+GID00032342	As you flip the breakers, you hear the terminals around the room power down one by one.
+GID00032344	You failed to disarm the explosive.
+GID00032346	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00032347	The inscription on the base reads "It's important to do business up close and personal."
+GID00032348	Your Melee Weapons skill has been permanently increased by 10 points.
+GID00032350	This generator would provide power to Quarry Junction, if it were functional. Whoever assembled it had no idea what they were doing - many parts are connected incorrectly or hooked up backwards. Someone with the proper knowledge could easily get the generator operational.
+GID00032351	[Repair of 35 or greater required to fix the generator.]
+GID00032353	Leave the generator alone.
+GID00032354	Properly assemble the generator.
+GID00032355	Permanently disable the generator by stripping it for spare parts.
+GID00032356	This is a Stealth Boy Mark II prototype. As it is only a prototype, there are numerous fluctuations in its stealth field which would yield unpredictable results in a field test. A specialist in electronics could stabilize the field output.
+GID00032357	[Repair of 65 or greater required.]
+GID00032359	Leave it alone.
+GID00032360	Stabilize the stealth field output.
+GID00032361	What weapon do you want to make?
+GID00032363	None
+GID00032364	Bottlecap Mine
+GID00032365	Dart Gun
+GID00032366	Deathclaw Gauntlet
+GID00032367	Nuka Grenade
+GID00032368	Railway Rifle
+GID00032369	Rock-It Launcher
+GID00032370	Shishkebab
+GID00032372	Boy
+GID00032373	Girl
+GID00032374	Rex has gained the Faithful Protector perk, increasing his attack damage.
+GID00032376	You are committing to fight for an Independent Vegas at the battle for Hoover Dam which will determine the fate of New Vegas for decades to come.
+GID00032377	If there's anything you want to do before you enter the battle, do it now - before you cross the point of no return.
+GID00032379	I'm not ready yet.
+GID00032380	Let's do this!
+GID00032381	A quick study of the body reveals that the thug is still alive, and merely pretending to be dead.
+GID00032383	You quickly grab some ice to treat the burns. Unfortunately, the ice doesn't help but only compounds the problem. The patient screams and dies due to cardiac arrest induced from the sudden pain.
+GID00032385	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00032386	The inscription on the base reads "The best way to solve a problem is to make it go away."
+GID00032387	Your Explosives skill has been permanently increased by 10 points.
+GID00032389	Raul has gone to the Lucky 38.
+GID00032391	"Always strive for the unobtainable."
+GID00032393	You do not have the items required to create a Nuka Grenade. You currently have: Nuka-Cola Quantum: [%], Tin Can: [%], Turpentine: [%], Abraxo Cleaner: [%]
+GID00032395	You've been granted the strength and flame resistance of the Grayditch Fire Ants. Your Strength has increased by 1 and you are now 25%% resistant to fire.
+GID00032397	The box contains a large amount of Jet. If you knew more about pharmaceuticals, you might be able to taint the Jet to make it lethal to use.
+GID00032398	(Medicine 60 or higher required)
+GID00032400	Leave the jet alone.
+GID00032401	Take the jet.
+GID00032402	Take the Jet and leave Ralph's forged letter.
+GID00032403	Take the Jet and leave Jean-Baptiste's letter.
+GID00032408	This is a Mark III Auto-Doc, primarily used for routine surgeries. The control systems have been damaged beyond repair, rendering the Auto-Doc useless, but the diagnostic scanning unit is still intact.
+GID00032410	Leave it alone.
+GID00032411	Take the diagnostic scanning unit.
+GID00032412	Lily will no longer take her medicine at all. She will suffer psychotic breaks if her health reaches one-half, but her combat abilities are significantly improved.
+GID00032414	Lily will continue to take her medicine half as often as she is supposed to. She will still suffer psychotic breaks if her health reaches one quarter, but she will break off combat if you begin Sneaking.
+GID00032416	Lily will now take her medicine every time she is supposed to. She will no longer suffer psychotic breaks, but her combat effectiveness will be reduced.
+GID00032418	The console hums quietly, powered by some unknown source. There is a round slot on the console - about the size of a large poker chip.
+GID00032420	Leave the console alone.
+GID00032421	Insert the Platinum Chip into the slot.
+GID00032422	You have gained the Meat of Champions perk.
+GID00032426	Sanitizer no longer active.
+GID00032428	Your collar has begun beeping more insistently.
+GID00032430	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00032431	The inscription on the base reads "It takes the smartest individuals to realize there's always more to learn."
+GID00032432	Your Intelligence has been permanently increased by 1.
+GID00032434	Opening the box you find a series of breakers that appear to correspond to the terminals nearby.
+GID00032436	Leave the breakers alone.
+GID00032437	Cut the power to all but three of the terminals.
+GID00032438	To play Caravan, you must assemble a deck that consists of at least 30 cards. Cards may be found in the world or purchased from vendors. You may assemble any arrangement of cards, but certain deck compositions will have strengths and weaknesses against any given opponent.
+GID00032439	Once you have selected a satisfactory deck, you may proceed to game play. This interface will always remember the last Caravan deck you assembled, allowing for easy modifcation on subsequent games.
+GID00032441	Health fully restored.
+GID00032443	You are still dressed as a member of the White Glove Society.
+GID00032445	Both Lucas and Harden Simms have been killed. You can no longer receive a reward for disarming Megaton's atomic bomb.
+GID00032447	Veronica has received the Causeless Rebel perk, which boosts her unarmed attack rate.
+GID00032449	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00032450	The inscription on the base reads "Nothing says pizzazz like a winning smile."
+GID00032451	Your Charisma has been permanently increased by 1.
+GID00032453	Senior Knight Lorenzo has died!
+GID00032455	To bring up your Pip-Boy, [%].
+GID00032457	Cass has returned to the Mojave Outpost.
+GID00032459	Everyone in Big Town is dead.
+GID00032463	Hannibal Hamlin and Leroy Walker are dead.
+GID00032465	Raul has gained the Old Vaquero perk, which increases his rate of fire with revolvers and lever-action firearms by 33 percent.
+GID00032467	Tenpenny Tower has been overrun by Feral Ghouls and Mister Burke has disappeared. You can no longer receive a reward for blowing up Megaton.
+GID00032469	Reflector panels on this array are damaged. You could salvage some of the array's parts. Would you like to salvage the array? (Repair 20 or higher Required)
+GID00032471	Leave it alone.
+GID00032472	Salvage the array.
+GID00032475	Your weapon is in poor condition and can do more damage if repaired. You can repair items in your Pip-Boy or by visiting a vendor. To repair it yourself, you'll need to use parts from a similar weapon.
+GID00032477	You do not have the required items. (Molerat Meat, Wonder Glue)
+GID00032479	You are no longer dressed as a member of the White Glove Society.
+GID00032481	As you flip the breakers, you hear the terminals around the room powering up one by one.
+GID00032483	You have discovered a new Mojave Express Dropbox! You can now have items delivered to this location as well as deliver items from this location to other Mojave Express Dropboxes. Would you like to ship some items?
+GID00032485	Close Box
+GID00032486	Pick Up Items
+GID00032487	Ship To New Vegas Strip
+GID00032488	Ship To Freeside
+GID00032489	Ship To Novac
+GID00032490	Ship To Primm
+GID00032491	Ship To Goodsprings
+GID00032492	You hear your voice clearly just outside the building. A moment later, the equipment around you loses power.
+GID00032494	You've learned the Legion Assault special move. To use this technique, initiate a Power Attack running forward at an enemy.
+GID00032500	The bodies of the Wests have bite marks on the neck area that go to the bone. The lack of bloodstains on the sheets is strange, as any bite or wound of that depth should have caused massive bleeding. The bite marks on the neck appear to be from a human or humans with sharpened incisors or canines. The bodies seem to have a blackish powdery residue present not unlike that found in old trainyards.
+GID00032506	Charon has died!
+GID00032508	The bodies of the Wests have bite marks on the neck area that go to the bone. The lack of bloodstains on the sheets is strange, as any bite or wound of that depth should have caused massive bleeding. The bite marks on the neck appear to be from a human or humans with sharpened incisors or canines.
+GID00032510	This Tampered Mailbox is rigged with an explosive.
+GID00032512	Leave it alone.
+GID00032513	Attempt to disarm.
+GID00032514	The bodies of the Wests have bite marks on the neck area that go to the bone. The lack of bloodstains on the sheets is strange, as any bite or wound of that depth should have caused massive bleeding.
+GID00032516	The bodies of the Wests have bite marks on the neck area that go to the bone.
+GID00032518	Add Go Home
+GID00032520	This man looks like he has a serious infection. Improper treatment will kill him, would you like to treat him? (Medicine 40 or higher Required)
+GID00032522	Leave him alone.
+GID00032523	Attempt to treat him.
+GID00032524	You lack the skill needed to properly determine the cause of death (Medicine 30 or higher required).
+GID00032526	The Vault-Tec Assisted Targeting System, or V.A.T.S., allows you to pause the game, assess any combat situation tactically, and target the specific body parts of any enemies onscreen.
+GID00032527	Pressing and holding &-sUActnVats; will pause the game and scan the area of targets; arrows to the left and right indicate threats that are currently offscreen.
+GID00032528	To zoom in on an enemy, simply select it and release &-sUActnVats;. You are now able to target the individual body parts of that enemy.
+GID00032529	The percentage value next to a body part indicates the chance to hit that body part with each shot. The small bar next to the body part indicates its condition; when the condition of a body part is completely reduced, that body part is crippled, and the targeted enemy will suffer the obvious ill effects -- crippling the legs reduces movement speed and any lunging attacks; crippling the arms affects accuracy, etc.
+GID00032530	When using a melee weapon or unarmed combat, you will need to be close to have a chance to hit. Both melee and grenades are "full body" attacks, and you cannot specify a specific body part. As you raise your Melee Weapons or Unarmed skill, you will gain the ability to perform special attacks with weapons using those skills.
+GID00032531	Every attack on a body part uses up Action Points. Generally, the smaller a weapon, the fewer Action Points are required for every shot. Keep in mind that you're not limited to shooting at just one target -- at any time, you can switch available targets, and attack them as well, so long as you have remaining Action Points.
+GID00032532	When you've used up all of your Action Points, and are ready to leave V.A.T.S., press [%].
+GID00032534	Compass marker updated.
+GID00032536	This is private Watson's Helmet. If you had C4 and a detonator you could rig up a nice little surprise for the President. (Explosives 50 or higher Required)
+GID00032538	Leave the helmet alone.
+GID00032539	Hide C4 in the Helmet.
+GID00032540	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00032541	The inscription on the base reads "Because it's easier to have courage from a safe distance away."
+GID00032542	Your Small Guns skill has been permanently increased by 10 points.
+GID00032544	Tabitha: Ooooh! No one touches the equipment around here except me!
+GID00032546	You rearm as a timed trap ([%] seconds).
+GID00032548	You successfully insert the Fusion Pulse Charge. The bomb is now rigged to explode (from a safe distance, of course).
+GID00032550	You pull open the maintenance panel on the turret generator.
+GID00032552	Disable generator.
+GID00032553	Do nothing.
+GID00032554	Private Ackerman looks battered and bruised. He's tied up to Private Gilbert - freeing one will free them both.
+GID00032556	Leave him tied up for now.
+GID00032557	Untie them.
+GID00032560	Yew's Bear Charm has permanently increased your Speech skill by 10 points.
+GID00032562	This Ranger was killed not too long ago. He looks to be the sniper that was stationed to watch from the top of this tower.
+GID00032564	Cass has gained the Hand of Vengeance perk, giving her a bonus to damage with Guns.
+GID00032566	You cleverly rearrange the radio's inner workings to provide an explosive surprise for the next person who uses it.
+GID00032568	Pre-War Theme Added to House
+GID00032570	You have successfully disarmed the motion sensor.
+GID00032579	Despite her situation, Private Gilbert remains sullen and defiant. She's tied up to Private Ackerman - freeing one will free them both.
+GID00032581	Leave her tied up for now.
+GID00032582	Untie them.
+GID00032583	You have created some Wonder Meat!
+GID00032585	This woman appears to be near death. She doesn't seem to notice you.
+GID00032587	To toggle between run and walk, [%].
+GID00032589	The atomic bomb remains undetonated.
+GID00032591	Tabitha: I know what you're here for! You think you're the first to try to take over this array!? Well guess where the ones who came before you are?
+GID00032593	Dr. Richards has revoked your operating privileges in his medical bay. You can no longer operate on any patients.
+GID00032595	This device looks as though it is armed and could go off at any moment.
+GID00032596	(Explosives of 35 or higher or Science of 45 or higher required to defuse.)
+GID00032598	Do nothing.
+GID00032599	[Explosives/Science] Defuse the charge.
+GID00032600	Input deactivation code.
+GID00032601	Finished all repeatable encounters in set B -- starting over with encounter [%]
+GID00032603	"It takes the smartest individuals to realize there's always more to learn."
+GID00032605	Finished all repeatable encounters in set A -- starting over with encounter [%]
+GID00032607	Opening the box you find a series of breakers that appear to correspond to the terminals nearby. Most of them appear to have their power cut.
+GID00032609	Leave the breakers alone.
+GID00032610	Resupply power to the terminals.
+GID00032611	This man appears to be suffering from multiple machete wounds. Improper treatment will kill him. Would you like to treat him? (Medicine 35 or higher required)
+GID00032612	Alternatively, if you have Med-X, Whiskey, and Surgical Tubing you may be able to treat him.
+GID00032614	Leave him alone.
+GID00032615	Attempt to treat with medicine.
+GID00032616	Use medical equipment to treat.
+GID00032617	The elevator door opens without a hitch. Buttons corresponding to the different levels of the vault glow faintly along the wall. Which one do you press?
+GID00032619	Leave the elevator alone.
+GID00032620	First Level - Entrance
+GID00032621	Second Level - Oxygen Recycling
+GID00032622	Third Level - Food Production
+GID00032623	Fourth Level - Common Areas
+GID00032624	Fifth Level - Pest Control
+GID00032625	Using the Med-X to dull the patients pain, you put the Medical Brace on him to stabilize his leg. You then carefully begin to amputate the limb with the Bonesaw. During surgery, you notice the man's hand is gangrenous. You amputate that as well, saving his life.
+GID00032627	You examine the blood stain, but you don't notice anything else about it. You should keep an eye out for anything out of the ordinary.
+GID00032629	Your Medicine skill is high enough to enable you to administer the proper treatment on Reilly and revive her.
+GID00032631	Revive Reilly.
+GID00032632	Do nothing.
+GID00032633	The elevator does not seem to be working. You could probably pop open the nearby panel and tinker with it to get the elevator working.
+GID00032635	Leave the elevator alone.
+GID00032636	Repair the elevator.
+GID00032637	Optional objective failed: you have killed a Mirelurk.
+GID00032639	Welcome to the Vault-Tec Assisted Targeting System, or V.A.T.S.
+GID00032640	V.A.T.S. displays the chance you will hit, along with the condition of each body part.
+GID00032641	[%]: Attack your target
+GID00032642	[%]: Cancel an attack
+GID00032643	[%]: Accept your actions
+GID00032644	Left click on the left or right arrows to switch to a new target.
+GID00032645	The number of attacks you can make is limited by your Action Points.
+GID00032649	You have gained the Tough Guy perk.
+GID00032651	"This godforsaken radio still doesn't work. Damn it, I'm a scout, not an electrician. Must've got some sand in it or something. At least that crazy storm is good for keeping people away. This place wouldn't make much of a safehouse if other people were traipsing in and out all the time. I'd hate to have to find another location again, but if the supplies, and especially the equipment weren't safe, I guess I'd have to."
+GID00032653	Put the journal back down.
+GID00032656	What floor would you like to go to?
+GID00032658	Stay Here
+GID00032659	Lower Brimstone
+GID00032660	Main Level
+GID00032661	3rd Floor
+GID00032662	Suites Level
+GID00032663	You have just enough skill to recognize that you are about to do more harm than good. You stop before causing any serious complications.
+GID00032666	<Groans>
+GID00032667	The Laser Tripwire Emitter has been destroyed.
+GID00032669	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00032670	The inscription on the base reads "Always be ready to take one for the team."
+GID00032671	Your Endurance has been permanently increased by 1.
+GID00032673	It appears that these ants are from another ant colony. Perhaps attacking this rival colony would help the forager ants survive.
+GID00032677	What floor would you like to go to?
+GID00032679	Stay Here
+GID00032680	Basement
+GID00032681	Casino
+GID00032682	Presidential Suite
+GID00032683	Cocktail Lounge
+GID00032684	Penthouse
+GID00032685	Lily has suffered a psychotic break. She will remain in an aggressive state and will not respond to your commands until the break ends.
+GID00032687	This patient's condition is worse, but still stable. There is nothing more for you to do here.
+GID00032689	Power the Substation.
+GID00032691	Leave the access point alone.
+GID00032692	Power the Substation.
+GID00032693	You broke the lock while trying to force it. Now you'll need a key to open it. Maybe the Overseer keeps a key hidden somewhere in his bedroom.
+GID00032695	Lily will now take her medicine every time she is supposed to. She will no longer suffer psychotic breaks, but her combat effectiveness will be reduced.
+GID00032697	The elevator is broken, but it looks as though it could be repaired. (Repair 35 or higher required)
+GID00032699	Leave It Alone
+GID00032700	Repair Elevator
+GID00032701	You voice echoes from somewhere above, further along the road. A moment later, the equipment around you loses power.
+GID00032703	Butch's mom is dead. -50 karma.
+GID00032705	What floor would you like to go to?
+GID00032707	Stay Here
+GID00032708	Penthouse
+GID00032709	Cocktail Lounge
+GID00032710	Presidential Suite
+GID00032711	Casino
+GID00032712	Basement
+GID00032713	You consider taking the jet, but realize it might be better if you could somehow pin the theft on someone else. Preferably someone Pacer hates.
+GID00032715	For more information, press ESC and select Help.
+GID00032717	This VR pod requires an access code to operate.
+GID00032719	"Never be afraid to dodge the sensitive issues."
+GID00032721	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00032722	The inscription on the base reads "Always be prepared to explain the hows and the whys."
+GID00032723	Your Science skill has been permanently increased by 10 points.
+GID00032725	Arcade has chosen to give you the customized Tesla armor of his father for the upcoming battle against Caesar's Legion.
+GID00032727	Without thinking, you start amputating the leg. Partway through you realize you started amputating the wrong leg. As you start amputating the other leg, the patient dies of shock.
+GID00032729	You've been granted the perception and flame resistance of the Grayditch Fire Ants. Your Perception has increased by 1 and you are now 25%% resistant to fire.
+GID00032731	Your donations to the church have raised your Karma
+GID00032733	Disarmed: [%]
+GID00032734	Button: [%]
+GID00032736	You've learned the Scribe Counter special move. To use this technique, initiate a standard attack immediately after your character blocks an incoming attack.
+GID00032738	You should get your stuff from your desk before you leave.
+GID00032740	You are looking at the Presidential vertibird. The assassins could have done something to the vertibird. (Repair or Explosives 50 or higher Required)
+GID00032742	Leave the vertibird alone.
+GID00032743	Try and search the vertibird.
+GID00032744	Nuka Grenade created.
+GID00032746	It appears that you can disarm this Motion Sensor and take the Microfusion Cell.
+GID00032748	Disarm the Motion Sensor.
+GID00032749	Leave it alone.
+GID00032750	Raider Theme Added to House
+GID00032754	This man appears to have suffered a close range blast trauma. His upper torso is covered in cuts and is severely burned. Improper treatment will kill him. Would you like to treat him? (Medicine 75 or higher required)
+GID00032755	Alternatively, if you have Tweezers, Med-X, and a Super Stimpak you may be able to treat him.
+GID00032757	Leave him alone.
+GID00032758	Treat the wounds with medicine.
+GID00032759	Use medical equipment to treat.
+GID00032760	The detonator has already been used to trigger the atomic bomb.
+GID00032762	The current quest is time-sensitive - waiting will result in quest failure.
+GID00032766	The ammo box seems to be code locked.
+GID00032768	You are now dressed as a member of the NCR.
+GID00032770	Opening this door will release highly radioactive barrels into Cottonwood Cove, potentially killing everyone in the camp.
+GID00032772	Do nothing.
+GID00032773	Open the door.
+GID00032774	When in dialogue with a character, simply select the response that seems most appropriate to the situation... and be prepared for the character you're talking with to react accordingly.
+GID00032775	Occasionally, you will be presented with a Speech Challenge. A Speech Challenge is a response preceded by the word "Speech" and the percentage chance of success; the higher your Speech skill, the greater the chance of success.
+GID00032776	Succeed in a Speech Challenge, and you'll achieve the results indicated by the response. Fail a Speech Challenge, and future Speech Challenges with that character will be lowered.
+GID00032777	You may also be presented with responses preceded by a certain Attribute or Skill, like [Strength] or [Science]. These responses are only visible if you have the minimum required value in the Attribute or Skill. So, there is never a percentage associated with these responses, because there is no way to "fail" them -- selecting a special Attribute or Skill response is always to your benefit.
+GID00032779	UNUSED
+GID00032781	These mongrels won't be leaving the cage any time soon.
+GID00032783	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00032784	The inscription on the base reads "It's essential to give your arguments impact."
+GID00032785	Your Strength has been permanently increased by 1.
+GID00032787	Minor repairs could restore power to this old generator.
+GID00032789	Attempt Repair [Repair, 20]
+GID00032790	Leave it alone
+GID00032791	The battle for Hoover Dam will determine the fate of New Vegas for decades to come.
+GID00032792	If there's anything you want to do before you enter the battle, do it now - before you cross the point of no return.
+GID00032794	I'm not ready yet.
+GID00032795	Let's do this!
+GID00032796	The console seems to have something to do with the course plotted for the rockets, but you can't make heads or tails out of how it works.
+GID00032797	(Science 55 required)
+GID00032799	Leave the console alone.
+GID00032800	Raul has died.
+GID00032802	Leader: Good luck getting that door open. It will only open if you know the password, which you'll never guess!
+GID00032804	You're not sure how to rig up the C4 in the helmet without it being noticed. You quickly put the helmet down before anyone sees you messing with it.
+GID00032806	This is the Presidential Vertibird.
+GID00032808	&-sUActnForward;&-sUActnBack;&-sUActnSldleft;&-sUActnSldright;: Apply torque with the screwdriver
+GID00032809	Mouse: Rotate the bobby pin
+GID00032810	[%]: Force Lock
+GID00032811	When torque is applied, the closer the bobby pin is to the correct position, or "sweet spot," the more the lock will rotate before the bobby pin breaks. Only when the bobby pin is in the correct position will the lock rotate fully, and open.
+GID00032812	You can also try to open a lock by forcing it, but if you fail the lock will be permanently broken and can only be opened with a key.
+GID00032814	You are crippled. Use a Stimpak, sleep, or find a doctor.
+GID00032816	&-sUActnForward;: Move forward
+GID00032817	&-sUActnBack;: Move backward
+GID00032818	&-sUActnSldleft;: Strafe left
+GID00032819	&-sUActnSldright;: Strafe right
+GID00032820	[%]: Look around
+GID00032821	&-sUActnUse;: Attack
+GID00032822	&-sUActnBlock;: Aim/Block
+GID00032823	&-sUActnActivate;: Activate Objects
+GID00032824	&-sUActnRdyitem;: Reload Weapon (Hold to holster)
+GID00032825	&-sUActnMenumode;: Pip-Boy 3000
+GID00032826	&-sUActnJump;: Jump
+GID00032827	&-sUActnRun;: Run (Toggle)
+GID00032828	&-sUActnCrouch;: Sneak (Toggle)
+GID00032829	&-sUActnGrab;: Grab
+GID00032830	&-sUActnTogglepov;: View Switch (Hold to adjust)
+GID00032831	&-sUActnVats;: Vault-Tec Assisted Targeting System (Hold to scan)
+GID00032833	You retrieved your confiscated equipment on your way out of the Fort.
+GID00032835	This one of Dr. Richards' patients. You should speak to him before you investigate them.
+GID00032837	You look over the vertibird and see something strange. You take a closer look but you can't be sure that there is anything wrong, but you have a bad feeling about this.
+GID00032839	To enter VATS, [%].
+GID00032841	Victor seems strangely oblivious to your presence. He doesn't respond to your attempt to speak with him.
+GID00032843	Call for NCR Support?
+GID00032845	Cancel [no support]
+GID00032846	Call for NCR Supply Support
+GID00032847	Call for NCR Trooper Support
+GID00032848	Call for NCR Ranger Support
+GID00032849	NCR Support Exhausted - Resupply at 2400 hours
+GID00032850	Outside NCR Operational Area - Relocate and repeat transmission
+GID00032851	Reputation with NCR too low - Support Withdrawn
+GID00032852	Dismiss NCR Soldier
+GID00032853	To grab an object, look at it and [%].
+GID00032855	You use your Repair skill to insert the missing part into the broken door.
+GID00032856	(Repair [%] passed)
+GID00032858	[Failed] You lack the skill to jury-rig the machine. After digging through all of the broken parts you are overwhelmed and give up.
+GID00032860	This door is permanently jammed, cutting off access to other sections of the vault.
+GID00032862	Chris Haversam has died!
+GID00032864	Arcade has chosen to don the customized Tesla armor of his father for the upcoming battle against Caesar's Legion.
+GID00032866	You're listening to Black Mountain Radio.
+GID00032868	...
+GID00032870	To move forward, [%], [%] to move back. To move left, [%]. To move right, [%]. The mouse turns you. To run, [%].
+GID00032872	Your health is low. You may want to use a Stimpak or find some water to drink.
+GID00032874	To jump up on the chair, [%].
+GID00032876	You have established a reputation with a group of people in the wasteland! Whether that reputation is good or bad, you're finally somebody, and people associated with that group will start to react to what you've done. There are many different factions in the wasteland, and you can develop a distinct reputation with each one.
+GID00032877	As you perform actions that benefit a group, you will gain Fame. If you peform actions that harm a group, you will gain Infamy. Your reputation with any given group is a measure of the combined total of Fame and Infamy that you have earned. The benefits and drawbacks of any given reputation depend on the group itself. You may receive discounts with merchants, provoke attacks from hired thugs, or simply be treated differently.
+GID00032878	Though you will initially start out with a Neutral reputation with any given faction, your Fame and Infamy will eventually push your reputation in different directions. You can see all of your current reputations under the General section of your Pip-Boy.
+GID00032879	Good Reputations:
+GID00032880	* Smiling Troublemaker - Some good, a little bad.
+GID00032881	* Good Natured Rascal - Good, a little bad.
+GID00032882	* Accepted - Some good.
+GID00032883	* Liked - Definitely good.
+GID00032884	* Idolized - Most good.
+GID00032885	Mixed Reputations:
+GID00032886	* Soft-Hearted Devil - More bad than good.
+GID00032887	* Dark Hero - More good than bad.
+GID00032888	* Mixed - Some good, some bad.
+GID00032889	* Unpredictable - Good and bad.
+GID00032890	* Wild Child - Most good, most bad.
+GID00032891	Bad Reputations:
+GID00032892	* Sneering Punk - Some bad, a little good.
+GID00032893	* Merciful Thug - Bad, a little good.
+GID00032894	* Shunned - Some bad.
+GID00032895	* Hated - Definitely bad.
+GID00032896	* Vilified - Most bad.
+GID00032898	You don't have the parts required to perform this repair.
+GID00032900	You are looking at the Presidential Vertibird. This is a perfect place to put a bomb to kill President Kimball. (Explosives 50 or higher Required)
+GID00032902	Leave the vertibird alone.
+GID00032903	Attempt to plant the bomb.
+GID00032904	The radio remains patched to the broadcast system.
+GID00032906	Leave the radio alone.
+GID00032907	Link the radio to its original connection.
+GID00032908	Broadcast along the paths leading up to the mountain.
+GID00032909	Broadcast inside the village.
+GID00032910	Broadcast on the summit.
+GID00032913	This is a temporary console to allow you activate the Kimball Assassination Scenarios. Please only select one.
+GID00032915	Leave the console alone.
+GID00032916	I'd like to assassinate Kimball.
+GID00032917	I'd like to protect Kimball.
+GID00032918	You do not have the required items to heal this patient.
+GID00032920	Fallout: New Vegas allows you to play in a new Hardcore mode that greatly increases the challenge of the game. In this mode, Stimpaks heal over time and cannot mend broken limbs, Rad-Away removes radiation over time, ammunition has weight, and dehydration is a constant concern. This mode is only recommended for advanced players.
+GID00032921	You may turn Hardcore mode on or off at any time in the Gameplay menu, but if you activate Hardcore mode now and maintain it through the end of the main storyline, you will receive a special reward. Would you like to activate Hardcore mode?
+GID00032923	No (Recommended)
+GID00032924	Yes
+GID00032929	There is no power to the express elevator.
+GID00032931	You coldly open an artery. Even to a skilled surgeon, it will look as if Timebomb died as a result of his wounds. You bastard.
+GID00032933	Rex has given you the Search and Mark perk.
+GID00032935	The Tampered Mailbox has been disarmed.
+GID00032937	Leave it alone.
+GID00032938	Rearm as a timed trap (10 seconds).
+GID00032939	Rearm as a Proximity Trap.
+GID00032940	Something about your presence dampens others' desires to exceed. Any enemy's chance of getting critical hits on you is now reduced by half.
+GID00032942	Dart Gun created.
+GID00032944	General Radio Chatter heard over emergency channel, Message [%].
+GID00032946	This is a military-issue ham radio, complete with a signal encoder/decoder interface for encrypting and deciphering transmissions.
+GID00032948	Leave the ham radio alone.
+GID00032949	Update the security codes for this radio.
+GID00032950	This robot is stuck in a diagnostic loop. A little maintenance work should fix it.
+GID00032952	Walk away and do nothing.
+GID00032953	Rewire the diagnostic system.
+GID00032954	Remove critical circuits to disable the robot.
+GID00032956	A thorough examination of the nearby machinery reveals that the radio is directly linked to another system somewhere in the area, but isn't connected to the overall broadcast hub. It would be relatively simple to patch it into the speakers that dot the area.
+GID00032958	Leave the radio alone.
+GID00032959	Press the button.
+GID00032960	Patch the radio into the broadcast system.
+GID00032961	ED-E has given you the Enhanced Sensors perk.
+GID00032963	This man's leg is seriously damaged and will require amputation. Improper treatment will kill him. Are you sure to want to attempt the operation? (Medicine 50 or higher Required)
+GID00032965	Leave him alone.
+GID00032966	Attempt to treat him.
+GID00032967	CHOP! CHOP! CHOP! (Low Intelligence)
+GID00032968	Leader: So tru- Hey, that number was the same as the password. What are the odds of that?
+GID00032970	You use the key to unlock the secret compartment in the back of the freezer.
+GID00032972	This mainframe is currently unresponsive. The amount of power reaching the terminal seems to be insufficient.
+GID00032974	Leave.
+GID00032975	You have gained the Melee Hacker perk (Rank [%])
+GID00032977	This person appears to be near death. To remove them from the cross would kill them.
+GID00032979	Code Entered. Please Stand by...
+GID00032981	The control box is locked.
+GID00032983	Stop Quest
+GID00032985	The observer can easily be hidden in the mass of eggs.
+GID00032987	Leave the spawning ball alone.
+GID00032988	Hide the observation device inside.
+GID00032989	You lack the Repair skill needed to interact with the elevator panel (Repair [%] or higher required).
+GID00032993	Your Karma is too high to acquire this follower.
+GID00032995	This sentry bot looks like it's seen some heavy fighting recently. You could probably get it partially running again with a little work.
+GID00032997	Leave the robot alone.
+GID00032998	[Repair] Fix the sentry bot.
+GID00032999	Fawkes has died!
+GID00033001	Opening this door will release highly radioactive barrels into Cottonwood Cove, potentially killing everyone in the camp.
+GID00033003	Do nothing.
+GID00033004	Open the door.
+GID00033005	"Always be prepared to explain the hows and the whys."
+GID00033007	You cannot apply poisons to ranged weapons.
+GID00033009	Okay.
+GID00033010	This is an ancient and very obsolete Mark I Auto-Doc. Despite the similarities in appearance to more advanced models, it shares no compatible parts.
+GID00033012	Gomorrah's Manager is coming to speak with you.
+GID00033014	You see a bunch of numbers and words on the screen, but none of it really means anything to you.
+GID00033016	Mash on the keys.
+GID00033017	Leave the console alone.
+GID00033018	Good job! Now [%] again to let go of the toy.
+GID00033020	This Laser Tripwire Emitter is disarmed.
+GID00033021	(Repair [%] or higher required) or
+GID00033022	(Science [%] or higher required)
+GID00033024	Leave it alone.
+GID00033025	Arm the Laser Tripwire Emitter.
+GID00033026	Some sort of data corruption has made the user interface illegible. The damage doesn't seem to go any deeper than that since the pump station is still online.
+GID00033027	[Science of 50 or greater required to repair.]
+GID00033029	Leave the terminal alone.
+GID00033030	Repair the network connection.
+GID00033031	Activate the terminal.
+GID00033032	You examine the controls for any signs of tampering, but you don't see anything unusual.
+GID00033034	Arcade has died.
+GID00033036	Good! Now [%] again to let go of the skull.
+GID00033038	[Rhonda] Because I think it's so important for everyone - even the dumb-dumbs - how impossible it is to sneak up on us! More after this!
+GID00033040	The turret generator has been disabled.
+GID00033042	You lack the specialized training needed to move in Power Armor.
+GID00033044	[Rhonda] <calmer> Would it be going too far to say that your gift of True Eyesight is the only thing saving our community from annihilation?
+GID00033046	Raul: But you only had me place the one explosive...
+GID00033048	[Rhonda] <unnerved> Not the dreaded battle cattle training to hunt mutants?
+GID00033050	[Tabitha] Threats all around us... converging... like a noose, tightening! Two-head-bear people astride battle cattles!
+GID00033052	The Talking Tree has been killed.
+GID00033054	[Rhonda] Now, I'm almost afraid to ask, but do you see any - you know - threats out there?
+GID00033056	Cass has died.
+GID00033060	[Tabitha] Licking the gate. Wants out of the pen.
+GID00033062	Some terminals are protected, and can't be accessed without a password. If your Science skill is high enough, you can attempt to hack the terminal.
+GID00033063	Selecting the correct password will grant you access. If your guess is incorrect, you will be shown how many letters match the correct password, and in the correct location.
+GID00033064	You have 4 tries to guess correctly. If you fail, the terminal will remain inaccessible until you own the password. You can exit hacking at any time and try again. However, exiting the terminal will force its security to reset, delaying your ability to start hacking again.
+GID00033066	[Rhonda] Moe, the Centaur? Favorite Centaur Moe? What's he up to?
+GID00033068	An item's condition affects how well the item works, as well as its value. Weapons of lower condition will do less damage, and jam more frequently. Armor of lower condition will offer less Damage Resistance.
+GID00033069	You can repair items in your Pip-Boy by selecting Repair on the item. You can only do this if you have similar items to use for parts. Whatever item you choose to repair with will be scrapped completely.
+GID00033070	The degree to which damaged items can be repaired is dependent on your Repair skill.
+GID00033072	You can be exposed to radiation either directly from the environment, or by ingesting irradiated food or water. A small amount of radiation will not hurt you, but as your accumulated exposure goes up, you will begin to suffer ill effects, including death, eventually.
+GID00033073	Radiation Poisoning Effects:
+GID00033074	* 200 rads: -1 EN
+GID00033075	* 400 rads: -2 EN, -1 AG
+GID00033076	* 600 rads: -3 EN, -2 AG, -1 ST
+GID00033077	* 800 rads: -3 EN, -2 AG, -2 ST
+GID00033078	* 1000 rads: Death!
+GID00033079	Radiation Poisoning does not wear off, but can be healed by a doctor, or by taking RadAway. You can also protect yourself ahead of time by taking Rad-X, which increases your Radiation Resistance.
+GID00033080	Your accumulated radiation exposure is displayed in your Pip-Boy, in the Status section of the Stats tab.
+GID00033082	[Tabitha] I see Moe...
+GID00033084	There appears to be enough chemical components available to create a small quantity of chems - assuming one has the knowledge to do such a thing.
+GID00033085	[Science of 25 or greater required.]
+GID00033087	Leave it alone.
+GID00033088	Create some Stimpaks.
+GID00033089	Create some drugs - Psycho, Buffout, Mentats, Steady, and Rebound.
+GID00033090	Weapons and apparel with low Condition suffer from decreased Damage and Damage Threshold, respectively. There are two primary ways to repair low Condition equipment: self-repair and repair vendors.
+GID00033091	* Self-Repair: In your Pip-Boy, the Repair menu shows any equipment you currently have that can be used to repair the selected piece of equipment. Highlight the piece of equipment you would like to sacrifice to make the repair. The efficiency of your repair is affected by your character's Repair skill.
+GID00033092	* Repair Vendors: Some characters in the world have the ability to repair equipment in exchange for caps. Though they require no special gear to perform the repair, they are limited by their own skill. Extremely talented repair vendors may be able to restore a weapon or piece of apparel to almost perfect condition, but it may be expensive.
+GID00033093	Once a weapon is above 75% Condition or piece of apparel is above 50% Condition, it is functioning as well as it can. Repairs made above that Condition are simply maintaining the equipment to keep it at peak performance for a longer period of time.
+GID00033095	[Rhonda] Wow! It must be so exciting to see and know all. What a powerful reminder of your ultimate authority and power for our listeners!
+GID00033097	You have no Bobbleheads in your inventory.
+GID00033099	[Tabitha] A little.
+GID00033101	[Rhonda] In the same spot as before, or has he moved?
+GID00033103	You have disarmed the trap.
+GID00033105	[Tabitha] Standing outside his shack down there.
+GID00033107	[Rhonda] First-generation Neil from down the mountain? And what is he up to?
+GID00033109	Raul: Yes, they'd have a 1 in 739452466138 chance of guessing it. But we both know that will never happen.
+GID00033111	[Tabitha] Uh... I see Neil...
+GID00033113	With limited medical knowledge, you bumble around with a scalpel and cut a vital artery. The patient starts hemorrhaging and dies from blood loss.
+GID00033115	[Rhonda] I see that you're already wearing the True Eyes, Best Friend Tabitha, along with your head of True Hair. What do you see?
+GID00033117	[Applause track.]
+GID00033119	This nuclear bomb appears to be a dud. However, it appears as though the core components could be salvaged.
+GID00033121	Do nothing.
+GID00033122	[Science 60] <Salvage the components>
+GID00033123	[Rhonda] <sing-song> True Eye Seeing Time!
+GID00033125	[Tabitha] Time for what, Rhonda?
+GID00033127	[Rhonda] Welcome back, Utobitha. It's time!
+GID00033129	You successfully extracted and defused the bomb.
+GID00033132	All of the broken solar arrays are repaired.
+GID00033134	What would you like to do with your Nuka-Cola Machine?
+GID00033136	Get some Ice Cold Nuka-Cola
+GID00033137	Do nothing
+GID00033138	You do not have the items required to create a Railway Rifle. You currently have: Crutch [%], Steam Gauge Assembly: [%], Fission Battery: [%], Pressure Cooker: [%]
+GID00033140	Brahmin
+GID00033142	You examine the controls that activate the gun. You may be able to reactivate the gun and set it to shoot down the President's vertibird. (Science 50 or higher Required)
+GID00033144	Leave the controls alone.
+GID00033145	Activate the anti-aircraft gun.
+GID00033146	[Tabitha] Utobitha! Come feel the difference!
+GID00033149	Head Paladin Ramos
+GID00033151	[Rhonda] <Cont.> Many infractions are punishable by death, no allowances for dumb-dumb "misunderstandings".
+GID00033153	[Rhonda] <Cont.> Safety not guaranteed against siege or assault by two-head-bear people or battle cattles.
+GID00033159	"The smart man knows a bandage only hides his wounds."
+GID00033161	This robot has been fitted with a variety of tools specialized for industrial maintenance. However, there is nothing left in the room for it to repair.
+GID00033163	Leave.
+GID00033164	[Rhonda] <rushing sotto voce like disclaimers at the end of prescription ads> Freedom limited to following the commands of Best Friend Tabitha...
+GID00033166	Sabotage detected. Sentry Bot patrol mode activated.
+GID00033168	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00033169	The inscription on the base reads "When words fail, there's always fists."
+GID00033170	Your Unarmed skill has been permanently increased by 10 points.
+GID00033172	[Tabitha] Leave the Fear Behind. Meet at the Mountain Top! Enjoy life in a state of Utobitha - Free, Safe, Secure!
+GID00033174	The radio appears to be broken.
+GID00033176	[Rhonda]<whispering a line prompt> "Leave the fear behind."
+GID00033178	The effects of being crippled depend on the limb. These effects apply to you as well as to your enemies.
+GID00033179	* Head: Reduced perception, concussion effect.
+GID00033180	* Arms: Reduced aiming ability. Enemies will be disarmed at the moment their arm is crippled.
+GID00033181	* Chest: Higher chance to be staggered when taking damage.
+GID00033182	* Legs: Reduced run speed. Enemies cannot perform leaping or charging attacks.
+GID00033183	Some enemies have Antennae or a Combat Inhibitor. Crippling that will cause them to frenzy, attacking anything near them.
+GID00033185	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00033186	The inscription on the base reads "Never forget to walk away with more than you've brought."
+GID00033187	Your Barter skill has been permanently increased by 10 points.
+GID00033189	Using the Med-X to dull the patients pain, you use the surgical tubing to reduce some of the bleeding, and then sterilize the wound with the Whiskey. The patient will recover completely in time.
+GID00033191	Boone has died!
+GID00033193	[Tabitha] Did you kill some and they overreacted? Are two-head-bear people shooting at you, and battle cattle mooing? Beware the battle cattle...
+GID00033195	ED-E has returned to Primm.
+GID00033197	[Tabitha] Are you tired of getting chased because you're bigger than humans, and scaring them?
+GID00033199	Thinking the patient has an infection, you administer a large dose of antibiotics. The patient suffers a severe allergic reaction and slips into a deep coma.
+GID00033201	You are still dressed as a member of the Powder Gangers.
+GID00033203	[Rhonda] We'll be right back after this word from our sponsor during which Raul will contemplate how lucky he is to be alive.
+GID00033205	You do not have the items required to create a Deathclaw Gauntlet. You currently have: Wonderglue: [%], Deathclaw Hand: [%], Leather Belt: [%], Medical Brace: [%]
+GID00033207	There's an intruder in the dish hut! Get him, you fools!
+GID00033209	[Raul] All I want is to make that special robot work again, you know? I give it my best.
+GID00033211	You fixed the wiring. Sufficient electricity should now be flowing to the mainframe computer.
+GID00033213	Boone has returned to Novac.
+GID00033215	[Rhonda] What's your take on the situation?
+GID00033217	[Raul] Hi, Tab - <catches himself> Rhonda.
+GID00033219	This computer trap is disarmed and won't explode unless it it rearmed.
+GID00033221	[Rhonda] Joining us from his cell to comment on the situation is Raul Tejada. Raul?
+GID00033223	[Tabitha] <snarling> This time you will get it done, Raul!
+GID00033227	[Rhonda] The execution of master mechanic Raul Tajeda has again been commuted for a period of 24 hours to allow time for important repairs.
+GID00033229	You have injected the eggs to stimulate future growth.
+GID00033231	[Rhonda] You're listening to UNC - the Utobithian News Channel - with breaking news!
+GID00033233	[Rhonda] We'll be right back after this musical interlude! Enjoy!
+GID00033235	[Tabitha] <Growls in frustration.>
+GID00033237	ED-E has died.
+GID00033239	[Silence.]
+GID00033241	Loyal's detonator begins to beep.
+GID00033243	Since you've left Freeside, your bodyguard has stopped following you.
+GID00033245	[Raul] I going to obey supreme Tabitha, claro, whatever she say. Just I feel so bad I die before I fix her special robot.
+GID00033247	[Rhonda] Ooooh, Raul. Supreme commander Tabitha says you die today. Any reaction.
+GID00033249	[Tabitha] Today you die, Raul! I command it!
+GID00033251	The rockets launch successfully!
+GID00033253	[Raul] Uh, either one works.
+GID00033255	[Rhonda] Also joining us from his locked cell is Raul Tejada, master mechanic who can be executed at any time! Hello, Raul. Or should that be "Hola?"
+GID00033257	Blackjack is a game played with one more standard decks of playing cards. In Fallout: New Vegas, it is played between the Courier and a casino dealer. The goal is to play a hand of two or more cards up to, but not exceeding, a combined value of 21 points. The value of each hand is determined by adding together the values of each individual card. Cards 2-10 are worth their listed value. Face cards (Jack, Queen, King) are worth 10 points. Aces are worth either 1 or 11 points, whichever is more advantageous. A hand that exceeds 21 in total value is considered a "bust" and immediately loses.
+GID00033258	After the initial bet is made, the player and dealer are both dealt two cards. Based on the Courier's current hand, the player has different options:
+GID00033259	* Hit - Add a new card to the Courier's hand. The player must accept the value of this card, though aces provide whatever value is most advantageous at any given time.
+GID00033260	* Stay - Courier's hand is effectively "locked" and the dealer will deal cards into his or her own hand until his or her hand is at least 17. Note: at some casinos, dealers will continue to hit on a "soft" 17 that contains an ace. In either case, the dealer has no decision-making process and will always follow the listed rule.
+GID00033261	* Double Down - The Courier's bet is doubled but the dealer will give the Courier's hand only a single additional card.
+GID00033262	* Split - If the Courier's initial hand is a pair, the player may double his or her bet and split the pair into two separate hands that are played individually.
+GID00033263	* Surrender - This option is only available immediately after the first cards are dealt. It offers the player the option to sacrifice half of his or her bet and immediately fold. It is typically only done when the player's hand is particularly bad and the dealer is showing a very strong hand (for example, an ace).
+GID00033264	Once the dealer has completed dealing into his or her own hand following the player's choice to stay, the values of the Courier's hand and the dealer's hand are compared. Assuming neither party has busted (gone over 21), the higher value wins. In the case of a tie, the hand is considered a push. If the dealer has "blackjack" (an ace and a ten-value card), he or she automatically wins unless the Courier also has blackjack. In that case, the hand is considered a push.
+GID00033265	Individual casinos use different numbers of card decks, pay out natural blackjack hands at different odds, and shuffle their decks with varying frequency. Pay close attention to these details to develop advanced playing strategies.
+GID00033267	This 9mm submachine gun is broken but can possibly be restored to a fully functioning weapon.
+GID00033268	[Repair of 25 or greater required.]
+GID00033270	Leave it alone.
+GID00033271	Repair the 9mm submachine gun.
+GID00033272	[Tabitha] I still miss you, Rhonda. After all these years...
+GID00033274	You quickly repair the damaged circuits.
+GID00033276	[Rhonda] That was today's and every day's extra special guest, Best Friend Tabitha, supreme commander of Utobitha and Wearer of the True Eyes!
+GID00033278	[Tabitha] I am in control here!
+GID00033280	[Rhonda] You're listening to Radio Free Utobitha, bringing truth to Utobithians 24 hours a day! Welcome!
+GID00033282	You notice that the freezer is a little smaller than all of the others. After closer inspection, you find that there is a secret compartment in the back. Unfortunately, it is locked and you are unable to pick it. There must be a key to open this lock.
+GID00033283	(Perception [%] passed)
+GID00033285	You need a grenade to rearm this trap.
+GID00033287	You are still dressed as a member of the Great Khans.
+GID00033289	It appears that some sort of pass phrase needs to be entered in order to open the nearby door.
+GID00033291	Leave the panel alone.
+GID00033292	"Dear old friends, remember Navarro."
+GID00033293	Activating the detonator will set off the atomic bomb, and destroy the town of Megaton. Are you sure you want to proceed?
+GID00033295	Detonate the atomic bomb.
+GID00033296	Do not detonate the atomic bomb.
+GID00033297	Reflector panels on this array are damaged. Salvaged parts could be used to repair the array. Would you like to repair the array? (Repair 65 or higher Required or Use Solar Array Parts)
+GID00033299	Leave it alone.
+GID00033300	Repair the array without spare parts.
+GID00033301	Use Helios salvaged panels to repair the array.
+GID00033302	Caleb Smith is dead.
+GID00033304	Warning: Multiple radiation leaks detected! Evacuation recommended.
+GID00033306	You are a little woozy.
+GID00033308	Warning: Power fluctuations detected. Situation reaching critical levels.
+GID00033310	RL3 has been destroyed!
+GID00033312	Tabitha: Shut - up - Raul!
+GID00033314	The note reads: "I'm taking most of the boys west to go check out this vault we heard about. Stay here and keep an eye on things until we get back, and keep a closer eye on the Fiends - those guys are crazier than Scrambler. If there's any trouble, radio ahead."
+GID00033316	The observer is hidden in the spawning pod.
+GID00033318	A model of our solar system (not actual size). Beautiful, isn't it? RobCo, with its subsidiary REPCONN, has often gazed into the night sky, seeing the rich pageant of stars and planets above us. Our goal? To send unmanned rockets to these other systems, seeing their beauty firsthand while mining ever deeper into each planet's surface for precious resources needed here at home. This is our promise to mankind, extending our reach into a future where the number of RobCo and REPCONN rockets match the stars in the sky.
+GID00033319	This Exhibit Brought To You By Your Friends at RobCo
+GID00033321	Some folks have asked - why not a Protectron with wheels? RobCo wasn't afraid to answer that question: The Protect-O-Bot is theanswer. While safety standards prevented this free-wheeling dynamo from entering mass market production despite RobCo's best intentions and teams of lawyers, we take consolation in letting you can see this extremely well-funded experiment as it was intended - a robot moving so fast it looks like it's standing still!
+GID00033322	Exhibit Brought to You By Your Friends at RobCo
+GID00033324	You already rigged Watson's helmet with C4. You decide to leave it alone so you don't attract unwanted attention to it.
+GID00033327	Leave the generator alone.
+GID00033328	Turn off generator.
+GID00033329	Your Karma is too low to acquire this follower.
+GID00033331	Your voice echoes somewhere below you. A moment later, the equipment around you loses power.
+GID00033333	You never can have too many hands - three, why not four? That was RobCo's inspiration behind the popular (and cost-effective) Mr. Handy model, the first of the line shown here. Always a help around the household, whether with Mom in the kitchen using its titanium circular power saw or in the garage with Dad using its armor-piercing laser array, Mr. Handy is not just helpful... he's your friend, too.
+GID00033334	Exhibit Brought to You By Your Friends at RobCo
+GID00033336	RobCo's always had an eye for robotics, and this little fellow is no different! This robotic marvel can not only recognize your face and voice with advanced facial and auditory recognition technology, it can also broadcast video and audio as well! Think of it - all the sights and sounds of your radio and TV in your living room at home blasted directly at you on the street, subway, bathroom, or wherever you may be! Never fear, you'll never miss a news bulletin or presidential address again, no matter where you are!
+GID00033337	Exhibit Brought to You By Your Friends at RobCo
+GID00033339	Whoa, watch your step! You don't want to be facing this fearsome fellow if you accidentally stumble into a restricted area. Whether sporting the latest in dual miniguns, rockets, or laser cannons, the Sentrybot not only takes it job seriously, it also takes no prisoners! It's proof of RobCo's commitment to defense that these deadly guards are concealed in chambers throughout this facility, so let this be a warning: Watch where you step, or out'll come RobCo, guns blazing!
+GID00033340	Exhibit Brought to You By Your Friends at RobCo
+GID00033342	You restored the pump station's network connection.
+GID00033344	Officially called the "Z43-521P" by silly engineers, we prefer to call this little scrapper by its true nickname, the "Green Bean." After all, which would you prefer in your backyard garden - a smoldering Z43-521P, or a green bean?* One sounds like it belongs if mentioned on the news, and make news it did... featuring REPCONN's plasma engine, it was soooo newsworthy that we decided to take the Quantum Matter Modulation unit out and see if we could use it for non-explosive uses.
+GID00033345	* Rocket nickname chosen after results of first trial landing.
+GID00033347	V29-321G may look like a big, fat, red rocket, Rocketeers, but Ol' Fatty here ran circles around the Earth not so long ago, so let's see you keep up! Sure, V29-321G's re-entry gave it its more commonly-known nickname "Big Fat Fiery Fred," but here at REPCONN we chose to focus on the successes and apply what we learned about explosive-resistant shielding to future models and even our landing platforms!*
+GID00033348	* The newly-(re)constructed REPCONN Launch Facility was a direct beneficiary of this discovery.
+GID00033350	"Arrive at peaceful resolutions by using superior firepower."
+GID00033352	This sleek and purple R77-293A "Needlenose" is what happens when you mix fossil and plasma in a rocket and shake it up! The fossil fuels punch this sharp-nosed terror through the sky, and the plasma is used to shoot it through space to planets where REPCONN can mine more fossil fuels,* continuing the whole cycle again!
+GID00033353	* Interplanetary mining and resource rights still in negotiation.
+GID00033355	The first phase of Caravan game play involves each player drawing eight cards from his or her deck. From this hand, each player, in turn, lays down one numbered card or ace per "track" on the three caravans. A player's three caravans are competing for contracts with their opponent's caravans opposite them on the same track.
+GID00033356	If a player has no numbered cards or aces in his or her hand, or if he or she is unhappy with any given card currently in hand, the player may discard and draw from his or her own deck. However, discarded cards are out of play for the current game and a smaller deck increases the player's odds that they will be forced to forfeit the game through exhaustion.
+GID00033358	Just like the rocket you see here, we're aimed at the sky, but we've got a ceiling in the way! See, Rocketeers, while REPCONN is (was) focused on non-radioactive* propulsion engines, we still need to sneak back and use some of our older "proven" techniques with nuclear-driven engines to make space travel a reality. Partnered with our new buddy RobCo, we've dug up older, cheaper technology for upcoming orbital projects. No worries, even if you can't always see what we're up to up there - we can see you!
+GID00033359	* Any implication of radioactive material as negative is unintentional and in no way reflects RobCo or its subsidiary REPCONN.
+GID00033361	Force your parents a short drive south, and you'll see the retractable dome of REPCONN's launch facility (not actual size!). You may have heard wild stories about rocket flights and their impact* on nearby towns and communities, but REPCONN feels you can't put a price of space exploration - after all, Rocketeers, you do want to go into space someday... don't you?
+GID00033362	* Statement is figurative and inadmissible as evidence in a court of law.
+GID00033364	Arcade has returned to Freeside.
+GID00033366	This person appears to be near death. To remove them from the cross would kill them.
+GID00033368	Why, look here! A pile of itty-bity safety barrels,* all nestled together like a family sitting down to dinner! Now, while it's claimed even the safest nuclear waste disposal procedures seep poison into the environment that never, ever goes away, in REPCONN's case, we say it all depends on where you put them - and Nevada's just the place!
+GID00033369	* Nomenclature for "hazardous waste barrels" as per REPCONN glossary specs.
+GID00033371	Unique encounter [%]
+GID00033373	We've all heard "stories" that radiation is dangerous - fact or fiction?* A common site in factories, military installations, and the basements of selected government-funded middle schools, these safety barrels* are just what the name implies - safe. While their attractive coloring can be interpreted as a warning, for REPCONN, it's an invitation to a future filled with nuclear power!
+GID00033374	* Rhetorical questions and nomenclature of exhibit items cannot be used as a basis for criminal prosecution.
+GID00033376	Administrative Security Robots Disabled
+GID00033378	You have earned the Beautiful Beatdown perk.
+GID00033380	Hold up, Rocketeers, what's this? This trio of cylinders isn't a trio of cylinders at all!* They're containers holding what some* scientists call "plasma." Can you say "plasma?" REPCONN's always looking to the future, and in our future, we don't have to worry about radiation, health risks, or lawsuits when using this new and improved fuel source to blast our rockets into and out of the sky!
+GID00033381	* Clarification: "Cylinders" and "plasma" are factually correct designations of display items, both by definition and by the scientific community.
+GID00033383	What's this? A dull rod? Not so, Rocketeers! This "dull rod" once powered REPCONN's old nuclear-propelled rockets and still contains harmless* traces of radioactive material. As an exercise, stare closely* at the rod and try to spot the telltale glow!
+GID00033384	* While this case is lead-lined (standard in these cases, not specifically requested for this display), do not touch, look, or stand too close to this exhibit - keep your legs moving and see the rest of the museum!
+GID00033386	iButtonVar is [%]
+GID00033388	Veronica has died!
+GID00033390	You repair the array to an acceptable working status.
+GID00033392	"Always be ready to take one for the team."
+GID00033394	Caesar is in a coma and is near death. Only an operation to remove the tumor from his brain will save him.
+GID00033395	You already have a set of Surgical Tools, but you will need a Doctor's Bag before you can perform the operation.
+GID00033397	Leave Caesar alone.
+GID00033398	You fixed the Prospector Saloon's radio.
+GID00033401	You have equipped faction armor! Faction armor disguises you as a member of that faction. Members of that faction now consider you a friend, while enemies of that faction will attack you on sight regardless of your personal faction relation with them. Any reputation changes that occur while wearing faction armor still affect your character.
+GID00033402	Security personnel such as guards and watchdogs will see through your disguise and alert anyone nearby, so watch out!
+GID00033404	Karma is an overall indication of your sense of good, evil... or neutrality. Your Karma starts at Neutral, and changes based on your actions. It can go up to Good or Very Good, or down to Evil or Very Evil. Kind or self-sacrificing acts will net you good Karma. Selfish and malicious acts will earn evil Karma. Sometimes, killing a particularly saintly or terrible enemy will modify your Karma as well.
+GID00033405	Though some people in the world react to Karma, most base their opinons off of Reputation. Karma is simply the universe's way of tracking your good and bad deeds in the world.
+GID00033407	All the radio signals you have discovered are listed on the Radio screen in the Data tab of your Pip-Boy. Signals listed in bright text are within range, and can be listened to.
+GID00033408	Signals listed in darkened text have been discovered, but you are no longer within range -- in order to listen to one of these stations, you have to move back into the signal's receiving range.
+GID00033410	You install the processor widget.
+GID00033412	You pull out your blade and hack blindly at the leg. After a series of random and frenetic cuts you notice the leg is looking better. It looks like he'll be able to keep it after all.
+GID00033414	Use &-sUActnForward;&-sUActnSldleft;&-sUActnBack;&-sUActnSldright; to move. The mouse turns you.
+GID00033416	This man appears to be suffering from multiple machete wounds. Improper treatment will kill him. Would you like to treat him? (Medicine 35 or higher required)
+GID00033417	Alternatively, if you have Med-X, Whiskey, and Surgical Tubing you may be able to treat him.
+GID00033419	Leave him alone.
+GID00033420	Treat with medicine.
+GID00033421	Use medical equipment to treat.
+GID00033422	Without examining the leg further, you decide it requires amputation. Before you even make it down to bone, you realize you might have skipped a few important steps... The patient quickly bleeds to death from a severed artery.
+GID00033424	This is a military-issue ham radio, complete with a signal encoder/decoder interface for encrypting and deciphering transmissions.
+GID00033426	Leave the ham radio alone.
+GID00033427	Update the security codes for this radio.
+GID00033430	You successfully plant the bomb on the vertibird.
+GID00033432	Shishkebab created.
+GID00033434	This man's leg is seriously injured. It may require amputation to save him. Are you sure to want to attempt the operation? (Medicine 50 or higher required)
+GID00033435	Alternatively, if you have a Medical Brace, Med-X, and a Bonesaw you may be able to treat him.
+GID00033437	Leave him alone.
+GID00033438	Attempt to operate with medicine.
+GID00033439	Use medical equipment to operate.
+GID00033440	You have become addicted to a drug. Take more of the drug to alleviate the side effects, or visit a doctor to be cured.
+GID00033443	Stay Here
+GID00033444	Penthouse
+GID00033445	Control Room
+GID00033446	This is the Securitron operations console for the Securitron vault. Software updates can be installed from this console.
+GID00033448	Leave the console alone.
+GID00033449	Insert the Platinum Chip and install the Mk. II upgrade software.
+GID00033450	Boone now has 1st Recon Assault Armor, designed to provide snipers with maximal protection while deployed on aggressive missions in hotly contested zones. It will not count against his carrying capacity.
+GID00033452	You use your Repair skill to determine that someone has removed a vital component for the door's operation, but you manage to repair the door anyway.
+GID00033453	(Repair [%] passed)
+GID00033455	You must have an Explosives skill of at least 50 to rig the C4 properly.
+GID00033457	Leave.
+GID00033458	You have successfully disarmed the bomb.
+GID00033460	Meat intended for the Legion's mongrels is usually dropped onto this plate.
+GID00033462	Leave the plate alone.
+GID00033463	Drop the infected Brahmin meat on the plate.
+GID00033464	Dogmeat has died.
+GID00033466	"Why go down with the ship when you can try to fix it?"
+GID00033468	"When words fail, there's always fists."
+GID00033470	You have discovered several locations. You can fast travel back to discovered locations using the World Map in your Pip-Boy.
+GID00033472	You are hostile with the residents of Arefu.
+GID00033474	With limited medical knowledge, you mistakenly administer a lethal dose of painkillers mixed with antibiotics. The patient lets out one last labored breath before succumbing to the overdose.
+GID00033476	Examining the trajectories a little further, it looks like the computer is set to take a non-optimal route to the specified destination.
+GID00033477	You surmise that with minor alterations, you can plot a course that will take them about 12.5%% closer to their intended destination.
+GID00033478	Do you wish to alter the rockets' course?
+GID00033480	Make the change.
+GID00033481	Don't make the change.
+GID00033482	The console is powered, and ready to accept the activation code.
+GID00033484	Leave it alone.
+GID00033485	Enter the code.
+GID00033486	Caravan players begin the game by establishing a mutual bet. There is only one betting phase per game. Since Caravan has its roots in merchant caravans, players are allowed to use any common currency available, regardless of its origins. Though bottle caps are common, players may also offer NCR dollars or Legion coins. Once a bet is established, players move on to deck building.
+GID00033488	You quickly install the device as directed. Immediately a small green light on it begins pulsing, indicating that it has begun transmitting.
+GID00033490	"Because it's easier to have courage from a safe distance away."
+GID00033496	[%]: Picked repeating
+GID00033499	You have lost Raul's Regular Maintenance perk.
+GID00033501	You have no Plasma Grenades to use.
+GID00033503	Upon further examination after cleaning the leg, you realize it can be saved. You carefully remove the existing stitches, clean the wounds thoroughly, then re-stitch the wounds closed using a much more effective procedure.
+GID00033505	Railway Rifle created.
+GID00033507	You have gained the Lord Death perk.
+GID00033509	The robot lies inert on the table, giving no indication of having worked recently, or ever. A nameplate on part of the surface is scratched and mostly faded, but you can still make out the faint word "Rhonda".
+GID00033511	Leave the robot alone.
+GID00033512	[Science] Check the robot's circuitry.
+GID00033513	This door is activated elsewhere.
+GID00033515	There's nothing else on the corpse to indicate what happened.
+GID00033517	You are hostile with the residents of Oasis.
+GID00033519	Mister Crowley is dead.
+GID00033521	Boone has gone to the Lucky 38.
+GID00033523	"Found a nice little spot to scout the prison from. Place has been pretty active recently. Those thrice-damned powder gangers have been spreading out, so I need to be careful to avoid them. It doesn't help that I have to get back early each night or risk getting blinded by the sand."
+GID00033525	Put the journal back down.
+GID00033526	Read the next entry.
+GID00033527	You carefully add Psycho to Pacer's Jet, guaranteeing an altogether different high the next time he uses it.
+GID00033529	This pot contains ingredients for the Legionaries' stew.
+GID00033531	Leave the pot alone.
+GID00033532	Added the infected Brahmin meat to the mix.
+GID00033533	You take a look at the gun controls and realize you have no idea what you are doing. It's probably best to leave the controls alone.
+GID00033535	You destroy the robot's delicate circuitry.
+GID00033541	You have gained the Animal Control perk (Rank [%])
+GID00033543	"The safest distance between two points is a shadowy line."
+GID00033545	UNUSED
+GID00033547	You have lost Raul's Full Maintenance perk.
+GID00033549	Raul has given you the Full Maintenance perk (this replaces the Regular Maintenance perk).
+GID00033551	The Thorn is currently Closed.
+GID00033553	You have lost Veronica's Scribe Assistant perk.
+GID00033555	ED-E has gone to the Lucky 38.
+GID00033558	You have established a reputation with a group of people in the wasteland! Whether that reputation is good or bad, you're finally somebody, and people associated with that group will start to react to what you've done. There are many different factions in the wasteland, and you can develop a distinct reputation with each one.
+GID00033559	As you perform actions that benefit a group, you will gain Fame. If you peform actions that harm a group, you will gain Infamy. Your reputation with any given group is a measure of the combined total of Fame and Infamy that you have earned. The benefits and drawbacks of any given reputation depend on the group itself. You may receive discounts with merchants, provoke attacks from hired thugs, or simply be treated differently.
+GID00033560	Though you will initially start out with a Neutral reputation with any given faction, your Fame and Infamy will eventually push your reputation in different directions. You can see all of your current reputations under the General section of your Pip-Boy.
+GID00033561	Good Reputations:
+GID00033562	* Smiling Troublemaker - Some good, a little bad.
+GID00033563	* Good Natured Rascal - Good, a little bad.
+GID00033564	* Accepted - Some good.
+GID00033565	* Liked - Definitely good.
+GID00033566	* Idolized - Most good.
+GID00033567	Mixed Reputations:
+GID00033568	* Soft-Hearted Devil - More bad than good.
+GID00033569	* Dark Hero - More good than bad.
+GID00033570	* Mixed - Some good, some bad.
+GID00033571	* Unpredictable - Good and bad.
+GID00033572	* Wild Child - Most good, most bad.
+GID00033573	Bad Reputations:
+GID00033574	* Sneering Punk - Some bad, a little good.
+GID00033575	* Merciful Thug - Bad, a little good.
+GID00033576	* Shunned - Some bad.
+GID00033577	* Hated - Definitely bad.
+GID00033578	* Vilified - Most bad.
+GID00033582	It appears that you can disarm this rigged shotgun.
+GID00033584	Leave it alone.
+GID00033585	Disarm the rigged shotgun.
+GID00033586	Harold can no longer speak to you.
+GID00033588	The prototype's stealth field has been stabilized.
+GID00033590	You have gained the Mutant Massacrer perk (Rank [%])
+GID00033592	You have lost Boone's Spotter perk.
+GID00033594	The guards inside block the entrance of the tent. Apparently, the Legate does not wish to speak again until your mission is accomplished.
+GID00033596	Rex has gained the Blood of the Legion perk, making him harder to kill.
+GID00033598	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00033599	The inscription on the base reads "The safest distance between two points is a shadowy line."
+GID00033600	Your Sneak skill has been permanently increased by 10 points.
+GID00033602	Administering some low-grade stimulant could benefit the growth of this colony's pupae.
+GID00033604	Do Nothing
+GID00033605	Inject with a stimpak
+GID00033606	You successfully removed the tumor from Caesar's brain.
+GID00033608	Sorry, but you have reached the jackpot limit, but feel free to explore the other services here at the Atomic Wrangler!
+GID00033610	Caesar has died.
+GID00033612	You found a Limited Edition Mojave Landmark Snowglobe!
+GID00033613	These rare, pre-War artifacts are widely considered to be useless baubles, but rumor has it some collectors will pay dearly for them.
+GID00033615	The Super Mutants have bound the captive for transportation. The ropes are digging into his wrists. He's obviously suffered from their abuse.
+GID00033617	Leave the captive to his fate.
+GID00033618	Untie him.
+GID00033619	You can hotkey inventory items and then use or equip them without accessing your Pip-Boy.
+GID00033620	To hotkey an item, hold a number key (1-8) and then left-click on an item in your Pip-Boy.
+GID00033621	Now when the Pip-Boy is closed, you can use or equip that item simply by pressing the corresponding number key. Holding down any number key will display all of your current hotkey assignments.
+GID00033623	This pile of eggs is probably where all of the ants are coming from.
+GID00033625	You are no longer dressed as a member of Caesar's Legion.
+GID00033627	You modified the purifier's settings. It's now producing cleaner water.
+GID00033629	The Super Mutants have bound the captive for transportation. The ropes are digging into her wrists. She's obviously suffered from their abuse.
+GID00033631	Leave the captive to her fate.
+GID00033632	Untie her.
+GID00033633	{Amazed}A group of troopers, that can only be described as rag-tag, managed to fend off a brutal attack at Camp Golf. I salute your bravery. Hold the front.
+GID00033636	"The best way to solve a problem is to make it go away."
+GID00033638	Camp Golf has fallen{Loud, stunned}! Apparently a small group of troopers broke rank and fled their posts once the battle began.
+GID00033640	You repair the generator.
+GID00033642	Tabitha: Fine! You want the equipment here so badly!? Here, I'll let you have a piece!
+GID00033644	Rangers have barely managed to fend off a brutal attack at Camp Golf. The numbers had not yet been reinforced to replace the missing troops.
+GID00033646	Deathclaw Gauntlet created.
+GID00033648	The mainframe is not functioning.
+GID00033650	Rangers have managed to hold off a Legion attack at Camp Golf. Some casualties, but Camp Golf stands.
+GID00033652	Stage moving from [%] to [%]
+GID00033654	The crystals on this rock seem to indicate a pocket of potassium nearby, some strategically placed C4 could be enough to destroy both the cave and the vault.
+GID00033656	Leave.
+GID00033657	Plant enough C4 to destroy the caves.
+GID00033658	Plant enough C4 to destroy the caves and the vault then run like hell.
+GID00033659	The radio appears to be connected to a series of nearby machines. The microphone hooked into it has a blinking button on the side.
+GID00033661	Leave the radio alone.
+GID00033662	Press the button.
+GID00033663	You are no longer dressed as a member of the Brotherhood Of Steel.
+GID00033667	The G.E.C.K. will collapse all of the matter within its given radius and recombine it to form a living, breathing, fertile virgin landscape and allow life to begin anew. Are you certain you want to do this?
+GID00033669	Yes.
+GID00033670	Never mind.
+GID00033671	Are you sure you want to activate the G.E.C.K.?
+GID00033673	Yes.
+GID00033674	Never mind.
+GID00033675	You've been prevented from leaving the Fort until you've carried out Caesar's will in the Securitron Vault.
+GID00033677	The mother deathclaw goes berserk at the death of her baby!
+GID00033679	You lack the Explosives skill needed to interact with the Grenade Cluster. (Explosives [%] or higher required)
+GID00033682	It is your sacrifice that will bring us to the promised land. Seekers, board the rockets, take your seats. The Great Journey awaits! We go now to the Far Beyond!
+GID00033684	* AG: Agility
+GID00033685	* AP: Action Points
+GID00033686	* Caps: Bottlecaps
+GID00033687	* CH: Charisma
+GID00033688	* CND: Condition
+GID00033689	* DR: Damage Resistance
+GID00033690	* EFF: Effects
+GID00033691	* EN: Endurance
+GID00033692	* HP: Hit Points
+GID00033693	* HR: Healing Rate
+GID00033694	* IN: Intelligence
+GID00033695	* LU: Luck
+GID00033696	* LVL: Level
+GID00033697	* PE: Perception
+GID00033698	* RAD: Radiation
+GID00033699	* RADS: Your Accumulated Radiation
+GID00033700	* Rad Poison: Radiation Poisoning
+GID00033701	* Rad Resist: Radiation Resistance
+GID00033702	* ST: Strength
+GID00033703	* VAL: Value
+GID00033704	* WG: Weight
+GID00033705	* XP: Experience Points
+GID00033707	We ask that you forgive us, Chris, and give us your blessing, as we bestow ours upon you. We are but humble servants of the creator's divine and mysterious will.
+GID00033709	From this moment forward, we shall each and every one of us revere you as the Saint of the Great Journey. We shall never forget you.
+GID00033713	It seems like the robot's artificial intelligence is offline.
+GID00033715	But to Chris, we owe more than thanks. To him, we owe our salvation. Chris, you have made the Great Journey a reality.
+GID00033717	You cannot figure out how to repair the gas valve. (Repair [%] or higher required).
+GID00033719	To our new friend, we say thanks, and promise never to forget how he drove off the demons who sought to keep us from reaching the promised land.
+GID00033721	To jump, [%].
+GID00033723	The Journey ahead would have been impossible if not for the efforts of two human friends, one new, the other a long-abiding companion.
+GID00033725	Though we believed that all humans despised us, the creator has seen fit to instruct us otherwise.
+GID00033727	Our almighty creator has seen fit to answer our prayers. The time has come for us to board the rockets and begin the Great Journey. Soon shall we dwell in a promised land where hate and resentments are unknown.
+GID00033729	Before you leave Vault 101 forever, you may revise your character.
+GID00033731	Edit Name
+GID00033732	Edit Race/Sex
+GID00033733	Edit S.P.E.C.I.A.L.
+GID00033734	Edit Tag Skills
+GID00033735	Finished - Exit Vault 101
+GID00033736	Repair the kitchen's food processor?
+GID00033738	Yes
+GID00033739	[Repair 80] Jury rig the machine.
+GID00033740	No
+GID00033741	You've learned the Ranger Takedown special move. To use this technique, initiate a Power Attack while moving backwards. You'll drop your opponent to the ground.
+GID00033743	Gather, all. Gather and hear my words. May the creator guide me and help me speak true...
+GID00033745	This is the control console for the AA gun on Hoover Dam.
+GID00033747	Leave the console alone.
+GID00033748	Examine the gun controls.
+GID00033749	Examine the gun circuit board.
+GID00033750	Examine the controls for tampering.
+GID00033753	You are now dressed as a member of the Brotherhood Of Steel.
+GID00033755	You use Reilly's code to open the ammo box.
+GID00033757	The elevator panel needs to be repaired in order to operate the elevator.
+GID00033759	This console appears to connect to radar and other detection systems.
+GID00033761	Leave the console alone.
+GID00033762	Install the remote signal transmitter.
+GID00033763	Slots are casino gambling machines that have three or more reels that spin when a button is pushed or lever is pulled. Each reel randomly stops on or between one of many symbols on the reel. Depending on the combination of symbols that comes up, the player will either lose his or her bet or receive a payout based on the odds of the combination coming up.
+GID00033764	Different slot machines have different numbers of symbols and correspondingly different payout odds. You can check the payout odds from within the game at any time.
+GID00033766	When you reach the required number of Experience Points, you will level up automatically, so long as you're not in combat.
+GID00033767	Every time you level up, your Health increases, and you gain Skill Points to assign to your skills. You will also gain a new perk every other level.
+GID00033769	You've learned the Khan Trick special move. To use this technique, initiate a Power Attack while moving left or right: You will scoop up a handful of dirt and throw it in an enemy's face, momentarily distracting him.
+GID00033771	The box contains a large amount of Jet, now laced with Psycho.
+GID00033773	To aim, [%]. This increases your accuracy.
+GID00033775	This man's leg is seriously injured. It may require amputation to save him. Are you sure to want to attempt the operation? (Medicine 50 or higher Required)
+GID00033777	Never mind. Leave him alone.
+GID00033778	Perform the operation.
+GID00033779	CHOP! CHOP! CHOP! (Low Intelligence)
+GID00033780	Dogmeat!
+GID00033782	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00033783	The inscription on the base reads "The smart man knows a bandage only hides his wounds."
+GID00033784	Your Medicine skill has been permanently increased by 10 points.
+GID00033786	Veronica has returned to the 188 Trading Post.
+GID00033788	The attack is coming from the Omertas. They are using some kind of gas to kill everyone in the casinos on the strip. How is this possible?
+GID00033790	Lily has given you the Stealth Girl perk.
+GID00033792	Ammunition is used by almost all Guns and Energy Weapons but is sometimes used by other weapon types. Basic ammo types have no special effects, but ammo subtypes may increase damage, reduce an enemy's Damage Threshold, or even decrease spread. Effects are listed on the ammo submenu when the ammo is highlighted. Most weapons can use any ammo subtype that starts with the same name as the base ammo. Common ammo subtypes include:
+GID00033793	* Armor Piercing: Ignores a large portion of the enemy's Damage Threshold, does slightly more damage.
+GID00033794	* Hollow Point: Does much more damage, but is easily blocked by armor.
+GID00033795	* Over Charge: Used by Energy Weapons, increases damage but degrades the weapon more quickly.
+GID00033796	* Slug: Used by shotguns, slugs replace buckshot with a single, large bullet that is more accurate.
+GID00033797	To switch ammo subtypes, equip them on this menu. Outside of the Pip-Boy, press [%] to cycle through ammo subtypes for your currently equipped weapon.
+GID00033799	It sounds like the Omertas are mounting some sort of attack on the Strip. They are receiving heavy casualties from the Securitrons and other casinos.
+GID00033801	The console is currently without power.
+GID00033803	Invalid encounter -- keep rolling.
+GID00033805	What the fuck is happening on the Strip? I'm getting reports that someone just bombed the embassy.
+GID00033807	You repair the gun controls and set the AA gun to attack any nearby aircraft.
+GID00033809	You have reactivated the power to the east side of the power plant.
+GID00033811	The note reads: "Some of the fellas farther north are trying to organize. We're starting to think it's a good idea. Got to pool resources if we're gonna survive out here. Sure you've noticed the decline in travelers. If they're getting wise, so should we."
+GID00033813	Those beasts drug the rest of the men away. Oh God, I hope they don't come back for me.
+GID00033815	You have rearmed the trap!
+GID00033817	The note reads: "Some of the fellas farther north are trying to organize. We're starting to think it's a good idea. Got to pool resources if we're gonna survive out here. Sure you've noticed the decline in travelers. If they're getting wise, so should we."
+GID00033819	Guardian is down. I repeat Guardian is down. Requesting backup from any nearby forces.
+GID00033821	The express elevator has no power. The elevator panel must be repaired before it can be used.
+GID00033823	The note reads: "Not many patrols out here lately, which means not much loot. Our crew is thinking we should make a move soon. Follow the tracks up north; head towards the Strip. You in? Ain't on the chain gang anymore, but we still gotta stick together."
+GID00033825	This is Private Halford requesting backup. Anyone out there?
+GID00033827	Welcome to Hardcore Mode! There are three basic needs that Hardcore Mode requires you to monitor: dehydration (H2O), starvation (FOD), and sleep deprivation (SLP). Each of these needs must be monitored and kept in check or you will suffer penalties and, in extreme cases, death.
+GID00033828	Your needs are continually ticking away and can be monitored on the Status screen of your Pip-Boy. When you start to suffer ill-effects from neglected needs, your HUD will display the corresponding code for that need. Be aware that waiting, sleeping, and Fast Travel will also affect your needs. If performing any of these activities would result in death, you will be prevented from doing so.
+GID00033829	* Dehydration (H20) - Dehydration increases at a faster pace than starvation or sleep deprivation. It can be relieved by drinking water or eating certain types of food. Some drinks, such as alcohol and soda, can increase dehydration, so be careful!
+GID00033830	* Starvation (FOD) - The onset of starvation is slower than dehydration, but quicker than sleep deprivation. It can be relieved by eating food.
+GID00033831	* Sleep Deprivation (SLP) - Sleep deprivation is the most low-maintenance of the basic needs. Though a few chems and drinks can help offset sleep deprivation, nothing beats sleep itself.
+GID00033833	Bravo, this is Camp Guardian calling for backup. No sign of the rest of the men stationed here.
+GID00033835	The rockets crash. You're a jerk.
+GID00033837	You carefully clean the wounds and apply antibiotics before grafting extra skin over the wounds. The patient will make a complete recovery.
+GID00033839	Incorrect Code. Please try again.
+GID00033841	God damn leg... I don't know how much longer I'm going to make it before I bleed out.
+GID00033843	We were attacked by some kind of freak mutants from the caves. Please send backup!
+GID00033845	Tabitha: You see that! *I* get to do that! *You* don't!
+GID00033847	The camp was attacked. I think I'm the only one left alive.
+GID00033849	You do not have the items required to create a Dart Gun. You currently have: Paint Gun: [%], Radscorpion Poison Gland: [%], Toy Car: [%], Surgical Tubing: [%]
+GID00033852	Leave
+GID00033853	Bug the Lucky 38 Network.
+GID00033854	Bravo, come in, Bravo. Is anyone out there?
+GID00033856	You must have a Science skill of at least 40.
+GID00033858	Leave.
+GID00033859	Veronica has received the Bonds of Steel perk, substantially increasing her armor.
+GID00033861	The Ultra-Luxe Floor Manager is coming to speak with you.
+GID00033863	If the bunker's power regulators are destroyed, its reactor core will overload in a matter of seconds - with catastrophic results.
+GID00033867	All weapons fall under a weapon skill category that determines how effective the weapon is: Guns, Energy Weapons, Explosives, Melee Weapons, or Unarmed. Compare the small icon below and to the left of the weapon's icon to the icon shown on the Pip-Boy's skill menu.
+GID00033868	* DAM/DPS: These indicate the base Damage and Damage Per Second, respectively. Weapons with a low DAM have difficulty penetrating armor. If you hit a target's Damage Threshold, switch to a weapon with a higher DAM or use ammo that reduces the target's Damage Threshold (e.g. Armor Piercing).
+GID00033869	* STR and Skill: Many weapons have a Strength and/or skill requirement. If your character does not meet the Strength or skill requirement for the weapon, its aim will wobble (if a firearm) or it will attack more slowly (if a hand-to-hand weapon).
+GID00033870	* CND: A weapon's Condition affects the amount of damage is does. At 75% Condition or higher, a weapon does maximum damage and only needs to be maintained. A weapon with low Condition will do less damage and may jam when reloaded.
+GID00033871	* Repair / Mod: These options take you to the Repair and Mod submenus, where you may repair damaged equipment or attach weapon modifications, respectively.
+GID00033873	This pile of eggs must be how the forager ants sustain their numbers. With a little more insight, you may be able to figure out how to use these eggs to your advantage.
+GID00033874	(Science 70 or Medicine 40 required.)
+GID00033876	"This location looks like it might make a good safehouse. Warm, dry, and some sort of crazy natural phenomenon at night that should keep the predators away. I'd love to start getting set up, but there are a few nearby points of interest I need to gather intel on first. Not sure how long that'll take."
+GID00033878	To jump up on the chair, [%].
+GID00033880	You can hotkey inventory items and then use or equip them without accessing your Pip-Boy.
+GID00033881	To hotkey an item in your Pip-Boy, hold [%] and use the [%] to select a hotkey slot.
+GID00033882	Now when the Pip-Boy is closed, you can use or equip that item simply by pressing the corresponding [%]. Holding down the [%] will display all of your current hotkey assignments.
+GID00033884	The Reactor is Active.
+GID00033886	Leave the access point alone.
+GID00033887	Reactor
+GID00033888	Wasteland Explorer Theme Added to House
+GID00033890	You need a higher Repair or Science skill to interact with the emitter.
+GID00033891	(Repair [%] or higher required) or
+GID00033892	(Science [%] or higher required)
+GID00033895	You have gained the Friendly Help perk.
+GID00033897	You have lost Cass' Whiskey Rose perk.
+GID00033899	Tabitha: Dead! That's where they are.
+GID00033901	A second after you press the button, a harsh voice comes over the radio's speaker.
+GID00033903	You don't feel quite as lucky anymore.
+GID00033905	Where to, Pardner?
+GID00033907	Stay Here
+GID00033908	Basement
+GID00033909	Casino
+GID00033910	Presidential Suite
+GID00033911	Cocktail Lounge
+GID00033912	Penthouse
+GID00033913	This corpse is rigged with an explosive.
+GID00033915	Attempt to disarm.
+GID00033916	Leave it alone.
+GID00033917	The thug lies still, a victim of your recent fight. You could swear there's something odd about the corpse, but can't quite put your finger on it.
+GID00033918	(Medicine 30 or greater required)
+GID00033920	Leave the corpse alone.
+GID00033923	You notice that duty roster has been accessed by an unknown login ID. It'd be a good idea to keep an eye out for anything out of the ordinary.
+GID00033925	You've accessed the Vault-Tec Mainframe.
+GID00033927	Download Vault locations and access codes.
+GID00033928	Do nothing.
+GID00033929	The dials on the panel show a blockage with the intake system. The pressure will need to be relieved at the manual override valve.
+GID00033933	You have accessed the Masterbrain's internal mechanisms. If you destroy its uplink, it will cause all of the automated security units in Vault-Tec to shut down.
+GID00033935	Destroy security uplink.
+GID00033936	Do nothing.
+GID00033937	This console controls the overflow controls for the generator intake tunnels. It looks like you can divert the auxiliary intake into the generators. (Science 65 or higher required)
+GID00033939	Leave the console alone.
+GID00033940	Divert the water.
+GID00033941	Press the button Fantastic said would divert the intake.
+GID00033944	You nimbly dodge the trap as it springs shut.
+GID00033946	With the rival queen ant dead, these forager ants should be able to make nectar faster.
+GID00033948	These wines are set up to be taken by servers out to the banquet.
+GID00033949	(Medicine of 25 or higher and Med-X required to drug the wine.)
+GID00033951	Do nothing.
+GID00033952	[Medicine] Spike the wine with a sedative.
+GID00033953	You're pretty sure you can deactivate this mine without blowing yourself up. Would you like to disarm and collect the mine?
+GID00033955	Disarm and collect the mine.
+GID00033956	Leave it alone.
+GID00033959	This girl appears to have been tortured for several hours and then murdered. Judging by the rate of livor mortis, you guess the body has been here for 12 to 14 hours. The lack of hesitation wounds on the body as well as the old blood surrounding it implies that the murderer is experienced and has murdered in this way previously.
+GID00033961	This girl appears to have been tortured for several hours and then murdered. Judging by the rate of livor mortis, you guess the body has been here for less than a day.
+GID00033963	You take a look at the body but are unable to determine anything about the cause or nature of her death aside from the knife wounds.
+GID00033965	You lack the skill needed to properly treat Reilly (Medicine 60 or higher required).
+GID00033967	This woman is dead, would you like to inspect her to see if you can get more information? (Medicine 35 or higher Required)
+GID00033969	Leave The Body Alone
+GID00033970	Inspect The Body
+GID00033973	Do you think you know everything about the Declaration of Independence? Put it to the test and win prizes from National Archives Sponsors!
+GID00033975	The Maps are located in your Pip-Boy's Data section.
+GID00033976	The Local Map displays an overhead map of your current location, as well as any nearby doors.
+GID00033977	The World Map shows an overhead map of the entire Mojave Wasteland area, and markers for any places that have been discovered during the course of your adventures. You can even fast travel directly to any place you have previously visited.
+GID00033978	You can zoom the maps in and out, or place (or move, or delete) a custom map marker.
+GID00033979	If your active quest has any quest targets, these will be displayed on both the Local and World Maps.
+GID00033980	On the World Map, your path to a quest target is indicated by a dotted line. In some cases, you may need to take a route through different areas, and the dotted line will reflect that.
+GID00033982	The dynamite contained within this box is very old and unstable. Only someone skilled with explosives could hope to salvage any of the dynamite.
+GID00033983	[Explosives of 25 or greater required.]
+GID00033985	Leave the box alone.
+GID00033986	Salvage what dynamite you can.
+GID00033987	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00033988	The inscription on the base reads "Why go down with the ship when you can try to fix it?"
+GID00033989	Your Repair skill has been permanently increased by 10 points.
+GID00033991	This is a military-issue ham radio, complete with a signal encoder/decoder interface for encrypting and deciphering transmissions.
+GID00033993	Leave the ham radio alone.
+GID00033994	Update the security codes for this radio.
+GID00033995	The bomb is already rigged with the Fusion Pulse Charge, and armed to detonate remotely.
+GID00033997	You are now dressed as a member of the White Glove Society.
+GID00033999	You have successfully disarmed the tripwire.
+GID00034001	You don't currently have any shipments awaiting delivery from this location.
+GID00034003	You don't know how to make any weapons yet.
+GID00034005	You lack the skill needed to disable the turret generator (Repair 60 or higher required).
+GID00034007	The trader's supplies are carefully secured. You will need a key.
+GID00034009	You have gained the Fast Times perk.
+GID00034011	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00034012	The inscription on the base reads "Arrive at peaceful resolutions by using superior firepower."
+GID00034013	Your Energy Weapons skill has been permanently increased by 10 points.
+GID00034015	This switch controls the power to the east side of the power plant.
+GID00034017	Leave the switch alone.
+GID00034018	Turn on the switch.
+GID00034019	Without a replacement firing mechanism, this howitzer is useless.
+GID00034021	Leave the howitzer alone.
+GID00034022	Replace the firing mechanism.
+GID00034023	You have lost Arcade's Better Healing perk.
+GID00034025	You failed to disarm the trap.
+GID00034027	You are still dressed as a member of the NCR.
+GID00034029	Lieutenant Hayes has died!
+GID00034031	Caesar is in a coma and is near death. Only an operation to remove the tumor from his brain will save him.
+GID00034032	You already have a Doctor's Bag, but you will need a set of Surgical Tools before you can perform the operation.
+GID00034034	Leave Caesar alone.
+GID00034035	Opening the box you find a series of breakers that appear to correspond to the terminals nearby. If you knew more about electronics you could probably cut the power to some of the terminals nearby.
+GID00034036	(Repair 60 required)
+GID00034038	Leave the breakers alone.
+GID00034039	The bomb appears inert, but further examination reveals that it is still operational, and still quite dangerous.
+GID00034040	With the right gear it would be trivial to rig it to explode. To disarm the bomb, however, would take a highly skilled explosives expert.
+GID00034042	Do nothing.
+GID00034043	Attempt to disarm the bomb.
+GID00034044	Rig the bomb to explode.
+GID00034045	The bomb has been disarmed, and no longer poses a threat to the people of Megaton.
+GID00034047	Loyal has died.
+GID00034049	Who is, indisputably, the most important person in Vault 101, he who shelters us from the harshness of the atomic Wasteland, and to whom we owe everything we have, including our lives?
+GID00034051	The Overseer.
+GID00034052	The Overseer.
+GID00034053	The Overseer.
+GID00034054	The Overseer.
+GID00034055	You quickly find a manilla folder with Bill's name on it in the drawer marked "N-R".
+GID00034059	You have gained the Free Radical perk.
+GID00034061	This is a military-issue ham radio, complete with a signal encoder/decoder interface for encrypting and deciphering transmissions.
+GID00034063	Leave the ham radio alone.
+GID00034064	Update the security codes for this radio.
+GID00034065	Player Dies (Good) Bink for Ending Sequence (Plays if the player sacrifices himself/herself in the Project Purity chamber)
+GID00034067	Vault 101 has been thrown into chaos.
+GID00034069	OK
+GID00034070	Neutral Karma Bink for Ending Sequence
+GID00034072	You decide it would be fun to play a prank on your father. You enter his private restroom when no one is looking, and...
+GID00034074	Loosen the bolts on some pipes. When the sink is turned on, the restroom will flood.
+GID00034075	Put a firecracker in the toilet. That's sure to cause some chaos.
+GID00034076	Break into the locked medicine cabinet and replace his high blood pressure medication with sugar pills.
+GID00034077	Manipulate the power wattage on his razor, so he'll get an electric shock the next time he shaves.
+GID00034078	Sunny Smiles has things to teach your character. Are you sure you wish to keep traveling in this direction?
+GID00034080	No, I'll go see Sunny.
+GID00034081	I don't need to learn anything from Sunny.
+GID00034082	Low Karma Bink 3 for Ending Sequence
+GID00034086	A fellow Vault 101 resident is in possession of a Grognak the Barbarian comic book, issue number 1. You want it. What's the best way to obtain it?
+GID00034088	Trade the comic book for one of your own valuable possessions.
+GID00034089	Steal the comic book at gunpoint.
+GID00034090	Sneak into the resident's quarters, and steal the comic book from his desk.
+GID00034091	Slip some knock-out drops into the resident's Nuka-Cola, and take the comic book when he's unconscious.
+GID00034092	This is a military-issue ham radio, complete with a signal encoder/decoder interface for encrypting and deciphering transmissions.
+GID00034094	Leave the ham radio alone.
+GID00034095	Update the security codes for this radio.
+GID00034096	Low Karma Bink 2 for Ending Sequence
+GID00034098	Oh no! You've been exposed to radiation, and a mutated hand has grown out of your stomach! What's the best course of treatment?
+GID00034100	A bullet to the brain.
+GID00034101	Large doses of an anti-mutagen agent.
+GID00034102	Prayer. Maybe God will spare you in exchange for a life of pious devotion.
+GID00034103	Removal of the mutated tissue with a precision laser.
+GID00034104	It is unsafe to access your suite at this time.
+GID00034106	Low Karma Bink 1 for Ending Sequence
+GID00034110	Use a bobby pin to pick the lock on the door.
+GID00034111	Trade a vault hoodlum for his cherry bomb, and blow the door open.
+GID00034112	Go to the armory, retrieve a laser pistol, and shoot the lock off.
+GID00034113	Walk away, and let the old coot rot.
+GID00034114	Reflector panels on this array are damaged. Inspecting the damage, you quickly realize you lack the skill to repair the array without replacement parts. (Repair 65 or higher Required or Use Solar Array Parts)
+GID00034116	Leave it alone.
+GID00034117	High Karma Bink 3 for Ending Sequence
+GID00034119	Your grandmother invites you to tea, but you're surprised when she gives you a pistol, and orders you to kill another vault resident. What do you do?
+GID00034121	Obey your elder and kill the resident with the pistol.
+GID00034122	Offer your most prized possession for the resident's life.
+GID00034123	Ask granny for a Minigun instead. After all, you don't want to miss.
+GID00034124	Throw your tea in granny's face.
+GID00034125	High Karma Bink 2 for Ending Sequence
+GID00034127	Congratulations! You've made one of the Vault 101 baseball teams. Which position do you prefer?
+GID00034129	Pitcher.
+GID00034130	Catcher.
+GID00034131	Designated Hitter.
+GID00034132	None. You wish the vault had a soccer team.
+GID00034133	High Karma Bink 1 for Ending Sequence
+GID00034135	The Reactor is inactive.
+GID00034137	Ok.
+GID00034138	You discover a young boy lost in the lower levels of the vault. He's hungry and frightened, but also appears to be in possession of stolen property. What do you do?
+GID00034140	Give the boy a hug and tell him everything will be okay.
+GID00034141	Confiscate the stolen property by force, and leave the boy there as punishment.
+GID00034142	Pick the boy's pocket to take the stolen property for yourself, and leave him to his fate.
+GID00034143	Lead the boy to safety, and then turn him in to the Overseer.
+GID00034144	You examine the area and notice a bloody wrench and a toolbox nearby. Someone was killed here recently, and judging by the scene it was one of the engineers. You should keep an eye out for any engineers acting strangely.
+GID00034146	You are now hostile with Reilly's Rangers.
+GID00034148	Introduction Bink for Ending Sequence
+GID00034150	Leaf Mother Laurel's Liniment has strengthened Harold's Heart.
+GID00034152	While working as an intern in the clinic, a patient with a strange infection in his foot stumbles through the door. The infection is spreading at an alarming rate, but the doctor has stepped out for a while. What do you?
+GID00034154	Amputate the foot before the infection spreads.
+GID00034155	Scream for help.
+GID00034156	Medicate the infected area to the best of your abilities.
+GID00034157	Restrain the patient, and merely observe as the infection spreads.
+GID00034158	You are approached by a frenzied vault scientist, who yells, "I'm going to put my quantum harmonizer in your photonic resonation chamber!" What's your response?
+GID00034160	"But doctor, wouldn't that cause a parabolic destabilization of the fission singularity?"
+GID00034161	"Yeah? Up yours too, buddy!"
+GID00034162	Say nothing, but grab a nearby pipe and hit the scientist in the head to knock him out. For all you knew, he was planning on blowing up the vault.
+GID00034163	Say nothing, but slip away before the scientist can continue his rant.
+GID00034164	Oops! You're not sure what you just did, but it probably isn't good...
+GID00034168	You lack the Explosives skill needed to interact with the bomb (Explosives [%] or higher required).
+GID00034170	Primm Slim has died!
+GID00034172	The Vault-Tec Assisted Targeting System, or V.A.T.S., allows you to pause the game, assess any combat situation tactically, and target the specific body parts of any enemies onscreen.
+GID00034173	Pressing and holding &-sUActnVats; will pause the game and scan the area of targets.
+GID00034174	To zoom in on an enemy, simply select it and release &-sUActnVats;. You are now able to target the individual body parts of that enemy.
+GID00034175	The percentage value next to a body part indicates the chance to hit that body part with each shot. The small bar next to the body part indicates its condition; when the condition of a body part is completely reduced, that body part is crippled, and the targeted enemy will suffer the obvious ill effects -- crippling the legs reduces movement speed and any lunging attacks; crippling the arms affects accuracy, etc.
+GID00034176	When using a melee weapon or unarmed combat, you will need to be close to have a chance to hit. Both melee and grenades are "full body" attacks, and you cannot specify a specific body part. As you raise your Melee Weapons or Unarmed skill, you will gain the ability to perform special attacks with weapons using those skills.
+GID00034177	Every attack on a body part uses up Action Points. Generally, the smaller a weapon, the fewer Action Points are required for every shot. Keep in mind that you're not limited to shooting at just one target -- at any time, you can switch available targets, and attack them as well, so long as you have remaining Action Points.
+GID00034178	When you've used up all of your Action Points, and are ready to leave V.A.T.S., press [%].
+GID00034180	You disarm and remove the grenade.
+GID00034182	Poison Removed
+GID00034184	Current # of Kills: %g
+GID00034186	You got lucky and disarmed the bomb.
+GID00034188	You have already have a copy of this holotape.
+GID00034190	You see a secret compartment in the back of the freezer, just like the note said. However, you don't have the key to open the compartment. It must be back on the shelf of the storage room.
+GID00034192	It looks as though the damaged servos and gyroscopes could be replaced with the correct components (Requires 3 Pieces of Scrap Metal, 2 Sensor Modules, and some Scrap Electronics)
+GID00034194	Leave It Alone
+GID00034195	Fix It With The Parts
+GID00034196	Try To Fix It Without Parts (Repair)
+GID00034197	Examine The Electronics (Science)
+GID00034198	With the redundant systems compensating for the damaged primary circuitry many of the gyscopes begin spinning, the repair doesn't look like it'll be too complicated now. (Repair 35 or higher required)
+GID00034200	Leave It Alone
+GID00034201	Try To Fix It (Repair)
+GID00034202	Repair With Parts
+GID00034203	As you start to administer medications to the patient, his fever spikes and his breathing quickens. His injuries are well beyond your skill to treat.
+GID00034205	A few of the primary electronic systems seem to be fully functional, and the redundant systems are all working. If you bypass some of the primary systems the secondary systems should compensate and make some of the repairs easier. (Science 55 or higher required)
+GID00034207	Leave It Alone
+GID00034208	Try To Fix It (Repair)
+GID00034209	Run The Bypass
+GID00034210	The elevator is now offline.
+GID00034212	Intercom currently in use.
+GID00034214	Some servos and gyroscopes need to be recalibrated and replaced, but it looks as though the robot can be repaired. (Repair 65 or higher required)
+GID00034216	Leave It Alone
+GID00034217	Run the repair
+GID00034218	Examine The Electronics (Science)
+GID00034219	Repair With Parts
+GID00034220	Sergeant McGee has died!
+GID00034222	You attempt to search the vertibird for anything strange, but you can't tell the difference between a bomb and an actual part on the vertibird. Your search doesn't find anything.
+GID00034224	This is an advanced model robot with a reinforced frame. It is well weathered and appears to have seen a good bit of action. There is very little in the way of serious damage.
+GID00034226	Leave It Alone
+GID00034227	Try To Fix It (Repair)
+GID00034228	Try To Fix It (Repair)
+GID00034229	Examine The Electronics (Science)
+GID00034230	You have gained the Abominable perk (Rank [%])
+GID00034233	You have no Pulse Grenades to use.
+GID00034235	The Laser Tripwire Emitter has been armed.
+GID00034237	It is possible to trigger this bear trap without injuring yourself.
+GID00034239	Leave it alone.
+GID00034240	Disarm the Bear Trap.
+GID00034241	You are committing to fight for Mr. House at the battle for Hoover Dam which will determine the fate of New Vegas for decades to come.
+GID00034242	If there's anything you want to do before you enter the battle, do it now - before you cross the point of no return.
+GID00034244	I'm not ready yet.
+GID00034245	Let's do this!
+GID00034246	You have successfully deactivated the pressure plate.
+GID00034248	The processor widget looks like it should fit neatly into this mainframe.
+GID00034250	Leave the mainframe alone.
+GID00034251	Install the processor widget.
+GID00034252	Rex has gone to the Lucky 38.
+GID00034254	You begin to operate on the patient's leg, and things quickly start to go bad. You manage to tourniquet the wound to staunch the bleeding, but it is clear that the leg will never be fully functional again.
+GID00034256	The emitter has been rigged to activate when the power is turned on.
+GID00034260	ok
+GID00034262	"Only through observation will you perceive weakness."
+GID00034264	This is a Mark III Auto-Doc, primarily used for routine surgeries. This Auto-Doc is ready to go at the press of a button.
+GID00034266	Leave it alone.
+GID00034267	Activate surgery mode and remove Caesar's tumor.
+GID00034268	Activate autopsy mode and kill Caesar.
+GID00034271	ok
+GID00034272	All disabled body parts fully restored.
+GID00034274	This switch is used to test the various quest states that Moore puts you through.
+GID00034276	Pretend I killed the Great Khans.
+GID00034277	Pretend I recruited the Great Khans.
+GID00034278	Pretend I stopped Racket and the Omertas.
+GID00034279	Pretend I helped Racket and am about to lie to Moore.
+GID00034280	Pretend I killed Mr. House.
+GID00034281	Pretend I disconnected Mr. House.
+GID00034282	Pretend I destroyed the local Brotherhood of Steel.
+GID00034283	Pretend I recruited the local Brotherhood of Steel.
+GID00034284	Pretend I saved President Kimball.
+GID00034285	Pretend I failed to protect President Kimball.
+GID00034287	Leave him tied up.
+GID00034288	Untie him.
+GID00034289	It appears that you can disarm this tripwire.
+GID00034291	Leave it alone.
+GID00034292	Disarm the tripwire.
+GID00034293	You are now dressed as a Powder Ganger.
+GID00034295	You are committing to fight with Caesar's Legion at the battle for Hoover Dam which will determine the fate of New Vegas for decades to come.
+GID00034296	If there's anything you want to do before you enter the battle, do it now - before you cross the point of no return.
+GID00034298	I'm not ready yet.
+GID00034299	Let's do this!
+GID00034302	You use your Science skill to find and fix the faulty capacitor in the door release mechanism.
+GID00034303	(Science [%] passed)
+GID00034305	The Basin of Purification is filled with some sort of thick, viscous sap.
+GID00034307	Take a sample of the sap.
+GID00034308	Do nothing.
+GID00034309	You examine the the broken elevator panel and conclude that it is possible to repair it. Do you wish to repair it?
+GID00034311	Repair the Elevator Panel
+GID00034312	Leave it Alone
+GID00034313	You have lost ED-E's Enhanced Sensors perk.
+GID00034315	The switch appears to be broken.
+GID00034317	Do nothing.
+GID00034318	Attempt to fix the switch.
+GID00034319	Upon further examination after cleaning the leg, you realize it cannot be saved. You carefully begin to amputate the limb. During surgery, you notice the man's hand is gangrenous. You amputate that as well, saving his life.
+GID00034321	This man appears to have suffered a close range blast trauma. His upper torso is covered in cuts and is severely burned. Improper treatment will kill him. Would you like to treat him? (Medicine 75 or higher required)
+GID00034322	Alternatively, if you have Tweezers, Med-X, and a Super Stimpak you may be able to treat him.
+GID00034324	Leave him alone.
+GID00034325	Attempt to treat with medicine.
+GID00034326	Use medical equipment to treat.
+GID00034327	You've found Harold's Heart.
+GID00034329	Destroy Harold's heart.
+GID00034330	Apply Birch's Sap to stop Harold's growth.
+GID00034331	Apply Laurel's Liniment to accelerate Harold's growth.
+GID00034332	Do nothing.
+GID00034333	<div>
+GID00034334	In order to heal a crippled limb, you have three choices: sleep in a bed, find a doctor, or use a Stimpak to heal yourself. In Hardcore Mode, you may only heal crippled limbs by using Doctor's Bags or by visiting a doctor for medical care.
+GID00034335	<p>
+GID00034336	Stimpaks can be used for general healing (which will also slightly heal crippling damage), or they can be applied directly to a limb to heal crippling damage.
+GID00034337	<p>
+GID00034338	To heal a crippled limb directly using a Stimpak, navigate to the Stats screen in your Pip-Boy, then press [%] to switch to Limb mode. Now you can use [%] to select a limb, and [%] to use a Stimpak on the selected limb.
+GID00034339	<p>
+GID00034340	In Hardcore Mode, you may only heal crippled limbs by using Doctor's Bags or by visiting a doctor for medical care.
+GID00034342	The express elevator to the lobby has no power.
+GID00034344	It looks like you can only connect it to one part of the system at a time. Judging from the wires leading from the system, you have a general idea of where your broadcast will be heard. You guess that wherever your voice is heard, an armed response will shortly follow.
+GID00034346	Leave the radio alone.
+GID00034347	Broadcast along the paths leading up the mountain.
+GID00034348	Broadcast inside the village.
+GID00034349	Broadcast on the summit.
+GID00034350	This printing press is activated elsewhere.
+GID00034352	To sneak or crouch, [%].
+GID00034354	This purifier would provide clean water to Underpass, if it were functional. Whoever assembled it had no idea what they were doing - many parts are connected incorrectly or hooked up backwards. Someone with the proper knowledge could easily get the purifier operational.
+GID00034355	[Repair of 35 or greater required to fix the generator.]
+GID00034356	[Science of 35 or greater required to modify the generator's settings.]
+GID00034358	Leave the purifier alone.
+GID00034359	Repair the purifier using available parts.
+GID00034360	Modify the purifier's settings.
+GID00034365	Caesar died during the surgery.
+GID00034367	You are still dressed as a member of the Boomers.
+GID00034369	You have successfully disarmed the Grenade Bouquet and received three Grenades.
+GID00034371	Reflector panels on this array are damaged. You have no idea how to begin salvaging the array. (Repair 20 or higher Required)
+GID00034373	Leave it alone.
+GID00034374	Harold's Heart is destroyed.
+GID00034376	This man appears to be severely injured. Swelling around his face and neck is interfering with his breathing. Improper treatment will kill him. Are you sure to want to treat him? (Medicine 60 or higher Required)
+GID00034378	Leave him alone.
+GID00034379	Attempt to treat him.
+GID00034380	Meyers has died!
+GID00034382	Cass has given you the Whiskey Rose perk.
+GID00034384	Lily has returned to Jacobstown.
+GID00034386	The express elevator to the lobby has no power. You lack the skill needed to restore it to working order (Repair 75 or higher required).
+GID00034388	Welcome to Hardcore Mode! There are three basic needs that Hardcore Mode requires you to monitor: dehydration (H2O), starvation (FOD), and sleep deprivation (SLP). Each of these needs must be monitored and kept in check or you will suffer penalties and, in extreme cases, death.
+GID00034389	Your needs are continually ticking away and can be monitored on the Status screen of your Pip-Boy. When you start to suffer ill-effects from neglected needs, your HUD will display the corresponding code for that need. Be aware that waiting, sleeping, and Fast Travel will also affect your needs. If performing any of these activities would result in death, you will be prevented from doing so.
+GID00034390	* Dehydration (H20) - Dehydration increases at a faster pace than starvation or sleep deprivation. It can be relieved by drinking water or eating certain types of food. Some drinks, such as alcohol and soda, can increase dehydration, so be careful!
+GID00034391	* Starvation (FOD) - The onset of starvation is slower than dehydration, but quicker than sleep deprivation. It can be relieved by eating food.
+GID00034392	* Sleep Deprivation (SLP) - Sleep deprivation is the most low-maintenance of the basic needs. Though a few chems and drinks can help offset sleep deprivation, nothing beats sleep itself.
+GID00034394	Now you know how to grab and release objects. Now grab the toy again and take it to the play mat.
+GID00034396	Title, not text when changing names!
+GID00034400	You place the NCR bug inside a crack in the radio.
+GID00034402	Use the left stick to move around. The right stick turns you.
+GID00034404	Everything necessary to cook a meal is here at your disposal. As long as Philippe isn't there to stop you.
+GID00034405	(Survival of 75 or higher required to improvise a meal using no recipe.)
+GID00034406	(Intelligence of 6 or higher and a recipe required to cook following the recipe.)
+GID00034408	Do nothing.
+GID00034409	[Survival] Improvise a meal of imitation human flesh.
+GID00034410	[Intelligence] Cook imitation human flesh using recipe.
+GID00034411	What would you like to do with your My First Infirmary?
+GID00034413	Heal Yourself
+GID00034414	Restore Damaged Limbs
+GID00034415	Remove All Rads
+GID00034416	Do Nothing
+GID00034417	Well, then, let {gramma}grandma see what she's got....{audio breaks up into static over this line}
+GID00034419	Yes!
+GID00034421	This gate keeps the Legion Mongrels inside. It appears that the locking mechanism can be tampered to seal the gate shut. Also, you could try to slip a narcotic into the cage to knock the mongrels out. What would you like to do?
+GID00034423	Leave the mechanism alone
+GID00034424	[REPAIR] Try to lock the gate shut.
+GID00034425	[REPAIR] Remove the mechanism's springs to seal the gate shut.
+GID00034426	Well, now, I don't know... have you been good for your mommy and daddy?
+GID00034428	The computer has been rigged to explode. It could be possible to disarm and remove the grenade.
+GID00034430	Leave it alone.
+GID00034431	Attempt to defuse.
+GID00034432	You do not have the required skill to fix the switch. [Science [%]]
+GID00034434	You don't have the skill necessary to seal this mechanism shut. What would you like to do?
+GID00034436	Leave the mechanism alone
+GID00034437	As you start to work on the circuit board, a series of sparks shoots out. You stop before causing damage and attracting attention.
+GID00034439	Did you bring us presents, grandma?
+GID00034441	You don't think you accomplished much, but you feel better.
+GID00034443	Hannibal Hamlin is dead.
+GID00034445	I'm four whole feet, grandma!
+GID00034447	Oh, my goodness, look at these little angels! Becky, that dress looks so lovely! And Jimmy, my word how you've grown!
+GID00034449	You do not have the items required to create a Shishkebab. You currently have: Motorcycle Gas Tank: [%], Pilot Light: [%], Lawnmower Blade: [%], Motorcycle Handbrake: [%]
+GID00034451	You have gained the Camel of the Mojave perk.
+GID00034453	{burst of static cuts in to child's voice}Grandma's here! Grandma's here!{Sounds of excitement, like two small children mobbing grandma at the door}
+GID00034455	Lily has gone to the Lucky 38.
+GID00034457	You don't know how to make that weapon yet.
+GID00034459	You've been exposed to Harold's mutation and your skin is now as hard as tree bark.
+GID00034461	You successfully repair the elevator panel.
+GID00034463	You have lost Rex's Search and Mark perk.
+GID00034465	Major Knight has died!
+GID00034467	This person is rigged with an explosive.
+GID00034469	Attempt to disarm.
+GID00034470	Leave it alone.
+GID00034471	You fail to disarm the trap.
+GID00034473	UNUSED
+GID00034475	The fallen will the gift of bloody reprisal.
+GID00034477	Wrap the dog tags around your fists.
+GID00034478	Do nothing.
+GID00034479	Trigger zone initialized.
+GID00034481	You quickly cram a brick of C4 into Watson's helmet and rig it to your detonator. This will really blow their minds.
+GID00034483	You have gained the Bug Stomper perk (Rank [%])
+GID00034485	What would you like to do with your Nuka-Cola Machine?
+GID00034487	Get some Ice Cold Nuka-Cola
+GID00034488	Add all Nuka-Colas you're carrying and make them Ice Cold
+GID00034489	Do nothing
+GID00034490	Tabitha: Not now, Raul!
+GID00034492	It appears that you can disarm this pressure plate.
+GID00034494	Leave it alone.
+GID00034495	Disarm the pressure plate.
+GID00034496	You cannot help the captive while in combat.
+GID00034498	The 9mm submachinegun preserved in the glass case to the left of this plaque is the ACTUAL weapon Vance carried in a paper-wrapped box under some suitcases in the trunk of his car during his and Vikki's crime spree! Never fired, and luckily untouched by the hail of bullets that ended its notorious owner's life, the weapon's mint condition inspires dread in all who look upon it. Experts speculate that Vance might have killed as many as fifty people had he ever fired the gun - so long as his aim was exact and he was starting off with a full clip - or even more if he had additional ammo clips and remembered to reload!
+GID00034500	You alter the trajectory of the rockets so that they will crash into one another on launch.
+GID00034502	The Basin of Purification is filled with some sort of thick, viscous sap.
+GID00034504	Drink the sap.
+GID00034505	Do nothing.
+GID00034506	Forlorn Hope has sustained heavy casualties, but the fortification stands. We have successfully defended Forlorn Hope.
+GID00034508	What type of grenade will you use to re-arm the trap?
+GID00034510	Leave it alone.
+GID00034511	Frag.
+GID00034512	Pulse.
+GID00034513	Plasma.
+GID00034514	You have lost Lily's Stealth Girl perk.
+GID00034518	Yes{long pause} Forlorn Hope has fallen. Some troops managed to fall back, but the fortification is lost.
+GID00034520	Your schematic has been improved.
+GID00034522	The troops at Forlorn Hope, assisted by First Recon, have repelled the Legion in what will surely be the most decisive victory in this entire battle.
+GID00034524	Value=[%]
+GID00034526	The troops at Forlorn Hope, assisted by First Recon, have repelled the Legion attack with very few casualties.
+GID00034528	I'm receiving reports that Forlorn Hope has been totally overrun, and the Legion is killing civilians as far as the township called Novac.
+GID00034534	There's no response from the intercom.
+GID00034536	I'm{long pause} not getting any more information from Forlorn Hope. The Camp appears to have been totally overrun.
+GID00034538	There is a confirmed report that the Legion mounted a simultaneous assault at Camp Forlorn Hope.
+GID00034540	You quickly disassemble the core components of the bomb's fission reactor.
+GID00034542	After a few close calls, you manage to stich up Timebomb's wounds. He should be fine.
+GID00034544	You can't focus on that while you are in combat.
+GID00034546	You do not have all of the required items.
+GID00034548	"Nothing says pizzazz like a winning smile."
+GID00034550	You quickly ascertain that the robot's current AI state is set to hibernate, likely a self-defense mechanism after the unit suffered catastrophic damage. Whoever repaired it probably didn't know how to reset its AI. After flipping the right switch, the robot jumps to life.
+GID00034552	This is a Mark III Auto-Doc, primarily used for routine surgeries. However, the diagnostic scanning unit is burnt out, rendering this Auto-Doc useless.
+GID00034554	Leave it alone.
+GID00034555	Install the replacement diagnostic scanning unit.
+GID00034556	Arcade has given you the Better Healing perk.
+GID00034560	Stonewall blocked a knockdown attempt!
+GID00034562	You modify the path of the rockets to land closer to their target.
+GID00034564	As you start to administer medications to the patient, his fever spikes and his breathing quickens. His sickness is well beyond your skill to treat.
+GID00034566	This box controls the power to the west side of the power plant.
+GID00034568	Leave the control box alone.
+GID00034569	Overload and blow it up!
+GID00034570	We aren't going to be able to reinforce the Strip against the Omerta assault there. How the fuck did this happen? Jesus.
+GID00034572	The monorail at Camp McCarran just exploded. I'm not getting any reports of any fighting, but the monorail is gone for sure.
+GID00034574	No encounters currently available in this set -- resetting trigger zone.
+GID00034576	You've already rigged the control console. You leave it alone before you attract any unwanted attention.
+GID00034578	You are now dressed as a member of the Great Khans.
+GID00034580	Jericho has died!
+GID00034582	As you flip the switch, the radio station goes silent. Only static plays over the speakers.
+GID00034584	The Barter screen allows you to trade, buy or sell items. The types of items that can be traded, bought, or sold depend on the person you're trading with. The prices you get for buying or selling depend on your Barter skill.
+GID00034585	To Barter, simply select an item and move it from your inventory into the other person's (if you want to sell or trade one of your own items) or from the other person's inventory into your own (if you want to buy or trade for one of their items).
+GID00034586	As items are moved back and forth, caps will also be automatically moved between both parties. This is represented by the large "caps" arrow in the middle.
+GID00034587	If the arrow is darkened, it means one of you doesn't have enough caps to complete the transaction. You cannot accept the barter if you don't have enough caps. But you can accept it if the other person doesn't have enough, but at this point, you are giving items away for free.
+GID00034589	The drawers of this filing cabinet are all labeled "Patient Records" followed by a subset of the alphabet.
+GID00034591	Leave the filing cabinet alone.
+GID00034592	Search for Pacer's patient file.
+GID00034593	Boone has given you the Spotter perk.
+GID00034595	The flashing arrow on your compass shows the location of your objective.
+GID00034597	Much of the text on the screen is encoded in some sort of cipher. You won't be able to decode it without Veronica present.
+GID00034604	The elevator does not seem to be working. If you had more experience with fixing machinery, you could probably get it working.
+GID00034605	(Repair 50 required)
+GID00034607	Leave the elevator alone.
+GID00034613	Cook-Cook becomes frenzied at the death of his favorite brahmin.
+GID00034615	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00034616	The inscription on the base reads "Always strive for the unobtainable."
+GID00034617	Your Lockpick skill has been permanently increased by 10 points.
+GID00034625	There is a pool of blood on the floor.
+GID00034626	[Perception 6 required]
+GID00034628	Do nothing.
+GID00034629	Examine the stain.
+GID00034630	Using your knowledge of photovoltaic cells, you thoroughly clean, polish, and upgrade the solar panels. You also clean and rewire some degraded circuits you spotted. Array efficiency improved by 50%%.
+GID00034632	All radiation removed.
+GID00034634	You slowly wrap the chains of the fallen around your hands.
+GID00034636	The thug appears dead, a victim of your recent fight.
+GID00034637	(Medicine 30 or higher required.)
+GID00034639	Leave the corpse alone.
+GID00034640	(Medicine) Examine the body closely.
+GID00034641	Burke has been killed. You can no longer receive a reward for blowing up Megaton.
+GID00034644	This baby carriage has been disarmed.
+GID00034646	Leave it alone.
+GID00034647	Rearm as a timed trap (10 seconds).
+GID00034648	Rearm as a Proximity Trap.
+GID00034649	You have just enough skill to recognize that you are about to do more harm than good. You stop before causing any serious complications.
+GID00034651	You must have a Repair skill of at least 40 to try and fix this robot.
+GID00034653	Leave the robot alone.
+GID00034654	Destroy the robot.
+GID00034655	You lack the skill to unlock the door. [Lockpick 50]
+GID00034657	Do nothing.
+GID00034658	Veronica has returned to the Lucky 38.
+GID00034660	This one of Argyll's patients. You should speak to him before you investigate them.
+GID00034662	Each time you take a chem or drink alcohol, your chance of becoming addicted to it goes up. If you stop using the drug for a while, this chance will drop. Each drug has its own addiction chance, so using one type will not increase your chance of becoming addicted to another.
+GID00034663	Addiction will hurt some of your S.P.E.C.I.A.L. attributes. These penalties go away temporarily if you take that drug again. A doctor can cure you of any addiction, for a price.
+GID00034664	You cannot become addicted to Stimpaks, Rad-X or RadAway.
+GID00034668	This sentry bot looks like it's seen some heavy fighting recently. You could probably get it running again if you knew a little more about machines.
+GID00034669	(Repair 40 required)
+GID00034671	Redeem your Prize Vouchers here! Exhibit and Prizes sponsored by Med-Tek Laboratories.
+GID00034673	That person is busy talking to someone else at the moment.
+GID00034675	[Success] Bypassing several broken redundant coprocessors using nothing more than bobby pins, tape, and a trooper's swiss army knife, you manage to get the machine running!
+GID00034677	What would you like to do with your My First Laboratory?
+GID00034679	Create a New Compound
+GID00034680	De-Toxify Yourself
+GID00034681	Do Nothing
+GID00034682	You smash the radio violently, destroying it beyond the possibility of repair.
+GID00034685	Stay Here
+GID00034686	Penthouse
+GID00034687	Pearl has died!
+GID00034689	Big Sal has died!
+GID00034691	You now have radiation poisoning. Visit a doctor or take RadAway to lower your radiation level. You can also protect yourself ahead of time by taking Rad-X, which increases your Radiation Resistance.
+GID00034693	Star Paladin Cross has died!
+GID00034695	You carefully clean the wounds and apply antibiotics before stitching the wounds closed. The patient will recover completely in time.
+GID00034697	There appears to be an automated door hidden behind this wall. It looks like it could be jammed shut, with the proper skills. (Repair 65 or higher required)
+GID00034699	Leave It Alone
+GID00034700	Jam Opening Mechanism
+GID00034701	"There's only one way to give 110%%."
+GID00034703	Given your understanding of explosives, it could be possible to disarm the Grenade Bouquet and collect the grenades.
+GID00034705	Leave it alone.
+GID00034706	Disarm the Grenade Bouquet.
+GID00034707	You successfully fix the switch.
+GID00034711	The robot lies inert on the table, giving no indication of having worked recently, or ever. A nameplate on part of the surface is scratched and mostly faded, but you can still make out the faint word "Rhonda". If you knew more about how robots function, you might be able to get it working again.
+GID00034712	(Science 60 required)
+GID00034714	You failed to disarm the trap. Let's hope you survive to try again.
+GID00034716	You have gained the Machine Head perk (Rank [%])
+GID00034718	[Repair, 20] It would be possible to repair this generator if you were more skilled.
+GID00034720	Remove TalkToPC
+GID00034722	You failed to disarm the trap. Might be a good time to run.
+GID00034724	Raul has given you the Full Maintenance perk.
+GID00034726	You failed to disarm the trap. It all seemed so much easier in your head.
+GID00034728	You failed to disarm the trap. It looks like you made the grenades angry.
+GID00034732	You failed to disarm the trap. You probably shouldn't have cut the red wire.
+GID00034734	You are now locked out of the terminal. You'll have to find the password somewhere.
+GID00034736	Add TalkToPC
+GID00034738	Knight McNamara
+GID00034740	"It's important to do business up close and personal."
+GID00034742	The collar has begun to emit a high-pitched beeping noise.
+GID00034744	The box now contains nothing save for a simple handwritten note.
+GID00034746	Caesar is in a coma and is near death. Only an operation to remove the tumor from his brain will save him.
+GID00034747	You have both a set of Surgical Tools and a Doctor's Bag. Whether it'll be enough to save Caesar's life, however, remains to be seen.
+GID00034748	(Medicine of 75 or greater required.)
+GID00034750	Leave Caesar alone.
+GID00034751	Perform the operation.
+GID00034752	Arrange for Caesar to die during the surgery.
+GID00034753	Trust in your luck and perform the operation.
+GID00034754	Sierra Petrovita has been killed.
+GID00034756	Roulette is a game of chance in which a ball is spun on a spinning wheel marked with 38 colored and numbered pockets. As the ball loses momentum, it eventually drops into one of the pockets. Before the ball is spun, players place bets on individual numbers or groups of numbers, the colors red or black, or whether the number will be odd or even. If the ball lands in a pocket covered by one of the player's bets, he or she receives a reward proportional to the odds of his or her bet. Player bets fall into two categories: inside bets and outside bets.
+GID00034757	Inside Bets - Inside bets are placed on the numbered sections of the board or on the outside edges.
+GID00034758	* Straight-Up - A single number. The chip is entirely inside the square.
+GID00034759	* Split - Two adjoining numbers. The chip is placed on the line between the numbers.
+GID00034760	* Street - Three numbers in a horizontal line. The chip is placed at the edge of a line.
+GID00034761	* Six Line - Two adjoining streets. The chip is placed at the edge between two streets.
+GID00034762	* Corner - Four numbers in a square. The chip is placed at the intersection of the four numbers.
+GID00034763	* Basket - 0, 1, and 2; 0, 00, and 2; or 00, 2, and 3. The chip is placed at the intersection between the three numbers.
+GID00034764	* Top Line - 0, 00, 1, 2, and 3. The chip is placed at the corner of 0 and 1.
+GID00034765	Outside Bets - Outside bets are played off of the main numbered section of the board and never include 0 or 00.
+GID00034766	* 1-18, 19-36 - The first and second halves of the numbered board.
+GID00034767	* Red, Black - Red and black numbers.
+GID00034768	* Even, Odd - Even and odd numbers.
+GID00034769	* 1st, 2nd, 3rd Dozen - The first (1-12), second (13-24) or third (25-36) set of numbers.
+GID00034770	* 1st, 2nd, 3rd Column - A bet on an entire vertical column of numbers. The chip is placed at the base of the column.
+GID00034773	The express elevator to the lobby has no power.
+GID00034775	Repair the elevator with the Fission Battery.
+GID00034776	Do nothing.
+GID00034777	You have abandoned Vault 101.
+GID00034779	OK
+GID00034780	"It's essential to give your arguments impact."
+GID00034782	Cachino has died!
+GID00034784	This is a military-issue ham radio, complete with a signal encoder/decoder interface for encrypting and deciphering transmissions.
+GID00034786	Leave the ham radio alone.
+GID00034787	Update the security codes for this radio.
+GID00034791	Your repair skill allows you to disarm the pitching machine.
+GID00034793	Leave it alone.
+GID00034794	Disarm Pitching Machine.
+GID00034795	The transceiver is now dead. The connection must have been cut from the other side.
+GID00034797	The fusion pulse charge must be rigged to the atomic bomb before it can be detonated.
+GID00034799	You are no longer dressed as a member of the NCR.
+GID00034801	Now, MUSIC!
+GID00034803	This appears to be a good location to attach one of the deployable ballast packages. Would you like to attach it to the plane?
+GID00034805	Attach Ballast
+GID00034806	Leave
+GID00034807	You are looking at the Presidential vertibird. The assassins could have done something to the vertibird. (Repair or Explosives 50 or higher Required)
+GID00034809	Leave the vertibird alone.
+GID00034810	Examine the vertibird.
+GID00034811	The console displays a wealth of information concerning the predicted trajectory of the rockets.
+GID00034812	What do you wish to do?
+GID00034814	Examine the navigation data further.
+GID00034815	Set the rockets to crash into one another.
+GID00034816	Leave the console alone.
+GID00034817	Your Repair skill is not high enough to fix this broken door, but it seems to have been tampered with.
+GID00034818	(Repair [%] or higher required)
+GID00034820	The mess of wires and scrap metal confuses you. Perhaps if you knew a bit more about semiconductors and power cell technology, you might know where to begin disassembly.
+GID00034822	You are now Well Rested!
+GID00034824	On the skeleton, you find a note that reads: "Dear World, Fuck you. Love, JE"
+GID00034826	This man's leg is seriously injured. It may require amputation to save him. Are you sure to want to attempt the operation? (Medicine 50 or higher required)
+GID00034827	Alternatively, if you have a Medical Brace, Med-X, and a Bonesaw you may be able to treat him.
+GID00034829	Leave him alone.
+GID00034830	Perform the operation with medicine.
+GID00034831	Use medical equipment to operate.
+GID00034832	You decide you need to perform a tracheotomy to open up his air pathway. As you haphazardly stab the patient in the neck, a piece of your straw snaps off in his throat causing the patient to choke to death.
+GID00034834	Repeating encounter chance: [%]
+GID00034840	This heap of debris appears to be hiding something useful.
+GID00034842	Mr. House Interface.
+GID00034844	Unplug Mr. House.
+GID00034845	Overload Mr. House.
+GID00034846	Leave Mr. House alone.
+GID00034847	This baby carriage is rigged with an explosive.
+GID00034849	Leave it alone.
+GID00034850	Attempt to disarm.
+GID00034851	The control box is damaged and no longer functioning.
+GID00034853	You have entered the boomer trigger. Good luck.
+GID00034857	The My First Laboratory has completed a compound.
+GID00034859	You repaired the howitzer. The NCR will be in for a surprise.
+GID00034861	In addition to showing the direction you are currently facing, your compass displays several other useful pieces of information.
+GID00034862	If you have an active quest, any quest targets will be displayed on your compass as arrows. A quest target will flash faster and faster as you get closer to it. If you have placed your own marker on the map, this will be displayed as a transparent arrow.
+GID00034863	People and creatures that you perceive are displayed on the compass as vertical bars. Red bars indicate enemies.
+GID00034864	Out in the Wasteland, the compass also indicates nearby locations as small triangles.
+GID00034866	The My First Laboratory is currently brewing a new compound which should take about a day. Detoxify is not available until it's completed.
+GID00034868	Call for NCR Support?
+GID00034870	Cancel [no support]
+GID00034871	Call for NCR Trooper Support
+GID00034872	Call for NCR Ranger Support
+GID00034873	Call for NCR Patrol Ranger Support
+GID00034874	Call for NCR Combat Ranger Support
+GID00034875	Call for NCR Supply Support
+GID00034876	Reputation with NCR too low - Support Withdrawn
+GID00034877	Outside NCR Operational Area - Relocate and repeat transmission
+GID00034878	NCR Support Exhausted - Resupply at 2400 hours
+GID00034879	You have no Frag Grenades to use.
+GID00034881	Preorder package items added to your suite at the Lucky 38.
+GID00034883	This appears to be a radio used to communicate with The Fort.
+GID00034885	Plant the NCR bug.
+GID00034886	Do nothing.
+GID00034887	Restoring power to this broadcast station has amplified a faint signal being transmitted from somewhere in the nearby area.
+GID00034889	The express elevator to the lobby is functioning properly.
+GID00034891	You cut a few solders on the circuit board and rewire it to slowly build up a charge that will cause the gun to explode sometime during the speech.
+GID00034894	Leave the generator alone.
+GID00034895	Turn off generator.
+GID00034896	You are now dressed as a member of Caesar's Legion.
+GID00034898	You are still dressed as a member of the Brotherhood of Steel.
+GID00034902	Vance's teachings have granted you the ability to regain 20 HP from the consumption of Bloodpacks.
+GID00034904	After carefully considering treatment options, you realize the patient is merely having a strong allergic reaction. By cleaning all wounds of ant venom, and administering a steroid compound, you reduce the swelling and the patient's breathing returns to normal.
+GID00034906	The terminal seems to be locked into its new settings.
+GID00034908	Your luck has increased!
+GID00034910	Your stealth state is displayed when you crouch (&-sUActnCrouch;). [HIDDEN] means nobody detects you. [CAUTION] means someone is searching for you. [DANGER] means you have been detected by an enemy.
+GID00034911	How stealthy you are is affected by many factors:
+GID00034912	* Sneak skill: Your Sneak skill only helps you when you are crouching. The higher your Sneak skill, the easier it is to remain undetected, steal an item, or pick someone's pocket.
+GID00034913	* Line of sight: An enemy is much less likely to detect you if he can't see you.
+GID00034914	* Light level: You are harder to see in darker areas.
+GID00034915	* Movement: You are hardest to detect when motionless, easiest to detect when running.
+GID00034916	* Apparel weight: Heavier apparel makes more noise when moving.
+GID00034917	* Sound: Most melee weapons make very little noise; bigger guns make a lot of noise.
+GID00034918	Attacking while undetected gives you an automatic "sneak" critical.
+GID00034920	You are looking at the Presidential Vertibird. This is a perfect place to put a bomb to kill President Kimball. (Explosives 50 or higher Required)
+GID00034922	Leave the vertibird alone.
+GID00034923	Plant the bomb.
+GID00034924	Welcome to the Vault-Tec Assisted Targeting System, or V.A.T.S.
+GID00034925	V.A.T.S. displays the chance you will hit, along with the condition of each body part.
+GID00034926	&-sUActnUse;: Attack your target
+GID00034927	[%]: Change body parts
+GID00034928	[%]: Change targets
+GID00034929	[%]: Cancel an attack
+GID00034930	[%]: Accept your actions
+GID00034931	The number of attacks you can make is limited by your Action Points.
+GID00034935	You have repaired the food processor!
+GID00034937	Raul: Sigh.
+GID00034939	There is no response from Reilly, she appears to be in some sort of a coma.
+GID00034943	For more information, press START and select Help.
+GID00034947	You do not have the items required to create a Bottlecap Mine. You currently have: Lunch Box: [%], Cherry Bomb: [%], Sensor Module: [%], Caps: [%]
+GID00034949	UNUSED
+GID00034951	Lily has died.
+GID00034953	You examine the the broken gas valve and conclude that it is possible to repair it. Do you wish to repair it?
+GID00034955	Repair the Gas Valve
+GID00034956	Leave it Alone
+GID00034957	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00034958	The inscription on the base reads "The best way to win an argument is to be the loudest."
+GID00034959	Your Big Guns skill has been permanently increased by 10 points.
+GID00034961	With the duel concluded, your regular equipment has been returned to you.
+GID00034963	This door no longer operates.
+GID00034965	This junction box could be rewired to override the security door controls, disconnecting it from the automated security system and opening the door.
+GID00034966	Repair of 60 or greater required.
+GID00034968	Leave the junction box alone.
+GID00034969	Rewire the junction box.
+GID00034970	You repaired the purifier. It's now producing clean water.
+GID00034972	Welcome to the Mojave Express!
+GID00034973	Mojave Express drop boxes, like this one, can be used to deliver items to any Mojave Express Dropbox that you've discovered. Once you find a Mojave Express Dropbox, just activate it and you will be able to use that location to send and receive items.
+GID00034975	Most game play in Caravan occurs during the Contract War. In this phase, both players are attempting to build their caravans and get them signed. To do this, their caravan must be neither light (below 21) or burdened (over 26). They must also compete with their opponent on the same track to prevent being outbid within the legal range.
+GID00034976	On each of the three tracks, a caravan is considered signed if its value is from 21 to 26 and it is higher than the opponent's caravan on the same track. If two caravans are tied, neither is signed until the tie is broken. The game ends when all three tracks have signed contracts. Note: it is possible for a player to win while signing only two of the three contracts (the third going to the opponent). In such cases, all winnings still go to the overall victor.
+GID00034977	Players have the following options on their turn:
+GID00034978	* Play one card and draw a new card from his or her deck.
+GID00034979	* Discard one card from his or her hand and draw a new card to replace it.
+GID00034980	* Remove one of his or her own caravans from the table, discarding all cards in it.
+GID00034981	Caravans are primarily built with numbered cards and aces, which can be placed in the player's caravans according to the following rules. Caravans with more than one card have a direction (ascending or descending) and a suit. Direction is determined by the last two cards in a caravan, suit by the last card in a caravan. All subsequent cards must continue in the same direction OR they must match suit. Cards of the same numerical value cannot be played in sequence, regardless of suit.
+GID00034982	Face cards can be attached to numbered cards and aces in any player or opponent caravan. Face cards affect numbered cards and aces in various ways:
+GID00034983	* Joker - Played against A, 2-10. Effects change based on whether it is an ace or numbered card (see below). Multiple jokers may be played on the same card.
+GID00034984	* Ace - Value of 1. Jokers played on aces remove all other non-face cards of the ace's suit from the table. E.g. a joker played on an ace of spades removes all spades (except face cards and that card, specifically) from the table.
+GID00034985	* 2-10 - Listed value. Jokers played on these cards remove all other cards of this value from the table. E.g. a joker played on a 4 of hearts removes all 4s (other than that card, specifically) from the table.
+GID00034986	* Jack - Played against A, 2-10. Removes that card, along with any face cards attached to it.
+GID00034987	* Queen - Played against A, 2-10. Reverses the current direction of the hand, changes the current suit of the hand. Multiple queens may be played on the same card.
+GID00034988	* King - Played against A, 2-10. Multplies the value of the card upon which it is played. Multiple kings on the same card will have a multiplicative effect. E.g. one king on a 3 = 6. Two kings on a 3 = 12.
+GID00034990	The door to Karen Schenzy's House is locked.
+GID00034992	Knock on the door.
+GID00034993	Do nothing.
+GID00034994	You are no longer dressed as a Powder Ganger.
+GID00034998	This man appears to be near death. He doesn't seem to notice you.
+GID00035000	Remove PathToPC
+GID00035004	An examination of the radio's internal components reveals that several parts and connections were popped loose when the radio hit the floor. It should be a fairly simple repair job to get it working again.
+GID00035005	[Repair of 20 or greater required.]
+GID00035007	Leave it alone.
+GID00035008	Repair the radio.
+GID00035009	[%]: Apply torque with the screwdriver
+GID00035010	[%]: Rotate the bobby pin
+GID00035011	[%]: Force Lock
+GID00035012	When torque is applied, the closer the bobby pin is to the correct position, or "sweet spot," the more the lock will rotate before the bobby pin breaks. Only when the bobby pin is in the correct position will the lock rotate fully, and open.
+GID00035013	You can also try to open a lock by forcing it, but if you fail the lock will be permanently broken and can only be opened with a key.
+GID00035015	Moira Brown has died, and her book will never be written.
+GID00035017	OK
+GID00035018	You successfully repair the gas valve. It can now be operated.
+GID00035020	You think if you had a remote detonator, you could set it up to cause the generators to explode.
+GID00035022	Add PathToPC
+GID00035024	The detonator does not appear to do anything.
+GID00035026	You plug your remote detonator into the terminal and set the primary trigger mechanism to begin the diagnostics on the generators, activating the detonator should cause the generators to explode.
+GID00035029	You search the vertibird and notice a strange item that doesn't belong. Upon examination you notice it's a bomb. You skillfully disable the bomb and remove it from the vertibird.
+GID00035033	Your Repair skill is not high enough to interact with the trap.
+GID00035034	(Repair [%] or higher required)
+GID00035038	You've found the Vault 87 Garden of Eden Construction Kit (or G.E.C.K.). What do you want to do?
+GID00035040	Pick Up the G.E.C.K.
+GID00035041	Activate the G.E.C.K.
+GID00035042	Do nothing.
+GID00035043	[%]: Move around
+GID00035044	[%]: Look around
+GID00035045	&-sUActnUse;: Attack
+GID00035046	&-sUActnBlock;: Aim/Block
+GID00035047	&-sUActnActivate;: Activate Objects
+GID00035048	&-sUActnRdyitem;: Reload Weapon (Hold to holster)
+GID00035049	&-sUActnMenumode;: Pip-Boy 3000
+GID00035050	&-sUActnJump;: Jump
+GID00035051	&-sUActnCrouch;: Sneak (Toggle)
+GID00035052	&-sUActnGrab;: Grab
+GID00035053	&-sUActnTogglepov;: View Switch (Hold to adjust)
+GID00035054	&-sUActnVats;: Vault-Tec Assisted Targeting System (Hold to scan)
+GID00035056	You have gained the Day Tripper perk.
+GID00035058	Rock-It Launcher created.
+GID00035060	With a combination of natural herbs, bandages, and some disinfectant, you are able to clean the wounds and help boost the patient's immune system enough that he'll survive.
+GID00035062	"We're cut off from the rest of the platoon, and there are legionnaires all over the place. There's no chance we can get out of here before they blow the town, so we're going to hold out against them as along as we can. If anyone ever gets this, I'd like to make sure that Private Jeffery Hui and Corporal Marcus Christensen are commended for their valor and sacrifice. Both have upheld the ideals and honor of the New California Republic with distinction. Ranger Teresa Lutz, out."
+GID00035064	You found a Limited Edition Mojave Landmark Snowglobe!
+GID00035066	The console is unresponsive. For it to operate properly, it would need to be activated during peak sunlight hours (9 AM - 3 PM), a power configuration would need to be set up in the tower's mainframe, and the two ground-level terminals would need to have an active uplink to the mainframe.
+GID00035068	Leave.
+GID00035069	Random Position is [%]
+GID00035071	The express elevator to the lobby has no power. You are currently unable to restore it to working order (Repair Skill of 75 or possession of a unique tool required).
+GID00035073	You repaired the generator.
+GID00035075	This man looks like he has a serious infection. Improper treatment will kill him, would you like to treat him? (Medicine 40 or higher Required)
+GID00035077	Leave him alone.
+GID00035078	Treat the infection.
+GID00035079	You are inspired by the sacrifice of the fallen.
+GID00035081	Advanced technology from the Commonwealth has increased your reaction speed, giving you a higher chance to hit in V.A.T.S.
+GID00035083	This Laser Tripwire Emitter is armed.
+GID00035084	(Repair [%] or higher required) or
+GID00035085	(Science [%] or higher required)
+GID00035087	Leave it alone.
+GID00035088	Disarm the Laser Tripwire Emitter.
+GID00035089	Raul has given you the Regular Maintenance perk.
+GID00035091	You can only have one follower at a time.
+GID00035093	Tabitha: I'm not screwing around here. I'm prepared to blow this whole place to hell if I have to.
+GID00035095	Shorty has died.
+GID00035097	Repair robot?
+GID00035099	Do nothing.
+GID00035100	Repair robot.
+GID00035101	You have received the specialized training needed to move in any form of Power Armor.
+GID00035103	You are looking at the Presidential Vertibird. This is a perfect place to put a bomb if you had one.
+GID00035105	You'll need a shovel to dig here.
+GID00035107	These mannequins display replicas of some of the clothing that was found in the trunk of Vikki and Vance's death car. Vance didn't share Vikki's sense of fashion, and chose to dress himself how he envisioned a gangster would dress.
+GID00035109	The grease on the bottle cap press is fresh, indicating that someone used it recently.
+GID00035111	Leave it alone.
+GID00035112	Strip all the important-looking bits out of the machine.
+GID00035113	With your current medical skill, there's no chance that Caesar would survive the surgery.
+GID00035115	"The best way to win an argument is to be the loudest."
+GID00035117	If your science skill was higher, you might be able to determine a use for some of the things in this heap of debris.
+GID00035118	(Science 20 or higher required)
+GID00035120	You should stay and enjoy your birthday party.
+GID00035122	You've installed the override chip.
+GID00035124	Before you venture deeper into the wasteland, you may revise your character.
+GID00035126	Edit Name
+GID00035127	Rebuild Character
+GID00035128	Finished - Travel Onward
+GID00035131	To grab the Brahmin skull, look at it and [%].
+GID00035135	Arcade has gone to the Lucky 38.
+GID00035137	You are crippled. Use a Doctor's Bag or find a doctor.
+GID00035139	"Finally got started getting this place in order. Put out enough supplies to last a while, swept up some. Gonna hit the hay and continue tomorrow."
+GID00035141	Put the journal back down.
+GID00035142	Read the next entry.
+GID00035147	The radio appears to be broken.
+GID00035149	Leave the radio alone.
+GID00035150	Rig the radio to explode when used.
+GID00035151	Smash the radio.
+GID00035152	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00035153	The inscription on the base reads "There's only one way to give 110%%."
+GID00035154	Your Luck has been permanently increased by 1.
+GID00035156	This turret has sustained some minor damage and looks as though it could use some repairs. (Repair 45 or higher required)
+GID00035158	Leave It Alone
+GID00035159	Repair Turret
+GID00035160	What would you like to test?
+GID00035162	Nothing
+GID00035163	1 Legionary vs 1 Trooper behind cover
+GID00035164	Three basic types of objects in the world can launch the crafting interface: Campfires, Workbenches, and Reloading Benches. Each station allows the creation of a subset of items. Though many recipes are visible at any time in the game, some recipes will only appear when the player completes a quest or finds a special item. You may also find that certain companions or special locations can open special crafting interfaces for the player.
+GID00035165	Recipes have skill and ingredient requirements that must be met to proceed. If any requirement is darkened, that requirement has not been met. Any recipe that has all of its requirements fulfilled will appear fully lit. After using a recipe, the product(s) of the recipe will all immediately be available in your inventory.
+GID00035167	This Laser Tripwire Emitter is armed.
+GID00035168	You could rig it to activate when the power is restored. With the power off, it is easier to manipulate this device.
+GID00035169	(Repair [%] or higher required) or
+GID00035170	(Science [%] or higher required)
+GID00035172	Leave it alone.
+GID00035173	Disarm the Emitter.
+GID00035174	Rig the Emitter.
+GID00035179	Sanitizer active. Food and drink improved.
+GID00035183	You've found a Vault-Tec Limited Edition Bobblehead!
+GID00035184	The inscription on the base reads "Never be afraid to dodge the sensitive issues."
+GID00035185	Your Agility has been permanently increased by 1.
+GID00035189	These supplies have been contaminated with radiation. If people were to use them, they would grow sick and eventually die. Scientifically-minded characters might be able to find a way to purify them, however.
+GID00035191	This man appears to be severely injured. Swelling around his face and neck is interfering with his breathing. Are you sure to want to treat him? (Medicine 60 or higher Required)
+GID00035193	Never mind. Leave him alone.
+GID00035194	Treat the patient.
+GID00035195	Rex has gained the Unshakeable Tracker perk, increasing his movement speed.
+GID00035203	Rex has returned to Freeside.
+GID00035205	The Laser Tripwire Emitter has been disarmed.
+GID00035207	In the year 2271, the Desert Rangers of Nevada and rangers of the New California Republic met at this spot to sign the Ranger Unification Treaty. Under this treaty, the Desert Rangers agreed to be absorbed into the NCR in exchange for NCR's protection of Hoover Dam, New Vegas, and southern Nevada against the forces of Caesar's Legion.
+GID00035209	The ants appear to be using this compost heap to metabolize a food supply. Ant secretions combined with the compost appear to be forming a potent chemical compound.
+GID00035211	You can't use the fountain at this time.
+GID00035213	As a result of your painstaking research for the Wasteland Survival Guide, your survival skills have improved.
+GID00035215	To fire your weapon, [%].
+GID00035217	You don't have any C4 to put in the helmet.
+GID00035219	This robot has been fitted with a variety of tools specialized for industrial maintenance. There is a slot at the back of the head where it looks like a keycard could be fit.
+GID00035220	(Science of 45 or Poseidon Energy ID Card required)
+GID00035222	Do nothing.
+GID00035223	[Science] Hardwire the robot to run on autopilot in repair mode.
+GID00035224	Insert Poseidon Energy ID Card.
+GID00035225	Apparel can consist of many different types of gear ranging from clothing and armor to sunglasses and hats.
+GID00035226	* DT: Some apparel grants Damage Threshold (DT) to the wearer. Your DT is the sum of all DT for currently equipped apparel plus any bonuses from perks or chems. DT is directly subtracted from incoming damage, so a higher DT provides superior protection. Though a small percentage of damage can get through even the thickest armor, a high DT is quite valuable.
+GID00035227	* CND: Apparel's Condition (CND) affects how much protection it provides. Apparel above 50% CND provides maximum protection and only needs to be maintained.
+GID00035228	* Light/Medium/Heavy: Medium and Heavy apparel will slow characters down when equipped.
+GID00035229	* Repair: This option opens the Repair submenu, which allows apparel to be repaired by salvaging parts from similar items.
+GID00035231	Luckily for you, the trap's closing mechanism fires late.
+GID00035233	You created several white phosphorous artillery shells.
+GID00035235	Science Theme Added to House
+GID00035239	Moira's experiment had an unexpected side-effect. Now, when you suffer from Advanced Radiation Poisoning, crippled limbs automatically regenerate.
+GID00035241	You are hostile with the Family and the residents of Arefu.
+GID00035243	Securitrons successfully upgraded to Mark II.
+GID00035245	The trail beyond the gate leads back down the barge which took you across the river.
+GID00035247	Stay here.
+GID00035248	Take the barge back to Cottonwood Cove.
+GID00035249	Clanden has died!
+GID00035251	Rex has died.
+GID00035253	You are committing to fight with the NCR at the battle for Hoover Dam which will determine the fate of New Vegas for decades to come.
+GID00035254	If there's anything you want to do before you enter the battle, do it now - before you cross the point of no return.
+GID00035256	I'm not ready yet.
+GID00035257	Let's do this!
+GID00035258	Your Explosives skill is is not high enough to disarm the trap.
+GID00035259	(Explosives [%] or higher required)
+GID00035261	To grab a toy from the toy box, look at it and [%].
+GID00035263	You must discover a second Mojave Express Box before you can make any shipments.
+GID00035265	You need at least 3 packs of C4 to get the job done.
+GID00035267	Leave.
+GID00035268	Three basic types of objects in the world can launch the crafting interface: Campfires, Workbenches, and Reloading Benches. Each station allows the creation of a subset of items. Though many recipes are visible at any time in the game, some recipes will only appear when the player completes a quest or finds a special item. You may also find that certain companions or special locations can open special crafting interfaces for the player.
+GID00035269	Recipes have skill and ingredient requirements that must be met to proceed. If any requirement is darkened, that requirement has not been met. Any recipe that has all of its requirements fulfilled will appear fully lit. After using a recipe, the product(s) of the recipe will all immediately be available in your inventory.
+GID00035271	You remove every transistor related to "basic operations." This robot will never be fixed now.
+GID00035274	Mister
+GID00035275	Ma'am
+GID00035276	You rearm as a proximity trap.
+GID00035278	Press and hold &-sUActnMenumode; to activate your Pip-Boy light.
+GID00035280	You have gained the Dine and Dash perk.
+GID00035282	You have successfully deactivated and collected the mine.
+GID00035284	Raul: Dead's not a place. You can't go *to* Dead. No one vacations in Dead.
+GID00035286	Your Repair skill is not high enough to fix this broken door.
+GID00035287	(Repair [%] or higher required)
+GID00035289	You are no longer Well Rested.
+GID00035291	In Script Block
+GID00035293	You leave the spawning pod alone.
+GID00035295	You don't have any bobby pins to pick the lock. Maybe the Overseer keeps a key hidden somewhere in his bedroom.
+GID00035297	Welcome to Mojave Express!
+GID00035299	Close Box
+GID00035300	Pick Up Items
+GID00035301	Ship To New Vegas Strip
+GID00035302	Ship To Freeside
+GID00035303	Ship To Novac
+GID00035304	Ship To Primm
+GID00035305	Ship To Goodsprings
+GID00035306	Addictions Removed
+GID00035308	You manage to get most of the robot's systems operational, but it's leg activators are beyond repair, leaving it immobile.
+GID00035310	Troike has died!
+GID00035312	Dr. Richards no longer wants you looking into his patients.
+GID00035314	This console regulates the pumps keeping Lake Meade from flooding the Securiton storage galleries.
+GID00035316	Leave the console alone.
+GID00035317	Plant the explosive charge.
+GID00035318	Repeatable encounter [%]
+GID00035320	"Never forget to walk away with more than you've brought."
+GID00035325	His wounds are very severe. This will be a tricky operation. Are you sure that you want to try it?
+GID00035327	Never mind. Leave him alone.
+GID00035328	Perform the operation.
+GID00035329	Put him out of his misery.
+GID00035330	Array salvaged.
+GID00035338	Tree Father Birch's Sap has strengthened Harold's Heart.
+GID00035340	The tattered message paper looks hastily scrawled by a shaky hand. It reads:
+GID00035341	"If you can read this, please know that you are in great danger if you continue on this path. If you value you life, turn back now. If you must proceed, I implore you to head west past the gate, which will take you to my dwelling. Take the trails rather than the roads, and you may live long enough for us to meet face to face.
+GID00035342	Neil"
+GID00088701	Companion dismissal notifications sent.

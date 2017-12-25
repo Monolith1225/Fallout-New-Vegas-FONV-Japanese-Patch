@@ -1,0 +1,114 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc03_quest_objective_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00092957	Investigate the midnight showing at the Mojave Drive-in.
+GID00092958	Find out where the hell you are.
+GID00092959	Speak to your... captors.
+GID00092960	Get the X-2 antenna brain array thing, the sonic-soundwave-projecto-emitter spine thing... and the sneaky heart suit.
+GID00092961	Correction: They have the sonic... projecto... emitter gun. They need a new frequency for it.
+GID00092962	Correction: So get the X-2 antenna brain array thing... the new frequency for the Sonic Emitter, and the sneaky heart suit.
+GID00092963	Correction: Wait, there's another optional Sonic Emitter frequency that disables Force Fields that's not the frequency they need...? Ugh, forget it.
+GID00092964	Closing out these entry logs, clearing the utility partition.
+GID00092965	Return to the Think Tank and let Dr. Klein know you've completed your tasks.
+GID00092966	Travel to the Forbidden Zone Dome.
+GID00092967	Confront Dr. Mobius at the Forbidden Zone Dome.
+GID00092968	Retrieve your brain from the Forbidden Zone.
+GID00092969	Confront Dr. Klein at the Think Tank and end your imprisonment at Big MT.
+GID00092970	Kill Dr. Klein and the other members of the Think Tank.
+GID00092971	Satisfy Dr. Mobius' curiosity about what it's like to be killed.
+GID00092972	Disable or destroy the Giant Robo-Scorpion.
+GID00092973	Leave the Think Tank.
+GID00092974	(Optional) Use the Sink Auto-Doc to retrieve your original heart.
+GID00092975	(Optional) Use the Sink Auto-Doc to retrieve your original spine.
+GID00092976	(Optional) Retrieve the Sink Auto-Doc's personality holotape from Y-17 to restore the Auto-Doc's functionality.
+GID00092977	Climb up to the satellite dish and retrieve the X-2 Antenna.
+GID00092978	Travel to the X-2 Transmitter Antenna Array.
+GID00092979	Travel to the X-8 Research Center.
+GID00092980	Initiate the Institutional Data Retrieval test at the X-8 Test Terminal.
+GID00092981	Exit the X-8 Institutional Facility.
+GID00092982	Initiate the Residential Cyberdog Guard Test at the X-8 Test Terminal.
+GID00092983	Search Gabe's digging spots in the X-8 Residential Test Facility for the audio sample of Gabriel's Bark.
+GID00092984	Retrieve the three student records from the desk terminals in the X-8 Institutional Facility.
+GID00092985	Enter the X-8 Residential Test Facility.
+GID00092986	Travel to the X-13 Research Facility.
+GID00092987	Recover the Prototype X-13 Gloves.
+GID00092988	Recover the Prototype X-13 Boots.
+GID00092989	Recover the Prototype X-13 Chest Plate.
+GID00092990	Activate the Basic Infiltration Test to begin initializing the Stealth Suit.
+GID00092991	Basic Infiltration Test: Acquire the X-13 Document from the Administrator's Wall Safe to complete Stealth Suit initialization.
+GID00092992	Return to the Experiment Terminal.
+GID00092993	Complete the Basic Infiltration Test.
+GID00092994	Complete the Robot Compliance Test.
+GID00092995	Complete the Advanced Infiltration Test.
+GID00092996	Assemble the Experimental Stealth Suit.
+GID00092997	[Optional] Complete all X-13 tests.
+GID00092998	Complete the Expert Infiltration Test.
+GID00092999	Complete the Basic Infiltration Test Replay.
+GID00093000	Complete the Advanced Infiltration Test Replay.
+GID00093001	Complete the Expert Infiltration Test Replay.
+GID00093002	Complete the Robot Compliance Test Replay.
+GID00093003	Gather the three student records.
+GID00093004	Exit the testing area.
+GID00093005	Download the Field Disrupter EM Pulse Wave for the Sonic Emitter.
+GID00093006	Retrieve the three student records from the desk terminals in the X-8 Institutional Facility.
+GID00093007	Exit the testing area.
+GID00093008	Activate Institutional Data Retrieval Test (Advanced) at the X-8 Test Terminal.
+GID00093009	Release the unusual specimen into the testing area.
+GID00093010	Retrieve the three student records from the desk terminals in the X-8 Institutional Facility.
+GID00093011	Exit the testing area.
+GID00093012	Activate Institutional Data Retrieval Test (Advanced) at the X-8 Test Terminal.
+GID00093013	Retrieve the three student records from the desk terminals in the X-8 Institutional Facility.
+GID00093014	Exit the testing area.
+GID00093015	Enter the testing area.
+GID00093016	Enter the testing area.
+GID00093017	Enter the testing area.
+GID00093018	Activate Institutional Data Retrieval Test (Basic) at the X-8 Test Terminal.
+GID00093019	Retrieve the three student records from the desk terminals in the X-8 Institutional Facility.
+GID00093020	Exit the testing area.
+GID00093021	Retrieve test data from the X-8 Test Terminal.
+GID00093022	Find the key to the X-8 kennels (Sonic Emitter EM Pulse Wave Upgrade Required).
+GID00093023	Find more information about the X-8 Test.
+GID00093024	Complete the Basic Infiltration Test Replay.
+GID00093025	Complete the Advanced Infiltration Test Replay.
+GID00093026	Complete the Expert Infiltration Test Replay.
+GID00093027	Complete the Robot Compliance Test Replay.
+GID00093028	Return to the Experiment Terminal.
+GID00093029	Retrieve the three student records from the desk terminals in the X-8 Institutional Facility.
+GID00093030	Exit the testing area.
+GID00093031	Travel to the X-8 Research Center to find the force field disrupting EM Pulse Wave Upgrade for the Sonic Emitter.
+GID00093032	Test the Sonic Emitter EM Pulse Wave on a force field.
+GID00093033	Begin the Institutional test at the X-8 Test Terminal.
+GID00093034	Find the three student records on the X-8 Institutional Facility terminals.
+GID00093035	Leave the X-8 Institutional Facility through the upstairs exit.
+GID00093036	Begin the Advanced Institutional test at the X-8 Test Terminal.
+GID00093037	Upgrade the Sonic Emitter.
+GID00093038	Find all of the audio samples for the Jukebox.
+GID00093039	Find samples for the Biological Research Station.
+GID00093040	Return the samples to The Sink.
+GID00093041	Find the missing modules for the Sink, Auto-Doc, and the Biological Research Station.
+GID00093042	Find the missing modules for the Light Switches and the Jukebox.
+GID00093043	Find the missing modules for the Toaster, Muggy, and the Book Chute.
+GID00093044	Install the personality modules in The Sink.
+GID00093045	Find the missing personality modules.
+GID00093046	Find the first set of personality modules for The Sink.
+GID00093047	Find the second set of personality modules for The Sink.
+GID00093048	Find the third set of personality modules for The Sink.
+GID00093049	Go to The Sink and install the Central Intelligence Unit.
+GID00093050	Find the upgrades to The Sink's Central Intelligence Unit.
+GID00093051	Find the upgrades to The Sink's Auto-Doc.
+GID00093052	Find the upgrades to The Sink's support AIs.
+GID00093053	Install the upgrades in The Sink.
+GID00093054	Talk to Dr. Klein, despite your lack of earmuffs.
+GID00093055	Chat with Dr. O.
+GID00093056	Introduce yourself to Dr. Dala.
+GID00093057	Say hello to Dr. Borous. Carefully.
+GID00093058	"Speak" to Dr. 8 - if you can.
+GID00093059	Try to find any trace of Gabe in Higgs Village.
+GID00093060	See if you can find more evidence of Gabe in X-8.
+GID00093061	Return Gabe's Bowl to Dr. Borous.
+GID00093062	Get to the bottom of Dala's biological fascination.
+GID00093063	Ask Dr. Klein about the conversation he had with the last visitor to the Big Empty.
+GID00093064	Investigate 8's termlink code.
+GID00093065	See if you can resolve O's problem with his name.
+GID00093066	Ask Dr. O about the attack on the Think Tank.

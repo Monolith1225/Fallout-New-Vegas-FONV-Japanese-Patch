@@ -1,0 +1,40 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc04_activation_text_override_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00097914	Examine Warhead
+GID00097915	Examine Warhead
+GID00097916	Examine Poster
+GID00097917	Take Blood-Nap
+GID00097918	Remote Activate Ballast
+GID00097919	Travel to Hopeville Missile Silo
+GID00097920	Travel to The Divide
+GID00097921	Enter Tunnel
+GID00097922	Elevator to the Temple
+GID00097923	Activate Lift to Ashton Missile Silo
+GID00097924	Take Boat to Cottonwood Cove
+GID00097925	Restore Hopeville Silo's Power
+GID00097926	Take Boat to Dry Wells
+GID00097927	Travel to the Courier's Mile
+GID00097928	Travel to the Lonesome Road
+GID00097929	Pick Up Red Glare
+GID00097930	Take Lift to The High Road
+GID00097931	Take Lift to Ashton Missile Silo
+GID00097932	Search Dead Marked Man
+GID00097933	Search Dead Marked Man
+GID00097934	Search Dead Marked Man
+GID00097935	Search Dead Marked Man
+GID00097936	Search Dead Marked Man
+GID00097937	Search Dead Marked Man
+GID00097938	Search Dead Marked Man
+GID00097939	Search Dead Marked Man
+GID00097940	Search Dead Marked Man
+GID00097941	Pull Lever
+GID00097942	Pick Up Laser Detonator
+GID00097943	Open Ashton Silo
+GID00097944	Exit to the Mojave Wasteland
+GID00097945	Travel to The Divide
+GID00097946	Enter Collapsed Overpass Tunnel
+GID00097947	Elevator to Maintenance
+GID00097948	Exit Collapsed Overpass Tunnel
+GID00097949	Enter The High Road

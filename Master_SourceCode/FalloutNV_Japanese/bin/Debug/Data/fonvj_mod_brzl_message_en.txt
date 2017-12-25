@@ -1,0 +1,167 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_brzl_message_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00108208	Jamie, take a break.
+GID00108209	Wait here, Jamie.
+GID00108210	Jamie, let's go.
+GID00108211	Everyone, take a break.
+GID00108212	Everyone, wait here.
+GID00108213	Everyone, let's go.
+GID00108214	Killer of Vault 18 Perk Added!
+GID00108216	Ben Kurtz is dead.
+GID00108218	Vault Politician Perk added - ( +1 CHA, +10 SP, -1 LK)
+GID00108220	Born Soldier Perk(s) Removed!
+GID00108222	Born Soldier Perk Added!
+GID00108224	Johnny Matheson is dead.
+GID00108226	This robot dog is caked with dried dirt and can't function until its internal components are repaired or replaced. (Repair 30 or higher required)
+GID00108228	Leave it alone.
+GID00108229	Repair it without parts.
+GID00108230	Replace damaged parts.
+GID00108231	Replace damaged parts.
+GID00108234	Eric, take a break.
+GID00108235	Wait here, Eric.
+GID00108236	Eric, let's go.
+GID00108237	Everyone, take a break.
+GID00108238	Everyone, wait here.
+GID00108239	Everyone, let's go.
+GID00108242	Tackle [Athlete]
+GID00108243	Dodge [Nerd]
+GID00108245	Do Nothing
+GID00108246	Reset to Start Positions
+GID00108247	Action in 5 Seconds
+GID00108248	Action in 10 Seconds
+GID00108249	Action in 15 Seconds
+GID00108250	Minimum 40 Explosive Skill Required.
+GID00108252	Yes - Set Charge!
+GID00108253	No - Open the Door.
+GID00108254	Jamie Campell is dead.
+GID00108256	Please disable mods with start-up messages until later!
+GID00108258	Project Brazil
+GID00108259	New Vegas
+GID00108260	Perk Added: The Way Seer
+GID00108262	Your tagged skills have been set to:
+GID00108263	Melee Weapons
+GID00108264	Unarmed
+GID00108265	Speech
+GID00108267	OK
+GID00108269	Project Brazil
+GID00108270	New Vegas
+GID00108271	Ben is almost dead.
+GID00108274	Nerd Super-Star Perk Added! (-2 STR, -2 AGL, +2 INT, -1 CHR)
+GID00108276	OK
+GID00108277	AUTHORIZED USE ONLY!!!
+GID00108279	Return to Assigned Patrol Point.
+GID00108280	Initiate Follow Routine.
+GID00108281	Continue with Current Program.
+GID00108282	You don't have the skill to perform this repair. However, removing and replacing the parts looks fairly simple. (Repair 30 or higher required or use 1 Fission Battery, 1 Scrap Electronics, and 1 Droid Radio Unit)
+GID00108284	Leave it alone.
+GID00108285	Replace damaged parts.
+GID00108286	Replace damaged parts.
+GID00108287	The leaking pipe has a critical, corroding flaw in its case. You notice a set of exposed wires once cut by a foolish technician. One day it will likely explode if you don't do something.
+GID00108289	Repair the pipe.
+GID00108290	Your Repair Skill is too low - 30 required.
+GID00108291	Leave it alone.
+GID00108292	You don't have the parts required to perform this repair. (Repair 30 or higher required or use 1 Fission Battery, 1 Scrap Electronics, and 1 Droid Radio Unit)
+GID00108294	Leave it alone.
+GID00108295	Repair it without parts.
+GID00108296	B-6-RK has gone to Pinehaven Safe House.
+GID00108298	Jamie's health is really low.
+GID00108300	x = [%]
+GID00108301	y = [%]
+GID00108302	z = [%]
+GID00108303	Z = [%]
+GID00108304	X = [%]
+GID00108306	OK
+GID00108308	Jenifer is almost dead.
+GID00108310	Mutant Repellent Perk Added!
+GID00108312	Your tagged skills have been set to:
+GID00108313	Energy Weapons
+GID00108314	Science
+GID00108315	Repair
+GID00108317	OK
+GID00108319	Ben, take a break.
+GID00108320	Wait here, Ben.
+GID00108321	Ben, let's go.
+GID00108322	Everyone, take a break.
+GID00108323	Everyone, wait here.
+GID00108324	Everyone, let's go.
+GID00108325	Johnny is almost dead.
+GID00108328	The first installment of Project Brazil is over. What would you like to do?
+GID00108330	Explore Black Bear Canyon Wasteland.
+GID00108331	Continue from Doc Mitchell's house.
+GID00108332	Play Credits.
+GID00108333	Wait - I'm not ready.
+GID00108334	Kira is almost dead.
+GID00108336	Johnny's health is really low.
+GID00108338	Eric Campell is dead.
+GID00108341	Johnny, take a break.
+GID00108342	Wait here, Johnny.
+GID00108343	Johnny, let's go.
+GID00108344	Everyone, take a break.
+GID00108345	Everyone, wait here.
+GID00108346	Everyone, let's go.
+GID00108347	Eric's health is really low.
+GID00108349	B-6-RK has given you the Search and Mark perk.
+GID00108351	Your Explosive Skill is Too Low. >= 40 Required!
+GID00108353	OK
+GID00108354	Lambda Lambda Perk Added!
+GID00108355	GUNS +10
+GID00108357	Before you venture deeper into unfolding events, you may revise your character. Certain Vanilla Perks will be lost if changing Race/Sex/SPECIAL/Tag/Traits.
+GID00108359	Edit Name
+GID00108360	Change Race/Sex
+GID00108361	Change SPECIAL/Tag/Traits
+GID00108362	Finished - End the Prequel
+GID00108363	It's just a pile of nerd junk.
+GID00108365	Born Soldier III Perk Added!
+GID00108367	B-6-RK is almost dead.
+GID00108369	Born Soldier II Perk Added!
+GID00108371	Tier 1 Terminals Booting!
+GID00108373	Guardian of Vault 18 Perk Added!
+GID00108375	A L P H A is dead.
+GID00108377	Kira Mann is dead.
+GID00108379	ALPHA has gone to Pinehaven Safe House.
+GID00108381	Please disable mods with start-up messages until later!
+GID00108383	Tackle [Athlete]
+GID00108384	Dodge [Nerd]
+GID00108385	'Bard of the Wastes' Perk Added!
+GID00108387	Kira's health is really low.
+GID00108390	Star Athlete Perk Added! (+1 STR, +1 CHR, +1 AGL, -1 INT)
+GID00108392	OK
+GID00108393	You begin to feel the extreme heat of the fire on your skin. You also spot a strange sword up ahead. If you're quick enough you might be able to get it.
+GID00108395	I'm quick enough to get it! (Endurance 6)
+GID00108396	I'm not quick enough to get it, I might die! (Endurance under 6)
+GID00108397	Smart Jock Perk Added!
+GID00108399	B-6-RK is dead.
+GID00108402	Jenifer's health is really low.
+GID00108404	Eric is almost dead.
+GID00108406	Jenifer Hale is dead.
+GID00108408	Tier 2 Terminals Booting!
+GID00108411	Due to the explosions in the Vault, this robot dog is damaged beyond repair.
+GID00108414	Ben's health is really low.
+GID00108416	Sweet Talker Perk Added!
+GID00108418	The door's thermal sensors have locked it.
+GID00108420	Scout Master Perk Added!
+GID00108423	Kira, take a break.
+GID00108424	Wait here, Kira.
+GID00108425	Kira, let's go.
+GID00108426	Everyone, take a break.
+GID00108427	Everyone, wait here.
+GID00108428	Everyone, let's go.
+GID00108429	B-6-RK's health is really low.
+GID00108432	You have lost B-6-RK's Search and Mark perk.
+GID00108434	Jamie is almost dead.
+GID00108436	Going to bed now will end the prequel, and leave any unfinished quests behind forever. Do you wish to continue?
+GID00108438	End the Prequel
+GID00108439	No - I'm not ready
+GID00108441	Jenifer, take a break.
+GID00108442	Wait here, Jenifer.
+GID00108443	Jenifer, let's go.
+GID00108444	Everyone, take a break.
+GID00108445	Everyone, wait here.
+GID00108446	Everyone, let's go.
+GID00108447	This robot was engineered in such a way that its parts could be easily replaced. (Repair 30 or higher required or use 1 Fission Battery, 1 Scrap Electronics, and 1 Droid Radio Unit)
+GID00108449	Leave it alone.
+GID00108450	Repair it without parts.
+GID00108451	Replace damaged parts.
+GID00108452	This robot dog is now cleaned and repaired, but must be powered up remotely.

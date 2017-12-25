@@ -1,0 +1,36 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc04_quest_objective_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00097096	Primm の近くにあるCanyon Wreckageへ向かい、Divideを旅する。
+GID00097097	Laser Detonatorを見つける。
+GID00097098	Tunneler's caveから脱出し、High Roadに到達する。
+GID00097099	Lonesome Roadを抜けて、崩壊した陸橋トンネルに到達する。
+GID00097100	核弾頭にLaser Detonatorを使う。
+GID00097101	Divideを横断する。
+GID00097102	倒壊したオフィスビルの屋上に到達し、Divideへ向かう道を見つける。
+GID00097103	倒壊したビルを抜けるために、洞窟を使う。
+GID00097104	Ulysses' Templeに行く。
+GID00097105	Ashtonミサイルサイロ行きリフトを起動し、Divideへ向かう。
+GID00097106	Ashtonミサイルサイロに到着するまで生き残る。
+GID00097107	Abaddon 洞窟を通過して、引き続き Temple へ向かう。
+GID00097108	ミサイル発射を中断させる。
+GID00097109	Canyon Wreckage へ脱出する。
+GID00097110	オプション:Ulysses の最後のメッセージを届ける。
+GID00097111	Ulysses と交渉する。
+GID00097112	Temple で Ulyssesを追跡する。
+GID00097113	オプション:ED-E を救出する。
+GID00097114	オプション:Ulysses の Eyebot を無力化する。
+GID00097115	Marked Menと戦う。
+GID00097116	Hopeville ミサイルサイロを通り抜けて、Lonesome Roadに向かう。
+GID00097117	ブラストドアターミナルの暗号を解く方法を見つけ出す。
+GID00097118	ED-E を使い、ブラストドアターミナルの暗号を解く。
+GID00097119	ED-E を使い、メインフレームの解錠をする。
+GID00097120	ミサイルサイロネットワークのセキュリティーコードを見つける。
+GID00097121	オプション:ED-E に物資配給所にアクセスしてもらう。
+GID00097122	サイロのパワーを入れる。
+GID00097123	メインフレームを起動し、サイロ外部ドアを解錠する。
+GID00097124	コンソールを起動し、Ashton ミサイルサイロへのアクセス権を得る。
+GID00097125	High Road 最奥の Ashton サイロ コントロールステーションに到達する。
+GID00097126	Canyon Wreckage へ脱出する。
+GID00097127	オプション:Ulysses の最後のメッセージを届ける。

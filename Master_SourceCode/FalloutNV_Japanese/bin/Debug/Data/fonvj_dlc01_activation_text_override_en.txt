@@ -1,0 +1,26 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc01_activation_text_override_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00098021	Play Roulette
+GID00098022	Play Blackjack
+GID00098023	Play Slots
+GID00098024	Gather Cloud Residue
+GID00098025	Read Electrical Diagram
+GID00098026	Speak with Father Elijah
+GID00098027	Open Door to Electrical Closet
+GID00098028	Take Elevator to The Vault
+GID00098029	Flip Switch
+GID00098030	Door to Salida del Sol House
+GID00098031	Activate Gala Event Control Panel
+GID00098032	Climb Ladder to Bell Tower
+GID00098033	Travel to Mojave Wasteland
+GID00098034	Security Chief's Assistant's Desk
+GID00098035	Take Vera's Partitures
+GID00098036	Search Corpse
+GID00098037	Search Corpse
+GID00098038	Search Corpse
+GID00098039	Take Vera's Dress
+GID00098040	Inspect Turret Electric Generator
+GID00098041	Climb Ladder to Mojave Wasteland
+GID00098042	Travel to Sierra Madre Casino

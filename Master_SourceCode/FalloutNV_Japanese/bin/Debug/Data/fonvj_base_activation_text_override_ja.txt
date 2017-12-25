@@ -1,0 +1,223 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_base_activation_text_override_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00098043	Pacerの隠しジェットを調べる
+GID00098044	バラストを取り付ける
+GID00098045	バラストを起動する
+GID00098046	ルーレットで遊ぶ
+GID00098047	ルーレットで遊ぶ
+GID00098048	スロットで遊ぶ
+GID00098049	ルーレットで遊ぶ
+GID00098050	スロットで遊ぶ
+GID00098051	ブラックジャックで遊ぶ
+GID00098052	ルーレットで遊ぶ
+GID00098053	ブラックジャックで遊ぶ
+GID00098054	メモを読む
+GID00098055	スロットで遊ぶ
+GID00098056	スロットで遊ぶ
+GID00098057	ブラックジャックで遊ぶ
+GID00098058	ルーレットで遊ぶ
+GID00098059	飲む
+GID00098060	Sonic Emitterを置く
+GID00098061	日誌を読む
+GID00098062	血液サンプルを割り振る
+GID00098063	血液サンプルを割り振る
+GID00098064	ブラックジャックで遊ぶ
+GID00098065	体を隠す
+GID00098066	ハニーメスキートを摘み取る
+GID00098067	バナナユッカを摘み取る
+GID00098068	トウモロコシを摘み取る
+GID00098069	メモを読む
+GID00098070	メモを読む
+GID00098071	メモを読む
+GID00098072	タマサボテンを摘み取る
+GID00098073	ウチワサボテンを摘み取る
+GID00098074	ネバダ・リュウゼツランを摘み取る
+GID00098075	ルーレットで遊ぶ
+GID00098076	パワーレギュレータを調べる
+GID00098077	Giant Mantisの卵のうを取る
+GID00098078	フードプロセッサーを直す
+GID00098079	ケースを調べる
+GID00098080	Cazadorの卵を取る
+GID00098081	Deathclawの卵を取る
+GID00098082	Fire Geckoの卵を取る
+GID00098083	Night Stalkerの卵を取る
+GID00098084	Radscorpionの卵を取る
+GID00098085	調理
+GID00098086	ワインを調べる
+GID00098087	調査
+GID00098088	スロットで遊ぶ
+GID00098089	コヨーテ・タバコを摘み取る
+GID00098090	テルミットを設置する
+GID00098091	スロットで遊ぶ
+GID00098092	バナナユッカを摘み取る
+GID00098093	Watsonのヘルメットを調べる
+GID00098094	Xander Rootを摘み取る
+GID00098095	白いワルナスビを摘み取る
+GID00098096	Broc Flowerを摘み取る
+GID00098097	メモを読む
+GID00098098	Jalapenoを摘み取る
+GID00098099	インゲンマメを摘み取る
+GID00098100	バッファロー・ゴーアドを摘み取る
+GID00098101	ドアを起動する
+GID00098102	バラストを起動する
+GID00098103	負傷兵を診る
+GID00098104	Fortの跳ね橋を開く
+GID00098105	Fortの跳ね橋を開く
+GID00098106	洞窟に入る
+GID00098107	Vault19-一階のエレベーターを起動する
+GID00098108	Vault19-一階のエレベーターを起動する
+GID00098109	Sonic EmitterをAnt Moundの上に置く
+GID00098110	メモを読む
+GID00098111	負傷兵を診る
+GID00098112	負傷兵を診る
+GID00098113	Ant Moundに入る
+GID00098114	Mojave Wastelandに出る
+GID00098115	Bootjack Cavernに入る
+GID00098116	はしごを昇る
+GID00098117	はしごを使う
+GID00098118	はしごを昇る
+GID00098119	はしごを使う
+GID00098120	Hoover Damの門を開く
+GID00098121	榴弾砲を調べる
+GID00098122	Mojave Wastelandに出る
+GID00098123	Legate's Campへの門を開く
+GID00098124	Vault 22へ入る
+GID00098125	Wastelandに出る
+GID00098126	ドアを開ける
+GID00098127	通行できないトンネル
+GID00098128	通行できないトンネル
+GID00098129	通行できないトンネル
+GID00098130	通行できないトンネル
+GID00098131	通行できないトンネル
+GID00098132	通行できないトンネル
+GID00098133	通行できないトンネル
+GID00098134	はしごを昇る
+GID00098135	Great Khan Supply Caveに入る
+GID00098136	Great Khan Supply Caveに入る
+GID00098137	Great Khan Supply Caveに入る
+GID00098138	Mojave Wastelandに出る
+GID00098139	Mojave Wastelandに出る
+GID00098140	Mojave Wastelandに出る
+GID00098141	Camp Guardian Cavesに入る
+GID00098142	Mojave Wastelandに出る
+GID00098143	Lake Meadの水中洞窟に入る
+GID00098144	Vault 34監督官室へのドアを開ける
+GID00098145	Security Station Aへのドアを開ける
+GID00098146	はしごを昇ってMojave Wastelandへ出る
+GID00098147	エレベーターを呼ぶ
+GID00098148	エレベーターを呼ぶ
+GID00098149	エレベーターを呼ぶ
+GID00098150	エレベーターを呼ぶ
+GID00098151	スイートルーム直通エレベーターを呼ぶ
+GID00098152	エレベーターを呼ぶ
+GID00098153	エレベーターを呼ぶ
+GID00098154	エレベーターを呼ぶ
+GID00098155	エレベーターを呼ぶ
+GID00098156	エレベーターを呼ぶ
+GID00098157	下層階直通エレベーターを呼ぶ
+GID00098158	エレベーターを呼ぶ
+GID00098159	Topsカジノメインフロア行きエレベーターに乗る
+GID00098160	プレジデンシャル・スイート行きエレベーターに乗る
+GID00098161	Tops Casinoメインフロア行きエレベーターに乗る
+GID00098162	13階フロア行きエレベーターに乗る
+GID00098163	はしごを昇ってMojave Wastelandへ出る
+GID00098164	地下2階行きエレベーターに乗る
+GID00098165	はしごを昇ってNorth Vegas Squareへ出る
+GID00098166	はしごを昇ってNorth Vegasへ出る
+GID00098167	はしごを昇ってFreeside Gateへ出る
+GID00098168	はしごを昇ってCrimson Caravanへ出る
+GID00098169	はしごを昇ってCamp McCarranへ出る
+GID00098170	はしごを昇ってAerotech Office Parkへ出る
+GID00098171	はしごを昇ってNCR小作農場へ出る
+GID00098172	はしごを昇ってWestside質屋へ出る
+GID00098173	Fortへ旅立つ
+GID00098174	はしごを昇ってMojave Wastelandへ出る
+GID00098175	はしごを昇ってMojave Wastelandへ出る
+GID00098176	はしごを昇ってMojave Wastelandへ出る
+GID00098177	Scorpion Burrowに入る
+GID00098178	通行できないトンネル
+GID00098179	Mojave Wastelandに出る
+GID00098180	Goodsprings Caveに入る
+GID00098181	Mojave Wastelandに出る
+GID00098182	Mojave Wastelandに出る
+GID00098183	Morning Star Cavernに入る
+GID00098184	The Prospector's Denに入る
+GID00098185	Freesideへのドアを開ける
+GID00098186	Old Mormon Fortへのドアを開ける
+GID00098187	起動
+GID00098188	Fire Root Cavernに入る
+GID00098189	Fire Root Cavernに入る
+GID00098190	Mojave Wastelandに出る
+GID00098191	Mojave Wastelandに出る
+GID00098192	Walking Box Cavernに入る
+GID00098193	Mojave Wastelandに出る
+GID00098194	Mojave Wastelandに出る
+GID00098195	Black Rock Cavernに入る
+GID00098196	Mojave Wastelandに出る
+GID00098197	はしごを昇ってMojave Wastelandへ出る
+GID00098198	Mojave Wastelandに出る
+GID00098199	Searchlight North Gold Mineに入る
+GID00098200	Freesideへ入る
+GID00098201	Freesideへ入る
+GID00098202	Outer Vegasに出る
+GID00098203	Outer Vegasに出る
+GID00098204	Stripに入る
+GID00098205	Strip行きのモノレールに乗る
+GID00098206	Hayes中尉のテントに入る
+GID00098207	Cottonwood Coveに旅立つ
+GID00098208	Damaged Robotを調べる
+GID00098209	Mojave Wastelandに出る
+GID00098210	Northern Passageから出る
+GID00098211	Northern Passageに入る
+GID00098212	はしごを昇ってWastelandへ出る
+GID00098213	はしごを昇ってThornの檻へ出る
+GID00098214	Safehouse Bunkerから出る
+GID00098215	Safehouse Bunkerに入る
+GID00098216	給仕長を呼ぶ
+GID00098217	武器庫へのドアを開ける
+GID00098218	はしごを昇ってMojave Wastelandへ出る
+GID00098219	Mojave Wastelandに出る
+GID00098220	Crimson Caravan Companyの門を開ける
+GID00098221	Crimson Caravan Companyの門を開ける
+GID00098222	Scorpion Burrowに入る
+GID00098223	Bloodborne Caveに入る
+GID00098224	Followers前哨基地のドアを開ける
+GID00098225	通行できないトンネル
+GID00098226	通行できないトンネル
+GID00098227	Mojave Wastelandに出る
+GID00098228	McCarran行きのモノレールに乗る
+GID00098229	Freesideに入る
+GID00098230	Sulfur Cavesへのトンネルに入る
+GID00098231	はしごを昇ってMojave Wastelandへ出る
+GID00098232	ドアを起動する
+GID00098233	Vault 19への鉄格子を開ける
+GID00098234	Dead Wind Cavernに入る
+GID00098235	Camp Guardian Caveに入る
+GID00098236	はしごを昇ってMojave Wastelandへ出る
+GID00098237	はしごを昇ってMojave Wastelandへ出る
+GID00098238	Vault 19 - 原子炉へのエレベーターを起動する
+GID00098239	Vault 19 - 住居区へのエレベーターを起動する
+GID00098240	Vault 19 - 住居区へのエレベーターを起動する
+GID00098241	Red Sectorのドアを開ける
+GID00098242	Red Sectorのドアを開ける
+GID00098243	ドアを起動する
+GID00098244	Blue Sectorのドアを開ける
+GID00098245	Vault 19-監督官オフィスのエレベーターを起動
+GID00098246	Vault 19のトンネルに入る
+GID00098247	はしごを昇ってMojave Wastelandへ出る
+GID00098248	Nopah Caveに入る
+GID00098249	洞窟に入る
+GID00098250	Mojave Wastelandに出る
+GID00098251	ドアを起動する
+GID00098252	脅迫文を読む
+GID00098253	Camp Guardian Cavesに入る
+GID00098254	Mojave Wastelandに出る
+GID00098255	Mojave Wastelandに出る
+GID00098256	Mojave Wastelandに出る
+GID00098257	Mojave Wastelandに出る
+GID00098258	Mojave Wastelandに出る
+GID00098259	Camp Guardian Cavesに入る
+GID00098260	Camp Guardian Cavesに入る
+GID00098261	Red Sectorのドアを開ける

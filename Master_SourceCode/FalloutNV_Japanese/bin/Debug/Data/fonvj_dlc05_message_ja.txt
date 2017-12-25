@@ -1,0 +1,9 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc05_message_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00098262	キャラバンパックのアイテムがインベントリに追加されました。
+GID00098264	安心と信頼の Vault 13 キャンティーンから、飲み物を一口飲みました。
+GID00098266	クラシックパックのアイテムがインベントリに追加されました。
+GID00098268	マーセナリーパックのアイテムがインベントリに追加されました。
+GID00098270	トライバルパックのアイテムがインベントリに追加されました。

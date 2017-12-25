@@ -1,0 +1,210 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc01_message_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00079848	You found Dean's secret stash!
+GID00079850	You decide it's best to leave Christine down in the manual override chamber.
+GID00079852	You don't have a Holotape that will play in this projector.
+GID00079854	You don't have the skill to do that.
+GID00079856	Your collar has stopped beeping.
+GID00079858	This valve is in need of repair.
+GID00079859	(Repair 25 or higher required)
+GID00079861	Leave the valve alone.
+GID00079862	Change the flow of gas through the pipe.
+GID00079863	Using the parts you've acquired, you are able to fix the circuit breaker and get power up and running again.
+GID00079865	Your collar is emitting a slow, steady beeping.
+GID00079867	You have disabled the emitter.
+GID00079869	Your collar is emitting a high-pitched beeping noise.
+GID00079871	Explosive collar set to timer-based trigger.
+GID00079873	The panel next to the elevator has buttons to go either up or down.
+GID00079875	Leave the elevator alone.
+GID00079876	Push the Up button.
+GID00079877	Go up with Christine.
+GID00079878	Push the Down button.
+GID00079879	Push the Down button.
+GID00079880	You have fixed the Vending Machine.
+GID00079882	Elevator cannot be called down from The Vault.
+GID00079884	Dog has devoured a fallen enemy.
+GID00079886	On quick glance, the diagram seems to have something to do with the switches immediately to the right of it.
+GID00079887	(Intelligence 7)
+GID00079889	Ignore the diagram.
+GID00079890	Study the diagram.
+GID00079891	Dead Money takes you to an extremely dangerous area of the Mojave Wasteland, a one-way journey until your business at the Sierra Madre is finished.
+GID00079892	In Normal Mode, you'll encounter new traps, enemies, and new companions whose lives are tied to yours. In Hardcore Mode, you'll be fighting the environment as well, a toxic city that erodes health over time. Companions are more vulnerable, and so are you.
+GID00079893	Dead Money is recommended for experienced Couriers (Level 20+). If up to the challenge, continue on. The Sierra Madre Grand Opening awaits... and has been for 200 years.
+GID00079895	Stay in the Mojave Wasteland.
+GID00079896	Seek out the radio signal in the Bunker.
+GID00079897	The door won't open. It doesn't look like there's any power running to it.
+GID00079899	You have lost God's In my Footsteps perk.
+GID00079901	You lack the Repair skill needed to fix the Vending Machine. (Repair 50 or higher required)
+GID00079903	You have reached the jackpot limit, but feel free to explore the other services here at the Sierra Madre!
+GID00079905	The terminal doesn't respond. Something is preventing its standard functions.
+GID00079907	The elevator appears to have been locked down by security. Perhaps Christine is involved.
+GID00079909	Do nothing.
+GID00079910	Dean has died.
+GID00079912	Dean has taught you the Sierra Madre Martini "Perk," allowing you to mix Cloud Residue and Junk Food in a Tin Can at a Campfire or Electric Hot Plate for a surprisingly strong, restorative, and disgusting drink.
+GID00079914	Christine's counter-frequency is temporarily blocking the Speaker.
+GID00079916	Christine activated scanning detonation frequency.
+GID00079918	Veronica has received the Elijah's Last Words perk.
+GID00079919	She has learned a secret Melee Weapon technique that increases her attack speed by 150%% and gives her a 25%% chance to knock down enemies.
+GID00079921	The elevator descends to a small, cramped room filled with electrical controls. There's no room to move, and the air is filled with a high whirring noise from the machines not unlike an Auto-Doc saw.
+GID00079922	It appears the power can be manually controlled from this location - although it looks like manual operation was only intended for emergencies, and the terminal upstairs could do it via remote provided it was unlocked.
+GID00079923	This knowledge in hand, you take the elevator back up to the Switching Station.
+GID00079925	This door is hermetically sealed due to the gas leak and Elijah's override. It will not open until the valves are shut off and Dog is dealt with.
+GID00079927	Do nothing.
+GID00079928	<Use maintenance pass key to open the door>
+GID00079929	Your collar is emitting a high-pitched beeping noise.
+GID00079931	Dean is protecting you from a toxic cloud.
+GID00079933	The Vault's elevator remains sealed.
+GID00079934	You did not get the voice-coded password correctly.
+GID00079936	This path leads from the Sierra Madre back to the Mojave Wasteland. You are certain you'll never be able to get back here. Are you sure you want to leave?
+GID00079938	Stay at the Sierra Madre.
+GID00079939	Return to the Mojave Wasteland.
+GID00079940	You are no longer being poisoned by a toxic cloud.
+GID00079942	This unusual-looking Auto-Doc still has a series of diodes and buttons that appear to work.
+GID00079944	Leave the Auto-Doc alone.
+GID00079945	Heal all crippled limbs.
+GID00079946	Inject adrenaline to cure exhaustion.
+GID00079947	This diagram shows the order in which the switches must be toggled to reroute power to various areas of the town, including the Bell Tower.
+GID00079949	This intercom is broken.
+GID00079951	Dead Money has been loaded. Your level cap has been raised by 5.
+GID00079953	You are being poisoned by a toxic cloud.
+GID00079955	This intercom appears to have failed over time. It will only allow one-way communication from another intercom.
+GID00079957	Do Nothing.
+GID00079959	As you begin to open the door, you notice a tripwire on the other side of the door.
+GID00079961	Close the door.
+GID00079962	Disarm the Trap.
+GID00079963	The circuit breaker is now in working condition.
+GID00079965	Your Repair skill is not high enough to fix the circuit breaker.
+GID00079967	This door is hermetically sealed due to a gas leak in the kitchen contaminating the air. The gas will need to be shut off in order for it to open.
+GID00079969	Do nothing.
+GID00079970	This generator powers turret defenses in the vault.
+GID00079971	Inscribed in its side, you can read:
+GID00079972	"Turret Defense Generator B."
+GID00079973	You may be able to smash the generator. [Melee Weapons 50 or higher required]
+GID00079975	Leave the generator alone.
+GID00079976	Smash the generator.
+GID00079977	This is an unusual-looking crafting station. As you approach, lines of tiny holographic items appear on the dispensing tray - wireframe schematics and lists of consumables the machine can assemble and package for the consumer. There is a slot on the side with a Sierra Madre symbol. The slot does not look part of the original design.
+GID00079979	Dean has gone to the Villa Fountain.
+GID00079981	Your collar is beeping faster.
+GID00079983	This door will not open until the gas valves have been repaired.
+GID00079985	The Vault's elevator is locked.
+GID00079987	Your Pip-Boy has picked up a radio broadcast inviting you to the grand opening of the Sierra Madre Casino!
+GID00079989	After a few quick adjustments, the power comes back on.
+GID00079991	This unusual-looking Auto-Doc still has a series of diodes and buttons that appear to work.
+GID00079993	Leave the Auto-Doc alone.
+GID00079994	Heal all crippled limbs.
+GID00079995	Inject adrenaline to cure exhaustion.
+GID00079996	[Download Medical History]
+GID00079997	Christine has given you the Signal Interference perk.
+GID00079998	This perk grants you a short period of time near a speaker before your bomb collar starts to activate as well as increasing the amount of time before your bomb collar detonates by 50%%.
+GID00080000	Dog has given you the benefit of his Ravenous Hunger.
+GID00080001	Ghost People are difficult to kill unless dismembered or disintegrated. If Dog is in the party, however, Dog will devour them, preventing them from getting back up.
+GID00080003	Elevator cannot be called down from The Vault.
+GID00080005	This emitter controls a Security Hologram in this area. You may be able to disable the emitter. [Repair 50 or higher required]
+GID00080007	Leave emitter alone.
+GID00080008	Disable emitter.
+GID00080009	You need three Electric Box Fuses to fix the circuit breaker.
+GID00080011	God has given you the In my Footsteps perk.
+GID00080012	This perk grants you a bonus to Stealth as well as the ability to step lightly around placed traps.
+GID00080014	This gate leads directly to the Sierra Madre Casino. Once inside, you may not be able to return to the Villa. Do you wish to proceed?
+GID00080016	Stay in the Villa.
+GID00080017	Proceed to the Sierra Madre Casino.
+GID00080018	Dean has given you the Unclean Living perk.
+GID00080019	This perk grants you a short period of time before taking damage inside a toxic cloud as well as reducing the amount of damage you take inside the toxic cloud by 25%%.
+GID00080021	This terminal is broken.
+GID00080023	Your collar is beeping faster.
+GID00080025	The Vault Elevator unlocks its seals.
+GID00080026	The way down to the Sierra Madre's Vault is now open.
+GID00080028	Dog has taught you the Ghost Hunter Perk, allowing you to kill Ghost People so they stay dead, dead.
+GID00080030	This door is hermetically sealed due to the gas leak in the Casa Madrid kitchen. While a maintenance key can override the lock, it will not open from the inside unless the gas valves are shut off. (Maintenance Pass Key Required)
+GID00080032	Do nothing.
+GID00080033	<Use Maintenance Pass Key to open the door.>
+GID00080034	Christine has taught you the Coin Operator Perk, allowing you to make Sierra Madre "Chips" (metal slugs) at Workbenches using Fission Batteries and Scrap Metal.
+GID00080036	The collar has stopped beeping.
+GID00080038	This device is a voice-recognition security system that protects access to the Sierra Madre's Vault.
+GID00080039	Unlocking it requires to speak at the microphone with the proper voice.
+GID00080041	You have lost Dean's Unclean Living perk.
+GID00080043	You have lost the benefit of Dog's Ravenous Hunger.
+GID00080045	Dog has gone to the Villa Fountain.
+GID00080047	You hear a loud noise coming from the room to the west. It sounds as if the ventilation systems are firing up, clearing the Cloud out of the Switching Station basement and sections of Puesta del Sol's streets.
+GID00080049	This terminal is broken.
+GID00080051	Repair successful.
+GID00080053	This generator powers turret defenses in the vault.
+GID00080054	Inscribed in its side, you can read:
+GID00080055	"Turret Defense Generator B."
+GID00080056	You are not able to smash the generator. [Melee Weapons, or Unarmed, 50 or higher required]
+GID00080058	The remaining valves must be repaired before Dog's collar explodes, igniting the gas.
+GID00080060	Wideband Scan Warning!
+GID00080062	Dog has died.
+GID00080064	Christine activated proximity detonation frequency.
+GID00080066	You were able to repair the valve, but lack the skill to properly reinforce it from damage.
+GID00080068	Proximity Scan Warning!
+GID00080070	There appears to be residue collecting in the Chemistry Set. With the proper knowledge, you may be able to collect a sample of it.
+GID00080071	[Science of 25 or greater required.]
+GID00080073	Leave it alone.
+GID00080074	Collect residue sample.
+GID00080075	This door is hermetically sealed due to a structural collapse contaminating the air. It will need to be opened elsewhere.
+GID00080077	Do nothing.
+GID00080078	You have received the Elijah's Ramblings perk.
+GID00080080	You don't have a Holotape that will play in this projector.
+GID00080082	You play Vera's Holotapes, who sings "Begin again... Let go."
+GID00080083	The Vault Elevator unlocks its seals.
+GID00080084	The way down to the Sierra Madre's Vault is now open.
+GID00080086	Please redeem your voucher for a complimentary gift at any vending machine.
+GID00080088	The switches have become corroded and will require great strength to move.
+GID00080090	You see a complicated diagram but don't understand what it means.
+GID00080091	(Intelligence 7 or higher required)
+GID00080093	This generator powers turret defenses in the vault.
+GID00080094	Inscribed in its side, you can read:
+GID00080095	"Turret Defense Generator B."
+GID00080096	You may be able to smash the generator. [Unarmed 50 or higher required]
+GID00080098	Leave the generator alone.
+GID00080099	Smash the generator.
+GID00080100	You have lost Christine's Signal Interference perk.
+GID00080102	This emitter controls a Security Hologram in this area. You may be able to disable the emitter. [Repair 75 or higher required]
+GID00080104	Leave emitter alone.
+GID00080105	Disable emitter.
+GID00080106	This emitter controls a Security Hologram in this area. You may be able to disable the emitter. [Repair 25 or higher required]
+GID00080108	Leave emitter alone.
+GID00080109	Disable emitter.
+GID00080110	This emitter controls a Security Hologram in this area. You may be able to disable the emitter. [Repair 100 required]
+GID00080112	Leave emitter alone.
+GID00080113	Disable emitter.
+GID00080114	You have a complimentary gift waiting for you at the cashier.
+GID00080116	Explosive collar set to distance-based trigger.
+GID00080118	The nearby Auto-Doc emits a number of disturbing noises as it operates.
+GID00080120	Leave the panel alone.
+GID00080121	Disengage Auto-Doc operation.
+GID00080122	This Vending Machine is broken. With your ability to repair objects, you may be able to fix the machine.
+GID00080124	Leave it alone.
+GID00080125	Repair the Vending Machine.
+GID00080126	Welcome, Miss. Keyes.
+GID00080127	Please, speak for voice-recognition access.
+GID00080129	Play the Starlet's voice from your Pip-Boy.
+GID00080130	Leave the Vault Elevator alone.
+GID00080131	This door is hermetically sealed due to the gas leak. If you override the door's lock, you won't be able to open it from the inside until you've shut off the gas valves and dealt with Dog. (Emergency Maintenance Key Required)
+GID00080133	Do nothing.
+GID00080134	Use Emergency Maintenance Key to enter the Kitchen.
+GID00080135	Your Repair skill is not high enough.
+GID00080137	Repair and reinforcement successful.
+GID00080139	A key slides out of Vera's Partitures.
+GID00080141	The circuit breaker looks to have been jury-rigged at some point in the past, but is currently in need of repair.
+GID00080143	Leave the circuit breaker alone.
+GID00080144	[Repair 60] Jury-rig the circuit breaker.
+GID00080145	[Items required] Fix the circuit breaker using parts.
+GID00080147	Holotape Projectors can play Holotapes.
+GID00080148	What would you like to do?
+GID00080150	Play Dean Domino's Holotape of "I Saw Her Yesterday."
+GID00080151	Leave the Holotape Projector alone.
+GID00080152	Holotape Recorders can edit Holotapes.
+GID00080153	What would you like to do?
+GID00080155	Splice together the voice fragments "Let," and "Go," from Vera's recordings.
+GID00080156	Leave the Holotape Recorder alone.
+GID00080157	Christine has died.
+GID00080159	Christine has gone to the Villa Fountain.
+GID00080161	This door is hermetically sealed due to the gas leak. You won't be able to open it from the inside until you've shut off the gas valves and dealt with Dog.
+GID00080163	The Sierra Madre Casino is currently closed. Once power is restored to the casino, it looks as if gambling will re-open as well - with Hologram dealers monitoring the tables and machines.
+GID00080165	This valve is in need of repair.
+GID00080167	Leave the valve alone.
+GID00080168	Repair the valve.

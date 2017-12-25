@@ -1,0 +1,1154 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc03_name_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00091394	Trunk
+GID00091395	Toolbox
+GID00091396	Supply Chute
+GID00091397	Paper Recycler
+GID00091398	Research Terminal
+GID00091399	Z-43 Innovative Toxins Plant
+GID00091400	Big MT West Tunnel
+GID00091401	X-2 Transmitter Antenna Array
+GID00091402	Signal Hills Transmitter
+GID00091404	Nellis Array Generators
+GID00091405	Elevator
+GID00091406	Cuckoo's Nest
+GID00091407	Magnetohydraulics Complex
+GID00091408	Big MT North Tunnel
+GID00091410	Project X-13
+GID00091411	Test Dummy Robobrain
+GID00091412	Laser Tripwire Emitter
+GID00091414	#103
+GID00091415	#108
+GID00091416	#102
+GID00091417	#101
+GID00091418	#00
+GID00091419	Basement
+GID00091422	Z-9 Crotalus DNA Preservation Lab
+GID00091423	Securitron De-Construction Plant
+GID00091424	Desk
+GID00091425	Desk
+GID00091427	Atomic Strength
+GID00091428	Atomic Text
+GID00091429	Atomic!
+GID00091431	Z-14 Pepsinae DNA Splicing Lab
+GID00091432	#104
+GID00091433	Z-38 Lightwave Dynamics Research
+GID00091434	Dead Wind Cavern
+GID00091435	Y-17 Medical Facility
+GID00091436	Z-43 Innovative Toxins Plant
+GID00091437	Gate
+GID00091438	Big MT West Tunnel
+GID00091439	Saturnite Alloy Research Facility
+GID00091440	Higgs Village
+GID00091441	Z-14 Pepsinae DNA Splicing Lab
+GID00091442	Z-9 Crotalus DNA Preservation Lab
+GID00091443	Signal Hills Transmitter
+GID00091444	X-17 Meteorological Station
+GID00091445	Little Yangtze
+GID00091446	Z-38 Lightwave Dynamics Research
+GID00091447	The Cuckoo's Nest
+GID00091448	Big MT East Tunnel
+GID00091449	X-2 Transmitter Antenna Array
+GID00091450	X-7b "Boom Town" Target Zone
+GID00091451	X-7a "Left Field" Artillery Launch
+GID00091452	Y-17 Medical Facility
+GID00091453	X-8 Research Center
+GID00091454	Hazmat Testing Ground
+GID00091455	Waste Disintegration Platform
+GID00091456	Securitron De-Construction Plant
+GID00091457	Y-0 Research Center
+GID00091458	X-22 Botanical Garden
+GID00091459	Big MT North Tunnel
+GID00091460	Magnetohydraulics Complex
+GID00091461	Implant M-5
+GID00091462	Implant Y-3
+GID00091463	Implant C-13
+GID00091464	DNAgent
+GID00091465	Nightstalker Squeezin's
+GID00091466	Mile in Their Shoes
+GID00091467	Implant Y-7
+GID00091468	Protonic Inversal Axe
+GID00091469	X8 Main Code Box
+GID00091470	X-8 Kennel Terminal
+GID00091471	Berserk Securitron Mk1
+GID00091472	Spineless
+GID00091473	Brainless
+GID00091474	Increased Damage Resistance
+GID00091475	Torso Restoration
+GID00091476	Spineless Strength
+GID00091477	Heartless
+GID00091478	Thin Red Paste
+GID00091479	Blood Sausage
+GID00091480	Them's Good Eatin'
+GID00091481	Gibson's Shack
+GID00091482	The Think Tank
+GID00091483	The Sink Balcony
+GID00091484	Forbidden Zone Dome Entrance
+GID00091485	Protectron Mk3
+GID00091486	Protectron Mk2
+GID00091487	Protectron Mk1
+GID00091488	Military Cyber Dog
+GID00091489	Military Cyber Dog
+GID00091490	Military Cyber Dog
+GID00091492	Door
+GID00091494	Nightstalker
+GID00091495	Nightstalker
+GID00091496	Nightstalker
+GID00091497	X-8 Main Terminal
+GID00091498	X-8 Splicing Facility Terminal
+GID00091499	Implant GRX
+GID00091500	Implant GRX
+GID00091502	Klein Destine
+GID00091503	Make Up Your Mind
+GID00091504	Spinal-Tapped!
+GID00091505	Cardiac Arrest!
+GID00091506	Outsmarted
+GID00091507	Mobius Strip
+GID00091508	Mister Handy
+GID00091509	Dog
+GID00091510	Tool Cabinet
+GID00091511	Metal Box
+GID00091512	Metal Box
+GID00091513	Locker
+GID00091514	Locker
+GID00091515	Footlocker
+GID00091516	Footlocker
+GID00091517	Filing Cabinet
+GID00091518	Filing Cabinets
+GID00091519	Filing Cabinets
+GID00091520	Filing Cabinets
+GID00091521	Cabinet
+GID00091522	Toolbox
+GID00091523	Scientist Glove
+GID00091526	Mister Gutsy Mk1
+GID00091527	Mister Gutsy Mk3
+GID00091528	Mister Gutsy Mk2
+GID00091529	Crazed Mister Handy
+GID00091530	Crazed Mister Handy
+GID00091531	Crazed Mister Handy
+GID00091532	Mister Handy
+GID00091533	Sentry Bot Mk1
+GID00091534	Sentry Bot Mk2
+GID00091535	Sentry Bot Mk3
+GID00091536	Berserk Securitron Mk2
+GID00091537	Berserk Securitron Mk3
+GID00091538	Mark IV Turret
+GID00091539	Mark II Turret
+GID00091540	Mark VI Turret
+GID00091541	Robobrain Mk1
+GID00091542	Robobrain Mk2
+GID00091543	Robobrain Mk4
+GID00091544	Robobrain
+GID00091545	Cazador
+GID00091546	Cazador
+GID00091547	Cazador
+GID00091548	Robo-Scorpion Mk1
+GID00091549	Robo-Scorpion Mk2
+GID00091550	Robo-Scorpion Mk3
+GID00091552	Corrosive Glove
+GID00091554	Sterilizer Glove
+GID00091555	Dr. Mobius' Glove
+GID00091556	Dr. Klein's Glove
+GID00091563	Vault 11
+GID00091564	Brain Beam
+GID00091565	Brain Mesmetron
+GID00091566	Lobotomite
+GID00091567	Roxie
+GID00091568	Robobrain
+GID00091569	Skeleton
+GID00091571	Door
+GID00091572	dalptest
+GID00091573	Dog Run I - Dog Gone
+GID00091574	Dog Run II - Who let the...
+GID00091575	Dog Run III - Snake Skins
+GID00091576	VR the Champions I - Simulated
+GID00091577	VR the Champions II - Simulacra
+GID00091578	VR the Champions III - Hollowed Out
+GID00091579	MT Space
+GID00091580	Outer Space
+GID00091581	Encounter Code Box
+GID00091582	Encounter Spawn List
+GID00091583	NVDLC03Enc
+GID00091586	Door
+GID00091588	Lobotomite
+GID00091589	Lobotomite
+GID00091590	Lobotomite
+GID00091591	Encounters
+GID00091594	X-13 Research Facility
+GID00091597	Valence Radii-Accentuator
+GID00091599	Gabe's Digging Spot
+GID00091600	Gabe's Digging Spot
+GID00091601	Police Cyber Dog
+GID00091602	Vault 11 Lower Level
+GID00091604	Atomic-Valence Tri-Radii-Oscillator
+GID00091605	Techatticup Mine
+GID00091606	Sewer Rat
+GID00091607	LAER
+GID00091608	Door
+GID00091609	Door
+GID00091610	Terminal
+GID00091611	Research Terminal
+GID00091612	Terminal
+GID00091613	Proton Throwing Axe
+GID00091614	Protonic Inversal Throwing Axe
+GID00091615	X-8 Turret Control System
+GID00091616	X-8 Turret Control System
+GID00091617	Balcony Door
+GID00091619	X-13 Experimental Stealth Suit Complete
+GID00091620	Prototype X-13 Boots
+GID00091621	Prototype X-13 Gloves
+GID00091622	Prototype X-13 Chest Plate
+GID00091623	Urinal
+GID00091624	Toilet
+GID00091625	Sink
+GID00091626	Water Fountain
+GID00091628	Robo-Scorpion Mk1
+GID00091631	Stealth Suit Mk II
+GID00091632	X-13 Field Disruptor Pistol
+GID00091633	Hall Monitor
+GID00091634	X-2 Antenna
+GID00091635	Door
+GID00091636	Lobotomite Goggles
+GID00091637	Higgs Village
+GID00091638	Hot Plate
+GID00091639	Robot Compliance
+GID00091640	Robot Compliance
+GID00091641	Basic Infiltration
+GID00091642	Wastelander
+GID00091643	Light Switch
+GID00091645	Artillery Controls
+GID00091646	Cazador
+GID00091647	Cazador
+GID00091648	Cazador
+GID00091649	Military Cyber Dog
+GID00091650	Military Cyber Dog
+GID00091651	Military Cyber Dog
+GID00091652	Robo-Scorpion Mk4
+GID00091653	Robo-Scorpion Mk5
+GID00091654	Robo-Scorpion Mk6
+GID00091655	Mister Gutsy Mk4
+GID00091656	Mister Gutsy Mk5
+GID00091657	Mister Gutsy Mk6
+GID00091658	Crazed Mister Handy
+GID00091659	Crazed Mister Handy
+GID00091660	Crazed Mister Handy
+GID00091661	Nightstalker
+GID00091662	Nightstalker
+GID00091663	Nightstalker
+GID00091664	Protectron Mk4
+GID00091665	Protectron Mk5
+GID00091666	Protectron Mk6
+GID00091667	Robobrain Mk3
+GID00091668	Robobrain Mk5
+GID00091669	Robobrain Mk6
+GID00091670	Berserk Securitron Mk4
+GID00091671	Berserk Securitron Mk5
+GID00091672	Berserk Securitron Mk6
+GID00091673	Sentry Bot Mk4
+GID00091674	Sentry Bot Mk5
+GID00091675	Sentry Bot Mk6
+GID00091676	Satellite Dish Ladder
+GID00091677	X-12
+GID00091678	Snow Globe - Big MT
+GID00091679	Mentats Test Level
+GID00091680	Y-17 Trauma Override Harness
+GID00091681	Y-17 Trauma Override Harness
+GID00091682	Y-17 Trauma Override Harness
+GID00091683	Gabe
+GID00091684	Gabe
+GID00091685	Gabe
+GID00091686	Gabe
+GID00091687	Gabe
+GID00091688	Soundwave Recalibration
+GID00091689	Sound Wave Recalibrator
+GID00091690	Dr. Calis
+GID00091691	Patient Gown
+GID00091692	Storage Cabinet
+GID00091693	Modified Nuka-Cola Machine
+GID00091694	Nuka-Cola Vending Machine
+GID00091695	Doctor Mobius
+GID00091696	Doctor Mobius
+GID00091697	Doctor Mobius
+GID00091698	Doctor Mobius
+GID00091699	Doctor Mobius
+GID00091700	Doctor Klein
+GID00091701	Doctor Klein
+GID00091702	Doctor Klein
+GID00091703	Doctor Klein
+GID00091704	Doctor Klein
+GID00091705	RoboScorpion Burst Attack
+GID00091708	Elevator
+GID00091709	X-13 Stealth Testing Lab
+GID00091710	Followers Doctor
+GID00091711	Securitron Mk I
+GID00091712	Voice NPC for Stealth Suit Mk II
+GID00091713	Stimpak Auto-Injector
+GID00091714	Stealth Suit Mk II
+GID00091715	DNAvenger
+GID00091716	Caza-Death Dealer I
+GID00091717	Caza-Death Dealer II
+GID00091718	Caza-Death Dealer III
+GID00091719	Nightstalker Samples
+GID00091720	Artillery Command Center
+GID00091721	Sonic Emitter Notice
+GID00091722	Hazmat Darklight Cowl
+GID00091723	Hazmat Suit
+GID00091724	Little Yangtze Watchtower
+GID00091725	Metal Box
+GID00091726	Footlocker
+GID00091727	Betsy Bright's Disciplinary Record
+GID00091728	Midterm Grade Report: Richie Marcus
+GID00091729	Cherie O' Bannon's After-School Schedule
+GID00091730	X-8 Data Retrieval Test
+GID00091733	Vault 34 - 1st Floor
+GID00091734	Scientist Scrubs
+GID00091735	Dr. Klein's Scrubs
+GID00091736	Dr. Mobius' Scrubs
+GID00091737	Mad Scientist Scrubs
+GID00091738	Turret Kill Volume
+GID00091739	X-8 Institutional Test Terminal
+GID00091740	X-8 Institutional Test Terminal
+GID00091741	X-8 Institutional Test Terminal
+GID00091742	Bio-Mechanical Splicing Rules
+GID00091743	Big Mountain Transportalponder!
+GID00091744	Sonic Emitter - Opera Singer
+GID00091745	Giant RoboScorpion Death Spell
+GID00091747	X-8 Observatory Terminal
+GID00091748	X-8 Institutional Data Retrieval Test
+GID00091749	Residential Cyberdog Test Off-Limits!
+GID00091750	Please Advise
+GID00091751	X-8 Test Subject Information
+GID00091752	Re: Please Advise
+GID00091753	Shipping Department in Lockdown
+GID00091754	Field Gun Prototype on Loan
+GID00091755	Sink Vendor Container
+GID00091756	Upgrade - Refrigerator
+GID00091757	Upgrade - Auto-Doc Barber Module
+GID00091758	X-13 VR Program Warning
+GID00091759	Security Terminal
+GID00091760	Sonic Emitter - Gabriel's Bark
+GID00091761	Sonic Emitter - Revelation
+GID00091762	Sonic Emitter - Robo-Scorpion
+GID00091763	Sonic Emitter - Tarantula
+GID00091764	Upgrade - Auto-Doc Cosmetic Surgery Module
+GID00091765	Primer and Powder Pack
+GID00091766	K9000 Cyberdog Gun
+GID00091768	Robo-Scorpion Mk1
+GID00091769	Robo-Scorpion Mk1
+GID00091770	Robo-Scorpion Mk1
+GID00091771	Robo-Scorpion Bomber Mk6
+GID00091772	Robo-Scorpion Bomber Mk5
+GID00091773	Robo-Scorpion Bomber Mk4
+GID00091774	Robo-Scorpion Bomber Mk3
+GID00091775	Robo-Scorpion Bomber Mk2
+GID00091776	Robo-Scorpion Bomber Mk1
+GID00091777	Robo-Scorpion Blaster Mk6
+GID00091778	Robo-Scorpion Blaster Mk5
+GID00091779	Robo-Scorpion Blaster Mk4
+GID00091780	Robo-Scorpion Blaster Mk3
+GID00091781	Robo-Scorpion Blaster Mk2
+GID00091782	Robo-Scorpion Blaster Mk1
+GID00091783	Robo-Scorpion Pincer Mk6
+GID00091784	Robo-Scorpion Pincer Mk5
+GID00091785	Robo-Scorpion Pincer Mk4
+GID00091786	Robo-Scorpion Pincer Mk3
+GID00091787	Robo-Scorpion Pincer Mk2
+GID00091788	Robo-Scorpion Pincer Mk1
+GID00091789	Project: Burke and Project: Hare - PLEASE READ
+GID00091791	Meat
+GID00091792	X-8 Kennel Key
+GID00091793	Countdown
+GID00091795	Dialogue Dr. 8
+GID00091796	Dialogue Dr. O
+GID00091797	Dialogue Dr. Borous
+GID00091798	Doctor Dala
+GID00091799	Doctor Dala
+GID00091800	Doctor Dala
+GID00091801	Doctor Dala
+GID00091802	Doctor Dala
+GID00091803	Doctor Dala
+GID00091804	Doctor O
+GID00091805	Doctor O
+GID00091806	Doctor O
+GID00091807	Doctor O
+GID00091808	Doctor O
+GID00091809	Doctor O
+GID00091810	X-42 Security Turret
+GID00091811	Turret Control System
+GID00091813	Lobotomite Jumpsuit
+GID00091814	Lobotomite Mask
+GID00091815	Lobotomite Mask and Goggles
+GID00091817	Dialogue for HQ Buddies
+GID00091818	Muggy
+GID00091828	No Suit Detected!
+GID00091829	Stealth Suit Mk II
+GID00091830	X-13 Document
+GID00091831	Administrator's Wall Safe
+GID00091832	X-42 Giant Robo-Scorpion
+GID00091833	X-42 Giant Robo-Scorpion
+GID00091834	X-42 Giant Robo-Scorpion
+GID00091835	X-42 Giant Robo-Scorpion
+GID00091836	X-42 Giant Robo-Scorpion
+GID00091837	X-42 Giant Robo-Scorpion
+GID00091840	Giant Robo-Scorpion Test Log
+GID00091841	Door
+GID00091842	Locker
+GID00091843	Locker
+GID00091844	Locker
+GID00091845	Target Drone Effectiveness
+GID00091846	Bio Research Station Voice (NOT USED IN GAME)
+GID00091847	Sink Voice (NOT USED IN GAME)
+GID00091848	Toaster Voice (NOT USED IN GAME)
+GID00091849	Sink CIU
+GID00091850	Light Switch 01 Voice (NOT USED IN GAME)
+GID00091851	Light Switch 02 Voice (NOT USED IN GAME)
+GID00091852	Jukebox Voice (NOT USED IN GAME)
+GID00091853	Book Chute Voice (NOT USED IN GAME)
+GID00091854	Auto-Doc Voice (NOT USED IN GAME)
+GID00091856	X-8 Test Terminal
+GID00091857	Protectron
+GID00091858	Protectron
+GID00091859	Expert Infiltration
+GID00091860	Advanced Infiltration
+GID00091861	Door
+GID00091862	Safe
+GID00091863	Reward Safe
+GID00091865	Wastelander1
+GID00091867	Drone Control Terminal
+GID00091868	Power Regulation Terminal
+GID00091869	Terminal
+GID00091871	Doctor Borous
+GID00091872	Doctor Borous
+GID00091873	Doctor Borous
+GID00091874	Doctor Borous
+GID00091875	Doctor Borous
+GID00091876	Doctor Borous
+GID00091877	Doctor 8
+GID00091878	Doctor 8
+GID00091879	Doctor 8
+GID00091880	Doctor 8
+GID00091881	Doctor 8
+GID00091882	Doctor 8
+GID00091884	Dialogue Dr. Dala
+GID00091885	Robo-Scorpion Mk1
+GID00091887	Robot Compliance
+GID00091888	Expert Infiltration
+GID00091889	Advanced Infiltration
+GID00091890	Basic Infiltration
+GID00091891	Proximity Detector
+GID00091893	Saturnite Fist
+GID00091894	Protectron
+GID00091895	Saturnite Fist Super-Heated
+GID00091898	Construction Site
+GID00091899	Giant Roboscorpion DT 30
+GID00091900	Emergency Shutdown Terminal
+GID00091901	Emergency Shutdown Terminal Password
+GID00091902	Test Completed!
+GID00091906	X-8 Kennel Door
+GID00091908	FIDO
+GID00091909	Freeside
+GID00091910	Crashed Satellite
+GID00091912	Cyber Dog
+GID00091913	Your Spine
+GID00091914	Your Heart
+GID00091915	Your Brain
+GID00091916	Footlocker
+GID00091917	Door
+GID00091918	Lake Mead Cave
+GID00091921	Project X-13 Redux
+GID00091922	Duffle Bag
+GID00091923	Wooden Crate
+GID00091924	Oven
+GID00091925	Cabinet
+GID00091926	Metal Box
+GID00091927	Desk
+GID00091928	Refrigerator
+GID00091929	Wardrobe
+GID00091930	Footlocker
+GID00091931	Vending Machine
+GID00091932	Grave
+GID00091933	Trunk
+GID00091934	Trunk
+GID00091935	Trunk
+GID00091936	Electrical Box
+GID00091937	Shipping Department in Lockdown
+GID00091939	Nightstalker DNA Manipulation
+GID00091940	Ripped Scientist Scrubs
+GID00091944	Elevator
+GID00091945	Elevator
+GID00091946	Christine's COS Silencer Rifle
+GID00091947	Samples Box
+GID00091948	Samples Box
+GID00091949	Samples Box
+GID00091950	Field Research
+GID00091951	All My Friends Have Off Switches
+GID00091952	Influencing People
+GID00091953	Electrical Box
+GID00091954	Footlocker
+GID00091955	Gabe's Bowl
+GID00091956	Nightstalker
+GID00091957	Nightstalker
+GID00091958	Nightstalker
+GID00091959	Nightstalker
+GID00091960	Nightstalker
+GID00091961	Nightstalker
+GID00091962	Ammunition Box
+GID00091964	Making Friends
+GID00091965	Y-17 Trauma Harness Action Items
+GID00091966	"Chicken" Leg
+GID00091967	Lobotomite
+GID00091968	Lobotomite
+GID00091969	Lobotomite
+GID00091970	Christine's COS Recon Armor
+GID00091971	Elijah's Jury-Rigged Tesla Cannon
+GID00091972	Mark IV Turret
+GID00091974	Gnawed Bones
+GID00091975	Crashed Satellite
+GID00091976	DriveIn Movie
+GID00091977	Biological Research Station
+GID00091978	Player's Stuff Storage
+GID00091979	Throwing Hatchet
+GID00091980	Audio Sample - Gabriel's Bark
+GID00091981	Audio Sample - Opera Singer
+GID00091982	Audio Sample - Mobius' Robo-Scorpion
+GID00091983	Audio Sample - Giant Tarantula
+GID00091984	Sink Project: Biological Research Station
+GID00091985	Sink Project: Auto-Doc
+GID00091986	Sink Project: Jukebox
+GID00091987	Sink Project: Book Chute
+GID00091988	Sink Project: Toaster
+GID00091989	Sink Project: Sink
+GID00091990	Sink Project: Light Switch 01
+GID00091991	Sink Project: Light Switch 02
+GID00091992	Sink Project: Muggy
+GID00091993	Auto-Doc Upgrade: Hair Styling Enhancements
+GID00091994	Auto-Doc Upgrade: Implant C-13
+GID00091995	Auto-Doc Upgrade: Implant M-5
+GID00091996	Auto-Doc Upgrade: Implant Y-3
+GID00091997	Auto-Doc Upgrade: Implant Y-7
+GID00091998	Book Chute Upgrade: Mulching
+GID00091999	Sink Upgrade: Water Production
+GID00092000	Light Switch 01 Upgrade: "Smart Lights"
+GID00092001	"Muggy" Upgrade: Parts Production
+GID00092002	Dried White Horsenettle
+GID00092003	Recipes - Barter Skill Book
+GID00092004	Dried Nevada Agave Fruit
+GID00092005	Dried Barrel Cactus Fruit
+GID00092006	Dried Pinto Bean Pod
+GID00092007	Dried Banana Yucca Fruit
+GID00092008	Dried Broc Flower
+GID00092009	Dried Prickly Pear Fruit
+GID00092010	Dried Xander Root
+GID00092011	Dried Honey Mesquite Pod
+GID00092012	Dried Jalapeno Pepper
+GID00092013	Dried Maize
+GID00092014	Recipes - Energy Weapons Skill Book
+GID00092015	Recipes - Explosives Skill Book
+GID00092016	Recipes - Guns Skill Book
+GID00092017	Recipes - Lockpick Skill Book
+GID00092018	Recipes - Medicine Skill Book
+GID00092019	Recipes - Melee Weapons Skill Book
+GID00092020	Recipes - Repair Skill Book
+GID00092021	Recipes - Science Skill Book
+GID00092022	Recipes - Sneak Skill Book
+GID00092023	Recipes - Speech Skill Book
+GID00092024	Recipes - Survival Skill Book
+GID00092025	Recipes - Unarmed Skill Book
+GID00092026	Blank Book
+GID00092027	Skill Book: Barter
+GID00092028	Skill Book: Energy Weapons
+GID00092029	Skill Book: Explosives
+GID00092030	Skill Book: Guns
+GID00092031	Skill Book: Lockpick
+GID00092032	Skill Book: Medicine
+GID00092033	Skill Book: Melee Weapons
+GID00092034	Skill Book: Repair
+GID00092035	Skill Book: Science
+GID00092036	Skill Book: Sneak
+GID00092037	Skill Book: Speech
+GID00092038	Skill Book: Survival
+GID00092039	Skill Book: Unarmed
+GID00092040	Police Cyber Dog
+GID00092041	Police Cyber Dog
+GID00092042	Police Cyber Dog
+GID00092043	Police Cyber Dog
+GID00092044	Police Cyber Dog
+GID00092045	Police Cyber Dog
+GID00092046	Construction Drone
+GID00092047	Construction Drone
+GID00092048	Construction Drone
+GID00092049	Construction Drone
+GID00092050	Construction Drone
+GID00092051	Construction Drone
+GID00092063	Hologram Regeneration
+GID00092064	Hologram Flicker In
+GID00092065	Hologram Flicker Out
+GID00092066	Hologram Flicker
+GID00092067	Immune to Fire
+GID00092068	Hologram Neutral
+GID00092069	Hologram Neutral 2
+GID00092070	hologramoutfit
+GID00092071	Hologram Beam
+GID00092072	Energy Cell
+GID00092073	Hologram
+GID00092074	Test Cell For QA Test
+GID00092075	Scripting Support for Hologram Features
+GID00092076	Deluxe Chemistry Set
+GID00092079	Mutant Cave Fungus
+GID00092080	Mutant Cave Fungus
+GID00092081	Picking Your Brains
+GID00092084	Light Switch 02 Upgrade: "Mood Lights"
+GID00092085	Storage Cabinet
+GID00092086	Data Retrieval
+GID00092087	Data Retrieval
+GID00092088	Residential Cyberdog Guard Test
+GID00092089	X-8 Data Retrieval Test Replay
+GID00092090	Early Bird
+GID00092091	Early Bird Bonus
+GID00092092	Early Bird Penalty
+GID00092093	Hot Blooded Penalty
+GID00092094	Hot Blooded
+GID00092095	Hoarder Penalty
+GID00092096	Hoarder
+GID00092097	Logan's Loophole
+GID00092098	Mister Orderly Mk1
+GID00092099	Mister Orderly Mk2
+GID00092100	Mister Orderly Mk3
+GID00092101	Mister Orderly Mk4
+GID00092102	Mister Orderly Mk5
+GID00092103	Mister Orderly Mk6
+GID00092104	Dog and Lobotomite Splicing Experiment Holotape
+GID00092105	Robot and Nightstalker Splicing Experiment Holotape
+GID00092106	Dog and Robot Splicing Experiment Holotape
+GID00092107	Spore Carrier Runt
+GID00092108	Spore Carrier
+GID00092109	Spore Carrier Brute
+GID00092110	Spore Carrier Savage
+GID00092111	Spore Carrier Scavenger
+GID00092112	Spore Carrier Alpha
+GID00092113	Skilled
+GID00092114	Test Subject Observations
+GID00092115	Independent Research
+GID00092116	RE: RE: RE: Test Subject Observations
+GID00092117	Test Subject Observations
+GID00092118	Test Subject Observations
+GID00092119	Suggestion.
+GID00092120	X-13 Shipment Notice
+GID00092121	RE: X-13 Shipment Notice
+GID00092122	Check out this mod I've been working on!
+GID00092123	Get off your butt, Butz!
+GID00092124	What the hell...?!
+GID00092125	Mk II Torso Research
+GID00092126	Mk II Glove Research
+GID00092127	Mk II Boot Research
+GID00092128	Vent
+GID00092129	Vent
+GID00092130	Greasy Toolbox
+GID00092131	Technician Terminal
+GID00092132	Terminal
+GID00092133	Terminal
+GID00092134	Terminal
+GID00092135	Research Terminal
+GID00092136	Research Terminal
+GID00092137	Research Terminal
+GID00092138	Test Recording Terminal
+GID00092139	Security Terminal
+GID00092140	Gun Locker
+GID00092142	Independent Research
+GID00092143	Technician Terminal
+GID00092144	Process Materials?
+GID00092145	Laser Rifle
+GID00092146	Seed Package
+GID00092147	Seed Package
+GID00092148	Seed Package
+GID00092150	Claustrophobia Bonus
+GID00092151	Claustrophobia Penalty
+GID00092154	Protonic Inversal Axe
+GID00092155	Inversal Axe Thrown
+GID00092156	Saturnite Power Fist
+GID00092157	Christine's COS Silencer Rifle
+GID00092158	Elijah's Advanced LAER
+GID00092159	Elijah's Jury-Rigged Tesla Cannon
+GID00092160	LAER
+GID00092161	Sterilizer Glove
+GID00092162	Dr. Klein's Glove
+GID00092163	Dr. Mobius' Glove
+GID00092164	Lobotomite
+GID00092165	Lobotomite
+GID00092166	Lobotomite
+GID00092167	Lobotomite
+GID00092168	Lobotomite
+GID00092169	Lobotomite
+GID00092170	Lobotomite
+GID00092171	Lobotomite
+GID00092172	Lobotomite
+GID00092173	Lobotomite
+GID00092174	Lobotomite
+GID00092175	Lobotomite
+GID00092176	Lobotomite
+GID00092177	Lobotomite
+GID00092178	Lobotomite
+GID00092179	Lobotomite
+GID00092180	Lobotomite
+GID00092181	Lobotomite
+GID00092182	Lobotomite
+GID00092183	Lobotomite
+GID00092184	Lobotomite
+GID00092185	Lobotomite
+GID00092186	Lobotomite
+GID00092187	Lobotomite
+GID00092188	Lobotomite
+GID00092189	Lobotomite
+GID00092190	Lobotomite
+GID00092191	Lobotomite
+GID00092192	Lobotomite
+GID00092193	Lobotomite
+GID00092194	Lobotomite
+GID00092195	Lobotomite
+GID00092196	Lobotomite
+GID00092197	Lobotomite
+GID00092198	Lobotomite
+GID00092199	Lobotomite
+GID00092200	Lobotomite
+GID00092201	Lobotomite
+GID00092202	Lobotomite
+GID00092203	Lobotomite
+GID00092204	Lobotomite
+GID00092205	Lobotomite
+GID00092206	Lobotomite
+GID00092207	Lobotomite
+GID00092208	Lobotomite
+GID00092221	Skeleton Head Helm
+GID00092222	Y-17 Animatronic Lab Skeleton
+GID00092223	Y-17 Animatronic Lab Skeleton
+GID00092224	Y-17 Animatronic Lab Skeleton
+GID00092225	Ammunition Box
+GID00092227	Claustrophobia Bonus/Penalty
+GID00092238	Skilled Bonus (+5 to skills)
+GID00092239	Claustrophobia
+GID00092240	Implant Interface
+GID00092241	Salient Green
+GID00092242	Black Blood Sausage
+GID00092243	Black Blood Sausage
+GID00092244	Cloned Nevada Agave Fruit
+GID00092245	Thick Red Paste
+GID00092246	Thick Red Paste
+GID00092247	Cloned Barrel Cactus Fruit
+GID00092248	Cloned Pinto Bean Pod
+GID00092249	Cloned Banana Yucca
+GID00092250	Cloned Broc Flower
+GID00092251	Cloned Prickly Pear Fruit
+GID00092252	Cloned Xander Root
+GID00092253	Cloned Honey Mesquite
+GID00092254	Cloned Jalapeno Pepper
+GID00092255	Cloned Maize
+GID00092256	Cloned White Horsenettle
+GID00092257	Light Switch
+GID00092258	Smart Lights
+GID00092259	Mood Lighting
+GID00092260	Nightstalker
+GID00092261	Disabled Jukebox
+GID00092262	Process Materials?
+GID00092263	Holo-Vending Machine
+GID00092268	NVDLC03 Radio Quest
+GID00092272	Robo-Scorpion Mk1b
+GID00092273	Robo-Scorpion Mk2b
+GID00092274	Robo-Scorpion Mk3b
+GID00092275	Robo-Scorpion Mk4b
+GID00092276	Robo-Scorpion Mk5b
+GID00092277	Robo-Scorpion Mk6b
+GID00092284	Burning Explosion
+GID00092285	Ammunition Box
+GID00092286	X-12 Research Center
+GID00092287	Enable Linked
+GID00092288	Head Explosion
+GID00092289	Yangtze Camp Survivor
+GID00092290	Yangtze Camp Survivor
+GID00092291	Yangtze Camp Survivor
+GID00092292	Yangtze Camp Survivor
+GID00092294	Sonic Emitter not detected
+GID00092295	Need some heat?
+GID00092296	Need some heat?
+GID00092297	Need some water?
+GID00092298	Items to process?
+GID00092299	Auto-Doc Upgrade: Cosmetic Enhancements
+GID00092300	Safe
+GID00092302	Set Target On Fire
+GID00092311	Antenna Club Paralysis
+GID00092312	Test Area A - Review
+GID00092315	Acid Weapon Critical
+GID00092318	Brain Tank Open Timer
+GID00092320	Hazmat Suit Containment Unit
+GID00092321	Hazmat Suit
+GID00092322	Spore Plant
+GID00092323	Spore Plant
+GID00092324	Spore Plant
+GID00092325	Spore Plant
+GID00092326	Spore Plant
+GID00092327	Damaged Securitron Mk1
+GID00092328	Damaged Securitron Mk2
+GID00092329	Damaged Securitron Mk3
+GID00092330	Damaged Securitron Mk4
+GID00092331	Damaged Securitron Mk5
+GID00092332	Damaged Securitron Mk6
+GID00092333	Spore Plant
+GID00092334	Hazmat Pod Security Code
+GID00092335	Hologram
+GID00092336	Mega Robo-Scorpion Claw
+GID00092337	X8 Tunnel Hologram Code Box
+GID00092338	Borous' Basement Key
+GID00092339	Dala's Teddy Bear
+GID00092340	X-66 Hexcrete Archipelago
+GID00092341	Terminal
+GID00092342	Soggy Duffle Bag
+GID00092343	Elijah's Watch
+GID00092344	Protectron Target Drone
+GID00092345	010011110110111001100101
+GID00092346	Spare Component
+GID00092347	Deactivated Bomb Collar
+GID00092348	Broken Detonator
+GID00092349	Damaged Satellite Dish
+GID00092350	Yangtze Camp Jumpsuit
+GID00092351	Cazador
+GID00092352	Cazador
+GID00092353	Cazador
+GID00092354	Cazador
+GID00092355	Cazador
+GID00092356	Cazador
+GID00092357	Mister Gutsy Mk1
+GID00092358	Mister Gutsy Mk2
+GID00092359	Mister Gutsy Mk3
+GID00092360	Mister Gutsy Mk4
+GID00092361	Mister Gutsy Mk6
+GID00092362	Mister Gutsy Mk5
+GID00092363	Nightstalker
+GID00092364	Nightstalker
+GID00092365	Nightstalker
+GID00092366	Nightstalker
+GID00092367	Nightstalker
+GID00092368	Nightstalker
+GID00092369	Robobrain Mk1
+GID00092370	Robobrain Mk2
+GID00092371	Robobrain Mk3
+GID00092372	Robobrain Mk4
+GID00092373	Robobrain Mk5
+GID00092374	Robobrain Mk6
+GID00092375	Berserk Securitron Mk1
+GID00092376	Berserk Securitron Mk2
+GID00092377	Berserk Securitron Mk3
+GID00092378	Berserk Securitron Mk4
+GID00092379	Berserk Securitron Mk5
+GID00092380	Berserk Securitron Mk6
+GID00092381	Damaged Securitron Mk1
+GID00092382	Damaged Securitron Mk2
+GID00092383	Damaged Securitron Mk3
+GID00092384	Damaged Securitron Mk4
+GID00092385	Damaged Securitron Mk5
+GID00092386	Damaged Securitron Mk6
+GID00092387	Sentry Bot Mk1
+GID00092388	Sentry Bot Mk2
+GID00092389	Sentry Bot Mk3
+GID00092390	Sentry Bot Mk4
+GID00092391	Sentry Bot Mk5
+GID00092392	Sentry Bot Mk6
+GID00092393	Protectron Mk1
+GID00092394	Protectron Mk2
+GID00092395	Protectron Mk3
+GID00092396	Protectron Mk4
+GID00092397	Protectron Mk5
+GID00092398	Protectron Mk6
+GID00092399	Door
+GID00092400	Stealth Suit Mk II v1.3 Downloaded!
+GID00092401	Stealth Suit Mk II v1.4 Downloaded!
+GID00092402	Stealth Suit Mk II v1.1 Downloaded!
+GID00092403	Stealth Suit Mk II v1.2 Downloaded!
+GID00092404	X-8 Institutional Test Terminal
+GID00092405	X-8 Institutional Test Terminal
+GID00092406	X-8 Institutional Test Terminal
+GID00092407	Schematics - K9000 FIDO
+GID00092408	Sewer Rat
+GID00092410	K9000 FIDO Cyberdog Gun Upgrade
+GID00092413	Hall Monitor
+GID00092414	Generic Wild Wasteland
+GID00092416	Ulysses
+GID00092417	Christine
+GID00092418	Overclocked Turret
+GID00092419	Dionaea Muscipula
+GID00092420	Patient Zero
+GID00092421	RY-589 Ultimo Bot
+GID00092422	Super-Ego
+GID00092423	Construction Drone Foreman
+GID00092424	The Custodian
+GID00092425	Shadis
+GID00092426	Doctor Orderly MD PHD DDS
+GID00092427	Sparks
+GID00092428	Ironbelly
+GID00092429	Specimen 73
+GID00092430	Y-17 Advanced Animatronic Skeleton
+GID00092431	Number 34
+GID00092432	Number 27
+GID00092433	Test Subject 1
+GID00092434	Y-17 Master Trauma Harness
+GID00092435	Debug Topics
+GID00092436	Big Empty Holotapes
+GID00092437	Robobrain
+GID00092438	Protectron
+GID00092439	Patient Log: Y-17.0
+GID00092440	Patient Log: Y-17.5
+GID00092441	Patient Log: Y-17.9
+GID00092442	Jukebox
+GID00092443	Mysterious Cave
+GID00092444	Elevator
+GID00092445	Preserved Meat
+GID00092446	Battle Brew
+GID00092447	Metal Box
+GID00092448	Strange Cask
+GID00092449	Strange Still
+GID00092450	Hanging Meat
+GID00092451	Red Mist
+GID00092455	Door
+GID00092456	Door
+GID00092457	X-8 Test 2 Sonic Emitter Note
+GID00092458	Ulysses' Point
+GID00092459	Ulysses' Map
+GID00092460	Crate
+GID00092461	Exit to Big MT
+GID00092462	Blank Holotape
+GID00092463	Reinforced Spine
+GID00092464	Ulysses' Point
+GID00092466	Loading Station
+GID00092467	Request for Assistance
+GID00092468	Sonic Emitter Data
+GID00092469	A Brain's Best Friend
+GID00092470	Coming Out Of Her Shell
+GID00092471	He Came... And Went
+GID00092472	On The Same Wavelength
+GID00092473	What's In A Name?
+GID00092474	When Visitors Attack!
+GID00092478	Elijah's Journal
+GID00092479	Dead Yangtze Camp Survivor
+GID00092480	Y-17 Trauma Override Harness
+GID00092481	Y-17 Trauma Override Harness
+GID00092482	Y-17 Trauma Override Harness
+GID00092483	Lobotomite
+GID00092484	Lobotomite
+GID00092485	Lobotomite
+GID00092486	Sewer Rat
+GID00092487	Sewer Rat
+GID00092488	Sewer Rat
+GID00092489	Sewer Rat
+GID00092490	Sewer Rat
+GID00092492	Robobrain
+GID00092495	Journal Entry - Day 2
+GID00092496	Journal Entry - Day 3
+GID00092497	Journal Entry - Day 4
+GID00092498	Journal Entry - Day 4 - Addendum
+GID00092499	Field Disrupter Download Terminal
+GID00092500	Field Disrupter Download Terminal
+GID00092501	Pit of Doom
+GID00092504	Metal Box
+GID00092505	VR Test Kudos
+GID00092506	FW: RE: VR Test
+GID00092507	Nightstalker Squeezin's
+GID00092508	Mysterious Cave
+GID00092511	Damaged Prototype
+GID00092513	Damaged Prototype
+GID00092514	Damaged Prototype
+GID00092515	Damaged Prototype
+GID00092516	Damaged Prototype
+GID00092517	Damaged Prototype
+GID00092518	Damaged Prototype
+GID00092519	Legendary Bloatfly
+GID00092520	Legendary Bloatfly Damage Threshold
+GID00092521	Damaged Prototype
+GID00092522	Damaged Prototype
+GID00092523	Stripe
+GID00092525	Radiation Resistance
+GID00092527	Door
+GID00092528	Door
+GID00092529	Legendary Bloatfly Code Box
+GID00092530	Psychiatric Evaluation
+GID00092531	Test Terminal
+GID00092532	Laser
+GID00092533	Duffle Bag
+GID00092534	Toolbox
+GID00092539	X8 Gabe's Death Code Box
+GID00092540	Door
+GID00092541	Lobotomite
+GID00092542	Protectron Mk1
+GID00092543	What can Muggy do for you?
+GID00092544	What can Muggy do for you?
+GID00092545	What can Muggy do for you?
+GID00092546	Elevator
+GID00092547	Elevator
+GID00092548	Surgical Saw Control Panel
+GID00092549	Door
+GID00092550	Smart Lights
+GID00092551	Mood Lighting
+GID00092552	K9000 Mod - Mentat Chow
+GID00092553	LAER Mod - Prismatic Lens
+GID00092554	LAER Mod - Auxiliary Recharger Clip
+GID00092555	K9000 Mod - Resla Roil
+GID00092556	Opera Singer Bloody Mess
+GID00092557	Elijah's Watch Journal
+GID00092558	Torn Journal Page
+GID00092559	Parts Production
+GID00092560	Secondary Materials Mulching
+GID00092561	Main Computer Upgrade: K9000 Mod "Resla Roil"
+GID00092562	Main Computer Upgrade: LAER Mod "Auxiliary Recharger Chip"
+GID00092563	Main Computer Upgrade: LAER Mod "Prismatic Lens"
+GID00092564	Main Computer Upgrade: K9000 Mod "Mentat Chow"
+GID00092565	LAER Mod "Auxiliary Recharger Clip"
+GID00092566	LAER Mod "Prismatic Lens"
+GID00092567	K9000 Mod "Mentat Chow"
+GID00092568	K9000 Mod "Resla Roil"
+GID00092577	Military Cyber Dog
+GID00092578	Military Cyber Dog
+GID00092579	Military Cyber Dog
+GID00092580	Military Cyber Dog
+GID00092581	Military Cyber Dog
+GID00092582	Terminal
+GID00092583	Door
+GID00092584	Door
+GID00092585	Battle Brew
+GID00092592	Sonic Emitter - Revelation
+GID00092593	Soundwave Recalibration
+GID00092594	Soundwave Recalibration
+GID00092595	Empty Bottles to Purified Water
+GID00092596	Requisition Order: Chemical Suits
+GID00092597	Sierra Madre: Test Case?
+GID00092598	Dispenser Funding Update
+GID00092599	Requisition Order: Dispensers
+GID00092600	Vera Keyes: Hologram Progress Report
+GID00092601	Requisition Order: Holograms
+GID00092602	Terminal
+GID00092603	Terminal
+GID00092604	Terminal
+GID00092605	Terminal
+GID00092606	Swap body parts
+GID00092607	Dialogue X8 Robobrain
+GID00092608	Corrosive Glove
+GID00092609	NVDLC03HoloBaseCode Activator
+GID00092620	Dr. Klein's Glasses
+GID00092621	Dr. Mobius' Glasses
+GID00092624	Mad Scientist
+GID00092625	Evil Genius
+GID00092626	Automaton
+GID00092627	X-2 Antenna
+GID00092628	Science POW!
+GID00092629	Vent
+GID00092630	Spine-full
+GID00092631	Brain-full
+GID00092632	Heart-full
+GID00092633	Big Brained
+GID00092634	Cardiac Arrest
+GID00092635	Reinforced Spine
+GID00092638	Mad Science Attack!
+GID00092642	Giant Roboscorpion DT 10
+GID00092643	Giant Roboscorpion DT 15
+GID00092644	Giant Roboscorpion DT 20
+GID00092645	Giant Roboscorpion DT 25
+GID00092646	X-8 Main Terminal
+GID00092647	X-8 Observatory Terminal
+GID00092648	Assistance Granted
+GID00092649	K9000 Cyberdog Gun Sealed in X-12
+GID00092651	Door
+GID00092652	Gate
+GID00092654	Suitcase
+GID00092655	Elijah's Advanced LAER
+GID00092656	Tank
+GID00092657	Tank
+GID00092658	Tank
+GID00092659	Robo-Scorpion Generic Dialogue
+GID00092660	Giant Robo-Scorpion Generic Dialogue
+GID00092661	Corpse Suit Generic Dialogue
+GID00092662	Damaged Securitron Generic Dialogue
+GID00092663	Brain Tank
+GID00092664	Door
+GID00092665	Big-Brained
+GID00092666	Cardiac Arrest
+GID00092667	Reinforced Spine
+GID00092668	Y-17 Trauma Harness Testing Results
+GID00092669	Little Yangtze Log #01
+GID00092670	Little Yangtze Log #02
+GID00092671	Little Yangtze Log #03
+GID00092672	Little Yangtze Log Terminal
+GID00092674	Walking Eye
+GID00092675	Sink Project: Central Intelligence Unit
+GID00092676	VR Simulation Note
+GID00092677	Lobotomites
+GID00092678	Elevator
+GID00092679	Elevator
+GID00092680	Sonic Emitter Upgrade
+GID00092681	X-12 Terminal
+GID00092684	Implant Interface
+GID00092686	Recipes - Barter Skill Book
+GID00092687	Recipes - Energy Weapons Skill Book
+GID00092688	Recipes - Explosives Skill Book
+GID00092689	Recipes - Guns Skill Book
+GID00092690	Recipes - Lockpick Skill Book
+GID00092691	Recipes - Medicine Skill Book
+GID00092692	Recipes - Repair Skill Book
+GID00092693	Recipes - Science Skill Book
+GID00092694	Recipes - Sneak Skill Book
+GID00092695	Recipes - Speech Skill Book
+GID00092696	Recipes - Survival Skill Book
+GID00092697	Recipes - Unarmed Skill Book
+GID00092698	Recipes - Melee Weapons Skill Book
+GID00092699	Proton Axe
+GID00092700	Door
+GID00092701	Gate
+GID00092703	Sink Drink Spell
+GID00092704	Encounter Code Box for Box #7
+GID00092705	Morning Star Cavern
+GID00092706	Dog Bowl
+GID00092707	Walking Box Cavern
+GID00092709	Ruby Hill Mine
+GID00092710	The Bison Steve Hotel
+GID00092711	Bloodborne Cave
+GID00092712	SentryBot Minigun
+GID00092713	Vault 34 - Armory
+GID00092714	Mojave Drive-in
+GID00092716	Mojave Wasteland
+GID00092717	Hatchet
+GID00092718	Feral Ghoul Dialogue Quest
+GID00092719	Mark II Turret
+GID00092720	Nopah Cave
+GID00092721	The Faderator
+GID00092722	X-8 Institutional Test Facility
+GID00092723	The Basincreek Building
+GID00092724	Big MT
+GID00092725	X-42 Robo-Warfare Facility
+GID00092726	Midnight Science-Fiction Feature!
+GID00092727	Welcome to the Big Empty
+GID00092728	Old World Blues
+GID00092729	X-2: Strange Transmissions!
+GID00092730	X-8: High School Horror!
+GID00092731	X-13: Attack of the Infiltrator!
+GID00092732	Old World Blues Loaded
+GID00092733	Old World Blues
+GID00092734	The Sink
+GID00092735	Think Tank
+GID00092736	BrainBot Template
+GID00092737	Doctor Klein
+GID00092738	Dialogue Dr. Klein
+GID00092739	Old World Blues Narration
+GID00092741	X-13 Testing Facility
+GID00092742	Nightstalker
+GID00092743	Doctor Mobius
+GID00092744	Dialogue Dr. Mobius
+GID00092745	Narrator
+GID00092747	Ending Slide Sequence
+GID00092748	X-8 Testing Facility
+GID00092749	X-8 Residential Test Facility
+GID00092750	X-8 Central Facility
+GID00092751	X-8 Test Terminal
+GID00092752	The Forbidden Zone Dome
+GID00092753	X-17 Meteorological Station
+GID00092754	Prototype Auto-Doc
+GID00092755	Refrigerator
+GID00092756	Prototype Auto-Doc
+GID00092757	Broken Grate
+GID00092758	Saturnite Alloy Research Facility

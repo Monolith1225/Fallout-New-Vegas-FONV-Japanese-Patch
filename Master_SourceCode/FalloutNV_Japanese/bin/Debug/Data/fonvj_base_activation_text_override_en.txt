@@ -1,0 +1,223 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_base_activation_text_override_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00098043	Examine Pacer's Jet Stash
+GID00098044	Attach Ballast
+GID00098045	Remote Activate Ballast
+GID00098046	Play Roulette
+GID00098047	Play Roulette
+GID00098048	Play Slots
+GID00098049	Play Roulette
+GID00098050	Play Slots
+GID00098051	Play Blackjack
+GID00098052	Play Roulette
+GID00098053	Play Blackjack
+GID00098054	Read Note
+GID00098055	Play Slots
+GID00098056	Play Slots
+GID00098057	Play Blackjack
+GID00098058	Play Roulette
+GID00098059	Drink
+GID00098060	Place Sonic Emitter
+GID00098061	Read Journal
+GID00098062	Distribute Blood Sample
+GID00098063	Distribute Blood Sample
+GID00098064	Play Blackjack
+GID00098065	Stash Body
+GID00098066	Pick Honey Mesquite
+GID00098067	Pick Banana Yucca
+GID00098068	Pick Maize
+GID00098069	Read Note
+GID00098070	Read Note
+GID00098071	Read Note
+GID00098072	Pick Barrel Cactus
+GID00098073	Pick Prickly Pear
+GID00098074	Pick Nevada Agave
+GID00098075	Play Roulette
+GID00098076	Examine Power Regulator
+GID00098077	Pick Giant Mantis Eggs
+GID00098078	Repair Food Processor
+GID00098079	Examine Case
+GID00098080	Pick Cazador Eggs
+GID00098081	Pick Deathclaw Eggs
+GID00098082	Pick Fire Gecko Eggs
+GID00098083	Pick Night Stalker Eggs
+GID00098084	Pick Radscorpion Eggs
+GID00098085	Cook
+GID00098086	Examine Wine
+GID00098087	Examine
+GID00098088	Play Slots
+GID00098089	Pick Coyote Tobacco
+GID00098090	Place Thermite
+GID00098091	Play Slots
+GID00098092	Pick Banana Yucca
+GID00098093	Examine Watson's Helmet
+GID00098094	Pick Xander Root
+GID00098095	Pick White Horse Nettle
+GID00098096	Pick Broc Flower
+GID00098097	Read Note
+GID00098098	Pick Jalapeno
+GID00098099	Pick Pinto Beans
+GID00098100	Pick Buffalo Gourd
+GID00098101	Activate Door
+GID00098102	Remote Activate Ballast
+GID00098103	Diagnose Injured Trooper
+GID00098104	Open Fort Drawbridge
+GID00098105	Open Fort Drawbridge
+GID00098106	Enter Cave
+GID00098107	Activate Elevator to Vault 19 - 1st Floor
+GID00098108	Activate Elevator to Vault 19 - 1st Floor
+GID00098109	Place Sonic Emitter on Ant Mound
+GID00098110	Read Note
+GID00098111	Diagnose Injured Trooper
+GID00098112	Diagnose Injured Trooper
+GID00098113	Enter Ant Mound
+GID00098114	Exit to Mojave Wasteland
+GID00098115	Enter Bootjack Cavern
+GID00098116	Climb Ladder
+GID00098117	Use Ladder
+GID00098118	Climb Ladder
+GID00098119	Use Ladder
+GID00098120	Open Gate to Hoover Dam
+GID00098121	Examine Howitzer
+GID00098122	Exit to Mojave Wasteland
+GID00098123	Open Gate to The Legate's Camp
+GID00098124	Enter Vault 22
+GID00098125	Exit to Wasteland
+GID00098126	Open Door
+GID00098127	Inaccessible Tunnel
+GID00098128	Inaccessible Tunnel
+GID00098129	Inaccessible Tunnel
+GID00098130	Inaccessible Tunnel
+GID00098131	Inaccessible Tunnel
+GID00098132	Inaccessible Tunnel
+GID00098133	Inaccessible Tunnel
+GID00098134	Climb Ladder
+GID00098135	Enter Great Khan Supply Cave
+GID00098136	Enter Great Khan Supply Cave
+GID00098137	Enter Great Khan Supply Cave
+GID00098138	Exit to Mojave Wasteland
+GID00098139	Exit to Mojave Wasteland
+GID00098140	Exit to Mojave Wasteland
+GID00098141	Enter Camp Guardian Caves
+GID00098142	Exit to Mojave Wasteland
+GID00098143	Enter Lake Mead Cave
+GID00098144	Open Door to Vault 34 Overseer's Quarter
+GID00098145	Open Door to Security Station A
+GID00098146	Climb Ladder to Mojave Wasteland
+GID00098147	Call Elevator
+GID00098148	Call Elevator
+GID00098149	Call Elevator
+GID00098150	Call Elevator
+GID00098151	Call Express Elevator To Suites
+GID00098152	Call Elevator
+GID00098153	Call Elevator
+GID00098154	Call Elevator
+GID00098155	Call Elevator
+GID00098156	Call Elevator
+GID00098157	Call Express Elevator To Lower Level
+GID00098158	Call Elevator
+GID00098159	Take Elevator to Tops Casino Main Floor
+GID00098160	Take Elevator to Presidential Suite
+GID00098161	Take Elevator to Tops Casino Main Floor
+GID00098162	Take Elevator to 13th Floor
+GID00098163	Climb Ladder to Mojave Wasteland
+GID00098164	Take Elevator to Sub-Basement
+GID00098165	Climb Ladder to North Vegas Square
+GID00098166	Climb Ladder to North Vegas
+GID00098167	Climb Ladder to The Freeside Gate
+GID00098168	Climb Ladder to Crimson Caravan
+GID00098169	Climb Ladder to Camp McCarran
+GID00098170	Climb Ladder to Aerotech Office Park
+GID00098171	Climb Ladder to NCR Sharecroppers
+GID00098172	Climb Ladder to Westside Pawn Shop
+GID00098173	Travel to The Fort
+GID00098174	Climb Ladder to Mojave Wasteland
+GID00098175	Climb Ladder to Mojave Wasteland
+GID00098176	Climb Ladder to Mojave Wasteland
+GID00098177	Enter Scorpion Burrow
+GID00098178	Inaccessible Tunnel
+GID00098179	Exit to Mojave Wasteland
+GID00098180	Enter Goodsprings Cave
+GID00098181	Exit to Mojave Wasteland
+GID00098182	Exit to Mojave Wasteland
+GID00098183	Enter Morning Star Cavern
+GID00098184	Enter The Prospector's Den
+GID00098185	Open Door to Freeside
+GID00098186	Open Door to Old Mormon Fort
+GID00098187	Activate
+GID00098188	Enter Fire Root Cavern
+GID00098189	Enter Fire Root Cavern
+GID00098190	Exit to Mojave Wasteland
+GID00098191	Exit to Mojave Wasteland
+GID00098192	Enter Walking Box Cavern
+GID00098193	Exit to Mojave Wasteland
+GID00098194	Exit to Mojave Wasteland
+GID00098195	Enter Black Rock Cavern
+GID00098196	Exit to Mojave Wasteland
+GID00098197	Climb Ladder to Mojave Wasteland
+GID00098198	Exit to Mojave Wasteland
+GID00098199	Enter Searchlight North Gold Mine
+GID00098200	Enter Freeside
+GID00098201	Enter Freeside
+GID00098202	Exit to Outer Vegas
+GID00098203	Exit to Outer Vegas
+GID00098204	Enter the Strip
+GID00098205	Take Monorail to the Strip
+GID00098206	Enter Lieutenant Hayes' Tent
+GID00098207	Travel to Cottonwood Cove
+GID00098208	Examine Damaged Robot
+GID00098209	Exit to Mojave Wasteland
+GID00098210	Leave Northern Passage
+GID00098211	Enter Northern Passage
+GID00098212	Climb Ladder to Westside
+GID00098213	Climb Ladder to The Thorn's Cages
+GID00098214	Exit Safehouse Bunker
+GID00098215	Enter Safehouse Bunker
+GID00098216	Call Head Waiter
+GID00098217	Open Door to The Armory
+GID00098218	Climb Ladder to Mojave Wasteland
+GID00098219	Exit to Mojave Wasteland
+GID00098220	Open Gate to Crimson Caravan Company
+GID00098221	Open Gate to Crimson Caravan Company
+GID00098222	Enter Scorpion Burrow
+GID00098223	Enter Bloodborne Cave
+GID00098224	Open Door to Followers Outpost
+GID00098225	Inaccessible Tunnel
+GID00098226	Inaccessible Tunnel
+GID00098227	Exit to Mojave Wasteland
+GID00098228	Take Monorail to McCarran
+GID00098229	Enter Freeside
+GID00098230	Enter Tunnel to The Sulfur Caves
+GID00098231	Climb Ladder to Mojave Wasteland
+GID00098232	Activate Door
+GID00098233	Open Grate to Vault 19
+GID00098234	Enter Dead Wind Cavern
+GID00098235	Enter Camp Guardian Cave
+GID00098236	Climb Ladder to Mojave Wasteland
+GID00098237	Climb Ladder to Mojave Wasteland
+GID00098238	Activate Elevator to Vault 19 - Reactor
+GID00098239	Activate Elevator to Vault 19 - Living Quarters
+GID00098240	Activate Elevator to Vault 19 - Living Quarters
+GID00098241	Open Red Sector Door
+GID00098242	Open Blue Sector Door
+GID00098243	Activate Door
+GID00098244	Open Blue Sector Door
+GID00098245	Activate Elevator to Vault 19 - Overseer's Office
+GID00098246	Enter Tunnel to Vault 19
+GID00098247	Climb Ladder to Mojave Wasteland
+GID00098248	Enter Nopah Cave
+GID00098249	Enter Cave
+GID00098250	Exit to Mojave Wasteland
+GID00098251	Activate Door
+GID00098252	Read Threatening Note
+GID00098253	Enter Camp Guardian Caves
+GID00098254	Exit to Mojave Wasteland
+GID00098255	Exit to Mojave Wasteland
+GID00098256	Exit to Mojave Wasteland
+GID00098257	Exit to Mojave Wasteland
+GID00098258	Exit to Mojave Wasteland
+GID00098259	Enter Camp Guardian Caves
+GID00098260	Enter Camp Guardian Cave
+GID00098261	Open Red Sector Door

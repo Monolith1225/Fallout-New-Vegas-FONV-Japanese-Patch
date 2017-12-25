@@ -1,0 +1,114 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc03_quest_objective_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00092957	Mojave Drive-inでミッドナイトショーを調査する。
+GID00092958	いったいどこにいるのか調べる。
+GID00092959	あなたの…捕獲者と話す。
+GID00092960	X-2 antenna brain array とsonic-soundwave-projecto-emitter spine...それと、sneaky heartスーツを手に入れろ。
+GID00092961	訂正:それは、sonic... projecto... emitter gunです。新しい周波数が必要です。
+GID00092962	訂正:X-2 antenna brain arrayを手に入れなさい。Sonic Emitterの為の新しい周波数、それと、sneaky heart スーツもです。
+GID00092963	訂正:待て、彼らが必要とする周波数でないForce Fieldsを無効にする別の任意のSonic Emitter周波数があります…? Ugh、忘れてください。
+GID00092964	ユーティリティパーティションをクリアし、これらのエントリのログを閉じる。
+GID00092965	Think Tankへ戻り、Dr. Kleinに仕事を終えたことを知らせる。
+GID00092966	Forbidden Zone Domeへ行く。
+GID00092967	Forbidden Zone DomeでDr. Mobiusと対決する。
+GID00092968	Forbidden Zoneからあなたの脳を取り戻す。
+GID00092969	Think TankでDr. Kleinと対決し、Big MTへの監禁を終わらせる。
+GID00092970	Think TankのDr. Kleinとその同僚を殺す。
+GID00092971	殺されるがどの様な事なのかについての、Dr. Mobius の好奇心を満足させる。
+GID00092972	巨大なRobo-Scorpionを無効化、または破壊する。
+GID00092973	Think Tankを去る。
+GID00092974	(オプション) Sink Auto-Docを使って、元々の心臓を取り戻す。
+GID00092975	(オプション) Sink Auto-Docを使って、元々の脊椎を取り戻す。
+GID00092976	(オプション) Y-17からSink Auto-Docの人格ホロテープを取り戻し、Auto-Docの機能を回復する。
+GID00092977	パラボラアンテナへ登り、X-2 Antennaを取り戻す。
+GID00092978	X-2 Transmitter Antenna Arrayへ行く。
+GID00092979	X-8 Research Centerへ行く。
+GID00092980	X-8 Test TerminalでInstitutional Data Retrieval testを開始する。
+GID00092981	X-8 Institutional 施設を出る。
+GID00092982	X-8 Test TerminalでResidential Cyberdog Guard Testを開始する。
+GID00092983	X-8 Residential Test Facility内のGabe's digging spotをから、Gabriel's Barkの音声サンプルを探す。
+GID00092984	X-8 Institutional 施設のデスク端末から、生徒の記録を3つ回収する。
+GID00092985	X-8 Residential Test Facilityに入る。
+GID00092986	X-13 Research Facilityへ行く。
+GID00092987	Prototype X-13 Glovesを回収する。
+GID00092988	Prototype X-13 Bootsを回収する。
+GID00092989	Prototype X-13 Chest Plateを回収する。
+GID00092990	基本潜入テストを開始。ステルススーツ起動。
+GID00092991	Basic Infiltrationテスト:ステルススーツの初期化を完了するために管理者の壁の金庫からX-13のドキュメントを取得する。
+GID00092992	Experiment Terminalに戻る
+GID00092993	Basic Infiltrationテストを完了する。
+GID00092994	Robot Complianceテストを完了する。
+GID00092995	Advanced Infiltrationテストを完了する。
+GID00092996	Experimental Stealth Suitを組み立てる。
+GID00092997	(オプション) 全てのX-13テストを完了する。
+GID00092998	Expert Infiltrationテストを完了する。
+GID00092999	Basic Infiltrationテストの再生を完了する。
+GID00093000	Advanced Infiltrationテストの再生を完了する。
+GID00093001	Expert Infiltrationテストの再生を完了する。
+GID00093002	Robot Complianceテストの再生を完了する。
+GID00093003	3つの学生記録を集める。
+GID00093004	実験区域から出る。
+GID00093005	Sonic Emitterのために Field Disrupter EMパルス波をダウンロードする。
+GID00093006	X-8 Institutional 施設のデスク端末から、生徒の記録を3つ回収する。
+GID00093007	実験区域から出る。
+GID00093008	Institutional Data 取得試験(上級)をアクティブにする。
+GID00093009	テストエリアに特殊なサンプルを放つ。
+GID00093010	X-8 Institutional 施設のデスク端末から、生徒の記録を3つ回収する。
+GID00093011	実験区域から出る。
+GID00093012	X-8 Test TerminalでInstitutional Data取得試験(上級)をアクティブにする。
+GID00093013	X-8 Institutional 施設のデスク端末から、生徒の記録を3つ回収する。
+GID00093014	実験区域から出る。
+GID00093015	testing areaに入る。
+GID00093016	testing areaに入る。
+GID00093017	testing areaに入る。
+GID00093018	X-8 Test TerminalでInstitutional Data取得試験(基本)をアクティブにする。
+GID00093019	X-8 Institutional 施設のデスク端末から、生徒の記録を3つ回収する。
+GID00093020	実験区域から出る。
+GID00093021	X-8 Test Terminal から test data を回収する。
+GID00093022	X-8の犬小屋への鍵を探す(Sonic Emitter EM Pulse Waveアップデートが必要)
+GID00093023	X-8 Testについての更なる情報を探す。
+GID00093024	潜入テスト・基礎を再生する。
+GID00093025	潜入テスト・上級を再生する。
+GID00093026	潜入テスト・エキスパートを再生する。
+GID00093027	ロボット服従テストを再生する。
+GID00093028	Experiment Terminal の所へ戻る。
+GID00093029	X-8 Institutional 施設のデスク端末から、生徒の記録を3つ回収する。
+GID00093030	実験区域から出る。
+GID00093031	X-8研究センターに向かい、フォースフィールドを見つけてソニックエミッターを遮断しEMパルス波にアップデートする。
+GID00093032	Sonic Emitter EM Pulse Waveをフォースフィールドでテストする。
+GID00093033	X-8 Test TerminalでInstitutional 試験を始める。
+GID00093034	X-8 Institutional Facility ターミナルで生徒の記録を3つ見つける。
+GID00093035	2階の出口からX-8 Institutional Facilityを出る。
+GID00093036	X-8 Test Terminalで上級Institutional試験を始める。
+GID00093037	Sonic Emitterをアップグレードする。
+GID00093038	Jukeboxのための音声サンプルを全て探す。
+GID00093039	Biological Research Stationのためのサンプルを探す。
+GID00093040	サンプルを持ってThe Sinkへ戻る。
+GID00093041	Sink、 Auto-Doc、そしてBiological Research Stationの失われたモジュールを探す。
+GID00093042	Light SwitchesとJukeboxの失われたモジュールを探す。
+GID00093043	Toaster、Muggy、そしてBook Chuteの失われたモジュールを探す。
+GID00093044	人格モジュールをThe Sinkでインストールする。
+GID00093045	失われた人格モジュールを探す。
+GID00093046	The Sinkで使う1番目の人格モジュールセットを探す。
+GID00093047	The Sinkで使う2番目の人格モジュールセットを探す。
+GID00093048	The Sinkで使う3番目の人格モジュールセットを探す。
+GID00093049	The Sinkへ行きCentral Intelligence Unitをインストールする。
+GID00093050	The SinkのCentral Intelligence Unitアップグレードを探す。
+GID00093051	The SinkのAuto-Docアップグレードを探す。
+GID00093052	The Sinkのsupport AIのアップグレードを探す。
+GID00093053	Sinkでアップグレードを導入する。
+GID00093054	耳あてがないにもかかわらず、Dr. Kleinと話す。
+GID00093055	Dr. Oと喋る。
+GID00093056	Dr. Dalaへ自己紹介する。
+GID00093057	Dr. Borousに挨拶をする。慎重に。
+GID00093058	Dr. 8と“会話”する。― 出来るなら。
+GID00093059	Higgs VillageでGabeの痕跡を探す。
+GID00093060	X-8でGabeの証拠をもっと探してみる。
+GID00093061	Dr. BorousにGabe's Bowlを返す。
+GID00093062	Dalaの生物への陶酔の根本を突き止める。
+GID00093063	Big Emptyへの最近の訪問者との会話についてDr. Kleinに聞く。
+GID00093064	8のtermlink codeを調査する。
+GID00093065	Oの名前に関する問題を解決してみる。
+GID00093066	Dr. OにThink Tankに対する攻撃について聞く。

@@ -1,0 +1,801 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_brzl_name_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00108454	Mission Hills Trailer
+GID00108455	Mission Hills Trailer
+GID00108456	Ashley
+GID00108458	Soil Stradivarius
+GID00108459	Workbench
+GID00108460	Atomic Dart Gun
+GID00108464	Box
+GID00108465	Gate
+GID00108474	Football Player
+GID00108475	Football Player
+GID00108476	Football Player
+GID00108477	Football Player
+GID00108480	FEV Vault
+GID00108494	Mr. Zatoichi
+GID00108500	Survivalist Raider
+GID00108501	Survivalist Raider
+GID00108502	Survivalist Raider
+GID00108503	Survivalist Raider
+GID00108504	Survivalist Raider
+GID00108505	Survivalist Raider
+GID00108506	Survivalist Raider
+GID00108507	Survivalist Raider
+GID00108508	Survivalist Raider
+GID00108509	Survivalist Raider
+GID00108510	Survivalist Raider
+GID00108511	Survivalist Raider
+GID00108512	Survivalist Raider
+GID00108513	Survivalist Raider
+GID00108514	Survivalist Raider
+GID00108515	Survivalist Raider
+GID00108516	Survivalist Raider
+GID00108517	Sentry Bot
+GID00108518	Sentry Bot
+GID00108519	Protectron
+GID00108520	Robobrain
+GID00108521	Mister Gutsy
+GID00108522	Combat Eyebot
+GID00108523	Survivalist Raider
+GID00108524	Survivalist Raider
+GID00108525	Survivalist Raider
+GID00108526	Survivalist Raider
+GID00108527	Survivalist Raider
+GID00108528	First Aid Box
+GID00108529	Ammunition Box
+GID00108533	Enclave Stormtrooper
+GID00108534	Enclave Stormtrooper
+GID00108535	Turret Control Terminal
+GID00108536	Vault Door
+GID00108537	Terminal
+GID00108538	Protectron
+GID00108539	Vault 18 Robotics Computer
+GID00108540	Protectron
+GID00108541	Door
+GID00108553	Vault 18 Lower Level Apartments
+GID00108554	Door
+GID00108561	Tackle or Dodge?
+GID00108567	Bruiser's Outfit
+GID00108568	Bobblehead - Agility
+GID00108569	Bobblehead - Enduranc
+GID00108570	Bobblehead - Big Guns
+GID00108575	Raider
+GID00108576	Raider
+GID00108577	Raider
+GID00108578	Raider
+GID00108579	Raider
+GID00108580	Raider
+GID00108581	Raider
+GID00108582	Raider
+GID00108583	Raider
+GID00108584	Raider
+GID00108585	Raider
+GID00108586	Raider
+GID00108587	Raider
+GID00108588	Raider
+GID00108589	Raider
+GID00108590	Raider
+GID00108591	Raider
+GID00108592	Raider
+GID00108593	Raider
+GID00108594	Raider
+GID00108595	Raider
+GID00108596	Raider
+GID00108597	Raider
+GID00108598	Raider
+GID00108599	Raider
+GID00108600	Raider
+GID00108601	Raider
+GID00108602	Raider
+GID00108603	Raider
+GID00108604	Raider
+GID00108605	Raider
+GID00108606	Raider
+GID00108607	Raider
+GID00108608	Raider
+GID00108609	Raider
+GID00108610	Raider
+GID00108611	Raider
+GID00108612	Raider
+GID00108613	Raider
+GID00108614	Raider
+GID00108615	Raider
+GID00108616	Raider
+GID00108617	Raider
+GID00108618	Raider
+GID00108619	Raider
+GID00108620	Raider
+GID00108621	Raider
+GID00108622	Raider
+GID00108623	Raider
+GID00108624	Raider
+GID00108625	Raider
+GID00108626	Raider
+GID00108627	Raider
+GID00108628	Raider
+GID00108629	Raider
+GID00108630	Raider
+GID00108631	Raider
+GID00108632	Raider
+GID00108633	Raider
+GID00108634	Raider
+GID00108635	Raider
+GID00108636	Raider
+GID00108637	Raider
+GID00108638	Raider
+GID00108639	Raider
+GID00108640	Raider
+GID00108641	Raider
+GID00108642	Raider
+GID00108643	Raider
+GID00108644	Raider
+GID00108645	Raider
+GID00108646	Raider
+GID00108647	Raider
+GID00108648	Raider
+GID00108649	Raider
+GID00108650	Raider
+GID00108651	Raider
+GID00108652	Raider
+GID00108653	Raider
+GID00108654	Raider
+GID00108655	Raider
+GID00108656	Raider
+GID00108657	Raider
+GID00108658	Raider
+GID00108659	Raider
+GID00108660	Raider
+GID00108661	Raider
+GID00108662	Raider
+GID00108663	Raider
+GID00108664	Fire Damage
+GID00108665	Endurance Checker
+GID00108666	Battlemech Floor Switch
+GID00108667	Fire!
+GID00108668	Dead Patriot
+GID00108669	Annai Oran
+GID00108670	William M Face
+GID00108672	Power Armor Manual
+GID00108673	A.L.P.H.A. AmmoSupply
+GID00108674	Power Armor 101
+GID00108682	Ben Kurtz
+GID00108683	Eric Campbell
+GID00108684	Kira Mann
+GID00108685	Jenifer Hale
+GID00108686	Corrections Officer
+GID00108687	Corrections Officer
+GID00108688	Corrections Officer
+GID00108689	Corrections Officer
+GID00108690	Social Security Officer
+GID00108691	Dialog for Jenifer Hale
+GID00108692	For Group Follower Dialog
+GID00108693	Dialog for Johnny Matheson
+GID00108694	Dialog for Kira Mann
+GID00108699	Dialog for Ben Kurtz
+GID00108700	Dialog for Eric Campbell
+GID00108701	Dialog for Jamie Campbell
+GID00108702	Merc Grunt Outfit
+GID00108703	Eric
+GID00108704	Jamie
+GID00108705	Jenifer
+GID00108706	Johnny
+GID00108707	Kira
+GID00108708	Group Command
+GID00108715	Group Command
+GID00108716	Group Command
+GID00108717	Group Command
+GID00108718	Welcome To Fabulous New Vegas
+GID00108719	Athens House
+GID00108720	Overseer's Terminal
+GID00108721	Pinehaven Hospital
+GID00108722	Door
+GID00108723	Enclave Stormtrooper
+GID00108724	Player Starting Cell
+GID00108725	Project Brazil New Game Startup
+GID00108726	Coordinates
+GID00108727	Tackle or Dodge?
+GID00108728	Choose Game To Start
+GID00108729	Hand Radio
+GID00108730	Jennifer Silver
+GID00108731	Brazilian Office Desk
+GID00108732	Lincoln Memorial Poster
+GID00108733	Merc Outfit
+GID00108734	Carina Tabin
+GID00108740	Vit-o-matic Vigor Tester
+GID00108741	Kremp Fitzguard
+GID00108742	Roger Rohr
+GID00108743	Vault Door Control Pod
+GID00108744	Bed
+GID00108745	Dining Chair
+GID00108746	Dining Chair
+GID00108747	Healing Archway
+GID00108754	Pre-War Spring Outfit
+GID00108755	Stealth Recon Helmet
+GID00108756	The Peepers
+GID00108757	Chinese Stealth Helmet
+GID00108759	Container
+GID00108760	Super Mutant
+GID00108761	Door
+GID00108762	Captain's Chair
+GID00108763	Vault 18 Maternity Jumpsuit
+GID00108764	Vault 18 Jumpsuit
+GID00108765	Vault 18 Security Armor
+GID00108766	Vault 18 Security Helmet
+GID00108772	Vault Security
+GID00108773	Vault Security
+GID00108774	Enclave Patriot
+GID00108779	Jamie Campbell
+GID00108780	Enclave Patriot
+GID00108781	Vault 18 Lower Level Apartments
+GID00108782	Vault 18 Atrium
+GID00108783	Spanner
+GID00108784	MPLX Novasurge
+GID00108786	Moonshine
+GID00108790	Desk
+GID00108791	Cabinet
+GID00108792	Garbage Can
+GID00108793	Mailbox
+GID00108794	Metal Box
+GID00108795	Vending Machine
+GID00108796	Oven
+GID00108797	Refrigerator
+GID00108798	Suitcase
+GID00108799	Robobrain Sentry
+GID00108800	Shack Door
+GID00108801	Storm Door
+GID00108802	Door
+GID00108811	Protectron
+GID00108812	Protectron
+GID00108813	Ball
+GID00108814	Mom
+GID00108817	Door
+GID00108818	Ponytail Fan
+GID00108821	Annai Organ Farm
+GID00108832	Mark VIII Turret
+GID00108833	Mark VIII Turret
+GID00108834	Door
+GID00108835	Door
+GID00108836	Hatch
+GID00108840	Vertibird
+GID00108841	Enclave Soldier
+GID00108842	Enclave Soldier
+GID00108843	Enclave Hellfire Trooper
+GID00108844	Enclave Hellfire Trooper
+GID00108845	Laser
+GID00108846	Factory Protectron
+GID00108847	Door
+GID00108848	Flint
+GID00108849	Shovel
+GID00108850	Welding Gun
+GID00108851	Officer of Social Services
+GID00108852	Officer of Social Services
+GID00108853	Officer of Social Services
+GID00108863	Door
+GID00108864	Door
+GID00108865	Gate
+GID00108866	Door
+GID00108867	Door
+GID00108868	Door
+GID00108869	Door
+GID00108870	Door
+GID00108871	Manhole
+GID00108872	Door
+GID00108873	Door
+GID00108874	Chinese Assault Rifle
+GID00108875	Chinese Pistol
+GID00108876	Combat Shotgun
+GID00108877	Assault Rifle
+GID00108878	Chinese Officer's Sword
+GID00108879	Highwayman's Friend
+GID00108880	Overseer's Terminal
+GID00108881	Desk Terminal
+GID00108882	Desk Terminal
+GID00108888	Mailbox
+GID00108889	Bed
+GID00108890	Bed
+GID00108891	Bench
+GID00108892	Bench
+GID00108893	Bench
+GID00108894	Dining Chair
+GID00108895	Chair
+GID00108896	Chair
+GID00108897	Queen Sized Bed
+GID00108898	Bed
+GID00108899	Queen Sized Bed
+GID00108900	Pod
+GID00108901	Chair
+GID00108902	My Bed
+GID00108903	Bed
+GID00108904	Door
+GID00108905	Metal Gate
+GID00108906	Door
+GID00108908	Door
+GID00108909	Drainage Grate
+GID00108910	Door
+GID00108911	Door
+GID00108912	Hatch
+GID00108913	Hatch
+GID00108914	Door
+GID00108915	Cage Door
+GID00108916	Door
+GID00108917	Door
+GID00108918	Door
+GID00108924	Door
+GID00108925	Door
+GID00108926	Door
+GID00108927	Door
+GID00108928	Hatch
+GID00108929	Maintenance Protectron
+GID00108930	Mirelurk Cakes
+GID00108931	Radio
+GID00108932	Vault Door
+GID00108935	Melee Weapons Bobblehead
+GID00108936	Harold's Heart
+GID00108937	Radio
+GID00108938	Micro Fusion Cells
+GID00108939	Radio
+GID00108942	Gas Valve
+GID00108943	Switch
+GID00108947	Door
+GID00108949	Dr. Rossman
+GID00108950	Vault 18 Apartments Upper
+GID00108951	Vault 18 Security Office
+GID00108952	Display Terminal
+GID00108953	Receptionist
+GID00108962	Vault 18 Lower Cistern
+GID00108964	Vault 18 Robotics Lab
+GID00108966	Overseer Albert Christianson
+GID00108969	Vault 18 Pipeworks
+GID00108970	Door
+GID00108971	Vault Security
+GID00108972	Vault Security
+GID00108973	Vault Security
+GID00108988	Vault 18 Manual Network Access I
+GID00108989	Vault 18 Manual Network Access II
+GID00108991	V18 Hydroponics Lab Key
+GID00109011	Prequel Vault18 Dialog
+GID00109012	Nerd Super Star
+GID00109017	Vault Security
+GID00109018	Vault Security
+GID00109019	Vault Security
+GID00109021	Vault Dweller
+GID00109022	Vault Dweller
+GID00109023	Vault Child
+GID00109024	Vault Child
+GID00109025	Door
+GID00109039	Black Lace Casualwear
+GID00109040	Black Lace Casualwear
+GID00109043	Survivalist
+GID00109047	Overseer Albert Christianson
+GID00109050	Tier 1 Terminal 3
+GID00109051	Tier 1 Terminal 4
+GID00109052	Tier 2 Terminal 1
+GID00109053	Tier 2 Terminal 2
+GID00109054	Tier 2 Terminal 3
+GID00109055	Tier 2 Terminal 4
+GID00109056	Terminal
+GID00109060	Tier 4 Holo Feed Control
+GID00109124	Vault Security
+GID00109125	Vault Security
+GID00109144	Vault 18 Hydroponics Lab
+GID00109154	Old Atlanta
+GID00109155	Sarah Carter
+GID00109156	Vault 18 Apartments Upper
+GID00109157	Door
+GID00109161	Vault 18 Robotics Lab
+GID00109185	Elevator Control
+GID00109203	Elevator Control
+GID00109204	Elevator Control
+GID00109205	Elevator Control
+GID00109213	Continue Onward?
+GID00109214	Revise Character?
+GID00109240	NCRR 92.1 - FM
+GID00109241	Brazil Radio DETH 98.1
+GID00109242	Vault 18 Radio
+GID00109246	Radio
+GID00109247	Radio
+GID00109248	Door
+GID00109250	Vault Security
+GID00109254	Chair
+GID00109256	Football Player
+GID00109257	Johnny Matheson
+GID00109258	Jamie Campbell
+GID00109269	Football Player
+GID00109270	Football Player
+GID00109271	Football Player
+GID00109284	Slave
+GID00109287	Dream Raider
+GID00109288	Dream Raider
+GID00109303	Enclave Patriot
+GID00109304	Enclave Patriot
+GID00109305	Enclave Patriot
+GID00109306	Enclave Patriot
+GID00109307	Enclave Patriot
+GID00109308	Enclave Patriot
+GID00109317	Survivalist Explorer Armor
+GID00109318	Survivalist Ranger Armor
+GID00109319	Survivalist Soldier Armor
+GID00109320	Survivalist Helmet (A)
+GID00109321	Survivalist Helmet (B)
+GID00109322	Survivalist Helmet (C)
+GID00109323	Survivalist Helmet (D)
+GID00109328	Kurtz's Vault Armor
+GID00109329	Enclave "Patriot" Uniform
+GID00109330	Vault "Patriot" Officer's Uniform
+GID00109331	Vault-Tec Football Gear
+GID00109332	Vault-Tec Football Helmet
+GID00109345	Vault 18 Stadium
+GID00109348	Football Gear
+GID00109349	Football Helmet
+GID00109357	Vault Security
+GID00109358	Vault Security
+GID00109373	Football Player
+GID00109374	Football Player
+GID00109375	Football Player
+GID00109376	Football Player
+GID00109384	Bragg's Office
+GID00109390	Elevator Control
+GID00109433	Vault Security
+GID00109434	Vault Security
+GID00109435	Vault Security
+GID00109438	Vault Security
+GID00109439	Vault Security
+GID00109440	Vault Security
+GID00109441	Vault Security
+GID00109455	Door
+GID00109456	Hatch
+GID00109457	Chair
+GID00109465	Vault Security
+GID00109466	Vault Security
+GID00109467	Vault Security
+GID00109468	Vault Security
+GID00109469	Vault Security
+GID00109470	Vault Security
+GID00109480	Vault Security
+GID00109481	Vault Security
+GID00109485	Door
+GID00109486	Airlock Control
+GID00109487	Terminal
+GID00109488	Terminal
+GID00109496	Log 1
+GID00109497	Log 2
+GID00109505	Venice Science Vault Number 001
+GID00109506	Issac
+GID00109514	Ladder
+GID00109517	Vault 18 Reactors
+GID00109530	Emergency Weapons
+GID00109531	Emergency Rations
+GID00109532	Emergency Armour
+GID00109533	Emergency Medical
+GID00109535	Gatekeeper
+GID00109536	Laser Head
+GID00109537	Laser Head
+GID00109542	Vault Door
+GID00109543	Car Tunnel to Downtown I-108
+GID00109544	Door
+GID00109545	Chair
+GID00109548	Earnest Schwartz
+GID00109549	Vault Politician
+GID00109550	The Way Seer
+GID00109552	Vault Politician
+GID00109553	The Way Seer
+GID00109554	Startup Switch
+GID00109556	Dream Space
+GID00109557	Dream Space
+GID00109560	Radar Systems
+GID00109564	Mission Log 1
+GID00109565	Elevator Control
+GID00109566	Elevator Door Control
+GID00109569	Elevator Door Control
+GID00109570	Elevator Door Control
+GID00109571	Elevator Door Control
+GID00109572	Elevator Control
+GID00109573	Elevator Control
+GID00109574	Elevator Control
+GID00109584	I-138 - I-15 Beltway
+GID00109587	Union City Gates
+GID00109588	Vault 18
+GID00109601	Athens, Ca - South Ranch
+GID00109602	Athens High School
+GID00109603	Athens, Ca - Valley View Road
+GID00109604	Barstow, CA - Tourist Trap
+GID00109622	Union City - El Casino Ballroom
+GID00109625	Chair
+GID00109626	Dining Chair
+GID00109629	Union City, Ca - Anti- Missile Radar Site A
+GID00109630	Union City, CA - Radian-Helix Media Studio
+GID00109631	Union City, Ca - Old Grove Road
+GID00109632	Union City, Ca - Good Luck Trailer Park
+GID00109633	Union City, Ca - El Rey Motel
+GID00109634	Barstow, Ca - Rice Airfield
+GID00109636	Beggar's Canyon
+GID00109637	Xiabula
+GID00109638	Ooaxaca
+GID00109639	Radar Point
+GID00109646	Bloody Lab Uniform
+GID00109648	A text note
+GID00109649	A text note
+GID00109650	A text note
+GID00109651	A text note
+GID00109652	A text note
+GID00109653	A text note
+GID00109654	A text note
+GID00109655	A text note
+GID00109656	A text note
+GID00109657	A text note
+GID00109658	A text note
+GID00109659	A text note
+GID00109660	A text note
+GID00109661	A text note
+GID00109662	A text note
+GID00109663	A text note
+GID00109664	A text note
+GID00109665	A text note
+GID00109666	A text note
+GID00109667	A text note
+GID00109668	A text note
+GID00109669	A text note
+GID00109670	Star Player
+GID00109672	Archive Security Terminal
+GID00109675	Athens-Tec Mine: Main Office
+GID00109676	Athens-Tec Mine Barracks
+GID00109678	Athens House
+GID00109679	Athens House
+GID00109682	Roboto Dog Terminal
+GID00109683	B 6 R K Roboto Dog Companion
+GID00109684	Damaged Robot Dog
+GID00109686	B-6-RK
+GID00109687	Alpha 1
+GID00109688	Alpha 2
+GID00109689	Alpha 3
+GID00109690	A L P H A
+GID00109696	A Roboto Mori
+GID00109697	Big Bear Lake, CA - Old Warehouse
+GID00109698	I-15 Cajon Pass Bridge
+GID00109699	Union City, CA - Arclight Factory
+GID00109700	Parking Garage - 17th & Main
+GID00109701	A L P H A
+GID00109702	Door
+GID00109705	Tarantula
+GID00109706	Burning One
+GID00109708	Super Mutant Bone Crusher
+GID00109709	Super Mutant Bone Crusher
+GID00109710	Super Mutant Bone Crusher
+GID00109711	Super Mutant Bone Crusher
+GID00109712	Super Mutant Bone Crusher
+GID00109713	Burning One
+GID00109714	Burning One
+GID00109715	Garantuan Radscorpion
+GID00109716	Mole Rat Corpse
+GID00109717	Radscorpion Corpse
+GID00109718	Burning One
+GID00109719	Burning One
+GID00109720	Burning One
+GID00109721	Burning One
+GID00109722	Super Mutant Brute
+GID00109723	Super Mutant Master
+GID00109724	Super Mutant
+GID00109725	Burning One
+GID00109726	Feral Ghoul Roamer
+GID00109727	Feral Ghoul Corpse
+GID00109728	Feral Ghoul Corpse
+GID00109729	Glowing One Corpse
+GID00109730	Tarantula Skin
+GID00109731	Flame Burst
+GID00109732	Chair
+GID00109735	Yellow Chair
+GID00109736	Ruined Couch
+GID00109737	Ruined Couch
+GID00109739	Vault Refugee Highwaters (accessorized)
+GID00109740	Vault Refugee Highwaters
+GID00109741	Bondage Belt
+GID00109742	Neckerchief
+GID00109743	Stylish Bullet Casing Necklace
+GID00109744	Bondage Bracelets
+GID00109745	Rucksack
+GID00109746	Vault Ranger
+GID00109747	Vault Ranger (air conditioned)
+GID00109748	Vault Exile
+GID00109752	My Bed
+GID00109753	Bedroll
+GID00109754	Door
+GID00109756	Super Mutant Behemoth
+GID00109758	Roboto Dog
+GID00109759	Damaged Robot Dog
+GID00109760	Damaged Robot Dog
+GID00109761	Inactive Robot Dog
+GID00109762	Damaged Robot Dog
+GID00109763	Damaged Robot Dog
+GID00109764	B-6-RK
+GID00109765	Damaged Robot Dog
+GID00109769	Mutant Repellent
+GID00109770	Super Mutant
+GID00109775	Tier 3 Terminal 1
+GID00109776	Tier 3 Terminal 2
+GID00109777	Tier 2 Terminal 5
+GID00109778	Tier 2 Terminal 6
+GID00109780	Mark III Turret
+GID00109781	Vault 18 Wasteland Scout Locker
+GID00109782	Survivalist Raider
+GID00109783	Survivalist Raider
+GID00109784	Survivalist Raider
+GID00109785	Survivalist Raider
+GID00109786	Survivalist Raider
+GID00109787	Survivalist Raider
+GID00109788	Survivalist Raider
+GID00109789	Survivalist Raider
+GID00109790	Survivalist Raider
+GID00109791	Survivalist Raider
+GID00109792	Survivalist Raider
+GID00109793	Survivalist Raider
+GID00109794	Survivalist Raider
+GID00109795	Enclave Officer
+GID00109802	Protectron
+GID00109803	Protectron
+GID00109806	Security Protectron Access
+GID00109807	Security Protectron Access
+GID00109808	Security Protectron Access
+GID00109813	Vault Security
+GID00109817	Military Training Camp
+GID00109818	Military Shipping Office
+GID00109822	Ball
+GID00109826	Queen Bed
+GID00109829	South Ranch Barracks
+GID00109831	South Ranch Mess Hall
+GID00109832	South Ranch Barracks
+GID00109833	South Ranch Barracks
+GID00109835	Vandalized Abandoned House
+GID00109836	Abandoned House
+GID00109837	Abandoned House
+GID00109839	Pulse Pistol
+GID00109842	Abandoned House
+GID00109851	Abandoned Bungalow
+GID00109866	Abandoned House
+GID00109867	Abandoned House
+GID00109876	Dream Raider
+GID00109878	Radio
+GID00109879	5$ Ration Ticket
+GID00109880	Vault 18 Entrance
+GID00109882	Vault 18 Exit to Canyon
+GID00109886	Information Retrieval Officer
+GID00109894	&pcname; Star Terminal
+GID00109895	Stool
+GID00109900	<Show Coordinates>
+GID00109901	Bruiser's Outfit with jacket
+GID00109902	Vault Door Control Pod
+GID00109904	Airun Jackson
+GID00109906	Airin Jackson
+GID00109907	Athens-Tec Uranium mine
+GID00109908	Athens House
+GID00109909	Barracks
+GID00109910	Atriumsubdoorentrance
+GID00109911	Atriumsubdoorexit
+GID00109912	Maincoreentrance
+GID00109913	The Main Lift
+GID00109914	Vault 18 Construction Sets
+GID00109915	Female room keycode
+GID00109916	FEV Experimental keycode
+GID00109917	Mdeicalroom keycode
+GID00109918	Brotherhood of Steel Paladin
+GID00109919	Scientist Outfit
+GID00109921	Tracker's Outfit
+GID00109922	Tracker's Outfit with jacket
+GID00109923	Tier Switch
+GID00109924	Tier Switch
+GID00109926	Sewer Shield
+GID00109927	Stop Sign Shield
+GID00109928	Shelter Sign Shield
+GID00109929	Walkway Shield
+GID00109930	Test Room 5 Pinehaven
+GID00109931	Ft. Daggerpoint Army Admissions Office
+GID00109932	Strange Shipments
+GID00109933	Admissions Office
+GID00109934	Barracks
+GID00109935	Vault 18 Overseer's Terrarium
+GID00109936	Barracks
+GID00109937	Lab Uniform
+GID00109938	Brazilian Technician
+GID00109939	Barracks
+GID00109940	Barracks
+GID00109941	Barracks
+GID00109942	Barracks
+GID00109943	Barracks
+GID00109944	Barracks
+GID00109945	Camp Commons
+GID00109946	Old Mine Cave
+GID00109947	African
+GID00109948	Ste Vee
+GID00109949	Wilderness Cave
+GID00109950	Hangar
+GID00109951	I15 Big Bear Junction
+GID00109952	Brazilian Technician
+GID00109953	Brazilian Technician
+GID00109954	Brazilian Technician
+GID00109963	The Chosen One
+GID00109964	Dream Raider
+GID00109965	Dream Raider
+GID00109966	Dream Raider
+GID00109967	Survivalist Raider
+GID00109968	Survivalist Raider
+GID00109969	Survivalist Raider
+GID00109970	Survivalist Raider
+GID00109971	Survivalist Raider
+GID00109972	Survivalist Raider
+GID00109973	Survivalist Raider
+GID00109974	Survivalist Raider
+GID00109975	Survivalist Raider
+GID00109976	Survivalist Raider
+GID00109977	Survivalist Raider
+GID00109978	Survivalist Raider
+GID00109979	Survivalist Raider
+GID00109980	Survivalist Guard
+GID00109981	Survivalist Raider
+GID00109982	Survivalist Raider
+GID00109983	Survivalist Raider
+GID00109984	Survivalist Raider
+GID00109985	Survivalist Raider
+GID00109986	Survivalist Raider
+GID00109987	Survivalist Raider
+GID00109988	Survivalist Raider
+GID00109989	Survivalist Raider
+GID00109990	Survivalist Raider
+GID00109991	Survivalist Raider
+GID00109992	Failed FEV Subject
+GID00109993	Failed FEV Subject
+GID00109994	Alpha 1
+GID00109995	Alpha 2
+GID00109996	Tarantula
+GID00109997	Alpha 3
+GID00109998	Vault 18 Atrium
+GID00109999	Eyeglasses
+GID00110000	Terminal
+GID00110005	Vault Citizen
+GID00110006	Vault Citizen
+GID00110007	Vault Citizen
+GID00110008	Vault Citizen
+GID00110009	Vault Citizen
+GID00110010	Vault Citizen
+GID00110011	Vault Security
+GID00110012	Vault Security
+GID00110013	Vault Security
+GID00110014	Vault Citizen
+GID00110015	Vault Citizen
+GID00110016	Vault Citizen
+GID00110017	Vault Citizen
+GID00110018	Enclave Stormtrooper
+GID00110019	Vault Security
+GID00110020	CZ57 Avenger
+GID00110023	Clinic Guard
+GID00110024	Clinic Guard
+GID00110025	Union City Clinic
+GID00110026	Social Security Officer
+GID00110030	Failed FEV Subject
+GID00110031	Failed FEV Subject
+GID00110036	Child
+GID00110037	Lieutenant Childs
+GID00110038	Door
+GID00110039	Door
+GID00110040	Barracks
+GID00110041	Jukebox
+GID00110042	Jukebox
+GID00110043	Weapons Trunk
+GID00110054	Social Security Officer
+GID00110055	Social Security Officer
+GID00110056	Social Security Officer
+GID00110057	Social Security Officer
+GID00110058	Social Security Officer
+GID00110059	Abandoned Bungalow
+GID00110060	Group Command
+GID00110061	Group Command
+GID00110062	Brazil Juice
+GID00110068	Ten Mil
+GID00110069	Door
+GID00110071	Miner
+GID00110072	Miner
+GID00110079	Old Train Tunnel Shelter
+GID00110082	San Bernardino Mountains
+GID00110083	Door
+GID00110084	Mission Hills Trailer

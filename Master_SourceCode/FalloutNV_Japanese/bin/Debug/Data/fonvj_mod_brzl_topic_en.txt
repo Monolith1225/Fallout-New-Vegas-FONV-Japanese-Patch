@@ -1,0 +1,711 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_brzl_topic_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00111088	Use a stimpak, you look a little beaten up.
+GID00111089	Let's get going.
+GID00111090	Wait here.
+GID00111091	Let's get going.
+GID00111092	Wait here.
+GID00111093	Let's get going.
+GID00111094	Wait here.
+GID00111095	Let's get going.
+GID00111096	Wait here.
+GID00111097	Do you mind following me? I could use you.
+GID00111098	Wait here for me, I'll be back.
+GID00111099	Let's get going.
+GID00111100	Wait here.
+GID00111102	You killed my brothers and sister. You blew up my home... Prepare to die.
+GID00111104	Where are you hit?
+GID00111105	So, this Maria thing. It told me to go find some switches. Where the hell are they?
+GID00111106	[Born Soldier I] Why did you decide to admit me, just like that?
+GID00111107	Display System Status; use to access network server and fix programme faults.
+GID00111108	No, I want to get more experience in science to work on this stuff. This shit is crazy hard.
+GID00111109	Hey, Joe. Somebody told me I have a job in maintenance starting tomorrow?
+GID00111111	What's that noise?
+GID00111112	What's that noise?
+GID00111114	Oh no! Dr. Rossman, are you okay?
+GID00111115	Wow man, you're really upbeat. Most people I've seen tonight are total dicks.
+GID00111116	What happened here?
+GID00111117	[Group] Tell everyone to get going.
+GID00111119	Hey, when you said you wanted to spend time together, what did you mean?
+GID00111120	Hey, when you said you wanted to spend time together, what did you mean?
+GID00111122	A standard 3000lb door with a digital lock, extra reinforcement...
+GID00111123	A standard 3000lb door with a digital lock, extra reinforcement...
+GID00111124	What kinds of training do I need to have to get access to the best weapons?
+GID00111126	So. Jen told me that there is a special "list" good athletes can get on. Can I see your list?
+GID00111127	Display Maintenance Menu; use this menu to manually repair nearby systems.
+GID00111128	What happened to the external network connections on that old server?
+GID00111129	Just exploring. What are you up to, Joe?
+GID00111130	Wait here.
+GID00111133	Sir, yes sir!
+GID00111134	Colonel Bragg is dead.
+GID00111135	Hey. About what you said earlier, about doing something. What'd you have in mind?
+GID00111137	You got this, man! Just keep it together!
+GID00111138	You got this man, just keep it together!
+GID00111139	I... I can't stay. I have to get out of here!
+GID00111140	Yeah, it would have been nice to have family there, but it's alright.
+GID00111141	Yeah, not yet.
+GID00111142	I... I... Just wanted to explore?
+GID00111143	Joe said there is a pipe that's causing you problems?
+GID00111145	Where did you come from, dude? What's with the spears?
+GID00111146	Are there any other survivors in here?
+GID00111147	[Group] Tell everyone to wait here.
+GID00111148	We need to find a way out of these apartments. Will you follow me?
+GID00111149	I was looking over your notes on the Exodites. Impressive study.
+GID00111150	It's nothing. Just got a little roughed up is all.
+GID00111151	Sir, with all due respect, you're staying here. Why?
+GID00111153	I could try to talk him out...
+GID00111154	I could try to talk him out...
+GID00111155	Uughn...
+GID00111156	What happened?
+GID00111157	I just wanted to ask you some questions.
+GID00111158	Is there a special permission or requirement to be a Wasteland Scout?
+GID00111159	Um... um... yeah?
+GID00111160	I haven't talked to him yet. Obviously.
+GID00111161	Yeah, sure. I was about to make the play, the Johnny came right at me and--
+GID00111163	StarPlayer: I'm in a vault in-- Wa8... isn't Brazil a country?
+GID00111164	StarPlayer: I'm in a Vault in-- Wa8... isn't Brazil a country?
+GID00111165	Log out.
+GID00111166	Are there any other cool things I can work on? I'm done with computers.
+GID00111167	I want a lotta shit. What you got, old man?
+GID00111168	What can I do to help?
+GID00111170	I made my own uniform, I was just eager to join the fight! ...Be right back!
+GID00111171	I made my own uniform, I was just eager to join the fight! ...Be right back!
+GID00111172	The vault reactors are set to melt down. We have to get out of here!
+GID00111174	I was rendered unconscious in the lower apartments.
+GID00111175	John, follow me.
+GID00111176	What do you mean? Coach Bragg did this?
+GID00111178	LET ME SEE YOUR WAR FACE!
+GID00111179	LET ME SEE YOUR WAR FACE!
+GID00111180	What's the situation?
+GID00111182	You're still alive? I can fix that for you.
+GID00111183	[Sweet Talker] Hey, do you know anything about Jen next door?
+GID00111184	Oh... right. 'Night, Mandy.
+GID00111186	I want to know your plans for keeping the vault open. What's the math on that?
+GID00111187	I want to know your plans for keeping the vault open. What's the math on that?
+GID00111188	Run fast and shit? Is that all you think I do?
+GID00111192	Earnest told me the Overseer wants to see me?
+GID00111194	Dude, where did you guys get all this ammo? It's like an armory in here.
+GID00111196	Where do we go from here?
+GID00111197	Where do we go from here?
+GID00111199	I hate to bring it up... but are you sure you're fit to fight?
+GID00111200	I hate to bring it up... but are you sure you're fit to fight?
+GID00111201	I'm fine. Had a bit of a fight in the hallway, but I made it. What about you?
+GID00111202	This area isn't safe, Jen. We need to go to the hydroponics lab.
+GID00111206	I'm sure you didn't mean to break it. No hard feelings, then.
+GID00111207	Look, Johnny, I'm really sorry. I didn't mean to injure you like this.
+GID00111214	I got this shit. Stand aside, mortals.
+GID00111215	I got this shit. Stand aside, mortals.
+GID00111216	[Intelligence] Dr.Rossman? The Robotics and Computer Analytics teacher?
+GID00111217	Good talk, Coach.
+GID00111219	Fuck's yea, white bread!
+GID00111221	No. I'm busy, thanks.
+GID00111225	You're a Wasteland Scout. What can you tell me about what's up there?
+GID00111226	I couldn't find that stupid busted pipe. Where is it again?
+GID00111228	Listen, old man, we'll get through this. The war may never change, but this one's over.
+GID00111229	Listen old man, we'll get through this. The war may never change, but this one's over.
+GID00111230	Listen old man, we'll get through this. The war may never change, but this one's over.
+GID00111236	Okay, back up. What's the situation? From the beginning.
+GID00111237	How do I get to the upper apartments?
+GID00111238	So, what do we do?
+GID00111240	[Born Soldier I] Have you ever talked with Chevy before, Mandy?
+GID00111242	Tch tch tch, no-- Shoosh. Shawn, why did you miss my game?
+GID00111243	Dude! Really? We've been working towards this for weeks! Where were you, bro?
+GID00111245	It seems like the kids in Vault 18 really dislike adults. Why?
+GID00111246	It seems like the kids in Vault 18 really dislike adults. Why?
+GID00111248	Yes, sir, it has. I've been great! Added another win for the team today.
+GID00111249	Yeah, sure! How do I get there?
+GID00111252	Just exploring. Out to see the vault before bed.
+GID00111260	What's the plan now?
+GID00111261	Yeah, it totally rocked. Thank you.
+GID00111262	So how's life, Eric?
+GID00111264	I think you should wait here. I'll work ahead and let you know when it's safe to follow.
+GID00111265	I don't really want to talk about it. Eric said I should see to you.
+GID00111266	Yeah... Dr. Rossman said you carried me to the infirmary... Thanks, I guess.
+GID00111267	Jen! Jen... It's me, &pcname;! Are you alright?
+GID00111272	Hey! We survived, alright! Pull it together!
+GID00111273	Wait here. I think you may be safe for a while.
+GID00111274	Yeah, yeah, of course you're sorry. I really don't care.
+GID00111275	Well, sorry about that. It's the sort of risk that comes with the sport. Tough luck.
+GID00111276	I wanted to talk to you, see how you've been. Just thought you looked a little lonely.
+GID00111280	I really don't know what to do, Colonel. I'm not as prepared for this as I thought I was.
+GID00111281	Where is Dr. Bishop?
+GID00111287	Yes, sir, I am. May I come in?
+GID00111288	Yes, sir, I am. May I come in?
+GID00111291	For you Jen, I've got hours.
+GID00111292	For you Jen, I've got hours.
+GID00111293	Wait... what!? No, no? Si, I mean, nein? Nein, Maria! Nein!
+GID00111294	I fixed the first-tier networks!
+GID00111295	[Lie] I found the pipe and decided it doesn't need fixing.
+GID00111296	(lie) I found the pipe and decided it doesn't need fixing.
+GID00111297	(lie) I found the pipe and decided it doesn't need fixing.
+GID00111299	Pull it together! Just spell it out. Sorry for what? What did you do?
+GID00111300	We're launching a final attack on the lab!
+GID00111301	Lost?
+GID00111303	This place could fall apart any moment, we have to get out of here!
+GID00111304	How do I get to the hydroponics lab?
+GID00111305	Thanks for talking.
+GID00111306	Where are you hit?
+GID00111307	Mandy, I lost. I even broke my leg. Thanks.
+GID00111308	It's nothin', man, don't worry about it.
+GID00111310	I want you to be honest, and tell me what you know about our parents.
+GID00111311	I want you to be honest, and tell me what you know about our parents.
+GID00111313	Yeah. I'm just playin' the game. Getting by. Working in the lab.
+GID00111314	You know, you haven't had your customary post-game beat-down in a while...
+GID00111315	Um... Nothing?
+GID00111316	Not much. Good night.
+GID00111323	Alpha: Initiate runtime, "B6:LineC001."
+GID00111324	Alpha: Initiate runtime, "B6:LineC001."
+GID00111328	Alright, enough talking.
+GID00111329	Good to know you were supporting us.
+GID00111330	What's up with you and Jamie? There are certain rumors around. You know...?
+GID00111332	I think you should come with me. It's not safe in these apartments. We're going to the lab.
+GID00111333	Yeah. Annihilated. In every way. You'll get yours later Jamie. Fuck, off.
+GID00111335	Quit crying and start paying attention, now!
+GID00111336	Quit crying and start paying attention, now!
+GID00111346	Never mind, let's keep going.
+GID00111347	Um, Johnny? You okay, pal?
+GID00111348	Um, Johnny? Great to see you too, pal.
+GID00111349	Get lost, Johnny, I don't give a shit about your phony apology.
+GID00111350	Oh, piss off, Johnny, an asshole like you deserved that. You fuck with the bull, you get the horns.
+GID00111352	What are you doing in here? This room looks kinda messy.
+GID00111356	Why would Christianson set the self-destruct?
+GID00111358	[Born Soldier II] Sergeant Chevy said you had some important information for me?
+GID00111359	[Born Soldier II] Sergeant Chevy said you had some important information for me?
+GID00111360	Right. Be right back.
+GID00111361	I fixed the second-tier networks!
+GID00111367	Wait wait wait... You have no reason to kill me. My Science skills could be useful.
+GID00111368	Wait wait wait... You have no reason to kill me. My Science skills could be useful.
+GID00111369	Wait wait wait... You have no reason to kill me. My Science skills could be useful.
+GID00111372	Go ahead. Talk some more shit, dork, see what happens.
+GID00111389	The Vault's reactor is set to self destruct! Comeon, we have to get out of here!
+GID00111391	I'll explain later, lets go!
+GID00111393	Wait here, I'll come back for you two in a minute! Don't move!
+GID00111396	Listen. I need you to run to the Vault entrance! Go!
+GID00111399	Ha, thanks Jamie.
+GID00111436	I shot him. He set the self-destruct and doomed us all.
+GID00111471	They didn't make it. Bragg's first attack killed them, and nearly killed me.
+GID00111472	I don't like where this is going.
+GID00111473	I don't believe this. You are supposed to be our leader! Why are you cowering here?
+GID00111474	Shit! If it's an explosive charge, I can fix it. The reactor? I can reverse the overload!
+GID00111475	Well, that was stupid. Look, I'll grab everyone I can and run. We will survive this. Without you.
+GID00111476	Ooh. That's not good. Now what do we do?
+GID00111481	What's that noise?
+GID00111482	What's that noise?
+GID00111486	Raaaaaaaaaaa!!!
+GID00111488	What's that noise?
+GID00111489	What's that noise?
+GID00111490	Sir, yes sir!
+GID00111491	No way in hell! Fuck you, Bragg!
+GID00111499	Fuck no!
+GID00111510	Wait wait wait... I'm sure we can work this out. Just give me a chance to prove it. Come on!
+GID00111511	Wait wait wait... I'm sure we can work this out. Just give me a chance to prove it. Come on!
+GID00111512	Wait wait wait... You have no reason to kill me, I could be useful!
+GID00111513	Wait wait wait... You have no reason to kill me. I could be useful.
+GID00111515	Like hell. Raaaaaaaa!
+GID00111516	Like hell. Raaaaaaaa!
+GID00111517	Like hell. Raaaaaaaa!
+GID00111526	Right. Fantastic.
+GID00111527	They're dead, John.
+GID00111531	It doesn't matter. Just keep moving. Go!
+GID00111533	Forget it. You heard the man. Let's move!
+GID00111558	Do you hear that? Who's that crying?
+GID00111559	Do you hear that? Who's that crying?
+GID00111561	If they're after the Overseer, Bragg must be in the Admin Office. We have to fight back.
+GID00111562	If they're overthrowing Christianson, where is he? Is he still alive?
+GID00111563	Bragg killed my family... We have to fight back!
+GID00111564	So, the hydroponics lab is locked? And the upper apartments are behind enemy lines...
+GID00111566	Let's do this! Go, go, go!
+GID00111567	LETS DO THIS! Go Go Go!
+GID00111568	Whatever. I didn't want the albino pervert with the toy laser gun following me, anyway.
+GID00111569	I think Bragg has the right idea. I'm just on the wrong side.
+GID00111570	Relax, I was just joking. How do we fight these bastards?
+GID00111571	It's the promise of a better tomorrow, under your president, John Henry Eden!
+GID00111572	Me, motherfucker! Hahahaha!
+GID00111575	What the hell is going on?
+GID00111576	They're dead... I don't know what's going on.
+GID00111591	Patriots? Why are they calling themselves that?
+GID00111592	I want to know something else.
+GID00111593	We need to find a way to talk to them. Calm their nerves. This is madness.
+GID00111594	I don't know how the hell we're going to rebuild after this. Should we even take prisoners?
+GID00111595	We can still win this. Push them hard and drive them out of the vault!
+GID00111599	I know how to treat this. A couple stimpacks and compression, and you're good.
+GID00111600	I know how to treat this. A couple stimpacks and compression, and you're good.
+GID00111601	But... Where do I go from here?
+GID00111602	Hey, hey! Stay with me, Doc! Don't you die on me yet!
+GID00111603	Doc... Sleep easy, old man. See you on the other side.
+GID00111606	The old Alpha Droid... is it active?
+GID00111607	The old Alpha Droid... is it active?
+GID00111608	But... Where do I go from here?
+GID00111617	Terra? What the hell is going on?
+GID00111624	Fine. Lead the way.
+GID00111625	No. We end this, now.
+GID00111632	Oh, yeah, totally. I was just on my way to... fall in line.
+GID00111633	Oh, yeah, totally. I was just on my way to... Fall in line.
+GID00111634	My brother and sister are dead. Terra, tell me you didn't have something to do with this.
+GID00111636	Why? Why are you doing this? You were a nice girl, Terra!
+GID00111637	Why? Why are you doing this? You were a nice girl, Terra!
+GID00111640	I just want to leave. I hope you can live with it. Get out of my way, Terra.
+GID00111641	Fine. Lead the way.
+GID00111642	No. We end this, now.
+GID00111643	You... Idiot! You'll pay for this! Raa!
+GID00111646	I... I don't know. What the hell is going on?
+GID00111647	Go fuck yourself, you psycho cunt!
+GID00111649	You aren't going to talk about the game?
+GID00111653	Alright. You take care. Enjoy your game.
+GID00111670	Do you ever think about them? Our parents, I mean.
+GID00111671	Hey, isn't that a little mean? Kira's had it rough.
+GID00111672	Yeah. We may be from different dads, but I'm glad we're family.
+GID00111678	Do you have anything that can help my leg?
+GID00111679	It's okay, Mandy. I forgive you.
+GID00111680	No. And I don't want you to. Fuck off.
+GID00111681	Have you talked to Jason at all tonight?
+GID00111699	Nuh-uh. Stop right there, dork. I had one chance to win that game. This could've waited.
+GID00111700	Hey... I broke my leg tonight. Then I reprogrammed an entire computer network. Quit bitching.
+GID00111701	Um, not really? Broken leg? I'm high on Med-X and still limping like a land fish.
+GID00111702	I don't know, dude. Just... Part of Vault planning. All of us have to do it.
+GID00111703	Nah, I'll just stick to my PC, thanks.
+GID00111704	Sure! What are you playing?
+GID00111709	Fine. It's nothin', "bro", don't worry about it.
+GID00111710	Yup. *cracks knuckles*
+GID00111711	No, I forgive you. Whatever you were up to must have been important.
+GID00111712	Yeah, I am. White anger burns hotter than red. You'll get yours.
+GID00111713	Nope. What game are you guys playing?
+GID00111714	Wait, wait... So if there's all of this back story, how does it affect game play?
+GID00111715	So... What's the point of having all that... Text?
+GID00111716	Ugh. Dorks. Try to keep it down. I'm crashin' to bed, man.
+GID00111717	Not... Really. It's just a game. I'm going to crash to bed, bro. Try to keep it down?
+GID00111726	That's all I can think of. I should head to bed.
+GID00111728	Shawn will be fine, sir. He just needs... A little encouragement.
+GID00111729	Shawn will be fine, sir. He just needs... A little encouragement.
+GID00111731	You have a problem with my brother?
+GID00111732	You have a problem with my brother?
+GID00111733	So, why did you call me in here?
+GID00111739	I think it was just a gesture, but I didn't get the post.
+GID00111741	Uuhhmm... No?
+GID00111742	Uuhhmm... No?
+GID00111743	Don't you want to... I don't know, look into that?
+GID00111744	So, I can just go then?
+GID00111745	Yeah... I kinda might have. But, hey! It wasn't my fault, I was just checking to see if it worked.
+GID00111746	I was reconnecting an old server line, and its seems our vault is part of a holo-net.
+GID00111747	I don't know, should I look into it?
+GID00111748	Aw hell, man, you know. Winnin'. Beatin' pussy. Fuckin' up shit in this bitch. Good times.
+GID00111753	Ha, you only know that because you like to watch.
+GID00111754	Dude, just make your point.
+GID00111757	Brute strength! Pow, right in the guts, and tossed 'im like a rag!
+GID00111758	Brute Strength! Pow, right in the guts and tossed 'im like a rag!
+GID00111760	Just the right application of torque to the calf at the right moment, and BAM!
+GID00111761	Just the right application of torque to the calf at the right moment, and BAM!
+GID00111763	Physics. Give me leverage and 9.82m/s and I'll crack the world!
+GID00111764	Physics. Give me leverage and 9.82m/s and I'll crack the world!
+GID00111768	Errr... Herp der... I hit hard. Go explore.
+GID00111769	Errr.... herp der... I hit hard. Go explore.
+GID00111794	Thanks! It was a really awesome night.
+GID00111795	Ah, yeah. Now I'm just seeing what else I can find to do.
+GID00111796	Um... Sure. I'll give it a look. It's just out this door, right? On the wall by the grate?
+GID00111799	No. I just want to get past you and end this dream.
+GID00111800	Who are you? Why are you here?
+GID00111801	Alright. That was weird. Lets end this.
+GID00111803	Try me.
+GID00111804	Try me.
+GID00111806	Maybe we can talk this out. What's your name?
+GID00111807	Maybe we can talk this out. What's your name?
+GID00111811	Uh... No.
+GID00111812	That's all. Let's get going.
+GID00111813	Let's talk about something else.
+GID00111816	Ben?
+GID00111817	Let me guess: You regained your memories.
+GID00111818	Let me guess: you regained your memories.
+GID00111819	Let me guess: you regained your memories.
+GID00111829	Well... what the hell happened here?
+GID00111830	Dude, I hate to break it to you, but I totally just double tapped Chevy for you. She wasn't dead.
+GID00111831	Woah, chill out there, killer. Come on, lets get out of here before this place explodes.
+GID00111832	So, if you don't mind my asking... what's with this ring of corpses and the body paint?
+GID00111833	Nevermind.
+GID00111871	Lets go.
+GID00111874	Let's talk about your tactics.
+GID00111875	I want you to change your combat style.
+GID00111881	Switch to a melee weapon.
+GID00111892	I managed to run through the pipeworks. Place was a mess.
+GID00111893	Shut up and get of my way.
+GID00111894	How did you manage to survive in here? The Patriots have been in control this whole time!
+GID00111895	Tell me something else.
+GID00111898	I wanted to ask you about something else.
+GID00111899	Are you still trying out to be one of the Wasteland Scouts?
+GID00111900	Dude, we were like, two. Dr. Rossman says starting a gunfight is what gets people killed, right?
+GID00111901	You're very determined.
+GID00111902	And you think you're going to be one of them?
+GID00111903	I'm not so sure. People have been living down here for too many years.
+GID00111904	Lets change the subject.
+GID00111905	Easy, I just wanted to ask.
+GID00111906	But isn't she... Your sister?
+GID00111907	Any problems? Yeah, I do have a problem with that, you freak.
+GID00111908	No, not at all. I'm just wondering how you get along with each other. Everybody always... you know.
+GID00111909	You've probably been through hard times. All of us have.
+GID00111911	Eric, I don't care what those pricks say. You're alright, and I'll stand up for you if needed.
+GID00111912	Eric, I don't care what those pricks say. You're alright, and I'll stand up for you if needed.
+GID00111913	Good luck with your relationship then. You'll probably need it.
+GID00111914	You have a strong personality. I admire that. However, can it go on like this forever?
+GID00111923	I don't care about stupid rumors. That's why I'm talking to you.
+GID00111943	If you have any spare ammo, now's the time to hand it over.
+GID00111944	You should go chill downstairs. If things go south... Run.
+GID00111946	I know this is a hard thing to ask... But I need you to stand and fight.
+GID00111947	I know this is a hard thing to ask... but I need you to stand and fight.
+GID00111951	Never mind, let's keep going.
+GID00111962	I kinda saw it coming. I was caught off guard, but it was pretty obviously going to happen.
+GID00111963	Maybe. We'll figure it out as we go.
+GID00111965	I'd rather try not to think about it. Let's just get ready to get out of here.
+GID00111971	You know, I don't like the idea of keeping control of everyone at once.
+GID00111972	I'll talk to him. Don't worry about it.
+GID00111973	Do you think you could take care of Jen for a while? She's... Pretty shaken up.
+GID00111974	She was asleep when the transformer exploded. I don't think she knows her family is gone.
+GID00111975	No, they didn't make it.
+GID00111979	Yeah, thanks! You're a member of the team too, thanks for having my back!
+GID00111980	Yeah, thanks! You're a member of the team too. Thanks for having my back!
+GID00111981	Woah! What was that for?
+GID00111982	Yeah, no, I mean, thanks. I like you a lot too... Always have.
+GID00111983	No, I don't know. I don't do drama. What's up?
+GID00111991	Well, it's totally true. I've liked you ever since we were kids and I beat you up in kindergarten.
+GID00111993	Yeah. I know the rumours. I don't give a shit. I think it's cool.
+GID00111994	Yeah. I know the rumours. I don't give a shit. I think it's cool.
+GID00111995	So, yeah, take care!
+GID00111996	It was okay, I'll be fine. Take care out there.
+GID00111997	I'd...prefer it if you didn't do that again without written permission from, like, the grim reaper.
+GID00111999	Hey! Now that you've seen me without my armor, what'd you think?
+GID00112000	Hey! Now that you've seen me without my armor, what'd you think?
+GID00112002	I have a feeling if I wasn't gimped, you'd think different of me.
+GID00112003	I have a feeling if I wasn't gimped, you'd think different of me.
+GID00112004	Haha, ha, yeah, awesome. Bye Jamie.
+GID00112024	Hey, I'm pretty scared too, but we've got to stick together, okay?
+GID00112025	Hey, I'm pretty scared too, but we've got to stick together, okay?
+GID00112026	This area isn't safe, Jen. We need to go to the hydroponics lab.
+GID00112027	[Lie] Sure, honey. That's where they went. Let's go get them.
+GID00112028	Jen... That's where the survivors are putting up their last defense.
+GID00112030	I have no idea. I'm in the dark, just like you. Everyone I've seen is dead.
+GID00112031	Alright. Do you think you can fight if you need to?
+GID00112032	Just come with me. We'll figure it out as we go. Stay behind me.
+GID00112033	It's not safe up there. You should stay here and wait. I'll be right back.
+GID00112034	This area isn't safe, Jen. We need to go to the hydroponics lab.
+GID00112036	Just... stay here. I'm going to go explore and try to find out what's going on.
+GID00112037	I don't give a fuck. I just wanted to see if you had anything of value. Later.
+GID00112038	I'm sorry... I just lost mine too. But now I have your attention, let's talk about what happened.
+GID00112039	Hey! I came down here to try to help you!
+GID00112040	Nope. You're obviously of no value. I don't see why you should still live.
+GID00112043	Uuugh! This wing of the vault is on fire! Pull it together!
+GID00112044	Duh, probably beneath that pile of rocks. Now do you want my help or not?
+GID00112045	I don't know. We should go looking for them.
+GID00112047	Hey, I know you won't want to hear this... But Bragg has a special mission for you.
+GID00112050	Hey, I know you won't want to hear this... But Bragg has a special mission for you.
+GID00112058	I'm sorry, Jen. Look, maybe you should go wait in Jamie's room for a while.
+GID00112059	Hey, it's okay. We'll get through this. I have something I want to ask.
+GID00112088	I'm in. You follow me, understood?
+GID00112089	You've always been crazy, but this jumps the shark. We need to talk our way out, not fight.
+GID00112090	No friends, huh? Alright. Fine. Lets just leave it at that.
+GID00112091	Ruined you? Ha! Nope. The best part of you ran down your momma's ass. I just broke your knee.
+GID00112092	Look, I don't have time for this. I need to find a way out of here.
+GID00112093	Look, I don't have time for this. I need to find a way out of here.
+GID00112094	Look, I don't have time for this.
+GID00112095	Oh. Great job, Matheson. You're alive.
+GID00112097	What the hell are you talking about, Johnny? I just saved your life!
+GID00112098	I AM - have you not been listening to the insane firefight going on upstairs?
+GID00112099	Wow! You are a total douchebag. There are over a hundred people dead, and you're acting like a dick.
+GID00112100	I bet you won't talk so tough when I stuff your ass in that locker.
+GID00112101	I bet you won't talk so tough when I stuff your ass in that locker.
+GID00112102	I bet you won't talk so tough when I stuff your ass in that locker.
+GID00112103	Are you on crack? You'd have to be, to think harassing your liberator is a good idea.
+GID00112104	Are you on crack? You'd have to be, to think harassing your liberator is a good idea.
+GID00112105	Are you on crack? You'd have to be, to think harassing your liberator is a good idea.
+GID00112106	Look, just get out of my face, alright?
+GID00112107	Oh. Great. Matheson.
+GID00112111	Killed four of the bastards!
+GID00112113	You managed to tackle me was because you're using chems, Johnny. I can tell from looking at you.
+GID00112114	You managed to tackle me was because you're using chems, Johnny. I can tell from looking at you.
+GID00112121	I know it doesn't help, but still, I want you to know I'm sorry.
+GID00112122	Yeah, I guess so. That's too bad.
+GID00112123	Well, short-sighted assholes who can't plan two steps ahead usually run into this sort of issue.
+GID00112124	You could always switch over to something a bit more intellectual than sports, you know?
+GID00112125	I'm sure you'll find something to do.
+GID00112126	Well, it's not so bad, Johnny. It's not like you did jack shit before, anyway.
+GID00112127	Sorry, I just thought you'd appreciate the joke. It wasn't supposed to be hurtful.
+GID00112128	Eh, I'd like to hear you do better, Johnny.
+GID00112129	Judging by how badly I crippled you with that one tackle, fuck yeah, asshole. More of one than you.
+GID00112184	Probably not. I'll just... be over here... doing something.
+GID00112185	Probably not. I'll just... be over here... doing something.
+GID00112186	Damn girl, what a big bitch you have! I'm just sayin' fuckin' hello.
+GID00112187	I... won the big game tonight? Does that count?
+GID00112189	Yeah. I have my eye on hacking Maria over there. Just for fun.
+GID00112190	Yeah. I have my eye on hacking Maria over there. Just for fun.
+GID00112191	Probably not. I'll just... be over here... doing something.
+GID00112192	Probably not. I'll just... be over here... doing something.
+GID00112250	All right, you're good. Let's get out of here.
+GID00112251	Stay close to me.
+GID00112254	Enough about tactics.
+GID00112255	Relax here for awhile.
+GID00112289	I shot him. He was a threat to us all, and wasted my time.
+GID00112300	The vault reactor is set to self-destruct! We have to get out of here, NOW!
+GID00112302	Oh, you're one of them. What are you people doing out here?
+GID00112303	Oh, you're one of them  what are you people doing out here?
+GID00112305	Out for a walk? What do you think, douchebag!?
+GID00112312	Christianson shot himself. He set the self-destruct.
+GID00112313	But how do we activate the main vault door? Aren't we trapped?
+GID00112316	Anything else I should know?
+GID00112317	Did you see Bragg try to get back up after he died?
+GID00112318	Got it. I'm on my way to see Christianson.
+GID00112328	I followed Dr. Rossman's trail through the cistern. I heard you need help?
+GID00112329	I'm sure. We secured the upper apartments before I left. What's going on here?
+GID00112330	Where did Dr. Rossman go?
+GID00112331	Where did Dr. Rossman Go?
+GID00112332	Is Overseer Christianson alright?
+GID00112333	I'll do what I can. You just make sure our backs are safe. No more of my friends die today.
+GID00112334	Great. Sounds like a good old-fashioned fire fight. What should I do?
+GID00112336	Well that's not good. These doors were built to melt under arc from those torches.
+GID00112347	Did you mention Jane Kowalski? The Firearms and Marksmanship instructor?
+GID00112348	You don't like being the vault medical doctor, do you?
+GID00112349	This is all that stupid scoring computer's fault! I told Coach Bragg it was setting me up!
+GID00112350	The Generalized Occupational Aptitude Test told me I should try?
+GID00112351	I... I just wanted to be more popular. I hate being called a nerd.
+GID00112352	Okay, so cut to the chase, Poindexter. When can I get back on my feet?
+GID00112353	For god's sake, let me take a look at it.
+GID00112354	You really don't like Coach Bragg, do you?
+GID00112355	What am I supposed to do now that I can't be an athlete?
+GID00112356	Oh fuck off, Rossman, just patch me up so I can go on with my miserable life.
+GID00112357	I won't be gimped for long, old man.
+GID00112360	Thank you, sir!
+GID00112361	Um... Sorry, sir. I mean, right! Yes, Coach!
+GID00112362	Right, Coach. Sorry to interrupt.
+GID00112363	Whatever. Can I go now?
+GID00112364	I'm proud to have done it. I enjoy making my vault proud!
+GID00112365	You mean you don't concede your will to our benevolent and fair corporate Overseers from Vault-Tec?
+GID00112366	Hell yeah! I've always wanted to be part of Vault Security.
+GID00112367	I don't think so, Coach. I'm not really a fighter, I'm more of technical person.
+GID00112368	Well, I've had better moments. Johnny's a puss. I'm surprised the gym lights didn't knock him over.
+GID00112369	You mean, you don't concede your will to our benevolent and fair corporate Overseers from Vault-Tec?
+GID00112370	Hell yeah! Vault Security is where I've always wanted to be.
+GID00112371	I don't think so, Coach. I'm not really a fighter, I'm more of technical person.
+GID00112372	I need to get going, Coach.
+GID00112373	Not much to tell, honest. Lived in Vault 18 my whole life... I'm adopted, like everyone else...
+GID00112374	Yeah, absolutely! What threat are you talking about?
+GID00112375	Yes, Coach, I understand clearly. I'm ready for that responsibility.
+GID00112376	I don't know if you've noticed, but 'Merika is dead for a reason, Sergeant Nasty.
+GID00112377	Look, I'd rather not waste my time. I'm a jock, not a bullet sponge.
+GID00112378	My country? You mean the vault? Sure. A few extra hours won't hurt.
+GID00112379	Hell, what's this about, Bragg? I'm tired of this school bullshit.
+GID00112380	I'm just your average athlete, Coach, just looking out for my home.
+GID00112381	I don't need to make you my pal, Bragg. Fuck off.
+GID00112383	I want to hear what you know about the Wasteland.
+GID00112384	I want to hear what you know about the Wasteland.
+GID00112385	I want to know what it's like. Out in the wastes.
+GID00112386	I want to talk about America. What is your plan for it?
+GID00112388	I have to go. Thanks for the talk, Coach.
+GID00112390	Do you have any more books on fighting, Coach?
+GID00112391	Do you have any more books on fighting, Coach?
+GID00112393	I want to know if there is any "special" training you can give me.
+GID00112394	I want to know if there is any "special" training you can give me.
+GID00112398	Never mind, sir.
+GID00112400	It says I'm a strong athlete, and have the ability to perform my duties!
+GID00112401	It says I'm a strong athlete, and have the ability to perform my duties!
+GID00112403	It says I'm right for leadership, and have a good mannerism.
+GID00112404	It says I'm right for leadership, and have a good mannerism.
+GID00112406	It says I have the endurance it takes to keep my head in the game!
+GID00112407	It says I have the endurance it takes to keep my head in the game!
+GID00112409	It says I can probably hack into any terminal in this vault.
+GID00112410	It says I can probably hack into any terminal in this vault.
+GID00112412	Yeah! Can I come in?
+GID00112413	Hell yeah. I'm here to pick up a gun, king.
+GID00112418	Understood.
+GID00112419	But what's in it?
+GID00112422	&pcname;, but everyone calls me Star.
+GID00112423	&pcname;, but everyone calls me, Star
+GID00112424	Yo, bitch, just call me Star.
+GID00112425	Wait, what? That's it?
+GID00112426	&pcname;, ma'am.
+GID00112487	Uuuuuuum....
+GID00112489	Was, that an invitation to bang your daughter, sir?
+GID00112490	Was, that an invitation to bang your daughter, sir?
+GID00112491	Um... I guess that could be fun, but... the whole girl thing is...
+GID00112495	Sure. Where are we going?
+GID00112496	Nah. Jen, I'm really sleepy. I should just crash to bed. Thanks though.
+GID00112507	Yeah, when you mentioned your room, I wasn't expecting--
+GID00112509	A list?
+GID00112511	So... What do you want me to do?
+GID00112513	Huh. Well, I'll check into it. I'll be right back.
+GID00112515	Listen, I'm pretty proof-positive that Bragg hates me. I'm like on his Z list. Is there another way?
+GID00112516	Sure. Where are we going?
+GID00112517	Nah. Jen, I'm really sleepy. I should just crash to bed. Thanks though.
+GID00112519	I'm not a really big fan of Coach Bragg, or his crazy sister.
+GID00112523	So, you broke into one of Bragg's crates, and just took this?
+GID00112526	What have you been using these Stealth Boys for, Jen?
+GID00112527	What have you been using these Stealth Boys for, Jen?
+GID00112528	What are we looking for when we get in there?
+GID00112529	Well, I should probably switch into quieter clothes, but let's go.
+GID00112530	Hey - I'm from the wasteland too. Am I not to be trusted?
+GID00112532	Yeah. It's just a list of names. Not too exciting. I forwarded it to your computer.
+GID00112533	Alright, see you there. I've got some stuff to take care of first, though.
+GID00112534	Not likely. I think you're a little too blonde to say anything of value.
+GID00112537	StarPlayer: Hello?
+GID00112538	StarPlayer: Um... My name is &pcname;. Who are you?
+GID00112539	[Science] StarPlayer: Um... Hello Annai. I'm kind of a computer nerd, I guess? What is this?
+GID00112540	StarPlayer: Oh, that's cool. I just found it by plugging in some cables and stuff.
+GID00112541	StarPlayer: How do you have a dating service when the whole computer network was blown to hell?
+GID00112542	StarPlayer: Oh. So, the NCR is building a computer network along these old server lines?
+GID00112543	StarPlayer: Then why did you choose to call it Brazil, if it's not in that country?
+GID00112544	StarPlayer: Nooo000 \/\/hi are brazil if n0t BR@Z1L!!!!111?11!one
+GID00112545	StarPlayer: BR@Z1LBlalhalhahalag!!!!111?11!one
+GID00112547	StarPlayer: Ah, okay, I get it. Let's get back to important things - like me and u. ;)
+GID00112548	StarPlayer: Ah, okay, i get it. Let's get back to important things - like me and u. ;)
+GID00112550	StarPlayer: Ah, ok, I get it. Let's get back to important things, like learning about our cultures.
+GID00112551	StarPlayer: Ah, ok, i get it. Let's get back to important things, like learning about our cultures.
+GID00112576	Woah, woah, auto what? Yes, auto fix all errors! Do it now!
+GID00112578	Please start main menu in English, Maria.
+GID00112579	Please start main menu in English, Maria.
+GID00112581	Yes, but I'd rather continue in English, Maria.
+GID00112582	Yes, but I'd rather continue in English, Maria.
+GID00112584	Tier 1 Networks - Online.
+GID00112585	Tier 1 Networks - Offline.
+GID00112586	Tier 1 Networks - Offline.
+GID00112587	Tier 1 Networks - Offline.
+GID00112588	Tier 1 Networks - Online.
+GID00112589	Tier 1 Networks - Offline.
+GID00112590	Tier 1 Networks - Offline.
+GID00112591	Tier 1 Networks - Offline.
+GID00112593	Tier 2 Networks - Online.
+GID00112594	Tier 2 Networks - Offline.
+GID00112595	Tier 2 Networks - Offline.
+GID00112596	Tier 2 Networks - Offline.
+GID00112597	Tier 2 Networks - Online.
+GID00112598	Tier 2 Networks - Offline.
+GID00112599	Tier 2 Networks - Offline.
+GID00112600	Tier 2 Networks - Offline.
+GID00112602	Tier 3 Networks - Online.
+GID00112603	Tier 3 Networks - Offline.
+GID00112604	Tier 3 Networks - Offline.
+GID00112605	Tier 3 Networks - Offline.
+GID00112607	Tier 4 Networks - Online.
+GID00112608	Tier 4 Networks - Offline.
+GID00112609	Tier 4 Networks - Offline.
+GID00112610	Tier 4 Networks - Offline.
+GID00112611	Return to previous menu.
+GID00112613	Tier 1 Network to Server.
+GID00112614	Tier 1 Network to Server.
+GID00112615	Tier 1 Network to Server.
+GID00112616	Tier 1 Network to Server.
+GID00112618	Tier 2 Network to Server.
+GID00112619	Tier 2 Network to Server.
+GID00112620	Tier 2 Network to Server.
+GID00112621	Tier 2 Network to Server.
+GID00112622	Tier 2 Network to Server.
+GID00112623	Tier 2 Network to Server.
+GID00112625	Tier 3 Network to External Receiver.
+GID00112626	Tier 3 Network to External Receiver.
+GID00112627	Tier 3 Network to External Receiver.
+GID00112629	Tier 4 Network to External Receiver.
+GID00112630	Tier 4 Network to External Receiver.
+GID00112631	Tier 4 Network to External Receiver.
+GID00112633	He called himself "Enclave". What is that?
+GID00112634	Well... now we know there's life on the moon base?
+GID00112635	I found a ton of old history reports from the weeks after the Great War.
+GID00112636	Nothing, just some old notes and letters. Ancient grocery lists, basically.
+GID00112637	Just a bunch of security logs and data from a few years ago. Stuff about the Exodites.
+GID00112638	Nothing, just a lot of pre-war news clippings and dime novels.
+GID00112639	I fixed the third-tier networks!
+GID00112640	Actually, I found parts of the old external network still working outside Vault 18.
+GID00112641	Nothing, just a bunch of empty advertising bullshit from before the war.
+GID00112642	I dunno. It was the only option they gave me. Democracy, right?
+GID00112643	Eh. It's just some meaningless task. Why not.
+GID00112644	I'll go have a look then.
+GID00112645	Nah, I'd rather just go to bed.
+GID00112646	Just, trying to learn the layout of things. Exploring is what I do.
+GID00112647	Are there any, you know, secret passages I should know about?
+GID00112648	Oh. Well, can you tell me why some parts of Vault 18 were never finished?
+GID00112649	This is the filter room, right? Where do we get all of our water from?
+GID00112650	Why is it so dark in here?
+GID00112651	Okay. Cool. Later Joe!
+GID00112652	Meh. I just want to wander.
+GID00112653	Hey, what is that weird mess of radio parts and the jukebox in the storage cell for?
+GID00112654	Later Joe!
+GID00112664	Who are you?
+GID00112667	I can deal with this. This is easy.
+GID00112668	I can deal with this. This is easy.
+GID00112670	I think I understand. This is a dream. Something is very wrong.
+GID00112671	I think I understand. This is a dream. Something is very wrong.
+GID00112673	I'm dreaming. I think I know you from my past... or my future.
+GID00112674	I'm dreaming. I think I know you from my past... or my future.
+GID00112676	I think you are testing me. I will perform this task adequately.
+GID00112678	I must go.
+GID00112686	I want you to attack enemies the moment you see them.
+GID00112687	I don't want you to attack enemies unless I've already engaged them.
+GID00112688	On second thought, stick with me for a little longer.
+GID00112689	Yes, I'm sure.
+GID00112691	I think we should travel together.
+GID00112692	Let's talk about your tactics.
+GID00112693	I want you to change your combat style.
+GID00112694	Let's talk about something else.
+GID00112695	That's all. Let's get going.
+GID00112696	Switch to a melee weapon.
+GID00112697	I want you to use ranged weapons.
+GID00112698	Let's talk about how close you're following me.
+GID00112699	Stay close to me.
+GID00112700	Your distance is good. Let's talk about something else.
+GID00112701	All right, you're good. Let's get out of here.
+GID00112702	Keep your distance. Try to flank them.
+GID00112729	Idle Chatter
+GID00112730	I'm gonna head to bed in a bit. Have a good night, babe.
+GID00112731	Eh, whatever.
+GID00112732	Never mind.
+GID00112733	Ha, thanks Jamie.
+GID00112734	I am the Lord your God, master of advanced technology! Kneel before your master!
+GID00112735	Shit!
+GID00112736	Relax here for awhile.
+GID00112737	Relax here for a while.
+GID00112738	It wasn't shit, I'm all about winning.
+GID00112739	Relax here for awhile.
+GID00112740	Relax here for awhile.
+GID00112741	Relax here for a while.
+GID00112742	I just want to pester you. Until you like me. A lot.
+GID00112743	Relax here for a while.
+GID00112745	What is this cliche cryptic bullshit? I hope I'm not dreaming, I'd be disappointed in my creativity.
+GID00112746	[Group] Command.
+GID00112747	Let's trade equipment.
+GID00112748	Let's trade equipment.
+GID00112749	Let's trade equipment.
+GID00112750	Let's trade equipment.
+GID00112751	Show me what you're carrying.
+GID00112752	Let's trade equipment.
+GID00112753	I need to get going.
+GID00112754	Can you repair my weapon?
+GID00112755	Could you use this stimpak on me? I think you might be more qualified to use it than I am.
+GID00112756	Let's trade equipment.
+GID00112757	Goodbye.
+GID00112758	Goodbye.
+GID00112759	Goodbye.
+GID00112760	Goodbye.
+GID00112761	That's all.
+GID00112762	Goodbye.
+GID00112763	Nothing. Just wandering around. See ya.
+GID00112764	I think we should stop traveling together.
+GID00112766	[TEST HIRE] - Ben, come with me.
+GID00112767	[FIRE] - Let's go our separate ways.
+GID00112768	I think we should stop traveling together.
+GID00112770	[HIRE] Eric, come with me.
+GID00112771	[FIRE] - Let's go our separate ways.
+GID00112772	I think we should stop traveling together.
+GID00112774	[TEST HIRE] - Jamie, come with me.
+GID00112775	[FIRE] - Let's go our separate ways.
+GID00112776	Hey Jen? I think it's time for us to part ways.
+GID00112778	[HIRE] - Jenifer, come with me.
+GID00112779	[FIRE] - Let's go our separate ways.
+GID00112780	Johnny, I think we should stop traveling together.
+GID00112782	[TEST HIRE] - Johnny, come with me.
+GID00112783	[FIRE] - Let's go our separate ways.
+GID00112784	I think we should stop traveling together.
+GID00112786	[TEST HIRE] - Kira, come with me.
+GID00112787	[FIRE] - Let's go our separate ways.
+GID00112788	It's time for us to part ways.
+GID00112789	Nothing. See ya!
+GID00112790	Goodbye.
+GID00112792	PLAYER FIRE WEAPON
+GID00112793	PLAYER IN IRON SITES
+GID00112794	PLAYER KNOCK OVER OBJECTS
+GID00112795	PLAYER LAY MINE
+GID00112796	PLAYER THROW GRENADE

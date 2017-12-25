@@ -1,0 +1,73 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_awop_message_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00099724	RoachのAudiodisc Review 1を発見しました。
+GID00099725	9枚全て発見することで新たなPerkが解除されます!
+GID00099727	あなたはRoachのHistory Of The Undergdroundを全て見つけました!
+GID00099729	4次元ストレージが無効になりました。
+GID00099731	RoachのHistory Of The Underground Part 6を発見しました。
+GID00099732	6枚全て見つけることで新たなPerkが解除されます!
+GID00099734	RoachのAudiodisc Review 3を発見しました。
+GID00099735	9枚全て発見することで新たなPerkが解除されます!
+GID00099737	RoachのAudiodisc Review 2を発見しました。
+GID00099738	9枚全て発見することで新たなPerkが解除されます!
+GID00099740	RoachのAudiodisc Review 6を発見しました。
+GID00099741	9枚全て発見することで新たなPerkが解除されます!
+GID00099743	RoachのAudiodisc Review 4を発見しました。
+GID00099744	9枚全て発見することで新たなPerkが解除されます!
+GID00099746	AWOP非常用スターターボックス: 装備一式を選択してください。
+GID00099747	選択できるのは1回だけです。
+GID00099749	Nothing (Vanilla)
+GID00099750	Berzerker
+GID00099751	Doctor
+GID00099752	Repairman
+GID00099753	科学者
+GID00099754	Soldier
+GID00099755	Trapper
+GID00099756	Pocket Warehouse
+GID00099757	Home Buyer
+GID00099758	Limited Loadout
+GID00099759	緊急時プロトコルが発行されました。
+GID00099760	高セキュリティウェポンが解除されます。
+GID00099761	ようこそ、愛国者、
+GID00099762	これがこのポートへ転送可能な武器の一覧となります。
+GID00099763	警告:
+GID00099764	まもなく電源が停止します。
+GID00099765	ポートのシャットダウンまで、残り時間: 001
+GID00099767	なし (マシンをそのままにしておく)
+GID00099768	レーザーライフル
+GID00099769	プラズマライフル
+GID00099770	ミニガン
+GID00099771	ロケットランチャー
+GID00099772	ガトリングレーザー
+GID00099773	プラズマキャスター
+GID00099774	ファットマン
+GID00099775	ガウス型YCS/186
+GID00099776	回収したエイリアンピストル
+GID00099777	4次元ストレージが有効になりました。可搬重量が増加します。
+GID00099779	あなたは途方もない量の有害な毒を吸収してしまった。しかしながらとある理由であなたは強くなったと感じている(主な副作用は別として)。幸運なことに、それは化学的に誘発された妄想ではない。
+GID00099780	Iron Bellyパークを取得しました。
+GID00099782	RoachのHistory Of The Underground Part 3を発見しました。
+GID00099783	6枚全て見つけることで新たなPerkが解除されます!
+GID00099785	あなたはローチのAudiodisc Reviewsを全て見つけました!
+GID00099787	RoachのAudiodisc Review 8を発見しました。
+GID00099788	9枚全て発見することで新たなPerkが解除されます!
+GID00099790	RoachのHistory Of The Underground Part 2を発見しました。
+GID00099791	6枚全て見つけることで新たなPerkが解除されます!
+GID00099793	RoachのAudiodisc Review 9を発見しました。
+GID00099794	9枚全て発見することで新たなPerkが解除されます!
+GID00099796	RoachのAudiodisc Review 5を発見しました。
+GID00099797	9枚全て発見することで新たなPerkが解除されます!
+GID00099799	Rad Resistanceが2増加しました。
+GID00099801	RoachのAudiodisc Review 7を発見しました。
+GID00099802	9枚全て発見することで新たなPerkが解除されます!
+GID00099804	Destroying Loot!
+GID00099806	RoachのHistory Of The Underground Part 5を発見しました。
+GID00099807	6枚全て見つけることで新たなPerkが解除されます!
+GID00099809	Quest Stage %5.0f Updated!
+GID00099811	RoachのHistory Of The Underground Part 4を発見しました。
+GID00099812	6枚全て見つけることで新たなPerkが解除されます! 
+GID00099814	Quest Variable Updated!
+GID00099816	RoachのHistory Of The Underground Part 1を発見しました。
+GID00099817	6枚全て見つけることで新たなPerkが解除されます! 

@@ -1,9 +1,8 @@
-﻿Imports System
-Imports System.Text
+﻿Imports System.Text
 Imports System.Runtime.InteropServices
 Imports System.IO
-
 Imports System.ComponentModel
+Imports System.Net
 
 Public Class start_loading
     Public Declare Function GetPrivateProfileString Lib "kernel32" _
@@ -190,6 +189,7 @@ Public Class start_loading
                 'ファイル取得する
                 My.Computer.Network.DownloadFile("https://raw.githubusercontent.com/NiGSan/Fallout-New-Vegas-FONV-Japanese-Patch/master/Download/setting.ini",
                                                 Root & "\setting.ini", "", "", True, 60000, True, FileIO.UICancelOption.ThrowException)
+
                 '表示する
                 URL_DATA_INI_DOWNLOAD_CHECK()
             Catch ex As Exception
@@ -212,7 +212,7 @@ Public Class start_loading
             Dim NVSE As New StringBuilder(500)
             Dim NVSE_A As Integer = GetPrivateProfileString("DOWNLOAD_URL", "NVSE_URL", "", NVSE, NVSE.Capacity, ini_A)
             If NVSE_A > 0 Then
-                cfg.NVSE_URL.Text = NVSE.ToString()
+                config_fonv.NVSE_URL.Text = NVSE.ToString()
             Else
                 Dim ex As New Win32Exception(Marshal.GetLastWin32Error())
                 MessageBox.Show(ex.Message, "NVSE Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
@@ -223,7 +223,7 @@ Public Class start_loading
             Dim NVSEBETA As New StringBuilder(500)
             Dim NVSE_BETA_A As Integer = GetPrivateProfileString("DOWNLOAD_URL", "NVSE_BETA_URL", "", NVSEBETA, NVSEBETA.Capacity, ini_A)
             If NVSE_BETA_A > 0 Then
-                cfg.NVSE_BETA_URL.Text = NVSEBETA.ToString()
+                config_fonv.NVSE_BETA_URL.Text = NVSEBETA.ToString()
             Else
                 Dim ex As New Win32Exception(Marshal.GetLastWin32Error())
                 MessageBox.Show(ex.Message, "NVSE BETA Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
@@ -234,7 +234,7 @@ Public Class start_loading
             Dim FOJP As New StringBuilder(500)
             Dim FOJP_A As Integer = GetPrivateProfileString("DOWNLOAD_URL", "FOJP2_URL", "", FOJP, FOJP.Capacity, ini_A)
             If FOJP_A > 0 Then
-                cfg.FOJP_URL.Text = FOJP.ToString()
+                config_fonv.FOJP_URL.Text = FOJP.ToString()
             Else
                 Dim ex As New Win32Exception(Marshal.GetLastWin32Error())
                 MessageBox.Show(ex.Message, "FOJP Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
@@ -245,7 +245,7 @@ Public Class start_loading
             Dim FOPACK As New StringBuilder(500)
             Dim FOPACK_A As Integer = GetPrivateProfileString("DOWNLOAD_URL", "FO_PACK_URL", "", FOPACK, FOPACK.Capacity, ini_A)
             If FOPACK_A > 0 Then
-                cfg.FOJPN_URL.Text = FOPACK.ToString()
+                config_fonv.FOJPN_URL.Text = FOPACK.ToString()
             Else
                 Dim ex As New Win32Exception(Marshal.GetLastWin32Error())
                 MessageBox.Show(ex.Message, "FO PACK Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
@@ -256,7 +256,7 @@ Public Class start_loading
             Dim DLC_FOJP As New StringBuilder(500)
             Dim DLC_FOJP_A As Integer = GetPrivateProfileString("DOWNLOAD_URL", "FOJP_XML_URL", "", DLC_FOJP, DLC_FOJP.Capacity, ini_A)
             If DLC_FOJP_A > 0 Then
-                cfg.DLC_FOJP_URL.Text = DLC_FOJP.ToString()
+                config_fonv.DLC_FOJP_URL.Text = DLC_FOJP.ToString()
             Else
                 Dim ex As New Win32Exception(Marshal.GetLastWin32Error())
                 MessageBox.Show(ex.Message, "XML FOJP Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
@@ -285,7 +285,7 @@ Public Class start_loading
             Dim NVSE_MD5 As New StringBuilder(500)
             Dim NVSE_MD5_A As Integer = GetPrivateProfileString("DOWNLOAD_HAAAASH", "NVSE_MD5", "", NVSE_MD5, NVSE_MD5.Capacity, ini_A)
             If NVSE_MD5_A > 0 Then
-                cfg.NVSE_MD5.Text = NVSE_MD5.ToString()
+                config_fonv.NVSE_MD5.Text = NVSE_MD5.ToString()
             Else
                 Dim ex As New Win32Exception(Marshal.GetLastWin32Error())
                 MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
@@ -296,7 +296,7 @@ Public Class start_loading
             Dim NVSEBETA_MD5 As New StringBuilder(500)
             Dim NVSE_MD5_BETA_A As Integer = GetPrivateProfileString("DOWNLOAD_HAAAASH", "NVSE_BETA_MD5", "", NVSEBETA_MD5, NVSEBETA_MD5.Capacity, ini_A)
             If NVSE_MD5_BETA_A > 0 Then
-                cfg.NVSE_BETA_MD5.Text = NVSEBETA_MD5.ToString()
+                config_fonv.NVSE_BETA_MD5.Text = NVSEBETA_MD5.ToString()
             Else
                 Dim ex As New Win32Exception(Marshal.GetLastWin32Error())
                 MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
@@ -307,7 +307,7 @@ Public Class start_loading
             Dim FOJP_MD5 As New StringBuilder(500)
             Dim FOJP_MD5_A As Integer = GetPrivateProfileString("DOWNLOAD_HAAAASH", "FOJP2_MD5", "", FOJP_MD5, FOJP_MD5.Capacity, ini_A)
             If FOJP_MD5_A > 0 Then
-                cfg.FOJP_MD5.Text = FOJP_MD5.ToString()
+                config_fonv.FOJP_MD5.Text = FOJP_MD5.ToString()
             Else
                 Dim ex As New Win32Exception(Marshal.GetLastWin32Error())
                 MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
@@ -318,7 +318,7 @@ Public Class start_loading
             Dim DLC_FOJP_MD5 As New StringBuilder(500)
             Dim DLC_FOJP_MD5_A As Integer = GetPrivateProfileString("DOWNLOAD_HAAAASH", "FOJP_XML_MD5", "", DLC_FOJP_MD5, DLC_FOJP_MD5.Capacity, ini_A)
             If DLC_FOJP_MD5_A > 0 Then
-                cfg.DLC_MD5.Text = DLC_FOJP_MD5.ToString()
+                config_fonv.DLC_MD5.Text = DLC_FOJP_MD5.ToString()
             Else
                 Dim ex As New Win32Exception(Marshal.GetLastWin32Error())
                 MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
@@ -348,4 +348,4 @@ Public Class start_loading
         'メインを表示する
         mains.Show()
     End Sub
-End Class
+    End Class

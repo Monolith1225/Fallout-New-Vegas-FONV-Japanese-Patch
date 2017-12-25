@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.FalloutNV_Japanese_v3_7.start_loading
+            Me.MainForm = Global.FalloutNV_Japanese.start_loading
         End Sub
     End Class
 End Namespace

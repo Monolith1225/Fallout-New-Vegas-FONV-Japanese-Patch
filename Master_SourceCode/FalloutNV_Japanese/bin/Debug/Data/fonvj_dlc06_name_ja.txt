@@ -1,0 +1,209 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc06_name_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00098380	リチャージャーライフル
+GID00098381	グレネード
+GID00098382	10mmピストル
+GID00098383	袋
+GID00098384	袋
+GID00098385	袋
+GID00098386	袋
+GID00098387	袋
+GID00098388	Mentatsテストフロア
+GID00098389	New Vegasの埋もれた行商人の金庫
+GID00098390	ザ・フェデレイター
+GID00098391	MFハイパーブリーダーα (GRA)
+GID00098392	スポルテルウッド 9700(GRA)
+GID00098393	エスター (GRA)
+GID00098394	リルデビル (GRA)
+GID00098395	ボザール (GRA)
+GID00098396	ヌカ・ブレイカー (GRA)
+GID00098397	エンブレース・オブ・ザ・マンティス・キング(GRA)
+GID00098398	ツーステップ・グッバイ(GRA)
+GID00098399	スミティ・スペシャル(GRA)
+GID00098400	クレンジング・フレイム (GRA)
+GID00098401	パシエンシア (GRA)
+GID00098402	スリーピータイム (GRA)
+GID00098403	メディシン・スティック (GRA)
+GID00098404	ゲヘナ (GRA)
+GID00098405	グリースド・ライトニング (GRA)
+GID00098406	高威力時限爆弾 (Mad Bomber) (GRA)
+GID00098407	バトル・ライフル (GRA)
+GID00098408	5.56mmピストル (GRA)
+GID00098409	ブリキ缶グレネード (Mad Bomber) (GRA)
+GID00098410	ファットマイン (Mad Bomber) (GRA)
+GID00098411	刀 (GRA)
+GID00098412	ヌカ・グレネード (Mad Bomber) (GRA)
+GID00098414	25mmグレネードAPW (GRA)
+GID00098416	12.7mmSMG レーザー照準
+GID00098417	12.7mmSMG 追加弾倉
+GID00098418	12.7mmSMG 消音器
+GID00098419	25mmG APW ドラム弾倉
+GID00098420	25mmG APW 長銃身
+GID00098421	25mmG APW 改良パーツ
+GID00098422	アンチマテリアルライフル CFパーツ
+GID00098423	アンチマテリアルライフル 改良遊筒
+GID00098424	アンチマテリアルライフル 消音器
+GID00098425	アサルトカービン 拡張弾倉
+GID00098426	アサルトカービン 改良銃床
+GID00098427	アサルトカービン 軽量遊筒
+GID00098428	バット コルク芯
+GID00098429	バット メイプル材ボディ
+GID00098430	バット 釘
+GID00098431	チェーンソー 合金フレーム
+GID00098432	チェーンソー カーバイド刃
+GID00098433	チェーンソー HDチェーン
+GID00098434	Hリボルバー 高精度銃身
+GID00098435	Hリボルバー 6連シリンダー
+GID00098436	刀 真刃
+GID00098437	刀 安定柄
+GID00098438	刀 保護鞘
+GID00098439	レーザーピストル 照準具
+GID00098440	レーザーピストル 光収束器
+GID00098441	レーザーピストル 再生装置
+GID00098442	プラズマDef. 大容量端子
+GID00098443	プラズマDef. スコープ
+GID00098444	プラズマDef. 安定鞘
+GID00098445	Plas.ピストル 高エネルギー電離装置
+GID00098446	Plas.ピストル 弾薬加速装置
+GID00098447	Plas.ピストル 再生装置
+GID00098448	パワーフィスト クロムチューブ
+GID00098449	パワーフィスト 大容量バルブ
+GID00098450	パワーフィスト ポートチャンバー
+GID00098451	リッパー カーバイド刃
+GID00098452	リッパー HDチェーン
+GID00098453	トリビーム・LR 光収束器
+GID00098454	トリビーム・LR HDコンデンサ
+GID00098455	トリビーム・LR 大容量端子
+GID00098456	バット (GRA)
+GID00098457	レーザーピストル (GRA)
+GID00098458	12.7mmサブマシンガン (GRA)
+GID00098459	アンチマテリアルライフル (GRA)
+GID00098460	アサルトカービン (GRA)
+GID00098461	チェーンソー (GRA)
+GID00098462	ハンティング・リボルバー (GRA)
+GID00098463	プラズマディフェンダー (GRA)
+GID00098464	トリビーム・レーザーライフル (GRA)
+GID00098465	プラズマピストル (GRA)
+GID00098466	パワーフィスト (GRA)
+GID00098467	リッパー (GRA)
+GID00098468	.50MG 爆裂弾 (GRA)
+GID00098469	20ゲージ パルススラッグ弾 (GRA)
+GID00098470	12ゲージ パルススラッグ弾 (GRA)
+GID00098471	12ゲージ フレシェット弾 (GRA)
+GID00098472	12ゲージ ドラゴンブレス弾 (GRA)
+GID00098473	20ゲージ 3/0バックショット弾 (GRA)
+GID00098474	12ゲージ 4/0バックショット弾 (GRA)
+GID00098475	12ゲージ 4/0バックショットマグナム弾 (Hand Loader) (GRA)
+GID00098476	20ゲージ 3/0バックショットマグナム弾 (Hand Loader) (GRA)
+GID00098477	ミサイル ハイブ弾 (GRA)
+GID00098478	ミニ・ニューク 低威力 (GRA)
+GID00098479	ミニ・ニューク 時限式 (GRA)
+GID00098480	ミニ・ニューク ビッグキッド (GRA)
+GID00098481	25mmグレネード弾 時限式 (GRA)
+GID00098482	25mmグレネード パルス弾 (GRA)
+GID00098483	25mmグレネード プラズマ弾 (GRA)
+GID00098484	40mmグレネード パルス弾 (GRA)
+GID00098485	40mmグレネード プラズマ弾 (GRA)
+GID00098486	5.56mm 高精度弾・Hand Load (GRA)
+GID00098487	9mm JHP弾・Hand Load (GRA)
+GID00098488	5mm JSP弾・Hand Load (GRA)
+GID00098489	エナジーセル 最適化 (Vigilant Recycler) (GRA)
+GID00098490	マイクロフュージョンセル 最適化 (Vigilant Recycler) (GRA)
+GID00098491	充電パック 最適化 (Vigilant Recycler) (GRA)
+GID00098492	火炎放射器燃料 最適化 (Vigilant Recycler) (GRA)
+GID00098497	MFCグレネード (Mad Bomber) (GRA)
+GID00098498	MFCクラスター弾 (Mad Bomber) (GRA)
+GID00098503	フレシェット弾・DT減少
+GID00098504	DT減少
+GID00098505	マグナム・ダメージボーナス
+GID00098506	マグナム・CONDペナルティ
+GID00098526	ダメージボーナス
+GID00098527	拡散度減少
+GID00098528	COND衰退比上昇
+GID00098529	ダメージボーナス
+GID00098530	ダメージボーナス
+GID00098531	DT上昇
+GID00098534	COND衰退比上昇
+GID00098535	ダメージボーナス
+GID00098536	DT無視
+GID00098537	充電パック 最適化 (GRA)
+GID00098538	マイクロフュージョンセル 最適化 (GRA)
+GID00098539	エナジーセル 最適化 (GRA)
+GID00098540	火炎放射器燃料 最適化 (GRA)
+GID00098541	5.56mm 高精度弾・Hand Load (GRA)
+GID00098542	9mm JHP弾・Hand Load (GRA)
+GID00098543	5mm JSP弾・Hand Load (GRA)
+GID00098544	DT上昇
+GID00098545	Mad Bomber
+GID00098546	ファットマイン (GRA)
+GID00098547	MFCグレネード (GRA)
+GID00098548	MFCクラスター弾 (GRA)
+GID00098549	ヌカ・グレネード (GRA)
+GID00098550	高威力時限爆弾 (GRA)
+GID00098551	高効率パウダー・チャージ (GRA)
+GID00098552	高効率ボトルキャップ地雷 (GRA)
+GID00098553	ブリキ缶グレネード (GRA)
+GID00098555	20ゲージ 3/0バックマグナム弾・Hand Load (GRA)
+GID00098556	12ゲージ 4/0バックマグナム弾・Hand Load (GRA)
+GID00098558	Gun Runners' Arsenal
+GID00098559	Gun Runners' Arsenal
+GID00098560	(GRA) Master of the Arsenal
+GID00098565	ミニ・ニューク タイニートット (GRA)
+GID00098568	タイニートット 拡散度上昇
+GID00098569	モッド・テスト・サプレス
+GID00098571	ミサイル・ハイブ弾 拡散度上昇
+GID00098572	12.7mm弾・Hand Load (GRA)
+GID00098573	12.7mm JHP弾・Hand Load (GRA)
+GID00098575	エスター・ボーナス
+GID00098576	エスター・ダミーエフェクト
+GID00098577	ツーステップ・グッバイ
+GID00098578	爆死
+GID00098579	ツーステップ・グッバイ・爆発
+GID00098580	クリティカルダメージ減衰
+GID00098581	クリティカルキル=爆弾化
+GID00098582	ツーステップ・グッバイ・ダミーエフェクト
+GID00098583	(GRA) Nyah! See? **
+GID00098584	(GRA) Historical Propriety **
+GID00098585	(GRA) Deathclaw Pro Hunter ***
+GID00098586	(GRA) Talk About Owned **
+GID00098587	(GRA) White Line Nightmare **
+GID00098588	(GRA) Overkill *
+GID00098589	(GRA) You Don't Belong In This World! *
+GID00098590	(GRA) Ne Ne Ne Ne... *
+GID00098591	(GRA) Curios and Relics
+GID00098592	(GRA) Against All Tyrants ***
+GID00098593	(GRA) Armed For Bear ***
+GID00098594	(GRA) A Slave Obeys *
+GID00098595	(GRA) The Same Could Be Said of All Religious Weapons *
+GID00098596	(GRA) Crackerjack Timing ***
+GID00098597	(GRA) Man-Machine Interface ***
+GID00098598	(GRA) Vault 13's Revenge **
+GID00098599	(GRA) Benefit Or a Hazard *
+GID00098600	(GRA) Sic Semper Tyrannis **
+GID00098601	(GRA) Even a God-King Can Bleed **
+GID00098602	(GRA) Dyin' Ain't Much of a Living **
+GID00098603	DR/DT 無視
+GID00098604	攻撃速度上昇
+GID00098605	チェーンソーダミーエフェクト
+GID00098606	電光石火のダミーエフェクト
+GID00098607	アーマグリース・ライトニング
+GID00098608	ヌカブレイカー・ダミーエフェクト
+GID00098609	燃焼
+GID00098610	爆発 MFC
+GID00098611	爆発 MFC
+GID00098612	クラスター地雷 MFC
+GID00098613	火炎ダメージ
+GID00098614	消音
+GID00098615	スリーピータイムダミーのエフェクト
+GID00098616	時限爆弾(爆発)
+GID00098617	時限徹甲爆弾
+GID00098618	フレシェット弾・ダメージ減少
+GID00098619	燃焼(標準)
+GID00098620	ドラゴンブレス弾・ダメージ減少
+GID00098621	ブーマー行商人の派閥
+GID00098622	ファットマン (GRA)
+GID00098623	プラズマスラッグ弾・ダメージ減少
+GID00098624	時限爆弾(爆発)
+GID00098625	時限徹甲爆弾

@@ -1,0 +1,142 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc02_message_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00084793	White Legsの監獄への鍵を見つけた!
+GID00084795	Joshua Graham はあなたに Way of the Canaanite perk を与えた。
+GID00084796	Joshua Grahamがあなたのパーティにいる間、あなたが使用する全ての.45オートピストルは拡散性が低下し、クリティカル率が2倍になります。
+GID00084798	Follows-ChalkはDead Horses campに戻った。
+GID00084800	Waking CloudはSorrows campに戻った。
+GID00084802	Mountain Bighorner殺害数7/9
+GID00084804	あなたはJoshua GrahamのWay of the Canaaniteのperkを失った。
+GID00084806	この無線機は壊れていますが、おそらく完全に動作する状態に戻すことができます。
+GID00084807	[Repairスキルが30以上必要です]
+GID00084809	そのままにしておく。
+GID00084810	無線機を修理する。
+GID00084811	部品を使って修理する。
+GID00084812	壊れた無線機をとる。
+GID00084813	あなたは Follows-Chalk の Well-Stacked Cairns perk を失った。
+GID00084815	あなたは lost Mountain Bighorner Calf を見つけました。Calf はお腹を空かせているように見えます、バナナユッカの果実 を与えますか?
+GID00084817	何もしない。
+GID00084818	バナナユッカの果実 を与える。
+GID00084819	キットの汚染された構成物品の代わりを見つけることによって、より簡単に正常に機能する状態にする事が出来ます。
+GID00084820	[ダクトテープ1個とターペンタイン1個が必要です]
+GID00084822	何もしない。
+GID00084823	構成物品を交換する。
+GID00084824	アルコールでキットを消毒する。
+GID00084825	交換無しで再利用する。
+GID00084826	不十分なまま医療キットを持ち出す。
+GID00084827	Mountain Bighorner殺害数2/9
+GID00084829	あなたのPip-Boyは、Happy Trails Caravan Companyからの無線放送を受信しました。彼等はZion Valleyへの遠征のためにもう一人メンバーを探しています。
+GID00084831	この配線はドアに電気を流すために接続されています。
+GID00084832	あなたは配線を解除できません。
+GID00084833	[Repairスキルが50以上必要です]
+GID00084835	Mountain Bighorner殺害数6/9
+GID00084837	フィールドで修理をする部品かスキルが無いならば、contaminated medical supply kitをキャンプファイアへ持って行き、そこでサルベージ出来ます。
+GID00084839	安全に鉱山用爆薬を爆発させるためには、洞窟の外にいなければなりません。
+GID00084841	あなたの感覚はこの壮大な展望によって既に高められています。
+GID00084843	Joshua Graham はあなたに Way of the Canaanite perk を与えた。
+GID00084844	Joshua Grahamがあなたのパーティにいる間、あなたが使用する全ての.45オートピストルの拡散性が低下し、クリティカル率が2倍になります。
+GID00084846	このコンパスは壊れているが、おそらく完全に動作する状態まで修理する事が出来ます。
+GID00084847	[Repair 30 以上が必要。]
+GID00084849	何もしない。
+GID00084850	コンパスを修理する。
+GID00084851	部品を使って修理する。
+GID00084852	壊れたコンパスを持って行く。
+GID00084853	地図かガイド無しでは、Mojave Wasteland への帰り道を見つけられる望みがありません。
+GID00084855	Honest Heartsがロードされました。レベルキャップが5上昇しました。
+GID00084857	この snowglobe は Lucky 38 でコレクションに追加されました。
+GID00084859	Zion Valley への最初の旅に関しては、Happy Trails Caravan と共に旅する必要があります。
+GID00084861	Sorrows が戦うべきか、逃げるべきか、あなたがどちらに決定しようとも、あなたの決断は彼らの運命を取り返しがつかないほど動かします。一旦決定したら、あなたは Zion での残りのクエストを終える事が出来なくなるため、どうか賢明に選択して下さい。
+GID00084863	この medical supply kit は大部分は無傷ですが、無菌包帯の幾らかは壊れて開いており、殺菌薬のビンは漏れています。
+GID00084865	Weapon Binding Ritualによって意識が薄れていく。
+GID00084867	Mountain Bighorner殺害数5/9
+GID00084869	製作しますか、それとも眠りますか?
+GID00084871	製作する
+GID00084872	睡眠
+GID00084873	< Waking Cloud の中の何かが変わり、彼女は White Legs と今より激しく戦うようになります。 >
+GID00084875	Black Coffee cupは壊れた
+GID00084877	フィールドで修理をする部品かスキルが無い場合、medical kit を workbench へ持って行けば修理出来ます。
+GID00084879	このコンパスの燃え尽きた sensor module を迂回するよりもそれを交換した方が、修理過程がより簡単になります。
+GID00084880	[Compass Sensor Module が1個必要。]
+GID00084882	何もしない。
+GID00084883	部品を使って修理する。
+GID00084884	部品無しで修理する。
+GID00084885	この配線はドアに電気を流すために接続されています。
+GID00084886	あなたは配線を解除できそうです。
+GID00084887	[Repair 50以上必要]
+GID00084889	electric wiring をそのままにする。
+GID00084890	electric wiring を解除する。
+GID00084891	この medical supply kit は、大部分は無傷ですが、無菌包帯の幾らかは壊れて開いており、殺菌薬のビンは漏れています。あなたはそこにある物の再利用を試みる事が出来ます。または、汚染された構成物品の代わりを探す事が出来ます。或いは、包帯を再消毒するためにアルコールを使用する事が出来ます。
+GID00084892	[Medicine 30 以上が必要。]
+GID00084894	何もしない。
+GID00084895	Medical supply kitを回収する。
+GID00084896	汚染された構成物品を交換する。
+GID00084897	アルコールでキットを消毒する。
+GID00084898	不十分なまま医療キットを持ち出す。
+GID00084899	Daniel は Pine Creek Tunnel の出入り口の上に設置されたC4を起爆するよう設定された起爆装置をあなたに与えた。この起爆装置を起動すれば通路が崩壊し、White Legs が Daniel と Sorrows に続いて Zion から来るのを防ぎます。
+GID00084901	Follows-Chalk はあなたに Well-Stacked Cairns perk を与えた。
+GID00084902	Follows-Chalk がパーティにいる間、Zion峡谷のいずれかの山頂(レンジャーステーションのような)に到達すると、付近のマップマーカーが全て公開され、3分間意識段階が高められます(+3 PER)。
+GID00084904	あなたは、あなたの武器と一体になるために、生命の血の一部を犠牲にしました。
+GID00084905	あなたの目は鋭くなり、手足は折れなくなり、そして爪は雷のような攻撃をします。
+GID00084906	戦闘における栄光を知るために、格闘または近接武器だけで敵と戦ってください。
+GID00084908	Zion 山頂付近にいるため Well-Stacked Cairns perk が有効になりました。感覚が高まります (+3 PER)。
+GID00084910	携帯無線機の電子部品は酷く損傷しています。その電子部品を交換したい場合、その方法は非常に簡単です。Scrap Electronic が一山必要です。
+GID00084912	何もしない。
+GID00084913	部品を使って修理する。
+GID00084914	部品無しで修理する。
+GID00084915	Mountain Bighorner Calf を返しますか?
+GID00084917	Calfを返さない
+GID00084918	Calfを返す
+GID00084919	Mountain Bighorner殺害数9/9
+GID00084921	Follows-Chalk は死んだ。
+GID00084923	このジェネレーターは接続しているドアに電力を供給しています。
+GID00084924	あなたはジェネレーターを壊せません。
+GID00084925	[Melee Weapons、もしくはUnarmedのスキルが50以上必要です]
+GID00084927	Morning Glory Caveの鍵を見つけた!
+GID00084929	このコンパスは壊れています。
+GID00084931	Waking Cloudは死んだ。
+GID00084933	Joshua Grahamはパーティから離脱した。
+GID00084935	Joshua Grahamはパーティから離脱した。
+GID00084937	Zion General Storeにある机の鍵を見つけた!
+GID00084939	Mountain Bighorner Calf は怯えています。バナナユッカの果実 を与えますか?
+GID00084941	何もしない。
+GID00084942	バナナユッカの果実 を与える。
+GID00084943	あなたは Joshua Graham の Way of the Canaanite perk を失った。
+GID00084945	あなたはJed Mastersonを殺しました!彼の地図や登山家としての専門知識無くしてZionへはたどり着けないでしょう!
+GID00084946	(Jedを殺害すると、Honest Heartsの舞台に行けなくなります。Honest Heartsを楽しみたいなら、どうか最後のセーブをロードして下さい。)
+GID00084948	この爆弾を作動可能にするには、いくつかの鉱山用爆弾が必要です。
+GID00084950	激しい戦闘の中で、この物体を調べる時間はありません。
+GID00084952	Follows-Chalk はあなたに Well-Stacked Cairns perk を与えた。
+GID00084954	Mountain Bighorner殺害数8/9
+GID00084956	アルコール度数の高いアルコールによって、コンポーネントを取り替えずにキットを殺菌することができます。
+GID00084957	[スコッチ、ウォッカ、ウイスキーのいずれか1本が必要です。]
+GID00084959	何もしない。
+GID00084960	汚染された構成物品を交換する。
+GID00084961	アルコールでキットを消毒する。
+GID00084962	交換無しで再利用する。
+GID00084963	不十分なまま医療キットを持ち出す。
+GID00084964	あなたはHappy Trails Caravanのメンバーを殺した! 彼等の地図と登山専門知識無しには、決してZionにたどり着く事は出来ません!
+GID00084965	(Happy Trails caravanの敵になる事は、Honest Hearts DLC を利用出来なくします。 Honest Hearts をプレイしたいのであれば、最新のセーブを再ロードしてください。)
+GID00084967	Mountain Bighorner殺害数4/9
+GID00084969	このジェネレーターは接続しているドアに電力を供給しています。
+GID00084970	あなたは多分ジェネレーターを壊せます。
+GID00084971	[Unarmedのスキルが50以上必要です]
+GID00084973	ジェネレーターから離れる。
+GID00084974	ジェネレーターを壊す。
+GID00084975	あなたはWaking CloudのQuiet as the Waters perkを失った。
+GID00084977	このジェネレーターは接続しているドアに電力を供給しています。
+GID00084978	あなたは多分ジェネレーターを壊せます。
+GID00084979	[Melee Weaponsのスキルが50以上必要です]
+GID00084981	ジェネレーターから離れる。
+GID00084982	ジェネレーターを壊す。
+GID00084983	Waking CloudはあなたにQuiet as the Waters perkを与えた。
+GID00084984	Waking Cloud がパーティにいる間、White Legsから隠れることがとても容易になります(彼らのPERが減少)。
+GID00084986	Daniel はあなたにいくつかの戦前の鉱山用爆弾と、爆弾用の特別な起爆装置を与えました。それらは武器として有効ではありませんが、あなたの探査において必要でなら、特定の洞穴を崩壊させることに使えます。
+GID00084988	フィールドで修理をする部品かスキルが無いならば、壊れたコンパス を 作業台 へ持って行き、そこで修理が出来ます。
+GID00084990	Mountain Bighorner殺害数1/9
+GID00084992	Mountain Bighorner殺害数3/9
+GID00084994	Waking CloudはあなたにQuiet as the Waters perkを与えた。
+GID00084996	あなたはZion Fishing Lodgeの保管棚の鍵を見つけた!
+GID00084998	戦闘中はキャンプファイアを使用できません。
+GID00085000	待つことによって重要なイベントを見逃すかもしれません - あなたの任務は失敗するでしょう

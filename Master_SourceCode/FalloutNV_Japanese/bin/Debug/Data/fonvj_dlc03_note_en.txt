@@ -1,0 +1,202 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc03_note_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00092759	This holotape contains robot and Nightstalker splicing data that can be used at the X-8 Bio-Mechanical Splicing Terminal.
+GID00092760	The Y-17 Trauma Harness has succeeded beyond our wildest expectations! The test harnesses were able to take over the motor functions of an injured subject and "walk" them back to home base.
+GID00092761	We'll have to see what develops once it's recorded enough neuro-auto-muscular movements to display a wider range of behaviors... to think, if they could be programmed to replicate a wearer's shooting or fighting reflexes, we'd have something truly amazing for the war effort!
+GID00092762	For this test, you must steal a document in the Administrator's office without being detected by the patrolling robots. A successful run will award an item in the Supply Cabinet.
+GID00092763	Success - Reach the Administrator's office and steal the document, without being detected.
+GID00092764	Failure - Detection.
+GID00092765	I heard one of the execs mention that whether Sinclair knew it or not, the Sierra Madre would be a "test case" for the Auto-Doc and the Innovative Toxins research. Maybe they were joking, but even that kind of a joke sends a chill down my spine... if I got poisoned by one of those toxins, no way would I crawl inside one of the Y-17 Auto-Docs here if my life depended on it. The medical tech for those trauma suits alone makes me wish they'd erase their research - the suits do more thinking than the people inside them.
+GID00092766	In light of the large number of fatalities due to the latest shipment of experimental test subjects, the shipping department is going into lockdown. I give you my personal assurance that as soon as this plague of monsters has been dealt with, I will work overtime to get your deliveries to you in a timely and efficient manner. As I am currently the only surviving member of the shipping department, however, there may still be some delays. Until then, Dr. Calis in X-13 has the passcard for the area.
+GID00092767	Skippy, Sole Survivor
+GID00092768	While setting up the radios to monitor Dome and robots, thought I saw glint (scope?) from the building on other side of compound.
+GID00092769	Should check it out, make sure I'm not being watched... might be that Courier?
+GID00092770	Still, he would have come straight up rather than hiding. Instinct says it's someone else.
+GID00092771	This is the last time I'm going to warn you, Butz. I can see that comic book poking up out of your field manual. You don't fool me, asshat. Next time I catch you slacking, I'm writing a disciplinary notice and you can spend your free time polishing emitter arrays.
+GID00092772	-Dr. Calis
+GID00092773	The parameters for this test are currently incomplete. Beware of dog.
+GID00092774	This holotape contains a Workbench recipe that allows you to make a Guns Skill Book.
+GID00092775	This holotape contains a Workbench recipe that allows you to make a Science Skill Book.
+GID00092776	This holotape contains a Workbench recipe that allows you to make a Sneak Skill Book.
+GID00092777	This camp's better than the one I set up on top of Signal Hills roof, clear broadcast line to its radio tower and good vantage point on North Tunnel. Set up a turret perimeter and transmitter, should be able to control the trains via remote to escape before any robots come. The broken Securitrons make a good defense line, apparently brains in center Dome can't control them like they do the others.
+GID00092778	No sign of Courier - or that woman. Turns out I was right at the Yangtze Camp, I was being watched there, probably Brotherhood assassin out to "sentence" me. She got hers, though. After the robot attack, saw her get hauled away to the SE by medical robots... probably joined the Lobotomite ranks here, don't have to worry about her anymore.
+GID00092779	This holotape contains the functionality profile for the Sink robotic assistant: "Central Intelligence Unit."
+GID00092780	Kudos for the bean pod addition for the VR Sim. I like the Jack and the Beanstalk reference, buddy! I hope Calis doesn't throw a fit. Watch your back with that guy. He's always been more than a bit wound up about simple stuff. I had to move my Battle Brew setup over to X-12's storage room after he threw a prohibitionist fit about it to the Leads.
+GID00092781	-Mori
+GID00092782	Until further notice, please do not enter the Residential Cyberdog Test area, or conduct any experiments using it. The Cyberdogs are still being programmed, and any disturbance could have dramatic influence on their progress. Restricting access in this fashion should also help to avoid any repeats of Incident: PLAYTIME, settlements for which are coming directly out of our budget.
+GID00092783	Dr. Gail Richardson, PhD, Test Engineer, X-8 Cyberdog Project
+GID00092784	This holotape contains dog and Lobotomite splicing data that can be used at the X-8 Bio-Mechanical Splicing Terminal.
+GID00092785	The new atomic laser is putting an incredible strain on the Giant Robo-Scorpion's generator - damn thing shut down right in the middle of weapons testing last week.
+GID00092786	I pushed for reducing the laser's output by 25%, instead they slapped a backup generator onto the Scorpion. Dangerous, if you ask me. The systems weren't designed to handle the power from two systems at once, and if some rookie tech fires up the backup generator too early, well...
+GID00092787	This holotape contains an upgrade file for the Sink robotic assistant: "Auto-Doc."
+GID00092788	This holotape contains an upgrade file for the Sink robotic assistant: "Light Switch 02."
+GID00092789	This holotape contains an upgrade file for the Sink robotic assistant: "Book Chute."
+GID00092790	For this test, you must use any means necessary to retrieve three student files from an average high school. Utilize the Field Disrupter Capacitance Module for the Sonic Emitter to better navigate the area. Protectrons and basic security protocols have been activated.
+GID00092791	Success - Retrieve three student files.
+GID00092792	Failure - Security measures prohibit you from retrieving the files.
+GID00092793	The government shipped in the first batch of dissidents today. Three whole trainloads of Communist infiltrators. Half of them don't even speak English, so we had to show them where to go with our nightsticks. They got the point eventually. The docs are already talking about "research subjects." Guess that'll help advance the war effort.
+GID00092794	Cherie O'Bannon's After-School Schedule
+GID00092795	Ballet: Tuesday and Thursday 4:30 - 6:30
+GID00092796	Pep Squad: Wednesday 4:15 - 5:15
+GID00092797	Tutoring Center Volunteer: Monday 4:15 - 6:00
+GID00092798	This holotape contains a Workbench recipe that allows you to make an Energy Weapons Skill Book.
+GID00092799	Set up camp here after Yangtze attack. Too exposed here. Transmitter's vulnerable, hacked it, set up remote link so can access it any time. Need to find spot closer to north train tunnel with clear broadcast LOS to here. Canyons are too dangerous, can't go back to Yangtze - there is that weather station NW that drew that Courier here, but going there sounds like trouble. For now, going to scout the Waste Disposal site, then around the perimeter of that Securitron Plant, see if I can find a more defensible position.
+GID00092800	Subjects will be informed that we are gauging the effectiveness of Communist infiltration of American schools. They won't know about the Cyberdogs until they actually begin the testing process.
+GID00092801	1) TEST A engages Cyberdog protection protocols alongside standard automated turret systems.
+GID00092802	2) TEST B adds Protectrons to the previous test. TEST B also includes some basic tests for the Field Disrupter Capacitance Module.
+GID00092803	This holotape contains an upgrade file for the Sink robotic assistant: "Auto-Doc."
+GID00092804	The VR Sim is corrupted?! Dammit! Sounds like there's a bug in the software somewhere. I hope to God it doesn't screw with the suit's systems. I just got the firmware updated for Mori over the weekend. For now, let's just tell Calis we're having "power issues" and focus on the REPCONN tests until we get the suit ready for real-world tests.
+GID00092805	-Kael
+GID00092806	p.s. Delete this message ASAP. I don't want Calis harassing me over this.
+GID00092807	I went ahead and did the lab test and noticed no appreciable changes in their blood work. I'm concerned our use of the cattle prods may react with the chemistry of the injections. This is new ground we're treading. I'd hate to see your hard work lost to a change in brain chemistry. These critters could be invaluable to the war effort if we can somehow control their behavior.
+GID00092808	-Asst. Paris
+GID00092809	Another escape attempt last night. We rounded them all up and processed the escapees, but these little bastards are determined. We've got triple shifts on the camp around the clock, and the extra hours are eating up morale. Commandant says he's put in a requisition to use the camp as a field test for the new "total pacification collars" the scientists have been working on. Maybe then I can get some goddamn sleep.
+GID00092810	This holotape contains the functionality profile for the Sink robotic assistant: "Muggy."
+GID00092811	Researcher Kael's breakthrough with the Suit's software has led me to a breakthrough of my own. By adding an advanced servo buffer to the existing leg rigs, I've been able to increase the resolution of data sent to and from the central control module. Once these babies are hooked up to the torso, an agent should be able to limbo under barriers almost as fast as they can run!
+GID00092812	For this test, you must sneak to, and steal, a document from the Administrator's office without being detected by the patrolling robots. Laser tripwires have been added for increased difficulty. A successful run will automatically update the suit's software and award an item in the Supply Cabinet.
+GID00092813	Success - Reach the Administrator's office and steal the document, without being detected.
+GID00092814	Failure - Detection.
+GID00092815	In our last supervisor meeting, we discussed the possible benefits of the small shipping accident. We are considering studying the unexpected specimen's behavior by releasing them into our test area before removing them from the X-8 facility. The shipping department will remain in lockdown until a decision has been reached.
+GID00092816	Dr. Adam Figgis, MD PhD DVM DDM DD, Test Supervisor
+GID00092817	I've noticed some of the creatures have been increasingly aggressive when I come into the lab in the morning. Did something change in their diet? I'll run some tests if you like.
+GID00092818	-Asst. Paris
+GID00092819	This holotape contains a Workbench recipe that allows you to make a Survival Skill Book.
+GID00092820	Chayanov had me run through the first part of the facility to test the tripwires and proximity mines the other day and the suit kept chafing. Mori says some new firmware updates fixed the suit's fitment sync ability, but I'm not so sure. The legs kept binding up on me and the torso was ridiculously tight. Maybe I should stop lifting Fancy Lads from Slough's stashes.
+GID00092821	I've been working with Mori on fitting the gloves to the torso and come up with a few improvements which should greatly enhance the user's manual dexterity. I adapted Redding's new rubberized dampening compound and applied it to the palms and other high-wear surfaces. Once the suit adjusts to the user, the benefits of these upgrades should be obvious.
+GID00092822	While Slough is busy stuffing his face and trying to find new places to hide his junk food from Calis, I've decided to experiment with a mod from one of the techs over in X-8. I may not have been able to afford a doctorate like those eggheads upstairs, but I've been programming since I was in diapers. I found a ton of redundancies and exponential loop failures those halfwits must have missed. My fixes should speed up the refire rate of that K9 weapon they've been working on. Maybe if I leave it on one of their desks it'll actually get implemented. Lord knows they wouldn't take me seriously if I tried to take credit.
+GID00092823	We finished up the design for the dispensers for the Sierra Madre villa as requested. That big-wig Sinclair went to the Big MT execs; he wanted emergency dispensers for his sheltered Villa in case war broke out and they needed to care for the survivors there. He's done everything he can to isolate the community and tighten security, now he just needs to guarantee a food supply and be able to ration out resources in the event of nuclear holocaust. I hear he even narrowed the streets so cars couldn't come inside town, let alone come up to the Villa.
+GID00092824	What the hell is his damn problem?! All I was doing was reading the latest issue of La Fantoma!, and that grouch, Calis, called me an asshat. What the hell is an asshat, anyway? Funny, ha ha, my last name is Butz. That got old in grade school, the snobby bastard. Sorry, just needed to vent.
+GID00092825	-Butz
+GID00092826	This holotape contains an audio sample entitled, "Giant Tarantula Attack." It can be used to modify the Sonic Emitter weapon at the Sink's Jukebox.
+GID00092827	This holotape contains an upgrade file for the Sink robotic assistant: "Central Intelligence Unit."
+GID00092828	This holotape contains a Workbench recipe that allows you to make a Melee Weapons Skill Book.
+GID00092829	Got word today there was a chemical leak at the Sierra Madre, Sinclair was on the phone to ask for more help from the Think Tank Execs, so they're sending him the prototype chemical suits to protect the Villa workers. Looks like they're following up an experiment with another experiment? The whole process creeps me out, and the way they're monitoring the Sierra Madre Villa and examining the "results" - I don't think Sinclair even knows what he's really paid for. To be guineas like the Little Yangtze Chinese... maybe it'd be merciful if war did break out, put an end to this chain of horrors.
+GID00092830	This holotape contains an upgrade file for the Sink robotic assistant: "Sink."
+GID00092831	This holotape contains the functionality profile for the Sink robotic assistant: "Jukebox."
+GID00092832	I believe this latest serum has proven to be a success. Under human observation, the creatures remain visible, but some of the nighttime recordings reveal the serum is working. The animals appear to be learning how to use their new cloaking ability when no one is around. Perhaps there is a physical limitation or some mental drawback to the ability, which prevents its usage under duress. I think I will pursue stress testing of the animals first thing Monday morning.
+GID00092833	Yes, yes. Run the tests, if it'll keep you out of my way. I'm going back down to the cages to see if a nudge from a prod will trigger their abilities. The other project leads will be stopping by in a few days and we must be able to show them progress!
+GID00092834	-Dr. Calis
+GID00092835	For this test, you must steal a document in the Administrator's office without being detected by the patrolling robots. A successful run will automatically update the suit's software and award an item in the Supply Cabinet.
+GID00092836	Success - Reach the Administrator's office and steal the document, without being detected.
+GID00092837	Failure - Detection.
+GID00092838	Schematics for upgrading the K9000 Cyberdog Brain Gun with a particularly aggressive and loyal cybernetic dog brain in a feisty red biogel suspension.
+GID00092839	This holotape contains an upgrade file for the Sink robotic assistant: "Auto-Doc."
+GID00092840	To activate this terminal, please equip the Stealth Suit Mk II.
+GID00092841	This holotape contains dog and robot splicing data that can be used at the X-8 Bio-Mechanical Splicing Terminal.
+GID00092842	This holotape contains an audio sample from Mobius' Giant Robo-Scorpion. It can be used to modify the Sonic Emitter weapon at the Sink's Jukebox.
+GID00092843	This holotape contains the functionality profile for the Sink robotic assistant: "Book Chute."
+GID00092844	I've uploaded Kael's latest firmware update to the suit. I think Kael has outdone herself this time. Self-updating firmware is an ingenious addition to this system. As we upgrade the suit, it'll automatically adapt the new systems to the user's specifications during testing and unlock the features as they come online. This will save hundreds of hours of fiddling with settings.
+GID00092845	Note to self - Make Kael a keg of my infamous 'Battle Brew.'
+GID00092846	We've had a small issue with one of our Y-17 Trauma Harnesses. Sadly, a member of the X-12 research team choked on a buffalo gourd seed and died while working late last night. For some reason his Y-17 Trauma Harness will not shutdown. In fact, it has begun malfunctioning and causing the late Mr. Harris to attack other employees. Do you have any prototypes you could lend us as a means to stop it?
+GID00092847	-Barb
+GID00092848	1) Due to recent government-mandated cutbacks to our funding, only THREE experiments may be performed per day.
+GID00092849	2) We do not have infinite kennel space here in X-8! Only ONE Cyberdog beyond those needed for the testing process may be created.
+GID00092850	3) Clear any and all debris from the platform before conducting any splicing experiments.
+GID00092851	4) Experiments are NOT allowed outside the X-8 Facility.
+GID00092852	5) Finally, Security must be disabled before experiments can be run.
+GID00092853	One of the prisoners who speaks a little English - I guess he's become the unofficial spokesman - came to the commandant's office today screaming about hungry ghosts snatching his people up in the night. The commandant told him to give up the ignorant superstitions of a bygone era and had him thrown in the cooler for three weeks. Me, I've seen some of the new robots they're developing here, and I gotta wonder where they get the brains from.
+GID00092854	For this test, you must steal a document in the Administrator's office without being detected by the patrolling robots. Laser tripwires and proximity detectors have been activated for increased difficulty. A successful run will automatically update the suit's software and award an item in the Supply Cabinet.
+GID00092855	Success - Reach the Administrator's office and steal the document, without being detected.
+GID00092856	Failure - Detection.
+GID00092857	With my dying breath, I write that I hate the VR Simulation so much! It has killed us. Now, I will kill it.
+GID00092858	The constant improvements to the Giant Robo-Scorpion has rendered the Protectron models we've been using as "hostile Communist forces" largely ineffective. At this stage, they're little more than distractions.
+GID00092859	This holotape contains the functionality profile for the Sink robotic assistant: "Light Switch 01."
+GID00092860	This holotape contains a Workbench recipe that allows you to make a Unarmed Skill Book.
+GID00092861	This holotape contains a Workbench recipe that allows you to make a Lockpick Skill Book.
+GID00092862	Yes, Project: Burke involves what some less science-minded individuals might call "grave robbing." Yes, we're forced into this due to budget cuts. No, none of senior staff uses the bodies for anything else. Finally, in regards to the rumor that Project: Hare engages in liquidation operations against non-military targets to procure research subjects, I will not dignify them with a response. Any other questions?
+GID00092863	Dr. Adam Figgis, MD PhD DVM DDM DD, Test Supervisor
+GID00092864	This holotape contains an upgrade file for the Sink robotic assistant: "Central Intelligence Unit."
+GID00092865	For this test, you must disable all active robots without being detected. All security measures are active. A successful run will award an item in the Supply Cabinet.
+GID00092866	Success - Disable all robots without being detected.
+GID00092867	Failure - Detection.
+GID00092868	No sign of that Courier from before. He stays out of my way, I'll stay out of his. Been thinking about that "Sierra Madre" he mentioned... if he's right, I'd just need to find the casino radio frequency to track it down. Wouldn't need his help. If the working holograms and toxic gas are preserved there, might be easier to study them there with no robots to interfere. And those dispensers... might have use for those as well.
+GID00092869	While programming the new residential Cyberdog model to retrieve objects thrown by human beings for purpose of enjoyment, I accidentally used an audio sample recording of its bark as the object to be fetched. The Cyberdog has now become attached to the sample, and displayed signs of aggressive tendencies when I attempted to recover it. I have left it in the Residential Reconstruction Area until it is needed. I believe the Cyberdog has buried it.
+GID00092870	Dr. Gail Richardson, PhD, Test Engineer, X-8 Cyberdog Project
+GID00092871	This holotape contains an upgrade file for the Sink robotic assistant: "Light Switch 01."
+GID00092872	This holotape contains the functionality profile for the Sink robotic assistant: "Light Switch 02."
+GID00092873	Your shipment of cattle prods arrived today. I'd like to remind you our systems are designed to prevent infiltration by enemy agents, not internal threats. If you're doing any testing on creatures, please forward that task to the animal testing facility. As you found with the Sonic Emitter, our force fields can't handle power fluctuations well.
+GID00092874	-Cpt. Hamm
+GID00092875	Base Security
+GID00092876	Unlock Code: 646F6E7470616E6963
+GID00092877	We've successfully created a capacitance module capable of emitting a focused electromagnetic pulse from a Sonic Emitter. While the physical impact is rather weak, Jenkins fired the weapon at a force field and it fried the field's emitter array. Upon further study, we've found the gun only affects a small range of frequencies. Unfortunately, the frequency of our force fields fall within this range. The gun was sent to X-8 for further study.
+GID00092878	-Dr. Calis
+GID00092879	This holotape contains a Workbench recipe that allows you to make a Medicine Skill Book.
+GID00092880	Everything is under control down here. If I need your assistance, I'll let you know. Paris will be along shortly to retrieve the shipment.
+GID00092881	-Dr. Calis
+GID00092882	This holotape contains a Workbench recipe that allows you to make an Explosives Skill Book.
+GID00092883	This holotape contains the functionality profile for the Sink robotic assistant: "Biological Research Station."
+GID00092884	2nd day at Pre-War concentration camp. Kept China citizens here before war. Radiation turned them, had to keep them in camp with collars (explains why some of these "slave collars" exist, always wondered, some were clearly Pre-War tech). Researching the collar frequencies, touchy - circuit architecture is messy, de-constructing them taking time. Must be careful, can't be spotted by local robots, or insane brains from the Dome will try to haul me back there, then... research me.
+GID00092885	Dr. Richardson,
+GID00092886	We've just received the latest shipment of dogs for the Cyberdog experiment process, but... well, frankly, I think our supplier screwed us. The animals must be basically feral - every time we get close to the shipping kennels they let out with the most Godawful hissing and... well, rattling is the only way I can describe it. Please advise - should we open the kennels or just send them back?
+GID00092887	This holotape contains an upgrade file for the Sink robotic assistant: "Auto-Doc."
+GID00092888	This holotape contains a Workbench recipe that allows you to make a Barter Skill Book.
+GID00092889	I've been watching Mendoza stumble through the various X-13 tests and noticed a critical flaw in the tripwire emitter design. A skilled scientist or someone with advanced electronics repair knowledge could crack the casings and hack their IFF circuit to ignore the current test subject. I'll see if I can reinforce the casings after the leads visit the facility this week.
+GID00092890	For this test, you must disable all active robots without being detected. We need to calibrate the suit's FCG (Field Compliance Generator) to the proper variance. All security measures are active. A successful run will award an item in the Supply Cabinet.
+GID00092891	Success - Disable all robots without being detected.
+GID00092892	Failure - Detection.
+GID00092893	Einstein-3.14
+GID00092894	It'll take weeks to get the prototype functional if we ever have to initiate the emergency shutdown procedure, but it's better than destroying the thing outright (at least until we get the 17 other prototypes we've requested).
+GID00092895	Betsy Bright's Disciplinary Record
+GID00092896	Unexcused Absences 7
+GID00092897	Disruptive Behavior 3
+GID00092898	Smoking on School Property 11
+GID00092899	This holotape contains a audio sample of Gabriel's Bark. It can be used to modify the Sonic Emitter weapon at the Sink's Jukebox.
+GID00092900	This holotape contains an upgrade file for the Sink robotic assistant: "Central Intelligence Unit."
+GID00092901	Per instructions from the higher ups after that *one* time the Giant Robo-Scorpion's attack routine malfunctioned, we've installed an emergency shutdown procedure. Let's hope we never have to use it - the prototype's systems will all be fried, and we won't be up and running again for weeks. The military's expecting delivery of a battle-ready model within six months, and the project has already had enough delays.
+GID00092902	The X-13 Facility has loaned us their EM Pulse Wave Module prototype for the Sonic Emitter for use in our Data Retrieval Test simulations. The Module allows the Sonic Emitter to disable certain force fields. DO NOT allow test subjects to leave the X-8 facility with this Module! Even though it won't work outside Big MT, it's a security nightmare. Thank you all for your attention in this matter.
+GID00092903	Dr. Adam Figgis, MD PhD DVM DDM DD, Test Supervisor
+GID00092904	So, at Dr. Richardson's request, we opened one of those kennels from our latest shipment. The "dog" inside (and I use that term very loosely) appeared to be suffering from a truly horrendous case of mange, and upon being released it immediately attacked, killed, and attempted to swallow whole Specialist Akers. Luckily, the situation has, for now at least, contained itself, as SPC Akers was a very large man and the creature has choked to death.
+GID00092905	Does anyone know anything about this shipment? Please Advise.
+GID00092906	For this test, you must steal a document in the Administrator's office without being detected by the patrolling robots. Laser tripwires and proximity detectors have been activated for increased difficulty. A successful run will award an item in the Supply Cabinet.
+GID00092907	Success - Reach the Administrator's office and steal the document, without being detected.
+GID00092908	Failure - Detection.
+GID00092909	Hey buddy! I've been helping the guys over in X-8 test out this new toy they've been building. Get this, it's a gun that uses a dog's brain to track targets! They asked me to play around with their gun trigger code, and I came up with this mod. Next time you're over there, would you give it a shot? Calis has me swamped setting X-13 up for the coming visit by the leads and he wants the turrets in place so we don't fail the new security requirements.
+GID00092910	Thanks!
+GID00092911	I'm sending over the K9000 Cyberdog Gun. It should do the trick. Let me know if you have any operational questions.
+GID00092912	-Adam
+GID00092913	A Sonic Emitter is required to complete this test. If you were not provided with a Sonic Emitter or have misplaced the one provided to you, please contact your Big MT host to receive one before entering the testing area.
+GID00092914	Addendum: Due to staffing cutbacks, a new Sonic Emitter can now be received at The Sink Central Intelligence Unit.
+GID00092915	Day 4, still continuing research... found way to deactivate collar after some failures, just a few headless ghouls. It's been hard to go fishing in the camp without one of them trying to run the gate and their heads exploding. Damn collars, twitchy.
+GID00092916	...need to ration the Mentats, giving me migraines.
+GID00092917	This holotape contains a Workbench recipe that allows you to make a Speech Skill Book.
+GID00092918	Midterm Grade Report: Richie "Ball-Lover" Marcus
+GID00092919	English F-
+GID00092920	Math F-
+GID00092921	Science F--
+GID00092922	History F-
+GID00092923	Spending a lot of hours getting the Vera Keyes hologram looking right. I'm a physicist, not a sculptor - iterating on her facial features and her dress to match Sinclair's expectations... it's about enough to make me file a complaint. I don't get the sense Sinclair's doing this out of love or well, lust.
+GID00092924	Somewhere along the line, he became cold about the whole matter, as if crafting the hologram "just right" was something he hated.
+GID00092925	For this test, you must use any means necessary to retrieve three student files from an average high school. Basic security protocols have been activated.
+GID00092926	Success - Retrieve three student files.
+GID00092927	Failure - Security measures prohibit you from retrieving the files.
+GID00092928	This holotape contains an upgrade file for the Sink robotic assistant: "Central Intelligence Unit."
+GID00092929	WARNING: Maximizing power output at this stage can potentially damage or destroy the prototype.
+GID00092930	Are you sure you wish to proceed?
+GID00092931	If it wasn't for Sinclair's request, this hologram project would've been canned long ago. In addition to the dispenser tech he wants for the Sierra Madre, he spoke to the Big MT execs about using the holograms for defense (?), that's something N.E. would have to sign off on; I can't even imagine the cost to turn the holograms into something beyond walking cameras and greeters. And why would you? It's only been a little while, and I already hate spending my time with these ghosts walking around the plant. Rather see the research money spent on actually improving the field of view sensors or adding upgrades to the emitters.
+GID00092932	This holotape contains a Workbench recipe that allows you to make a Repair Skill Book.
+GID00092933	This holotape contains an upgrade file for the Sink robotic assistant: "Muggy."
+GID00092934	This holotape contains an upgrade file for the Sink robotic assistant: "Auto-Doc."
+GID00092935	I've noticed your work has taken a dive lately. This seems to have coincided with a marked weight gain over the past few months. I've developed an implant which has been proven to increase performance while reducing weight in lab animals. Granted, we haven't run it through any human test trials yet, but I'm sure it is perfectly safe. Also, please refrain from snacking in the lab. If you smudge another camera, I'm banning all food from the facility.
+GID00092936	-Dr. Calis
+GID00092937	We've had another unfortunate occurrence. While attempting to destroy Mr. Harris's Trauma Harness, the disaster control team member carrying the gun slipped and fell, dropping the weapon. Unarmed, the team had to flee and seal off the lab. Unfortunately, your K9000 Cyberdog Gun Prototype was sealed inside X-12.
+GID00092938	-Barb
+GID00092939	Why the hell do you keep sending me these messages? You work right across the damn ramp from me. Walk your ass over here and say what you need to say. Stop wasting my time with these incessant messages!
+GID00092940	-Dr. Calis
+GID00092941	The Saturnite armor plating on the Giant Robo-Scorpion has exceeded expectations - mostly. While it's virtually impervious to small arms fire, the Sonic Emitter that Parsons brought in managed to fry several of the prototype's subsystems. We'll have to look into improved EMP shielding for the next prototype.
+GID00092942	On a more positive note, the prototype's new atomic laser is performing admirably. Some residual radiation is left behind after the weapon discharges, it may be necessary to requisition more radiation suits and meds as a precaution.
+GID00092943	Attached to this message is the data I collected regarding the EM Pulse Wave Module's effect on our force field emitters. I'm sending the prototype weapon your way for testing. Please forward this on to Ohlen as soon as you can determine how we might shield our emitters from this weapon's EMP effect.
+GID00092944	-Dr. Calis
+GID00092945	Got the funding from Sinclair. Near as I can tell, he's willing to not only bankrupt himself for these devices, he's struck a deal with the Big MT executives, letting the Villa become a lab for the supposedly-harmless prototype tech here. I've seen the Big MT execs do this with other isolated towns (Hopeville Meteorological research up north), and the whole process, it's not what I signed up for.
+GID00092946	Some issues still remain to be ironed out before the Y-17 Trauma Harness is ready for general production: calibrating the proper amount of injury to trigger the suit remains problematic. Still, the Little Yangtze subjects could hardly protest once inside the harness. If a home base is not designated, the suit enters an unpredictable wander state. And, as we discovered while calibrating injury levels, the suit's sensors are unable to recognize when the wearer is dead - luckily, autonomous corpse retrieval is nearly as useful as autonomous casualty recovery!
+GID00092947	This holotape contains the functionality profile for the Sink robotic assistant: "Toaster."
+GID00092948	For this test, you must sneak to, and steal, a document in the Administrator's office without being detected by the patrolling robots. Laser tripwires have been added for increased difficulty. A successful run will award an item in the Supply Cabinet.
+GID00092949	Success - Reach the Administrator's office and steal the document, without being detected.
+GID00092950	Failure - Detection.
+GID00092951	This holotape contains an upgrade file for the Sink robotic assistant: "Auto-Doc."
+GID00092952	This holotape contains the functionality profile for the Sink robotic assistant: "Sink."
+GID00092953	This holotape contains the functionality profile for the Sink robotic assistant: "Auto-Doc."
+GID00092954	In this test, YOU will take on the role of one of those evil Commies, infiltrating an institution of HONEST AMERICAN LEARNING. (Don't worry, Citizen, it's just for pretend!) Your objective is to steal documents that a REAL dirty Commie traitor (which you're not) could use to BRAINWASH OUR CHILDREN (which you wouldn't do). This test will help us to protect our children's fragile minds from the agents of INTERNATIONAL COMMUNISM! Agents like YOU!
+GID00092955	Just kidding! We know you're a loyal American! AREN'T YOU?
+GID00092956	This holotape contains an audio sample entitled, "Opera Singer." It can be used to modify the Sonic Emitter weapon at the Sink's Jukebox.

@@ -1,0 +1,2446 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_awop_name_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00099819	Message for Fergie
+GID00099820	User Entry01 DATE UNKNOWN.
+GID00099821	User Entry02 DATE UNKNOWN.
+GID00099822	Scowell's Terminal
+GID00099823	Scowell's Log 07/10/2263
+GID00099824	Abandoned Gas Station
+GID00099825	Devil's Gullet Cave
+GID00099826	Wastelander
+GID00099827	Lever-Action Shotgun M
+GID00099828	Legendary Golden Gecko
+GID00099829	Reimann Bunker
+GID00099830	Kitchen Cabinet
+GID00099831	Frankie's Home
+GID00099832	Caravan Shotgun M
+GID00099833	Starter Box
+GID00099834	Emergency Starter Box
+GID00099835	Roach
+GID00099837	Trapper's Pass
+GID00099838	Desk
+GID00099839	Collapsed Underpass South
+GID00099840	Emergency Tunnels
+GID00099841	Underground East Sector
+GID00099842	Crate
+GID00099843	Single Shotgun 12G M
+GID00099844	Scar
+GID00099845	Space's Room
+GID00099846	Briefcase
+GID00099847	Weapon Cabinet
+GID00099848	Ammo Cabinet
+GID00099849	Ammunition Box
+GID00099850	Rotting Human Corpse
+GID00099851	Frankie's Guns & Ammo
+GID00099852	Ammunition Box
+GID00099853	Armor Cabinet
+GID00099854	Ammo Cabinet
+GID00099855	Weapon Cabinet
+GID00099856	Bed
+GID00099857	Frankie's Guns & Ammo
+GID00099858	Wardrobe
+GID00099859	Frankie's Storage Room Key
+GID00099860	Wall Safe
+GID00099861	Wardrobe
+GID00099863	Bruce
+GID00099864	Vizzy
+GID00099865	Young Deathclaw
+GID00099866	Deathclaw
+GID00099867	Metal Box
+GID00099868	Nellis Array Generators
+GID00099869	Collapsed Underpass North
+GID00099870	Toxic Cave
+GID00099871	Primm Sewer
+GID00099872	Legion Explorer
+GID00099873	Veteran Legionary
+GID00099874	Praetorian Guard
+GID00099875	Legion Explorer
+GID00099876	Legion Explorer
+GID00099877	Legion Recruit
+GID00099878	Legion Recruit
+GID00099879	Legion Recruit
+GID00099880	Legion Recruit
+GID00099881	Legion Recruit
+GID00099882	Legion Recruit
+GID00099883	Legion Veteran
+GID00099884	Legion Veteran
+GID00099885	Legion Veteran
+GID00099886	Legion Vexillarius
+GID00099887	Legion Vexillarius
+GID00099888	Legion Praetorian
+GID00099889	Legion Assassin Marshal
+GID00099890	Centurion Baculus
+GID00099891	Marshal's Room Key
+GID00099892	Franco
+GID00099893	Sawed-Off Shotgun M
+GID00099894	Armored Prostitute Outfit M
+GID00099895	Slave Bodyguard
+GID00099896	Kendo
+GID00099897	Legion Recruit
+GID00099898	Legion Recruit
+GID00099899	NCR Ranger
+GID00099900	Slave
+GID00099901	Ghost Town
+GID00099902	Lizard
+GID00099903	Underpass Control Centre
+GID00099904	Ant Caves
+GID00099905	Reimann Cave
+GID00099906	Wasteland Adventurer
+GID00099907	Metal Cabinet
+GID00099908	Carmageddon
+GID00099909	Ammunition Box
+GID00099910	Ammo Cabinet
+GID00099911	9mm Pistol M
+GID00099912	Firetooth Caverns
+GID00099913	Johnson Nash Inventory
+GID00099914	Metal Cabinet
+GID00099915	Sarge
+GID00099916	Plasma Caster M
+GID00099917	Footlocker
+GID00099918	Powder Ganger
+GID00099919	Powder Ganger
+GID00099920	Redoubt
+GID00099921	Big Momma
+GID00099922	Legendary Deathclaw Alpha
+GID00099923	Giant Deathclaw
+GID00099924	Blind Deathclaw
+GID00099925	Bulldozer
+GID00099926	Merrek
+GID00099927	Nola
+GID00099931	Feral Ghoul
+GID00099932	Duffle Bag
+GID00099933	Mercenary
+GID00099934	Mercenary
+GID00099935	Wastelander
+GID00099936	Mercenary
+GID00099937	That Gun M
+GID00099938	Firetooth
+GID00099939	Redoubt 016b
+GID00099940	aaMerrekReward
+GID00099941	aaBulldozerReward
+GID00099942	aaNolaReward
+GID00099943	Refrigerator
+GID00099944	Metal Box
+GID00099945	Metal Cabinet
+GID00099946	Vault-Tec Research Offices
+GID00099947	Powder Ganger
+GID00099948	Powder Ganger
+GID00099949	Powder Ganger
+GID00099950	Powder Ganger
+GID00099951	Powder Ganger
+GID00099952	Powder Ganger
+GID00099953	Powder Ganger
+GID00099954	Jarvis
+GID00099955	Assault Carbine M
+GID00099956	Jarvis's Key
+GID00099957	Powder Ganger
+GID00099958	Merc Adventurer Outfit M
+GID00099960	Powder Ganger
+GID00099961	Firetooth Caverns
+GID00099963	Metal Cabinet
+GID00099964	Ammunition Box
+GID00099965	Powder Ganger
+GID00099966	Glowing Trooper Ghoul
+GID00099967	Primm Sewer
+GID00099968	First Aid Box
+GID00099969	Drainage Chamber
+GID00099970	Crate
+GID00099971	Desk
+GID00099972	Filing Cabinet
+GID00099973	Crate
+GID00099974	Medical Supplies
+GID00099975	Medical Supplies
+GID00099976	Abandoned General Store
+GID00099977	Goodsprings Home Security Terminal
+GID00099978	Crate
+GID00099979	Sack
+GID00099980	Fire Hose Box
+GID00099981	Armor Cabinet
+GID00099982	Weapon Cabinet
+GID00099983	Ghoul Gun Nut
+GID00099984	Ghoul Gun Nut
+GID00099985	Ghoul Gun Nut
+GID00099986	Ghoul Gun Nut
+GID00099987	Ghoul Gun Nut
+GID00099988	Jackal Gang Veteran
+GID00099989	Jackal Gang Veteran
+GID00099990	Jackal Gang Specialist
+GID00099991	Jackal Gang Specialist
+GID00099992	Jackal Gang Specialist
+GID00099993	Jackal Gang Legend
+GID00099994	Jackal Gang Bruiser
+GID00099995	Jackal Gang Bruiser
+GID00099996	Legion Traveller
+GID00099997	Legion Traveller
+GID00099998	Legion Champion
+GID00099999	Legion Champion
+GID00100000	Wastelander
+GID00100001	Wall Safe
+GID00100002	Toxic Cave
+GID00100003	Vault-Tec Turret
+GID00100004	Lab 2 Key Card
+GID00100005	Lab 1 Key Card
+GID00100006	Desk
+GID00100007	Briefcase
+GID00100008	Teleporter
+GID00100009	Redoubt 007
+GID00100010	Teleport Control Panel
+GID00100011	Legion Brawler
+GID00100012	Legion Brawler
+GID00100013	Legion Brawler
+GID00100014	Legion Sniper
+GID00100015	Legion Legend
+GID00100016	NCR Special Forces Trooper
+GID00100017	NCR Special Forces Trooper
+GID00100018	NCR Special Forces Veteran
+GID00100019	NCR Special Forces Veteran
+GID00100020	NCR Special Forces Sniper
+GID00100021	NCR Special Forces Legend
+GID00100022	Powder Ganger Bully
+GID00100023	Powder Ganger Bully
+GID00100024	Powder Ganger Bully
+GID00100025	Powder Ganger Leader
+GID00100026	Escaped Convict Bully
+GID00100027	Escaped Convict Bully
+GID00100028	Tech Raider Scout
+GID00100029	Tech Raider Scout
+GID00100030	Tech Raider
+GID00100031	Tech Raider
+GID00100032	Tech Raider Veteran
+GID00100033	Tech Raider Warrior
+GID00100034	Tech Psycho
+GID00100035	Underground Trooper
+GID00100036	Underground Trooper
+GID00100037	Underground Trooper
+GID00100038	Underground Trooper
+GID00100039	Viper Veteran
+GID00100040	Viper Veteran
+GID00100041	Viper Specialist
+GID00100042	Viper Specialist
+GID00100043	Viper Sniper
+GID00100044	Viper Specialist
+GID00100045	Wasteland Vigilante
+GID00100046	Kitchen Cabinet
+GID00100047	Wasteland Vigilante
+GID00100048	Wasteland Hero
+GID00100049	Wasteland Hero
+GID00100050	Wasteland Legend
+GID00100051	Fiend Butcher
+GID00100052	Fiend Butcher
+GID00100053	Fiend Destroyer
+GID00100054	Fiend Destroyer
+GID00100055	Fiend Destroyer
+GID00100056	Fiend Legend
+GID00100057	Fiend Legend
+GID00100058	Powder Ganger
+GID00100059	Armored Trader Outfit M
+GID00100061	Wardrobe
+GID00100062	Safe
+GID00100063	Safe Key
+GID00100064	NCR Special Forces Veteran
+GID00100065	Wasteland Hero
+GID00100066	NCR Special Forces Veteran
+GID00100067	Sgt Arkus
+GID00100068	Wasteland Vigilante
+GID00100069	Wasteland Hero
+GID00100070	Rogan
+GID00100073	aaArkusInfo1
+GID00100077	Crate
+GID00100078	Ammunition Box
+GID00100079	Doc Mitchell's House
+GID00100080	Crate
+GID00100081	Metal Box
+GID00100082	Wall Safe
+GID00100083	Weapon Cabinet
+GID00100084	Viper Sniper
+GID00100085	Viper Specialist
+GID00100086	Nelson Barracks
+GID00100087	Ghoul Gun Nut
+GID00100088	Tech Raider Flyer
+GID00100089	Tech Raider Scout
+GID00100090	Tech Raider
+GID00100091	Jackal Gang Veteran
+GID00100092	Jackal Gang Specialist
+GID00100093	NCR Special Forces Trooper
+GID00100094	NCR Special Forces Trooper
+GID00100095	NCR Special Forces Veteran
+GID00100096	Ghoul Gun Nut
+GID00100097	Wasteland Guard
+GID00100098	Redoubt 0291a
+GID00100099	Locker
+GID00100100	Filing Cabinet
+GID00100101	Abandoned Workshop
+GID00100102	Recharger Pistol M
+GID00100103	Radiological Research Facility
+GID00100104	Locker
+GID00100105	4D Storage Device Gen IV
+GID00100106	4D Storage Device Gen IV
+GID00100110	Glowing One
+GID00100111	NCR Trooper
+GID00100112	Old Lady Gibson Inventory
+GID00100113	Crate
+GID00100114	Skeleton Crew Gang Member
+GID00100115	Safe
+GID00100116	Tri-beam Laser Rifle M
+GID00100117	Vending Machine
+GID00100118	Metal Cabinet
+GID00100119	Safe
+GID00100120	Crate
+GID00100121	Metal Box
+GID00100122	Redoubt 03S4
+GID00100123	Wasteland Hero
+GID00100124	Lakelurk Nest
+GID00100125	Armor Cabinet
+GID00100126	Locker
+GID00100127	Briefcase
+GID00100128	Ammunition Box
+GID00100129	Wasteland Vigilante
+GID00100130	Crate
+GID00100131	Joe Cobb
+GID00100132	Tech Raider Sniper
+GID00100133	Powder Ganger
+GID00100134	Trudy
+GID00100135	Powder Ganger
+GID00100136	Powder Ganger
+GID00100137	Powder Ganger
+GID00100138	Powder Ganger
+GID00100139	Chet Inventory
+GID00100140	Metal Box
+GID00100141	Ringo
+GID00100142	Easy Pete
+GID00100143	Tech Raider Drop Box
+GID00100144	Tech Raider Scout
+GID00100145	Tech Raider
+GID00100146	Tech Raider Legend
+GID00100147	Powder Ganger
+GID00100148	Sunny Smiles
+GID00100149	Scientist
+GID00100150	Goodsprings Settler
+GID00100151	Ammunition Box
+GID00100152	Jackal Gang Sniper
+GID00100153	Mad Ghoul Camp
+GID00100154	Tech Raider Scout Outpost
+GID00100155	Tech Raider Scout Orders
+GID00100156	Tech Raider Drop Box
+GID00100157	Tech Raider Outpost North
+GID00100158	Metal Box
+GID00100159	Fiend Sniper
+GID00100160	Drop Box
+GID00100161	Locker
+GID00100162	Armor Cabinet
+GID00100163	Fiend Campsite North
+GID00100164	Desk
+GID00100165	Control Room Key Card
+GID00100166	Desk
+GID00100167	Emergency Underground Access
+GID00100168	Locker
+GID00100169	Lakelurk Young
+GID00100170	Underground Trooper
+GID00100171	Wastelander
+GID00100172	Hidden Valley Bunker
+GID00100173	Scientist
+GID00100174	Redoubt 04RR8
+GID00100175	NCR Special Forces Heavy Trooper
+GID00100176	NCR Special Forces Heavy Trooper
+GID00100177	NCR Special Forces Officer
+GID00100178	Underground Trooper
+GID00100179	Underground Sniper
+GID00100180	Emegency Underground Access
+GID00100181	Underground Trooper
+GID00100182	Emergency Elevator Keycard
+GID00100183	Underground Trooper
+GID00100184	Underground Trooper
+GID00100185	Skeleton Crew Gang Member
+GID00100186	Skeleton Crew Gang Member
+GID00100187	Skeleton Crew Gang Member
+GID00100188	Merc Grunt Outfit M
+GID00100190	Skeleton Crew Gang Member
+GID00100191	Feral Ghoul Hyper Reaver
+GID00100192	Giant Hyper Reaver
+GID00100193	Mega Lurk
+GID00100194	Lakelurk Nest
+GID00100195	Skeleton Crew's Apartments
+GID00100196	Rad Box
+GID00100197	Locker
+GID00100198	Duffle Bag
+GID00100199	Desk
+GID00100200	Locker
+GID00100201	Vending Machine
+GID00100202	Ghoul Scientist
+GID00100203	Ghoul Adventurer
+GID00100204	Merc Troublemaker Outfit M
+GID00100205	Laser RCW M
+GID00100207	Butch
+GID00100208	Facility Master Key
+GID00100209	Crazed Ghoul
+GID00100210	Crazed Ghoul
+GID00100211	Crazed Ghoul
+GID00100212	Crazed Ghoul
+GID00100213	Radiological Research Facility
+GID00100214	Fiend Destroyer
+GID00100215	Desk
+GID00100216	Personal Footlocker
+GID00100217	Safe
+GID00100218	Crate
+GID00100219	Crazed Ghoul
+GID00100220	Crazed Ghoul
+GID00100221	Apartment A2 Key
+GID00100222	Apartment A3 Key
+GID00100223	Sink
+GID00100224	Metal Cabinet
+GID00100225	Flamer M
+GID00100226	Wardrobe
+GID00100227	Metal Cabinet
+GID00100228	Mark V Turret
+GID00100229	Fiend Butcher
+GID00100230	Fiend Destroyer
+GID00100231	Fiend Gunner
+GID00100232	Nipton Road Gas Station
+GID00100233	Jackal Gang Member
+GID00100234	Jackal Gang Leader
+GID00100235	Ivanpah Maintenance Tunnels
+GID00100236	Michelle and Samuel's Trunk
+GID00100237	Skeleton Crew Gang Member
+GID00100238	Skeleton Crew Gang Member
+GID00100239	Skeleton Crew Gang Member
+GID00100240	Skeleton Crew Gang Member
+GID00100241	Skeleton Crew Gang Member
+GID00100242	Skeleton Crew Gang Member
+GID00100243	Skeleton Crew Gang Member
+GID00100244	Skeleton Crew Gang Member
+GID00100245	Skeleton Crew Gang Member
+GID00100246	Skeleton Crew Gang Member
+GID00100247	Skeleton Crew Gang Member
+GID00100248	Skeleton Crew Gang Member
+GID00100249	Skeleton Crew Gang Member
+GID00100250	Skeleton Crew Gang Member
+GID00100251	Blaze
+GID00100252	Abandoned House
+GID00100253	Mark III Turret
+GID00100254	Mark V Turret
+GID00100255	Mark III Turret
+GID00100256	Mark V Turret
+GID00100257	Footlocker
+GID00100258	Roach - Bring The Pain (Jun 2165)
+GID00100259	Brush Gun M
+GID00100260	Roach - Them
+GID00100261	Roach - Far From You
+GID00100262	Crate
+GID00100263	Footlocker
+GID00100264	Exposed Prostitute Outfit M
+GID00100265	Nuka-Cola fridge
+GID00100266	Kitchen Cabinet
+GID00100267	Kitchen Cabinet
+GID00100268	Armor Cabinet
+GID00100269	Weapon Cabinet
+GID00100270	Ammo Cabinet
+GID00100271	Filing Cabinet
+GID00100272	Filing Cabinet
+GID00100273	Ghost Town House Key
+GID00100274	Dead Man's Pass
+GID00100275	Armor Cabinet
+GID00100276	Ammunition Box
+GID00100277	Ammunition Box
+GID00100278	Ammunition Box
+GID00100279	Cowboy Repeater M
+GID00100280	Ghoul Gun Nut
+GID00100281	Ghoul Gun Nut
+GID00100282	Roach Quest Test Box
+GID00100283	Redoubt 055Va
+GID00100284	Vendor Chest Lacey
+GID00100285	Feral Ghoul
+GID00100286	Crate
+GID00100287	Ammunition Box
+GID00100288	Ammunition Box
+GID00100289	Ammunition Box
+GID00100290	Crate
+GID00100291	Desk
+GID00100292	Dead Man's Pass Key
+GID00100293	Underground Trooper
+GID00100294	Combat Armor, Reinforced M
+GID00100296	Combat Armor M
+GID00100298	Underground Trooper
+GID00100299	Marksman Carbine .308 M
+GID00100300	Riot Shotgun M
+GID00100301	Jackal Gang Member
+GID00100302	Jackal Gang Member
+GID00100303	Jackal Gang Member
+GID00100304	Vault 21 Waste Disposal
+GID00100305	Underground Trooper
+GID00100306	Sergeant McMillan
+GID00100307	Didesiderio
+GID00100311	Residential Sector
+GID00100312	Jackal Gang Member
+GID00100313	Jackal Gang Member
+GID00100314	Jackal Gang Member
+GID00100315	Jackal Gang Member
+GID00100316	Jackal Gang Armory Master
+GID00100317	Terrence
+GID00100318	Leather Armor, Reinforced M
+GID00100320	Armory Key
+GID00100321	Super Mutant Brute
+GID00100322	Super Mutant Brute
+GID00100323	Mercer
+GID00100324	Jackal Gang Member
+GID00100325	Light Machine Gun M
+GID00100326	Merc Veteran Outfit M
+GID00100328	Ivanpah Maintenance Tunnels
+GID00100329	Nuka-Cola fridge
+GID00100330	Vault 21 Hydroponics
+GID00100331	Wiltshires's Terminal
+GID00100332	Custom Electric Guitar
+GID00100333	Wiltshire's Terminal
+GID00100334	Wiltshire's Record Box
+GID00100335	Wiltshire's Record Box
+GID00100336	Metal Box
+GID00100337	Footlocker
+GID00100338	Tecoult's Vendor Chest
+GID00100339	Tecoult's Safe
+GID00100340	Sack
+GID00100341	Sack
+GID00100342	Sack
+GID00100343	Sack
+GID00100344	Sack
+GID00100345	Jackal Gang Member
+GID00100346	Jackal Gang Member
+GID00100347	Jackal Gang Member
+GID00100349	Prototype Pulse Gun
+GID00100350	Wiltshire
+GID00100351	Tecoult
+GID00100352	Security Chief Santana
+GID00100353	Tyra Haggard
+GID00100357	Underground Trooper
+GID00100358	Underground Trooper
+GID00100359	Underground Trooper
+GID00100360	Mark VII Turret
+GID00100361	Mark IV Turret
+GID00100362	Underground Citizen
+GID00100363	Underground Citizen
+GID00100364	Underground Citizen
+GID00100365	Underground Citizen
+GID00100366	Underground Citizen
+GID00100367	Underground Citizen
+GID00100368	Underground Citizen
+GID00100369	Underground Citizen
+GID00100370	Underground Citizen
+GID00100371	Gieling
+GID00100372	Wall Safe
+GID00100373	Novac Collapsed Tunnels
+GID00100374	Jackal Gang Member
+GID00100375	Jackal Gang Member
+GID00100376	Weapon Research Facility
+GID00100377	Novac Collapsed Tunnels Sub-level
+GID00100378	Underground Citizen
+GID00100379	Underground Citizen
+GID00100380	Trooper Barracks
+GID00100381	Novac Collapsed Tunnels Access
+GID00100382	Metal Box
+GID00100383	Metal Box
+GID00100384	Metal Box
+GID00100385	Metal Box
+GID00100386	Footlocker
+GID00100387	Underground Trooper
+GID00100388	Underground Trooper
+GID00100389	Underground School
+GID00100390	Metal Box
+GID00100391	Desk
+GID00100392	Sack
+GID00100393	Novac Shipping Office
+GID00100394	Underground School Terminal
+GID00100395	Underground School Terminal
+GID00100396	Recharger Rifle M
+GID00100397	Vault 21 Hydroponics Key
+GID00100398	Redoubt 06AF14
+GID00100399	Apartment Office
+GID00100400	Locker
+GID00100401	Locker
+GID00100402	Wall Safe
+GID00100403	Sector A Facility Key
+GID00100404	Safe
+GID00100405	Metal Cabinet
+GID00100406	Novac Shipping Office
+GID00100407	NCR Bodyguard
+GID00100408	Ghoul Gun Nut
+GID00100409	Ghoul Gun Nut
+GID00100410	Ghoul Gun Nut
+GID00100411	Ghoul Gun Nut
+GID00100412	Powder Ganger Bully
+GID00100413	Powder Ganger Leader
+GID00100414	Powder Ganger Leader
+GID00100415	Apartment Room
+GID00100416	Metal Cabinet
+GID00100417	Apartment Room
+GID00100418	Jean Sky Diving
+GID00100419	Apartment Room
+GID00100420	Waznu
+GID00100421	Apartment A2
+GID00100422	Wall Safe
+GID00100423	Riazanov's Tool Kit
+GID00100424	Riazanov
+GID00100425	Mojave Wasteland
+GID00100426	Powder Ganger Bully
+GID00100427	Novac Metro Master Key
+GID00100428	Medical Supplies
+GID00100429	Redoubt 07GV18c
+GID00100431	Mark VIII Turret
+GID00100432	Apartment A2 Key
+GID00100433	Mini-Vault Home
+GID00100434	Metal Cabinet
+GID00100435	Metal Box
+GID00100436	Kitchen Cabinet
+GID00100437	Ammunition Box
+GID00100438	Desk
+GID00100439	Filing Cabinet
+GID00100440	Safe
+GID00100441	Hermsen
+GID00100442	Kassberg
+GID00100443	Underground Citizen
+GID00100444	Underground Citizen
+GID00100445	Underground Apartments 1st Floor
+GID00100446	Ammunition Box
+GID00100447	Locker
+GID00100448	Weapon Box
+GID00100449	Xander Bay Labs
+GID00100450	Weapon Facility Sector B
+GID00100451	Safe
+GID00100452	Ammunition Box
+GID00100453	Ammunition Box
+GID00100454	Ammunition Box
+GID00100455	Ammunition Box
+GID00100456	Metal Cabinet
+GID00100457	4D Storage Message
+GID00100458	4D Storage Message
+GID00100460	Briefcase
+GID00100461	Recharging Plasma Defender M
+GID00100462	Nuka-Cola fridge
+GID00100463	Safe
+GID00100464	4D Storage Device Gen II
+GID00100465	4D Storage Device Gen II
+GID00100466	Underground Facility Barracks
+GID00100467	Armor Cabinet
+GID00100468	Gun Cabinet
+GID00100469	Underground Apartments 2nd Floor
+GID00100470	Crate
+GID00100471	Glowing One
+GID00100472	Mk III Auto-Doc
+GID00100473	Broken Mk III Auto-Doc
+GID00100474	Desk
+GID00100475	Ammo Cabinet
+GID00100476	Wardrobe
+GID00100477	Joe's Reinforced Armor
+GID00100478	Weapon Collection Port
+GID00100479	Weapon Collection Port
+GID00100480	Weapon Collection Port
+GID00100481	Xander Bay Storage Area
+GID00100482	Safe
+GID00100483	Merc Cruiser Outfit M
+GID00100485	Eradicator
+GID00100486	Decimator
+GID00100487	Annihilator
+GID00100488	Wall Safe
+GID00100489	Underground Citizen
+GID00100490	Underground Citizen
+GID00100491	Underground Citizen
+GID00100492	Damm
+GID00100493	Coquet
+GID00100494	Marra
+GID00100495	Marra's Vendor Chest
+GID00100497	Underground Citizen
+GID00100498	Philippart
+GID00100499	Armored Doctor Fatigues M
+GID00100501	Underground Citizen
+GID00100502	Underground Citizen
+GID00100503	Communal Home
+GID00100504	Underground Citizen
+GID00100505	Underground Citizen
+GID00100506	Underground Citizen
+GID00100507	Underground Citizen
+GID00100508	Broadcast Building Lower Levels
+GID00100509	Jackal Gang Member
+GID00100510	Jackal Gang Member
+GID00100511	Jackal Gang Member
+GID00100512	Jackal Gang Member
+GID00100513	Jackal Gang Member
+GID00100514	Raven
+GID00100515	Nipton Sewer
+GID00100516	Underground Turret
+GID00100517	Desk
+GID00100518	Medical Supplies
+GID00100519	Plated Powder Ganger Armor
+GID00100520	Enclave Crate
+GID00100521	Enclave Crate
+GID00100522	Locker
+GID00100523	Locker
+GID00100524	Desk
+GID00100525	Armor Cabinet
+GID00100526	Deathclaw Mother
+GID00100527	Safe
+GID00100528	Metal Cabinet
+GID00100529	Metal Cabinet
+GID00100530	Locker
+GID00100531	Enclave Soldier
+GID00100532	Wall Safe
+GID00100533	Armor Cabinet
+GID00100534	Xander Bay
+GID00100535	Field Hand Outfit
+GID00100537	Caravaneer Outfit
+GID00100538	Leather Armor
+GID00100539	Caravaneer Outfit
+GID00100540	Field Hand Outfit
+GID00100541	Wasteland Vigilante
+GID00100542	Wasteland Sniper
+GID00100543	Wasteland Vigilante
+GID00100544	Wasteland Sniper
+GID00100545	Wasteland Hero
+GID00100546	Infested NCR Bunker
+GID00100547	Ghoul Gun Nut
+GID00100548	Ghoul Gun Nut
+GID00100549	Ghoul Gun Nut
+GID00100550	Crazed Ghoul
+GID00100551	Crazed Ghoul
+GID00100552	Huge Rat
+GID00100553	The One
+GID00100554	Gigantic Rat
+GID00100555	Ghoul Trooper
+GID00100556	Rose
+GID00100558	Nipton Sewer
+GID00100559	Wall Safe
+GID00100560	Metal Cabinet
+GID00100561	Veteran Ranger Guerra
+GID00100562	NCR Ranger
+GID00100563	NCR Ranger
+GID00100564	10mm Submachine Gun M
+GID00100565	Infested NCR Bunker
+GID00100566	4D Storage Enclave Variant
+GID00100567	4D Storage Enclave Varaint
+GID00100568	Scowell's Stash Key
+GID00100569	Scowell's Hidden Box
+GID00100570	Wall Safe
+GID00100571	Wastelander
+GID00100572	Jackal Gang Member
+GID00100573	Jackal Gang Member
+GID00100574	Jackal Gang Member
+GID00100575	Weapon Box
+GID00100576	Ammunition Box
+GID00100577	Chafik
+GID00100578	Armored Lab Technician Outfit M
+GID00100580	Underground Citizen
+GID00100581	Underground Citizen
+GID00100582	Underground Citizen
+GID00100583	Underground Citizen
+GID00100584	Underground Sentry Bot
+GID00100585	Suitcase
+GID00100586	Underground Sentry Bot
+GID00100587	Broadcast Building Upper Levels
+GID00100591	aaRoseHouseSpy
+GID00100594	Rose's Wishlist
+GID00100595	Instructions for Vault 21 Redoubt Access
+GID00100596	Vault 21 Waste Room Key
+GID00100597	Vault 21 Master Key
+GID00100598	Spicy Naan Bread
+GID00100599	Wake Up Brew
+GID00100600	Steak Crispbake
+GID00100601	Steak Crispbakes
+GID00100602	Wake Up Brew
+GID00100603	Spicy Naan Bread
+GID00100604	Recipie - Steak Crispbakes
+GID00100605	Recipie - Spicy Naan Bread
+GID00100606	Recipe - Wake Up Brew
+GID00100607	Rose Test Crate
+GID00100608	Rose's Safe Key
+GID00100609	Vintage Teddy Bear
+GID00100611	Rose's Vendor Chest
+GID00100612	Rose's Safe
+GID00100614	Kitchen Cabinet
+GID00100615	Kitchen Cabinet
+GID00100616	Metal Cabinet
+GID00100617	Canyon Station Utility Tunnels
+GID00100618	Powder Ganger
+GID00100619	Powder Ganger
+GID00100620	Powder Ganger
+GID00100621	Powder Ganger
+GID00100622	Powder Ganger
+GID00100623	Abandoned Legion Camp
+GID00100624	Legion Champion
+GID00100625	Legion Shack Key
+GID00100626	Gigantic Lakelurk
+GID00100627	Underground Access West
+GID00100628	Locker
+GID00100630	Ammo Cabinet
+GID00100631	Ammo Cabinet
+GID00100632	Weapon Cabinet
+GID00100633	Weapon Cabinet
+GID00100634	Armor Cabinet
+GID00100635	Ammunition Box
+GID00100636	Armor Cabinet
+GID00100637	Merc Charmer Outfit M
+GID00100639	Laser Pistol M
+GID00100640	Armored Casual Wear
+GID00100642	Armor Cabinet
+GID00100643	Nuka-Cola fridge
+GID00100644	Ammunition Box
+GID00100645	Freetech Broadcast Building
+GID00100646	Underground Trooper
+GID00100647	Corporal Lam
+GID00100648	Trooper Holmstrom
+GID00100649	Underground Doctor
+GID00100650	Roach's Bodyguard
+GID00100651	Hayward
+GID00100652	Underground Trooper
+GID00100653	Underground Trooper
+GID00100654	Underground Citizen
+GID00100655	Underground Citizen
+GID00100656	Wastelander
+GID00100657	Wastelander
+GID00100658	Juile
+GID00100659	Holt
+GID00100660	Veteran Legionary
+GID00100661	Praetorian Guard
+GID00100662	Canyon Station Utility
+GID00100663	Freeside
+GID00100664	Vandereng's Vendor Chest
+GID00100665	The Immortal's Shack
+GID00100666	The Immortal's Shack
+GID00100667	Cabinet
+GID00100668	Crate
+GID00100669	Dr Vandereng
+GID00100670	Roach
+GID00100671	Ariel
+GID00100673	Roach - Pulse (Jan 2281)
+GID00100674	Roach - A Question Of Time (Nov 2279)
+GID00100675	Roach - Do What We Do (Jun 2279)
+GID00100676	Wall Safe
+GID00100677	Safe
+GID00100678	Ammo Reward Key
+GID00100679	Prototype 4D Storage Device
+GID00100680	Prototype 4D Storage Device
+GID00100681	Roach - Substance C (Apr 2275)
+GID00100682	Roach - Recharger (Dec 2180)
+GID00100683	Roach - More Noize (Feb 2274)
+GID00100684	Eddie
+GID00100685	Mark VI Turret
+GID00100689	Hayward's Vendor Chest
+GID00100690	Underground Market Sector
+GID00100691	Bix's Torn Note
+GID00100692	Bix
+GID00100693	Roth's Terminal
+GID00100694	Vault-Tec Empolyee's Note
+GID00100695	Roth's Diary Jan 17th '72
+GID00100696	Roth's Diary Jan 20th '72
+GID00100697	Roth's Diary Jan 21st '72
+GID00100698	Boulder City Ruins
+GID00100699	Roth's Diary Jan 30th '72
+GID00100700	Redoubt 07
+GID00100701	Redoubt 6b
+GID00100702	Redoubt 91a
+GID00100703	Redoubt S4
+GID00100704	Condors's Terminal
+GID00100705	Ammunition Box
+GID00100706	Ammunition Box
+GID00100707	Ammunition Box
+GID00100708	Vault 40
+GID00100709	Schulze
+GID00100711	Lurk Casserole
+GID00100712	Lurk Casserole
+GID00100713	Recipie - Lurk Casserole
+GID00100716	Elias
+GID00100717	Armor Cabinet
+GID00100718	Ammunition Box
+GID00100719	Cabinet
+GID00100720	Desk
+GID00100721	Doctor Usanagi Store
+GID00100722	Rotson's Diary Extract 1
+GID00100723	Rotson's Diary Extract 2
+GID00100724	Locker
+GID00100725	Desk
+GID00100726	Desk
+GID00100727	NCR Trooper
+GID00100728	Underground Trooper
+GID00100729	Plasma Pistol M
+GID00100730	Underground Trooper
+GID00100731	Underground Citizen
+GID00100732	Legendary Lakelurk
+GID00100733	Underground Access West
+GID00100734	Wall Safe
+GID00100735	Safe
+GID00100736	Vault 40
+GID00100737	Basement
+GID00100738	Hershey's Bar
+GID00100739	Ammunition Box
+GID00100740	Underground Trooper
+GID00100741	Underground Trooper
+GID00100742	Underground Trooper
+GID00100743	Underground Trooper
+GID00100744	Underground Trooper
+GID00100745	Major Cobb
+GID00100746	Underground Trooper
+GID00100747	Masseling
+GID00100748	Underground Citizen
+GID00100749	Underground Citizen
+GID00100750	Underground Citizen
+GID00100751	Elias' Vendor Chest
+GID00100752	Schulze's Vendor Chest
+GID00100756	Underground Incomplete Sector
+GID00100759	Underground Armory
+GID00100760	Cliff Briscoe's Trunk
+GID00100761	Ammunition Box
+GID00100762	Ammunition Box
+GID00100763	Ammunition Box
+GID00100764	Ammunition Box
+GID00100765	Ammunition Box
+GID00100766	Ammunition Box
+GID00100767	Ammunition Box
+GID00100768	Ammunition Box
+GID00100769	Ammunition Box
+GID00100770	Plastic Explosives Box
+GID00100771	Kitchen Cabinet
+GID00100772	Weapon Cabinet
+GID00100773	Locker
+GID00100774	Wall Safe
+GID00100775	Kitchen Cabinet
+GID00100776	Metal Cabinet
+GID00100777	Ammo Cabinet
+GID00100778	Armor Cabinet
+GID00100779	Refrigerator
+GID00100780	Salamone
+GID00100781	Salamone's Vendor Chest
+GID00100782	Underground Trooper
+GID00100783	Underground Trooper
+GID00100784	Underground Trooper
+GID00100786	Freeside
+GID00100787	Filing Cabinet
+GID00100788	Trooper Barracks
+GID00100789	Weapon Cabinet
+GID00100790	Underground Bar
+GID00100791	10mm Pistol M
+GID00100792	Environmental Assesment
+GID00100793	Mood-Pop Recipies
+GID00100794	Message From God
+GID00100795	Mission Log
+GID00100796	Mlix
+GID00100797	Matt's dead again.
+GID00100798	Random Drug Tests
+GID00100799	Hardcore!
+GID00100800	New Home
+GID00100801	Dimension Hyperjump
+GID00100802	Check this out - we're famous!
+GID00100803	The Immortals Scriprt Part 1
+GID00100804	The Immortals Scriprt Part 2
+GID00100805	The Immortals Scriprt Part 3
+GID00100806	The Immortals Scriprt Part 4
+GID00100807	The Immortals Scriprt Part 5
+GID00100808	The Immortals Scriprt Part 6
+GID00100809	The Immortals Episode Guide
+GID00100810	Tony's Terminal
+GID00100811	Communal Terminal
+GID00100812	Charlie's Terminal
+GID00100813	Steve's Terminal
+GID00100814	The Immortal's Door Key
+GID00100815	Hollowed-Out Rock
+GID00100816	Living Quarters
+GID00100817	Underground Diner
+GID00100818	Tech Psycho
+GID00100819	Tech Raider Veteran
+GID00100820	Tech Raider Sniper
+GID00100821	Tech Raider Scout
+GID00100822	Tech Raider Scout
+GID00100823	Drop Box
+GID00100824	Medical Block
+GID00100826	The Immortals Shack
+GID00100827	Mlix's Door Key
+GID00100828	Officer's Uniform
+GID00100829	aaMlixWEquest
+GID00100830	Legion Traveller
+GID00100831	Legion Legend
+GID00100832	Legion Brawler
+GID00100833	Legion Brawler
+GID00100834	Legion Champion
+GID00100836	Refrigerator
+GID00100837	Refrigerator
+GID00100838	Underground Citizen
+GID00100839	Underground Citizen
+GID00100840	Underground Citizen
+GID00100841	Underground Citizen
+GID00100842	Underground Citizen
+GID00100843	Underground Citizen
+GID00100844	Streunding
+GID00100845	Adornetto
+GID00100846	Dagmar
+GID00100849	Dagmar's Vendor Chest
+GID00100850	Adornetto's Vendor Chest
+GID00100851	Underground Trooper
+GID00100852	Power Station A
+GID00100853	Vault 40 Armory Key
+GID00100854	Vault 40 Trooper
+GID00100855	Vault Trooper Uniform
+GID00100856	Vault 40 Trooper
+GID00100857	Vault 40 Officer
+GID00100858	Vault 40 Officer
+GID00100859	Powder Ganger
+GID00100861	Legendary Mantis
+GID00100862	Underground Citizen
+GID00100863	Silenced .22 SMG M
+GID00100864	Ammunition Box
+GID00100865	Store Room
+GID00100866	Powder Ganger
+GID00100867	Gun Cabinet
+GID00100868	Locker
+GID00100869	Locker
+GID00100870	Underground Utility Tunnels
+GID00100871	Gun Cabinet
+GID00100872	Ant Caves
+GID00100873	Viper Gunslinger
+GID00100874	Refrigerator
+GID00100875	Refrigerator
+GID00100876	Viper Gunslinger
+GID00100877	Colonel Hoff
+GID00100878	Reeves
+GID00100879	Renzi
+GID00100880	Security Deputy Wylkonski
+GID00100881	Underground Trooper
+GID00100882	Underground Trooper
+GID00100883	Underground Trooper
+GID00100884	Underground Citizen
+GID00100885	Underground Citizen
+GID00100886	Underground Citizen
+GID00100887	Underground Citizen
+GID00100888	Underground Citizen
+GID00100889	Underground Citizen
+GID00100890	Underground Trooper
+GID00100891	Underground Trooper
+GID00100892	Underground Citizen
+GID00100894	Uderground Protectron
+GID00100896	Underground Protectron
+GID00100897	Headbanger's Turf
+GID00100898	Metal Box
+GID00100899	Ammo Cabinet
+GID00100900	Ammo Cabinet
+GID00100901	Ammunition Box
+GID00100902	Lakelurk Hybrid
+GID00100903	Radroach
+GID00100905	Jackal Gang Member
+GID00100906	Jackal Gang Member
+GID00100907	Jackal Gang Member
+GID00100908	Jackal Gang Member
+GID00100909	Jackal Gang Member
+GID00100910	Roland
+GID00100911	Drake
+GID00100912	Giant Warrior Ant
+GID00100913	Lakelurk
+GID00100914	Footlocker
+GID00100915	Hunting Rifle 5mm M
+GID00100916	Wasteland Adventurer
+GID00100917	Jackal Gang Member
+GID00100918	Pit Stop Bomb Shelter
+GID00100919	Armor Cabinet
+GID00100921	Koek
+GID00100922	Revier
+GID00100923	Lint
+GID00100924	Neys
+GID00100925	Scabs
+GID00100926	Vault 21
+GID00100927	Precision Targeting Chip
+GID00100928	Kinetic Power Booster
+GID00100929	High Density Pilot Light
+GID00100930	Fabrie's Shack
+GID00100931	Lakelurk
+GID00100932	Toolbox
+GID00100933	Wastelander
+GID00100934	Briefcase
+GID00100935	Briefcase
+GID00100937	Lakelurk
+GID00100938	Lakelurk King
+GID00100939	Fabrie
+GID00100940	Collins
+GID00100941	Smorgan
+GID00100953	Philippart's's Vendor Chest
+GID00100955	Reeve's Apartment B2 Key
+GID00100956	Safe
+GID00100957	.357 Magnum Revolver M
+GID00100958	Jackal Gang Member
+GID00100959	Unused Mini-Vault Home
+GID00100960	Lockjaw
+GID00100961	Metal Cabinet
+GID00100962	Refrigerator
+GID00100963	Ammunition Box
+GID00100964	Desk
+GID00100965	Fire Hose Box
+GID00100966	Legendary Warrior Ant
+GID00100967	Jackal Gang Member
+GID00100968	Torn Note
+GID00100969	Adventurer's Pack
+GID00100970	Footlocker
+GID00100971	Riddler's Toys and Games
+GID00100972	Metal Box
+GID00100973	Dumpster
+GID00100974	Metal Box
+GID00100975	Safe
+GID00100976	Underground Citizen
+GID00100977	Underground Trooper
+GID00100978	Lakelurk
+GID00100979	Railyard Station
+GID00100980	Wasteland Adventurer
+GID00100981	Refrigerator
+GID00100982	Frost's Key
+GID00100983	Safe
+GID00100984	Desk
+GID00100985	The Abyss
+GID00100986	Desk
+GID00100987	Rusty 4D Storage Device
+GID00100988	Rusty 4D Storage Device
+GID00100989	12.7mm Pistol M
+GID00100993	Parts needed for Heavy Incinerator M.
+GID00100994	Heavy Incinerator M
+GID00100995	Hyper Sledge M
+GID00100996	Parts needed for Hyper-Sledge M.
+GID00100998	Cottonwood Cove HQ
+GID00100999	Frost
+GID00101000	Legionary Burr
+GID00101002	Riddler's Toys And Games
+GID00101003	Gibson Scrap Yard
+GID00101005	Feral Ghoul
+GID00101006	Reservior Key Card
+GID00101007	Ruined School Desk
+GID00101008	Box
+GID00101009	Feral Ghoul
+GID00101010	Feral Ghoul Reaver
+GID00101011	Glowing Trooper Ghoul
+GID00101012	Duffle Bag
+GID00101013	Ammunition Box
+GID00101014	Viper's Lair
+GID00101015	Worker's Barracks
+GID00101016	Ghoul Adventurer
+GID00101017	Grenade Launcher M
+GID00101018	Roon
+GID00101019	Roon's Safe
+GID00101020	Roon's Safe
+GID00101022	Throne
+GID00101023	Ammo Cabinet
+GID00101024	Armor Cabinet
+GID00101025	Ammunition Box
+GID00101026	Chained Prostitute Outfit M
+GID00101028	Armor Cabinet
+GID00101029	Plasma Rifle M
+GID00101030	Crate
+GID00101031	Crate
+GID00101032	Lockjaw
+GID00101033	Baculus's Concentrated Psycho
+GID00101034	Wall Safe
+GID00101035	Legionary Kendall
+GID00101036	Legionary Steed
+GID00101037	Legion Recruit Michaels
+GID00101038	Viper Gunslinger
+GID00101039	Viper Gunslinger
+GID00101040	Viper Gunslinger
+GID00101041	Viper Gunslinger
+GID00101042	Viper Gunslinger
+GID00101043	Viper Gunslinger
+GID00101044	Viper Gunslinger
+GID00101045	Viper Gunslinger
+GID00101046	Trevor
+GID00101047	Ammunition Box
+GID00101048	Vex
+GID00101049	Viper's Lair
+GID00101050	Thief's Note
+GID00101051	Stash Toolbox
+GID00101052	Raven's Note
+GID00101053	Weapon Research Supervisor Note
+GID00101054	Supervisor's Terminal
+GID00101055	Camp McCarran Concourse
+GID00101056	North Cistern
+GID00101057	Metal Box
+GID00101058	Coporal Iapicca
+GID00101059	Trooper Wessels
+GID00101060	Trooper Nitzinsky
+GID00101061	Trooper O'Brien
+GID00101062	Trooper Oso
+GID00101063	Mlix
+GID00101064	Tech Psycho
+GID00101065	Tech Psycho Armor
+GID00101066	Tech Psycho Armor
+GID00101067	Tech Psycho Armor
+GID00101068	Metal Armor M
+GID00101069	Metal Armor, Reinforced M
+GID00101072	Reactor Sector B
+GID00101074	Lakelurk
+GID00101075	Tech Psycho
+GID00101076	Ballistic Fist M
+GID00101077	Tech Psycho
+GID00101078	Tech Psycho
+GID00101079	Tech Psycho
+GID00101080	Tech Psycho
+GID00101081	Tech Psycho
+GID00101082	Tech Psycho
+GID00101083	Tech Sadist
+GID00101084	Tech Sadist
+GID00101085	Tech Sadist
+GID00101086	Ravage
+GID00101087	Ravage's Bumper Sword
+GID00101088	Tech Raider Veteran
+GID00101089	Tech Raider Veteran
+GID00101090	Tech Raider Veteran
+GID00101091	Tech Warrior Parakov
+GID00101093	For The Underground
+GID00101096	aaIapiccaGoodToGo
+GID00101098	aaUGD01
+GID00101099	00UGD02
+GID00101100	00UGD03
+GID00101101	aaUGT01
+GID00101102	aaUGT02
+GID00101103	AAUGT03
+GID00101104	aaUGT04
+GID00101105	aaUGT05
+GID00101106	aaUGT06
+GID00101107	aaUGTMass
+GID00101108	aaCobbAttack
+GID00101109	aaIapiccaGoAlone
+GID00101110	Viper Gunslinger
+GID00101111	Viper Gunslinger
+GID00101112	Viper Gunslinger
+GID00101113	Viper Gunslinger
+GID00101114	Viper Gunslinger
+GID00101115	Viper Gunslinger
+GID00101116	Underground Citizen
+GID00101117	Radroach
+GID00101118	Giant Radroach
+GID00101119	Huge Radroach
+GID00101120	Crate
+GID00101121	Desk
+GID00101122	Safe
+GID00101123	Duffle Bag
+GID00101124	Scrawled Powder Ganger Note
+GID00101125	Explosives Crate
+GID00101126	Masseling
+GID00101127	Trapper's Shack
+GID00101128	Nightstalker Den
+GID00101129	Ammunition Box
+GID00101130	Filing Cabinet
+GID00101131	Footlocker
+GID00101132	Footlocker
+GID00101133	Ammunition Box
+GID00101134	Ammunition Box
+GID00101135	Fiend Butcher
+GID00101136	Fiend
+GID00101137	Safe
+GID00101138	Desk
+GID00101139	Desk
+GID00101140	Chained Prostitute Outfit M
+GID00101141	Nightstalker Den
+GID00101142	Update Terminal 01
+GID00101143	Update Terminal
+GID00101144	Toolbox
+GID00101145	Crate
+GID00101146	Gun Cabinet
+GID00101147	Metal Cabinet
+GID00101148	Searchlight Shelter Note
+GID00101149	Searchlight Bunker Terminal
+GID00101150	Sunnytime Note
+GID00101151	Sunnytime Terminal
+GID00101152	Jarvis's Note
+GID00101153	Safe
+GID00101154	Programmer's Note July 2123
+GID00101155	Programmer's Terminal
+GID00101156	Clark Field Reservior
+GID00101157	Metal Box
+GID00101158	Reed
+GID00101160	Reed's Safe
+GID00101161	Reed's Safe
+GID00101162	Underground Trooper
+GID00101163	.44 Magnum Revolver M
+GID00101164	Explosives Crate
+GID00101165	Briefcase
+GID00101166	Filing Cabinet
+GID00101167	Briefcase
+GID00101171	Locker
+GID00101172	Desk
+GID00101173	Desk
+GID00101174	Vault Monitoring Station Email 1
+GID00101175	Vault Monitoring Station Email 2
+GID00101176	Vault Monitoring Station Email 3
+GID00101177	Vault Monitoring Station Email 4
+GID00101178	Vault Monitoring Station Log 01
+GID00101179	Vault Monitoring Station Log 02
+GID00101180	Monitoring Station Terminal
+GID00101181	Box
+GID00101182	Wasteland Adventurer
+GID00101183	Grenade Rifle M
+GID00101184	Viper Gunslinger
+GID00101185	Feral Ghoul Reaver
+GID00101186	Feral Ghoul
+GID00101187	Young Golden Gecko
+GID00101188	Frantik
+GID00101189	Armored Businesswear M
+GID00101190	Frantik's Key
+GID00101191	Safe
+GID00101192	Cabinet
+GID00101193	Metal Box
+GID00101194	Ammunition Box
+GID00101195	Duffle Bag
+GID00101196	Mercenary's Orders
+GID00101197	Crate
+GID00101198	Baxter's Note
+GID00101199	Julie's Note
+GID00101200	Underground Trooper
+GID00101201	Duffle Bag
+GID00101202	Footlocker
+GID00101203	Duffle Bag
+GID00101204	Mess Hall Supplies
+GID00101205	Mark III Turret
+GID00101206	Feral Ghoul Reaver
+GID00101207	Glowing One
+GID00101208	Glowing One
+GID00101209	Glowing One
+GID00101210	Glowing Trooper Ghoul
+GID00101211	Feral Trooper Ghoul
+GID00101212	Feral Ghoul Roamer
+GID00101213	Feral Ghoul Roamer
+GID00101214	Feral Ghoul Reaver
+GID00101215	Feral Ghoul Reaver
+GID00101216	Crazed Ghoul
+GID00101217	Crazed Ghoul
+GID00101218	Beckett
+GID00101219	Crazed Ghoul
+GID00101220	Ammunition Box
+GID00101221	Abandoned House
+GID00101222	Ammunition Box
+GID00101223	Abandoned House
+GID00101224	Nevada Highway Patrol Station
+GID00101225	Locker
+GID00101226	Ammunition Box
+GID00101227	Mini-Vault Welcome Message
+GID00101228	Underground Rules & Regulations
+GID00101229	4D Storage Infomation
+GID00101230	Mercer's Note
+GID00101231	Review 01 - Don't Lie To Me
+GID00101232	Review 02 - Attack
+GID00101233	Review 03 - Hail To The Freaks
+GID00101234	Review 04 - Imagination/Knowledge
+GID00101235	Review 05 - 1000 Hours in 20 Minutes
+GID00101236	Review 06 - Way Of The Exploding Fist
+GID00101237	Review 07 - Battling Ignorance
+GID00101238	Review 08 - Plazmatekk
+GID00101239	Review 09 - Never Ending Obsession
+GID00101240	The Underground by Roach Part 1
+GID00101241	The Underground by Roach Part 2
+GID00101242	The Underground by Roach Part 3
+GID00101243	The Underground by Roach Part 4
+GID00101244	The Underground by Roach Part 5
+GID00101245	The Underground by Roach Part 6
+GID00101246	Welcome Terminal
+GID00101247	Footlocker
+GID00101248	Metal Box
+GID00101249	Locker
+GID00101250	Personal Footlocker
+GID00101251	Box
+GID00101252	Duffle Bag
+GID00101253	Briefcase
+GID00101254	Freetech Connoisseur
+GID00101255	Friend Of The Underground
+GID00101256	Underground Ally
+GID00101257	Review Message
+GID00101258	Review Message
+GID00101259	Review Message
+GID00101260	Review Message
+GID00101261	Review Message
+GID00101262	Review Message
+GID00101263	Review Message
+GID00101264	Review Message
+GID00101265	Review Message
+GID00101266	History Message
+GID00101267	History Message
+GID00101268	History Message
+GID00101269	History Message
+GID00101270	History Message
+GID00101271	History Message
+GID00101273	Crazed Ghoul
+GID00101274	Crazed Ghoul
+GID00101275	Crazed Ghoul
+GID00101276	Abandoned Home
+GID00101277	Box
+GID00101278	Young Night Stalker
+GID00101280	Night Stalker
+GID00101282	Giant NightStalker
+GID00101283	NightStalker Abomination
+GID00101284	Ammunition Box
+GID00101285	Wasteland Merchant
+GID00101286	Tech Warrior
+GID00101287	Gatling Laser M
+GID00101288	Tech Psycho
+GID00101289	Underground Trooper
+GID00101290	Wastelander
+GID00101291	Trained NightStalker
+GID00101292	Trained Giant NightStalker
+GID00101293	Trained Night Stalker
+GID00101294	Abandoned Home
+GID00101295	Ammunition Box
+GID00101296	Trained Night Stalker
+GID00101297	Armor Cabinet
+GID00101298	Searchlight Bomb Shelter
+GID00101299	Locker
+GID00101300	Locker
+GID00101301	Suitcase
+GID00101302	Abandoned Home
+GID00101303	Ammunition Box
+GID00101304	Underground Citizen
+GID00101305	Security Room Key
+GID00101306	Power Station B
+GID00101307	Ammunition Box
+GID00101308	Toolbox
+GID00101309	Abandoned House
+GID00101310	Wall Safe
+GID00101311	Safe
+GID00101312	Gun Cabinet
+GID00101313	Hunting Revolver M
+GID00101314	Locker
+GID00101315	Radscorpion
+GID00101316	Freezer Box
+GID00101317	Freezer Box
+GID00101318	Ammunition Box
+GID00101319	NCR Ranger
+GID00101320	NCR Ranger
+GID00101321	NCR Trooper
+GID00101322	NCR Trooper
+GID00101323	Crate
+GID00101324	NCR Trooper
+GID00101325	Ghoul Trooper
+GID00101326	Ghoul Trooper
+GID00101327	Ghoul Trooper
+GID00101328	Ghoul Trooper
+GID00101329	Searchlight Sewers
+GID00101330	Kitchen Cabinet
+GID00101331	Roach Review 1
+GID00101332	Roach Review 2
+GID00101333	Roach Review 3
+GID00101334	Roach Review 4
+GID00101335	Roach Review 5
+GID00101336	Roach Review 6
+GID00101337	Roach Review 7
+GID00101338	Roach Review 8
+GID00101339	Roach Review 9
+GID00101340	Roach History 1
+GID00101341	Roach History 2
+GID00101342	Roach History 3
+GID00101343	Roach History 4
+GID00101344	Roach History 5
+GID00101345	Roach History 6
+GID00101346	Wall Safe
+GID00101347	Underground Trooper
+GID00101348	Multiplas Rifle M
+GID00101349	NCR Mohave Bunker Email 1
+GID00101350	NCR Mohave Bunker Email 2
+GID00101351	NCR Mohave Bunker Email 3
+GID00101352	NCR Mohave Bunker Email 4
+GID00101353	NCR Mohave Bunker Email 5
+GID00101354	NCR Captain's Terminal
+GID00101355	Emergency Service Station
+GID00101356	Powder Ganger Bully
+GID00101357	Footlocker
+GID00101358	Ammunition Box
+GID00101359	NCR Trooper
+GID00101360	Brewer's Beer Bootlegging
+GID00101361	Footlocker
+GID00101362	Locker
+GID00101363	Armor Cabinet
+GID00101364	Tech Raider
+GID00101365	Tech Raider
+GID00101366	Tech Raider
+GID00101367	Tech Raider
+GID00101368	Tech Raider
+GID00101369	Tech Raider
+GID00101370	Tech Raider
+GID00101371	Tech Raider
+GID00101372	Tech Raider
+GID00101373	Tech Raider
+GID00101374	Tech Raider Veteran
+GID00101375	Safe
+GID00101376	Tech Raider Veteran
+GID00101377	Tech Raider Veteran
+GID00101378	Tech Raider Veteran
+GID00101379	Tech Raider Veteran
+GID00101380	Tech Raider Warrior
+GID00101381	Tech Raider Warrior
+GID00101382	Tech Raider Warrior
+GID00101383	Tech Warrior Granger
+GID00101384	Thraxx
+GID00101385	Tech Psycho
+GID00101386	12.7mm Submachine Gun M
+GID00101387	Tech Psycho
+GID00101388	Tech Psycho
+GID00101389	Tech Psycho
+GID00101390	Gun Cabinet
+GID00101391	Tech Psycho
+GID00101392	Ripper M
+GID00101393	Footlocker
+GID00101394	Ammunition Box
+GID00101395	NCR Trooper
+GID00101396	Tech Raider Sentry Bot
+GID00101397	Tech Raider Sentry Bot
+GID00101398	Box
+GID00101399	Ammunition Box
+GID00101400	Underground Citizen
+GID00101401	Gregor
+GID00101402	Peaches
+GID00101403	Crazed Ghoul
+GID00101404	Crazed Ghoul
+GID00101405	Crazed Ghoul
+GID00101406	Frankie
+GID00101407	Underground West Access Key
+GID00101408	Frankies Vendor Chest
+GID00101409	Frankies Vendor Chest
+GID00101410	Tech Raider Barracks
+GID00101411	Searchlight Sewers
+GID00101412	Footlocker
+GID00101413	Toolbox
+GID00101414	Nipton Sewer Staff Key
+GID00101415	Kitchen Cabinet
+GID00101416	Desk
+GID00101417	Ammunition Box
+GID00101418	Desk
+GID00101419	Hyper-Reality or Reality?
+GID00101420	Hyper-Real Score List
+GID00101421	100 Year Celebrations
+GID00101422	Nuka-Cola fridge
+GID00101423	Locker
+GID00101424	Locker
+GID00101425	Locker
+GID00101426	Tech Raider
+GID00101427	Tech Raider
+GID00101428	Craze
+GID00101429	Tech Raider
+GID00101430	Boarding Room Key
+GID00101431	Underground Citizen
+GID00101432	Auxiliary Generator
+GID00101433	Crate
+GID00101434	Mini-Vault Home
+GID00101435	Ammunition Box
+GID00101436	Nightkin Master
+GID00101437	Klaus's Orders
+GID00101438	Desk
+GID00101439	Trunk
+GID00101440	Scowell's Mini-Vault Home
+GID00101441	Craze's Note
+GID00101442	aaRoach3
+GID00101443	Locker
+GID00101444	Gun Cabinet
+GID00101445	Protectron
+GID00101446	Crazed Ghoul
+GID00101447	Waste Relocation Note
+GID00101448	Corrupt Note
+GID00101449	Corrupt Note
+GID00101450	Construction Terminal
+GID00101451	Locker
+GID00101452	Refrigerator
+GID00101453	Ammunition Box
+GID00101454	Ammunition Box
+GID00101455	Searchlight East Gold Mine
+GID00101457	Bunker Lower Levels
+GID00101458	Armor Cabinet
+GID00101459	Enclave Footlocker
+GID00101460	Refrigerator
+GID00101461	Tech Raider
+GID00101462	Tech Raider
+GID00101463	Tech Raider
+GID00101464	Tech Raider
+GID00101465	Tech Raider
+GID00101466	Tech Raider
+GID00101467	Tech Raider Veteran
+GID00101468	Tech Raider Veteran
+GID00101469	Tech Raider
+GID00101470	Tech Psycho
+GID00101471	Tech Sadist
+GID00101472	Tech Raider Warrior
+GID00101473	Vernon
+GID00101474	Tech Raider
+GID00101475	Tesla Cannon M
+GID00101476	Tech Raider
+GID00101477	Tech Raider
+GID00101478	Tech Raider Veteran
+GID00101479	Underground Emergency Station
+GID00101480	Bertha
+GID00101481	Labal
+GID00101482	Quarry Junction Rest Area
+GID00101483	Freezer Box
+GID00101484	Fridge Box
+GID00101485	Fridge Box
+GID00101486	Metal Box
+GID00101487	Mark VI Turret
+GID00101488	Desk
+GID00101489	Locker
+GID00101490	Broken Window
+GID00101491	Vault 40 Detonation Orders
+GID00101492	Vault 40 Terminal
+GID00101493	Vault 41
+GID00101494	NCR Trooper
+GID00101495	Metal Box
+GID00101496	Duffle Bag
+GID00101497	Ammunition Box
+GID00101498	Locker
+GID00101499	Refrigerator
+GID00101500	Power Failiure
+GID00101501	Rescue
+GID00101502	Metal Cabinet
+GID00101503	Johnny's Terminal
+GID00101504	Home Sweet Home
+GID00101505	Northern Defeat
+GID00101506	Basement Sounds
+GID00101507	School Cabinet
+GID00101508	School Cabinet
+GID00101509	Doctor Usanagi Store
+GID00101511	Recruit's Diary
+GID00101512	Footlocker
+GID00101513	Sewer Dweller's Note
+GID00101514	Nipton Sewer Security Keycard
+GID00101515	Duffle Bag
+GID00101517	Jarvis's Orders
+GID00101518	Locker
+GID00101519	More HP Ammo
+GID00101520	Filing Cabinet
+GID00101521	Personal Footlocker
+GID00101522	Duffle Bag
+GID00101523	Toolbox
+GID00101524	Toolbox
+GID00101525	Toolbox
+GID00101526	Gun Cabinet
+GID00101527	Laser Rifle M
+GID00101528	Armor Cabinet
+GID00101529	Briefcase
+GID00101530	Locker
+GID00101531	Quarry Junction Note
+GID00101532	Briefcase
+GID00101533	Ranovich's Log 21-07-81
+GID00101534	Ranovich's Log 25-07-81
+GID00101535	Ranovich's Log 30-07-81
+GID00101536	Searchlight NCR Terminal
+GID00101537	Safe
+GID00101538	Vault 41 Trooper
+GID00101539	Vault 41 Trooper
+GID00101540	Vault 41 Trooper
+GID00101541	Vault 41 Officer
+GID00101542	Ammo Cabinet
+GID00101543	Weapon Cabinet
+GID00101544	Armor Cabinet
+GID00101545	Vault 41 Officer
+GID00101546	NCR Trooper
+GID00101547	Vault 41 Trooper
+GID00101548	NCR Ranger
+GID00101549	NCR Trooper
+GID00101550	NCR Trooper
+GID00101551	Giant Radscorpion
+GID00101552	Tech Raider
+GID00101553	Small Radscorpion
+GID00101554	Tech Raider
+GID00101555	Tech Raider
+GID00101556	Tech Raider
+GID00101557	Tech Raider
+GID00101558	Armory Key
+GID00101559	Tech Raider
+GID00101560	Tech Raider
+GID00101561	Tech Raider
+GID00101562	NCR Trooper
+GID00101563	Tech Raider
+GID00101564	Tech Raider
+GID00101565	Tech Raider
+GID00101566	Tech Raider
+GID00101567	Tech Raider
+GID00101568	Tech Raider
+GID00101569	Tech Raider
+GID00101570	Martinez
+GID00101571	Bodyguard
+GID00101572	History Of The Underground
+GID00101573	Explosives Crate
+GID00101574	Explosives Crate
+GID00101575	Desk
+GID00101576	Tech Raider
+GID00101577	Tech Raider
+GID00101578	Tech Raider
+GID00101579	Desk
+GID00101580	Safe
+GID00101581	Desk
+GID00101582	Tech Raider Security Bot
+GID00101583	Mister Gutsy
+GID00101584	Tech Raider Sentry Bot
+GID00101587	Vault 41
+GID00101588	Living Quarters
+GID00101589	Tech Raider Turret
+GID00101590	Underground Military HQ
+GID00101591	Underground Ally Perk Unlocked!
+GID00101592	Freetech Connosieur Unlocked!
+GID00101593	Friend Of The Underground
+GID00101594	Underground Ally
+GID00101595	A World Of Pain Loot Destruction
+GID00101596	The Bison Steve Hotel
+GID00101597	Ammunition Box
+GID00101598	Vault 41 Trooper
+GID00101599	Dresser
+GID00101600	Dresser
+GID00101601	Cabinet
+GID00101602	Metal Box
+GID00101603	History Of The Underground Part 2
+GID00101604	Goodsprings House Key
+GID00101605	JSD Terminal Entry 01
+GID00101606	JSD Terminal Entry 02
+GID00101607	JSD Terminal Entry 03
+GID00101608	JSD Terminal Entry 04
+GID00101609	JSD Terminal Entry 05
+GID00101610	V40 Terminal Entry 01
+GID00101611	V40 Terminal Entry 02
+GID00101612	V40 Terminal Entry 03
+GID00101613	V40 Terminal Entry 04
+GID00101614	Henderson's Diary Part 1
+GID00101615	Henderson's Diary Part 2
+GID00101616	Henderson's Diary Part 3
+GID00101617	V41 Phillips Log 01
+GID00101618	V41 Phillips Log 02
+GID00101619	V41 Maddox Log 01
+GID00101620	V41 Maddox Log 02
+GID00101621	V41 Maddox Log 03
+GID00101622	V41 Maddox Log 04
+GID00101623	Rick's Terminal
+GID00101624	Vault 40 Armory Terminal
+GID00101625	Research Terminal 01
+GID00101626	Lt. Phillip's Terminal
+GID00101627	Maddox's Terminal
+GID00101628	Ammunition Box
+GID00101629	Footlocker
+GID00101630	Armor Cabinet
+GID00101631	Toolbox
+GID00101632	Underground Ally
+GID00101633	Powder Ganger Bully
+GID00101634	Ammunition Box
+GID00101635	Ammunition Box
+GID00101636	Ammunition Box
+GID00101637	Refrigerator
+GID00101638	Box
+GID00101639	Ammunition Box
+GID00101640	Ammunition Box
+GID00101641	Ammunition Box
+GID00101642	Tech Raider
+GID00101643	Tech Raider
+GID00101644	Vault 41 Trooper
+GID00101645	Vault 41 Trooper
+GID00101646	Vault 41 Veteran
+GID00101647	General Maddox
+GID00101648	Locker
+GID00101649	Locker
+GID00101650	Metal Cabinet
+GID00101651	Metal Cabinet
+GID00101652	Dumpster
+GID00101653	Power Station A Reactor
+GID00101654	Zed's Caverns
+GID00101655	Lieutenant Phillips
+GID00101656	Vault 41 Technician
+GID00101657	Doc Powell
+GID00101658	Vault 41 Veteran
+GID00101659	Tech Raider
+GID00101660	Tech Raider
+GID00101661	Tech Raider
+GID00101662	Tech Raider
+GID00101663	Tech Raider
+GID00101664	Tech Raider
+GID00101665	Tech Raider
+GID00101666	Tech Raider
+GID00101667	Tech Raider
+GID00101668	Tech Raider
+GID00101669	Tech Raider
+GID00101670	Tech Raider
+GID00101671	Tech Raider
+GID00101672	Tech Raider
+GID00101673	Tech Raider
+GID00101674	Cooper
+GID00101675	Tyrone
+GID00101676	Reactor Sector Key
+GID00101677	9mm Submachine Gun M
+GID00101678	Sack
+GID00101679	Tech Glasses M
+GID00101681	Safe
+GID00101682	Wall Safe
+GID00101683	Gun Cabinet
+GID00101684	SCAB'S ORDERS
+GID00101685	Metal Cabinet
+GID00101686	Duffle Bag
+GID00101687	Suitcase
+GID00101688	Safe
+GID00101689	Spring Mt Storage Key
+GID00101690	Desk
+GID00101691	Alfie's Diary Extract
+GID00101692	Torn Investment Proposal
+GID00101694	Medical Fridge Key
+GID00101695	Blast-Damaged 4D Storage Device
+GID00101696	Blast-Damaged 4D Storage Device
+GID00101697	Tech Raider
+GID00101698	Tech Raider
+GID00101699	The Arena
+GID00101700	Desk
+GID00101701	Ammunition Box
+GID00101702	Sunnytime Cigarettes HQ
+GID00101703	Sunnytime Cigarettes HQ
+GID00101704	Wall Safe
+GID00101705	Level 1 Access Key Card
+GID00101706	Level 2 Access Key Card
+GID00101707	HQ Armory Key 1 of 3
+GID00101708	HQ Armory Key 2 of 3
+GID00101709	HQ Armory Key 3 of 3
+GID00101710	Tech Raider
+GID00101711	Grenade Machinegun M
+GID00101712	Missile Launcher M
+GID00101713	Sniper Rifle M
+GID00101714	Tech Raider
+GID00101715	Tech Raider
+GID00101716	Tech Raider
+GID00101717	Tech Raider
+GID00101718	Tech Raider
+GID00101719	Tech Raider
+GID00101720	Tech Raider
+GID00101721	Tech Raider
+GID00101722	Tech Raider
+GID00101723	Tech Raider Veteran
+GID00101724	Tech Raider Veteran
+GID00101725	Tech Raider Veteran
+GID00101726	Tech Raider Veteran
+GID00101727	Tech Raider Veteran
+GID00101728	Tech Psycho
+GID00101729	Tech Psycho
+GID00101730	Tech Psycho
+GID00101731	Tech Sadist
+GID00101732	Tech Sadist
+GID00101733	Commander Scowell
+GID00101734	Carnage
+GID00101735	Tech Raider Veteran
+GID00101736	Tech Raider Warrior
+GID00101737	Tech Raider Warrior
+GID00101738	Tech Raider Security Bot
+GID00101739	Tech Raider Sentry Bot
+GID00101740	Tech Raider Nightstalker
+GID00101741	Tech Raider Nightstalker
+GID00101742	Tech Raider
+GID00101743	Tech Raider
+GID00101744	Tech Raider
+GID00101745	Tech Raider
+GID00101746	Tech Raider
+GID00101747	Tech Raider
+GID00101748	Tech Raider Veteran
+GID00101749	Tech Raider Veteran
+GID00101750	Ammunition Box
+GID00101751	Sink
+GID00101752	Toilet
+GID00101753	Metal Box
+GID00101754	Gecko Hunter's Torn Note
+GID00101755	Ammunition Box
+GID00101756	Safe
+GID00101757	Tech Raider Veteran
+GID00101758	Tech Raider Veteran
+GID00101759	Tech Raider Warrior
+GID00101760	Tech Raider Warrior
+GID00101761	Tech Psycho
+GID00101762	Tech Psycho
+GID00101763	Tech Sadist
+GID00101764	Tech Sadist
+GID00101765	Preston
+GID00101766	Tech Psycho
+GID00101767	Tech Psycho
+GID00101768	Wastelander
+GID00101769	Underground Trooper
+GID00101770	Tech Raider Warrior
+GID00101771	Tech Raider
+GID00101772	Tech Raider
+GID00101773	Tech Raider
+GID00101774	Tech Raider
+GID00101775	Tech Raider
+GID00101776	Tech Raider
+GID00101777	Tech Raider Veteran
+GID00101778	Tech Raider Veteran
+GID00101779	Trobar
+GID00101780	Tech Psycho
+GID00101781	Tech Raider Warrior
+GID00101782	Chainsaw M
+GID00101783	Tech Psycho
+GID00101784	Tech Psycho
+GID00101785	Tech Psycho
+GID00101786	aaCobbReward
+GID00101787	aaIapiccaReward
+GID00101788	Scowell's Quarter's Key
+GID00101789	aaMlixRehire
+GID00101790	aaMasselRehire
+GID00101791	Power Plant A Reactor Key
+GID00101792	Rusty
+GID00101793	Glowing One
+GID00101794	Explosives Crate
+GID00101795	Wastelander
+GID00101796	Duffle Bag
+GID00101797	Varmint Rifle M
+GID00101798	Wastelander
+GID00101799	Safe
+GID00101800	Safe
+GID00101801	Ammunition Box
+GID00101802	Broadcast Building Mid Level
+GID00101803	Repaired Pre-War Terminal
+GID00101804	Restored Pre-War Computer
+GID00101805	Fire Ant Worker
+GID00101806	Fire Ant Worker
+GID00101807	Tech Raider Collar
+GID00101808	Metal Box
+GID00101809	Ammunition Box
+GID00101810	Ammunition Box
+GID00101811	Spring Mountain Visitors Centre
+GID00101812	Desk
+GID00101813	Recharger Defender Mk 15 Test Notes
+GID00101814	Personal Footlocker
+GID00101815	Vault Military Trenchcoat
+GID00101818	Boulder Sewer Access Key
+GID00101819	Safe
+GID00101820	Spring Mount Underground Station
+GID00101821	Refrigerator
+GID00101822	Freeside Thug Hangout
+GID00101823	Ammunition Box
+GID00101824	Toolbox
+GID00101825	School Cabinet
+GID00101826	Rad Box
+GID00101828	Lost Legionary
+GID00101829	Lost Legionary
+GID00101830	Zed's Mini-Mart Key
+GID00101831	Ammunition Box
+GID00101832	Footlocker
+GID00101833	Lost Legionary
+GID00101834	Locker
+GID00101835	Kitchen Cabinet
+GID00101836	Refrigerator
+GID00101837	Armor Cabinet
+GID00101838	Ammunition Box
+GID00101839	Mojave Wasteland
+GID00101840	Lost Legionary
+GID00101841	Trail Carbine M
+GID00101842	Wasteland Explorer
+GID00101843	Ammunition Box
+GID00101844	Crazy Alfie's Room Key
+GID00101845	Crazy Alfie
+GID00101846	Sack
+GID00101847	Praetorian Cornelius
+GID00101848	Lost Legionary
+GID00101849	Lost Legionary
+GID00101850	Veteran Fire Ant Worker
+GID00101851	Veteran Fire Ant Soldier
+GID00101852	Sgt Beenings
+GID00101853	The Radshack
+GID00101854	Never-Glow
+GID00101855	Rad Box
+GID00101856	Ammunition Box
+GID00101857	Zed's Mini-Mart
+GID00101858	Desk
+GID00101859	Rotting Corpse
+GID00101860	Never Glow Effect
+GID00101861	Boulder Sewer
+GID00101862	Zorobabel's Threat
+GID00101863	Zorobabel
+GID00101864	Jean Sky Diving
+GID00101865	The Devil's Gullet
+GID00101866	Pit-Stop Bomb Shelter
+GID00101867	Baxter's Dogtag
+GID00101868	Frost's Ear
+GID00101871	Father Stack's Note
+GID00101874	Crate
+GID00101875	Concentr8 Pills Red
+GID00101876	Concentr8 Pills Blue
+GID00101877	Concentr8 Pills Yellow
+GID00101878	Concentr8 Pills Green
+GID00101879	Concentr8 Pills Purple
+GID00101880	Ammo Cabinet
+GID00101881	Metal Cabinet
+GID00101882	Sunset Sarsaparilla Crate
+GID00101883	Note for Pez
+GID00101884	Pez
+GID00101885	Armor Cabinet
+GID00101886	Crate
+GID00101887	Crate
+GID00101888	Crate
+GID00101889	Crate
+GID00101890	Trunk
+GID00101891	Ghoul Ear
+GID00101892	Glowing Trooper Ghoul
+GID00101893	Glowing Trooper Ghoul
+GID00101894	Feral Ghoul Roamer
+GID00101895	Glowing One
+GID00101896	Feral Ghoul Roamer
+GID00101897	Feral Ghoul
+GID00101898	Ammunition Box
+GID00101899	Ammunition Box
+GID00101900	Duffle Bag
+GID00101902	Samson Office Block
+GID00101903	Wardrobe
+GID00101904	Gauss Rifle M
+GID00101905	Safe
+GID00101906	Safe
+GID00101907	Safe
+GID00101908	Smokey
+GID00101909	Rex
+GID00101910	Super Mutant Dwarf
+GID00101911	Super Mutant Dwarf
+GID00101912	Caleb
+GID00101913	Incinerator M
+GID00101914	Super Mutant Dwarf
+GID00101915	Hotel Room A2 Key
+GID00101916	Duffle Bag
+GID00101917	Toxic Radshine
+GID00101919	Iron Belly
+GID00101920	Kent
+GID00101921	Salvador
+GID00101922	Ammunition Box
+GID00101923	Feral Trooper Ghoul
+GID00101924	Feral Trooper Ghoul
+GID00101925	Feral Ghoul Reaver
+GID00101926	Metal Box
+GID00101927	NCR Bodyguard Orders
+GID00101928	Ammunition Box
+GID00101929	Briefcase
+GID00101930	Feral Ghoul Reaver
+GID00101931	Sack
+GID00101932	Nightkin Master
+GID00101933	Super Mutant Master
+GID00101934	Super Mutant Master
+GID00101935	Super Mutant Brute
+GID00101936	Super Mutant Brute
+GID00101937	Super Mutant Brute
+GID00101938	Samson Crushing Plant
+GID00101939	Crushing Plant Key
+GID00101940	Samson Cavern
+GID00101941	Metal Cabinet
+GID00101942	Metal Box
+GID00101943	Metal Box
+GID00101944	Footlocker
+GID00101945	Crate
+GID00101946	Crate
+GID00101947	Bonnie Springs Sewers
+GID00101948	Box
+GID00101949	Safe
+GID00101950	Armor Cabinet
+GID00101951	Gun Cabinet
+GID00101952	Metal Cabinet
+GID00101953	First Aid Box
+GID00101954	Wall Safe
+GID00101955	Ammunition Box
+GID00101956	Crate
+GID00101957	Metal Box
+GID00101958	Enclave Trooper Note
+GID00101959	Kent's Confession
+GID00101960	Fall Back!
+GID00101961	Fiend's Diary Extract
+GID00101962	Desk
+GID00101963	Local Toxicity Report
+GID00101964	Boomer's Redoubt Report
+GID00101965	Redoubt 6AF14 Terminal
+GID00101966	Outgoing Email
+GID00101967	Incoming Email
+GID00101968	Outgoing Email
+GID00101969	Worker's Terminal
+GID00101973	Zap Glove M
+GID00101974	Rotting Corpse
+GID00101975	Watch Tower
+GID00101976	Crate
+GID00101977	Supervisor's Shack
+GID00101978	Watch Tower Key
+GID00101979	Safe
+GID00101980	Samson Divide
+GID00101981	Junction 15 Station
+GID00101982	9mm Submachine Gun Drum M
+GID00101983	Grenade Box
+GID00101984	Centurion Baculus
+GID00101985	Cash Register
+GID00101986	Pre-War Travel Pass
+GID00101987	NCR Ranger
+GID00101988	Freeside Bank
+GID00101989	Wall Safe
+GID00101990	Ammunition Box
+GID00101991	Power Fist M
+GID00101992	Safe
+GID00101993	Wall Safe
+GID00101994	Briefcase
+GID00101995	Safe
+GID00101996	Wall Safe
+GID00101997	Door
+GID00101998	Store Room
+GID00101999	Combat Armor, Reinforced M
+GID00102000	Trunk
+GID00102001	Briefcase
+GID00102002	Safe
+GID00102003	Quarry Junction Break Room
+GID00102004	Trunk
+GID00102005	Hunting Shotgun M
+GID00102006	Metal Box
+GID00102007	Ammo Cabinet
+GID00102008	Armor Cabinet
+GID00102009	Goodsprings Sewers
+GID00102010	Freeside Thug
+GID00102011	Freeside Thug
+GID00102012	Freeside Thug
+GID00102013	Freeside Thug
+GID00102014	Freeside Thug
+GID00102015	Freeside Thug
+GID00102016	Freeside Thug
+GID00102017	Freeside Thug
+GID00102018	Freeside Thug
+GID00102019	Freeside Thug
+GID00102020	Freeside Thug
+GID00102021	Freeside Thug
+GID00102022	Freeside Thug
+GID00102023	Freeside Thug
+GID00102024	Freeside Thug
+GID00102025	Drenzer
+GID00102026	Freeside Thug
+GID00102027	Freeside Thug Hangout
+GID00102028	Blake's Shop
+GID00102029	Hopewell Apartments
+GID00102030	Safe
+GID00102031	Wilf
+GID00102032	Klaus
+GID00102033	Nightkin Master
+GID00102034	Viper Gunslinger
+GID00102035	Duffle Bag
+GID00102036	Recon Armor M
+GID00102038	Viper Gunslinger
+GID00102039	Super Mutant Brute
+GID00102040	Klaus's Key
+GID00102041	Super Mutant Brute
+GID00102042	Glowing Trooper Ghoul
+GID00102043	Gorm
+GID00102044	Viper Gunslinger
+GID00102045	Viper Gunslinger
+GID00102046	Viper Gunslinger
+GID00102047	Viper Gunslinger
+GID00102048	Viper Gunslinger
+GID00102049	Viper Gunslinger
+GID00102050	Viper Gunslinger
+GID00102051	Viper Gunslinger
+GID00102052	Viper Gunslinger
+GID00102053	Viper Gunslinger
+GID00102054	Viper Gunslinger
+GID00102055	Viper Gunslinger
+GID00102056	Carlos
+GID00102057	Minigun M
+GID00102058	Bonnie Springs Sewer
+GID00102059	Wall Safe
+GID00102060	Rotting Human Corpse
+GID00102061	Rotting Corpse
+GID00102062	Safe
+GID00102063	Trunk
+GID00102064	Denton's Room Key
+GID00102065	Metal Box
+GID00102066	The Beast
+GID00102067	Denton's Note
+GID00102068	Denton's Terminal
+GID00102069	Silenced .22 Pistol M
+GID00102070	Sewer Storage Key
+GID00102071	Lost Legion Armory Master
+GID00102072	Lost Legionary
+GID00102073	Duffle Bag
+GID00102074	Lost Legionary
+GID00102075	Lost Legionary
+GID00102076	Lost Legionary
+GID00102077	Lost Legionary
+GID00102078	Lost Legionary
+GID00102079	Lost Legion Decanus
+GID00102080	Giant Ant Queen
+GID00102081	Mr Snips
+GID00102082	Lost Legion Camp
+GID00102083	Hopewell Apartments
+GID00102084	Samson Engineer's Mail
+GID00102085	Engineer's Terminal
+GID00102086	Greenblood Caves
+GID00102087	Greenblood Caves
+GID00102088	Crate
+GID00102089	Crate
+GID00102090	Med Box
+GID00102091	Service Rifle M
+GID00102092	Giant Mole Rat
+GID00102093	Wasteland Adventurer
+GID00102094	Thumping Sequoia M
+GID00102095	Spore Carrier Runt
+GID00102096	Spore Carrier Brute
+GID00102097	Spore Carrier Savage
+GID00102099	Spore Carrier Giant
+GID00102100	Wastelander
+GID00102101	Baxter
+GID00102102	Goodsprings Sewer
+GID00102103	Spore Carrier
+GID00102104	Desk
+GID00102105	Bomb Shelter
+GID00102106	Wall Safe
+GID00102107	Spore Carrier Giant
+GID00102108	Crate
+GID00102109	Crate
+GID00102110	Safe
+GID00102111	Ammunition Box
+GID00102112	Filing Cabinet
+GID00102113	Filing Cabinet
+GID00102114	Armored Radiation Suit M
+GID00102115	Armor Cabinet
+GID00102116	Fiend
+GID00102117	Fiend
+GID00102118	Fiend
+GID00102119	Fiend
+GID00102120	Fiend
+GID00102121	Doctor Canton Store
+GID00102122	The Bug Lord
+GID00102124	Blastmaster Armor M
+GID00102125	Bladed Gauntlet M
+GID00102127	Giant Worker Ant
+GID00102128	Giant Soldier Ant
+GID00102129	Radroach
+GID00102130	Radscorpion
+GID00102131	Bark Scorpion
+GID00102132	Giant Mantis Nymph
+GID00102133	Giant Rat
+GID00102134	Mole Rat
+GID00102135	Fire Ant Soldier
+GID00102136	Giant Worker Ant
+GID00102137	Bark Scorpion
+GID00102138	Rat
+GID00102139	Mole Rat
+GID00102140	Giant Mantis Nymph
+GID00102141	Radscorpion
+GID00102142	Fire Ant
+GID00102143	Reimann Cave
+GID00102144	Fiend Owned House
+GID00102145	Searchlight Church Basement
+GID00102146	Cottonwood Bunker
+GID00102147	Octavius's Orders
+GID00102148	Cornelius's Diary Part 1
+GID00102149	Cornelius's Diary Part 2
+GID00102150	Cornelius's Diary Part 3
+GID00102151	Cornelius's Diary Part 4
+GID00102152	Cornelius's Diary Part 5
+GID00102153	Cornelius's Diary Part 6
+GID00102154	Cornelius's Diary Part 7
+GID00102155	Cornelius's Diary Part 8
+GID00102156	Desk
+GID00102157	Note from Jules
+GID00102158	Pit-Stop Public Terminal
+GID00102159	Crate
+GID00102160	I am the Bug Lord!
+GID00102161	Radroach
+GID00102162	Radscorpion
+GID00102163	Worker's Terminal Log
+GID00102164	Carlos's Confession
+GID00102165	Vex's Diary
+GID00102166	Scawled Note
+GID00102167	Trooper's Note
+GID00102168	Adventurer's Note
+GID00102169	Supervisor's Terminal
+GID00102170	Space
+GID00102173	Space's Vendor Chest
+GID00102174	Fiend Bunker
+GID00102175	Crate
+GID00102176	Kitchen Cabinet
+GID00102177	Ammunition Box
+GID00102178	Fiend Hideout
+GID00102179	Chet Inventory
+GID00102180	Fiend
+GID00102181	Ammunition Box
+GID00102182	Ammunition Box
+GID00102183	Fiend
+GID00102184	Fiend
+GID00102185	Fiend House
+GID00102186	Powder Ganger
+GID00102187	Powder Ganger
+GID00102188	Powder Ganger
+GID00102189	Powder Ganger
+GID00102190	Powder Ganger
+GID00102191	Powder Ganger
+GID00102192	Goodsprings Abandoned Home
+GID00102193	Basement
+GID00102194	Crate
+GID00102195	Ammo Cabinet
+GID00102196	Wasteland Guard
+GID00102197	Reimann Bunker Key Card
+GID00102198	Safe
+GID00102199	Goodsprings Basement Key
+GID00102200	Fiend's Terminal
+GID00102201	Summer Springs Boarding House
+GID00102202	Metal Box
+GID00102203	Metal Box
+GID00102204	Trunk
+GID00102205	Tech Raider
+GID00102206	Tech Raider
+GID00102207	Tech Raider
+GID00102208	Tech Raider
+GID00102209	Tech Raider
+GID00102210	Tech Raider
+GID00102211	Tech Raider
+GID00102212	Summer Springs Hotel Room
+GID00102213	Fiend
+GID00102214	Fiend
+GID00102215	Fiend
+GID00102216	Fiend
+GID00102217	Fiend
+GID00102218	Fiend
+GID00102219	Fiend
+GID00102220	Fiend
+GID00102221	Fiend
+GID00102222	Fiend
+GID00102223	Fiend
+GID00102224	Fiend
+GID00102225	Fiend
+GID00102226	Fiend Veteran
+GID00102227	Mimzy
+GID00102228	Henry
+GID00102229	Lucifer
+GID00102230	Shishkebab M
+GID00102231	Summer Springs Hotel Room
+GID00102232	Summer Springs Boarding House
+GID00102233	Anti-Materiel Rifle M
+GID00102234	Ammunition Box
+GID00102235	Lost Legionary
+GID00102236	Lost Legionary
+GID00102237	Lost Legionary
+GID00102238	Lost Legionary
+GID00102239	Lost Legionary
+GID00102240	Lost Legionary
+GID00102241	Lost Legion Decanus
+GID00102242	Lost Legionary
+GID00102243	Lost Legionary
+GID00102244	Lost Legionary
+GID00102245	Lost Legion Veteran
+GID00102246	Lost Legion Veteran
+GID00102247	Lost Legion Veteran
+GID00102248	Lost Legion Veteran
+GID00102249	Lost Legion Vexillarius
+GID00102250	Lost Legion Vexillarius
+GID00102251	Lost Legion Vexillarius
+GID00102252	Lost Legion Veteran
+GID00102253	Lost Legion Praetorian
+GID00102254	Lost Legion Praetorian
+GID00102255	Centurion Octavius
+GID00102256	Flamer
+GID00102257	Flamer
+GID00102258	Painspike Armor M
+GID00102260	Fiend Hideout
+GID00102261	Home Terminal
+GID00102262	FEV Delivery Orders
+GID00102263	Henry's Diary 01
+GID00102264	Henry's Diary 02
+GID00102265	Henry's Diary 03
+GID00102266	Scowell's Log 02/03/2262
+GID00102267	Scowell's Log 06/06/2262
+GID00104166	The Tampico
+GID00104167	Ammunition Box
+GID00104168	Box
+GID00104169	Box
+GID00104170	Briefcase
+GID00104171	Metal Box
+GID00104172	Ammunition Box
+GID00104173	Enclave Crate
+GID00104174	Postal Offices
+GID00104175	Redmoon Hotel
+GID00104176	Ghost
+GID00104177	Ghost
+GID00104178	Ghost
+GID00104179	Ghost
+GID00104180	Ghost
+GID00104181	Residential Metro
+GID00104182	Cabinet
+GID00104183	Desk
+GID00104184	Briefcase
+GID00104185	Suitcase
+GID00104186	Locker
+GID00104187	Locker
+GID00104188	Level Design Toolbox Cell
+GID00104189	Desk
+GID00104190	Puesta del Sol South
+GID00104191	Spencer
+GID00104192	Residential Metro Master Key
+GID00104193	Ghost
+GID00104194	Ghost
+GID00104195	Ammunition Box
+GID00104196	Residential District
+GID00104197	Tinton's Note
+GID00104198	Message From Tinton
+GID00104199	Crate
+GID00104200	Metal Box
+GID00104201	Crate
+GID00104202	Concentr8 Pills Black
+GID00104203	Cloud Mash
+GID00104204	Meat Cake
+GID00104205	Sweet & Sour Smoothie
+GID00104206	Concentr8 Pills Black
+GID00104207	Meat Cake
+GID00104208	Cloud Mash
+GID00104209	Sweet & Sour Smoothie
+GID00104210	Recipie - Concentr8 Black
+GID00104211	Recipie - Cloud Mash
+GID00104212	Recipie - Meat Cakes
+GID00104213	Recipie - Sweet & Sour Smoothie
+GID00104214	Crate
+GID00104215	Suitcase
+GID00104216	Crate
+GID00104217	Ruined Building
+GID00104218	Ruined Store
+GID00104219	Medical District
+GID00104220	Service Route
+GID00104221	Salida del Sol North
+GID00104222	Ruined Cafe
+GID00104223	Puesta del Sol Switching Station
+GID00104224	Burkley's Bar
+GID00104225	Refrigerator
+GID00104226	Dresser
+GID00104227	Footlocker
+GID00104228	Burkley's Bar
+GID00104229	Dresser
+GID00104230	Reinforced House
+GID00104231	Metal Cabinet
+GID00104232	Ammunition Box
+GID00104233	Ammunition Box
+GID00104234	Ammunition Box
+GID00104235	Ammunition Box
+GID00104236	Ammunition Box
+GID00104237	Ammunition Box
+GID00104238	Crate
+GID00104239	Ammunition Box
+GID00104240	Ammunition Box
+GID00104241	Mark VII Turret
+GID00104243	Reinforced House Key
+GID00104244	Reinforced House
+GID00104245	Duffle Bag
+GID00104246	Master Terminal
+GID00104247	House Tools Sent Message 01/04/76
+GID00104248	House Tools Recived Message 03/04/76
+GID00104249	Note For Randall
+GID00104250	Mailbox
+GID00104251	Randall's Diary 01
+GID00104252	Randall's Diary 02
+GID00104253	Randall's Diary 03
+GID00104254	Randall's Diary 04
+GID00104255	Randall's Terminal
+GID00104256	Oasis Cafe
+GID00104257	Refrigerator
+GID00104258	Footlocker
+GID00104259	Desk
+GID00104260	Oasis Cafe
+GID00104261	Police Training Block
+GID00104262	Wall Safe
+GID00104263	Dresser
+GID00104264	Desk
+GID00104265	Ammunition Box
+GID00104266	Police Training Block
+GID00104267	Medical Safe-House
+GID00104268	Villa
+GID00104269	Desk
+GID00104270	Redmoon Apartments
+GID00104271	Sierra Madre Casino
+GID00104272	Villa Clinic
+GID00104273	Puesta del Sol North
+GID00104274	Desk
+GID00104275	Ammunition Box
+GID00104276	Desk
+GID00104277	Sierra Madre Lobby
+GID00104278	Wall Safe
+GID00104279	Sierra Madre Vault
+GID00104280	Safe
+GID00104281	Villa Police Station
+GID00104282	Postal Offices
+GID00104283	Salida del Sol South
+GID00104284	Executive Suites
+GID00104285	Cantina Madrid
+GID00104286	Box
+GID00104287	Box
+GID00104288	Desk
+GID00104289	Wall Safe

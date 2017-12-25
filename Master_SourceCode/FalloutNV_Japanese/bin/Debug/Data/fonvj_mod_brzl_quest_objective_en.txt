@@ -1,0 +1,91 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_brzl_quest_objective_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00110409	Walk to the detention area.
+GID00110410	Find a way to escape.
+GID00110411	Check on ALPHA's progress in the morning.
+GID00110412	Retrieve ALPHA from the Robotics Bay.
+GID00110413	Repair the robot dog.
+GID00110414	Power up the robot dog.
+GID00110415	Find 1 Droid Radio Unit, 1 Fission Battery, and 1 Scrap Electronics to fix the robot dog.
+GID00110416	Get a good night's sleep while B-6-RK updates.
+GID00110417	Retrieve B-6-RK from the Robotics Lab.
+GID00110418	Learn more about Ben's gift.
+GID00110419	Gather your allies and resources and head to the Main Door.
+GID00110420	Reach the cave exit and escape.
+GID00110421	Reach a safe distance before the vault explodes.
+GID00110422	Meet the Patriot Attack.
+GID00110423	Kill Chevy Bragg.
+GID00110424	Free the prisoner in Vault Security.
+GID00110425	Prepare for the Patriot Attack.
+GID00110426	Discover Jamie and Eric's relationship.
+GID00110427	Keep Eric and Jamie together or break them up.
+GID00110428	Save Overseer Christianson.
+GID00110429	Get to the Hydroponics lab via the Upper Apartments
+GID00110430	(Optional) - Sneak through the Pipeworks.
+GID00110431	Speak to Chief Evanson.
+GID00110432	Navigate the Cistern.
+GID00110433	Check on Overseer Christianson
+GID00110434	Visit Johnny in the Medical Bay.
+GID00110435	Find Johnny Matheson in the aftermath.
+GID00110436	Talk to Johnny or kill him.
+GID00110437	End.
+GID00110438	Gather your allies and resources and head to the Main Door.
+GID00110439	Reach the cave exit and escape.
+GID00110440	Join the Enclave - Put on their Uniform.
+GID00110441	Open the Overseer's office door.
+GID00110442	Use Jenifer Hale to open the Overseer's door.
+GID00110443	Follow Bragg and wait for the Airlock to open.
+GID00110444	Follow Bragg to Christianson.
+GID00110445	Defeat Vault 18 Security Forces.
+GID00110446	Report to Colonel Bragg.
+GID00110447	Quest Objective 1
+GID00110448	Find Pinehaven.
+GID00110449	Speak with Overseer Christianson.
+GID00110450	Go to the Overseer's Office.
+GID00110451	Optional: Accompany Earnest to the Overseer's Office.
+GID00110452	Fix the Old Pipe by the Administration Hallway
+GID00110453	Talk to Sarah Carter if you get lost.
+GID00110454	Return to Joe Marshall.
+GID00110455	End
+GID00110456	Report to Maintenance.
+GID00110457	Go to bed when you are ready.
+GID00110458	Speak with the Old Man.
+GID00110459	Follow the Path of Lights
+GID00110460	Meet with Jenifer in her room.
+GID00110461	Get Bragg to talk.
+GID00110462	Follow Jen to her Secret Spot.
+GID00110463	Wait for Bragg at the Atrium Diner at 10pm.
+GID00110464	Break into Bragg's Office before 6am.
+GID00110465	Access Bragg's Terminal
+GID00110466	Sneak out of the Gym.
+GID00110467	Enter Bragg's Office.
+GID00110468	Report back to Jen.
+GID00110469	Report to Officer Chevy in Vault Security
+GID00110470	Report back to Coach Bragg
+GID00110471	See Dr. Rossman about the Wasteland Scouts
+GID00110472	Check out the Robotics Lab.
+GID00110473	Follow Dr. Rossman to the Computer Lab.
+GID00110474	Talk to Maria
+GID00110475	Enable the bottom Tier Switches.
+GID00110476	Repair the cables in the Vault 18 cistern.
+GID00110477	Re-route the Tier 4 network cable.
+GID00110478	Enable the top Tier Switches.
+GID00110479	Check the status of the Tier 1 Network.
+GID00110480	Check the status of the Tier 2 Network.
+GID00110481	Check the status of the Tier 3 Network.
+GID00110482	Check the status of the Tier 4 Network.
+GID00110483	Investigate the secondary Tier 3 Network feed.
+GID00110484	Repair all four network tiers.
+GID00110485	Investigate the strange Tier 4 signal.
+GID00110486	Speak with Dr. Rossman about unlocking the terminals.
+GID00110494	Check the status of the Tier 1 Network.
+GID00110496	Check the status of the Tier 2 Network.
+GID00110498	Convince Johnny to accompany you on your adventure.
+GID00110499	Jab Johnny with 3 Med-X Syringes before he dies.
+GID00110500	Use the Vigor Tester Machine
+GID00110501	Talk to Coach Bragg
+GID00110502	Report the Vigor Test results to Coach Bragg
+GID00110503	Talk to Dr. Rossman
+GID00110504	Use the Vigor Tester Machine

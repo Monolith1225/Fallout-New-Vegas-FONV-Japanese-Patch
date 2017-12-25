@@ -1,0 +1,168 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc04_message_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00095538	You have gained the Camarader-E Perk (Rank 4), increasing your damage with beam weapons by +5. ED-E also gains +5 damage while he is your companion.
+GID00095540	Disconnect the Eyebot from it's power source.
+GID00095541	(Repair 100 required)
+GID00095543	Leave it Alone
+GID00095544	Disconnect Eyebot Power
+GID00095545	Send Eyebot Shutdown Command (Science)
+GID00095546	This lever can't be activated yet.
+GID00095548	You have found a Flash Bang grenade! Flash Bangs are special grenades that:
+GID00095549	- Deal Fatigue damage.
+GID00095550	- Reduce enemy weapon skills.
+GID00095551	- Have a chance to Frenzy Tunnelers.
+GID00095553	Stop jumping off of buildings.
+GID00095555	The Roughin' It! Bedroll Kit allows you to sleep just about anywhere out under the stars. Select it in your Pip-Boy and sleep your cares away!
+GID00095557	You have gained the Camarader-E Perk (Rank 5), increasing your accuracy in V.A.T.S. as long as ED-E is your companion. ED-E also gains an accuracy boost while he is your companion.
+GID00095559	You have gained the Camarader-E Perk (Rank 2), allowing ED-E to manufacture Small Energy Cells or Microfusion Cells once per day.
+GID00095561	The mainframe is locked down with a secure, military-grade encryption sequence. You'll need to find the security codes and upload them to ED-E to gain access to the mainframe.
+GID00095563	This will launch Ulysses' missiles against targets in the lands east of the Colorado controlled by Caesar's Legion, raining nuclear fire down on its cities and its tribes. Are you sure you want to continue?
+GID00095565	No.
+GID00095566	Yes.
+GID00095567	Eyebot has successfully shut down, reconfigure the Eyebot's targeting systems?
+GID00095568	(Repair 100 required)
+GID00095570	Leave it Alone
+GID00095571	Reconfigure Eyebot Targeting Systems
+GID00095572	Auto-Inject Stimpak used
+GID00095574	Rushing Water has increased your attack speed.
+GID00095576	This terminal can only be unlocked by an Eyebot.
+GID00095578	Leave the terminal alone.
+GID00095579	Have ED-E unlock the terminal for you.
+GID00095580	The mainframe is locked down with a secure, military-grade encryption sequence. You'll need to find the security codes and upload them to ED-E to gain access to the mainframe.
+GID00095582	Leave the mainframe alone.
+GID00095583	It looks like Ulysses left you one last package...
+GID00095585	This is an intact nuclear warhead. If what Ulysses said is true, the Laser Detonator in Hopeville should be able to trigger these to explode.
+GID00095587	You have gained the Camarader-E Perk (Rank 3), giving you and ED-E both +2 DT.
+GID00095589	Once you ascend this elevator, you cannot return until you end this. If you have anything else you want to do before going ahead, take care of it now.
+GID00095591	Step back.
+GID00095592	Take the elevator.
+GID00095593	You have gained the Marked Perk.
+GID00095595	This terminal is damaged.
+GID00095596	You may be able to fix it. [50 Repair]
+GID00095597	What would you like to do?
+GID00095599	Leave terminal alone.
+GID00095600	Repair the terminal.
+GID00095601	You cannot sleep while in combat.
+GID00095603	It looks like the missile hit somewhere on the other side of the Divide. You think you could reach the location of the blast from Hopeville... that is, if you feel brave enough to explore ground zero of a nuclear blast.
+GID00095605	This door is locked, and needs electricity before opening.
+GID00095607	Send the Eyebot a shutdown command.
+GID00095608	(Science 100 required)
+GID00095610	Leave it Alone
+GID00095611	Send Eyebot Shutdown Command
+GID00095612	Disconnect Eyebot Power (Repair)
+GID00095613	This claw is larger and more impressive than those of lesser Deathclaws. You might be able to turn it into a weapon if you find a workbench.
+GID00095615	Your Pip-Boy has received a signal - coordinates that lead to the Canyon Wreckage west of Primm. Following the coordinates are the words "Courier Six." It's signed, "Ulysses."
+GID00095617	This Auto-Doc is capable of performing a thorough physical exam and curing the patient of all common ailments - radiation sickness, lacerations, broken bones, even chemical addictions.
+GID00095619	Do nothing
+GID00095620	Conduct physical exam.
+GID00095621	ED-E has unlocked a terminal for you!
+GID00095623	Use the control station's lever to open the Ashton silo.
+GID00095625	Hey, campers! The Roughin' It! Bedroll Kit is only approved for the great outdoors, so step outside and give 'er a try there.
+GID00095627	You found a module on this broken Eyebot that can upgrade ED-E. Installing this module grants you the first rank of the Camarader-E Perk, allowing ED-E to repair your currently-equipped weapon once per day.
+GID00095628	This perk is accessed through ED-E's dialogue.
+GID00095629	If you find more upgrade modules, you can unlock further ranks of this Perk. When you return to the Mojave, these upgrades will carry over to the original ED-E as well.
+GID00095631	You just got your first Blank Magazine! Any time you pick up a damaged book it will be turned into one of these from now on. They're worth more than regular books and you can use them to make Skill Magazines! Any Skill Magazine you have on you can be copied using a blank one at a Workbench. There's even a recipe to turn it back into a book if you want!
+GID00095633	There's no response from the elevator.
+GID00095635	Player not sneaking! Let's Dance attack failed.
+GID00095637	With its beam triggered, this emitter is no longer functional.
+GID00095639	Your merciless nuclear assault on the nations of the Mojave has devastated the lands of both the Legion and the NCR and reached even the borders of the Mojave. At the Mojave Outpost, you can now travel through the western gate to Long 15, the site of a devastated NCR outpost. At Cottonwood Cove, you can now take a journey by river to Dry Wells, the site of a devastated Legion encampment. Be prepared - both areas are highly irradiated and infested with feral ghouls.
+GID00095640	You have also unlocked the Dead Man's Burden Perk, allowing you to put a single point into any of your S.P.E.C.I.A.L. attributes. You also gain reputation with the Boomers and the Powder Gangers for your... destructive tendencies, but you lose reputation with the NCR and Caesar's Legion.
+GID00095642	The Divide broke cities, flayed skin from bone and threatened to destroy the world, but you survived it - and stopped it. You can put a single point into any of your S.P.E.C.I.A.L. attributes. You also gain reputation with the Followers of the Apocalypse and the Brotherhood of Steel for stopping another Armageddon.
+GID00095644	This terminal can only be accessed by an Eyebot.
+GID00095646	Leave the terminal alone.
+GID00095647	Have ED-E unlock the terminal for you.
+GID00095648	This will launch Ulysses' missiles against targets in the heartland of the NCR and the lands held by Caesar's Legion, raining nuclear fire down on both factions. Are you sure you want to continue?
+GID00095650	No.
+GID00095651	Yes.
+GID00095652	Enemy cannot be bled! No takedown.
+GID00095654	The bright light drives the tunneler into a frenzy!
+GID00095656	This snowglobe has been added to the collection at the Lucky 38.
+GID00095658	You can disable this emitter (and the beam originating at this emitter) if you have sufficient skill with electronics.
+GID00095659	(Repair of 90 or greater required.)
+GID00095661	Leave it alone.
+GID00095662	Disable the laser tripwire beam.
+GID00095663	You can't swim any farther in this direction.
+GID00095665	The coordinates you received lead you to this canyon filled with storm-tossed wreckage. Beyond lies the Divide.
+GID00095666	Lonesome Road is intended for experienced Couriers (Level 25 or higher). You cannot take companions with you on the road ahead (nor bring any you find out with you). You can carry whatever equipment and gear you have with you without restriction, however.
+GID00095667	If the journey proves too difficult, or you need to resupply, you can retrace your steps and return to the Mojave at any time. If you are prepared, then continue on into the storms of the Divide... history awaits.
+GID00095669	Walk away.
+GID00095670	Walk the Lonesome Road.
+GID00095671	Hey, campers, lights out! (Close the Pip-Boy to start sleeping.)
+GID00095673	This will launch Ulysses' missiles against targets in the heartland of the NCR, raining nuclear fire down on its cities and its people. Are you sure you want to continue?
+GID00095675	No.
+GID00095676	Yes.
+GID00095677	Welcome to the Eyebot Control Station
+GID00095679	Leave it Alone
+GID00095680	Disconnect Eyebot Power (Repair)
+GID00095681	Send Eyebot Shutdown Command (Science)
+GID00095682	ED-E has unlocked a commissary for you!
+GID00095684	Auto-Inject Super Stimpak used
+GID00095686	Use the controls' lever to restore power to the silo.
+GID00095688	This terminal is already engaged in its countdown sequence and the abort code has been overridden. You might be able to change the missiles' target, or accelerate the countdown and launch the missiles immediately.
+GID00095690	Leave the console alone.
+GID00095691	Attempt to cancel the launch.
+GID00095692	Redirect the missiles to target both the NCR and Caesar's Legion.
+GID00095693	Redirect the missiles to target Caesar's territory.
+GID00095694	Accelerate the countdown and launch the missiles at the NCR.
+GID00095695	Lonesome Road has been loaded. Your level cap has been increased by 5.
+GID00095697	Eyebot has successfully shut down, reconfigure the Eyebot's targeting systems?
+GID00095698	(Science 100 required)
+GID00095700	Leave it Alone
+GID00095701	Reconfigure Eyebot Targeting Systems
+GID00095702	You cannot bring others with you into the Divide. This road is one you must walk alone.
+GID00095704	Your merciless nuclear assault on Caesar's Legion has devastated the lands east of the Colorado and reached even the borders of the Mojave. At Cottonwood Cove, you can now take a journey by river to the site of Dry wells, a devastated Legion encampment. Be prepared - the area is highly irradiated and infested with Legion ghouls.
+GID00095705	You have also unlocked the Scourge of the East Perk, allowing you to put a single point into any of your S.P.E.C.I.A.L. attributes. You also gain reputation with the NCR for breaking the back of Caesar's Legion, but you lose reputation with Caesar's Legion.
+GID00095707	Your merciless nuclear assault on the NCR has devastated the lands of California and reached even the borders of the Mojave. At the Mojave Outpost, you can now travel through the western gate to Long 15, the site of a devastated NCR outpost. Be prepared - the area is highly irradiated and infested with former NCR ghouls.
+GID00095708	You have also unlocked the Bear-Slayer Perk, allowing you to put a single point into any of your S.P.E.C.I.A.L. attributes. You also gain reputation with Caesar's Legion for annihilating the NCR's homeland, but lose reputation with the NCR.
+GID00095710	The abomination panics and flees!
+GID00095712	Send the Eyebot a shutdown command.
+GID00095713	(Science 100 required)
+GID00095715	Leave it Alone
+GID00095716	Send Eyebot Shutdown Command
+GID00095717	Disconnect Eyebot Power (Repair)
+GID00095718	You've already opened the bunker door.
+GID00095720	Welcome to the United States Armed Services Joint Automated Commissary and Repair Station! Please input your selection below.
+GID00095722	Leave the terminal alone.
+GID00095723	Access Commissary.
+GID00095724	Access Universal Repair Interface.
+GID00095725	The abort code is encrypted with an incredibly advanced Pre-War military encryption sequence. You'd have to be a code-breaking robot to crack it in time.
+GID00095727	Try something else.
+GID00095728	Ask ED-E for help.
+GID00095729	This silo is in lockdown mode in preparation for launch. No entry or exit is permitted until the launch sequence is completed.
+GID00095731	ED-E has restored power to the silo's access controls.
+GID00095733	Snakebite Tourniquet used
+GID00095735	Ulysses has seized control of ED-E. You have lost ED-E as a companion, and everything he was carrying has been transferred to you.
+GID00095737	Welcome to the Eyebot Control Station
+GID00095739	Leave it Alone
+GID00095740	Disconnect Eyebot Power (Repair)
+GID00095741	Send Eyebot Shutdown Command (Science)
+GID00095742	Disconnect the Eyebot from it's power source.
+GID00095743	(Repair 100 required)
+GID00095745	Leave it Alone
+GID00095746	Disconnect Eyebot Power
+GID00095747	Send Eyebot Shutdown Command (Science)
+GID00095748	Eyebot has successfully shut down, reconfigure the Eyebot's targeting systems?
+GID00095749	(Repair 100 required)
+GID00095751	Leave it Alone
+GID00095752	Reconfigure Eyebot Targeting Systems
+GID00095753	This terminal has already been used.
+GID00095755	The mainframe is locked down with a secure, military-grade encryption sequence. The codes you uploaded to ED-E's system should be able to unlock it.
+GID00095757	Leave the mainframe alone.
+GID00095758	Ask ED-E to unlock the mainframe.
+GID00095759	It's Just Lucky You're Alive! (+4 Luck for 3 minutes)
+GID00095761	This console controls access to the silo itself, but it is encrypted beyond your ability to hack. You will need to find something that can break the encryption in order to proceed.
+GID00095763	Enemy takedown! Let's Dance attack hit.
+GID00095765	You can now access the silo's mainframe.
+GID00095766	What would you like to do?
+GID00095768	Leave the mainframe alone.
+GID00095769	Open the silo's bunker doors.
+GID00095770	You've found the Laser Detonator Ulysses spoke of, a piece of Pre-War tech that can detonate the nuclear warheads scattered around the Lonesome Road. You can use it to open new paths, kill your enemies from afar, or even discover secret loot caches. Just point it at a warhead, hold down the trigger, and watch the explosion.
+GID00095771	If what Ulysses said is true, you'll need this to advance, which means there must be a warhead blocking the way forward. You'll need to find the correct warhead and detonate it.
+GID00095773	You left ED-E behind in Ulysses' Temple - not that you needed the help anyway. As long as you have no companions, your attacks inflict +10 percent damage and you have +10 percent accuracy in VATS.
+GID00095775	Eyebot has successfully shut down, reconfigure the Eyebot's targeting systems?
+GID00095776	(Science 100 required)
+GID00095778	Leave it Alone
+GID00095779	Reconfigure Eyebot Targeting Systems
+GID00095780	ED-E has used the security codes to unlock the mainframe.

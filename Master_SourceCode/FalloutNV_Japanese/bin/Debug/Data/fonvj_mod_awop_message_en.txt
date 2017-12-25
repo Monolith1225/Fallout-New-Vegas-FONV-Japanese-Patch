@@ -1,0 +1,73 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_awop_message_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00099724	You have found Roach's Audiodisc Review 1 of 9.
+GID00099725	Find the set to unlock access to a new perk!
+GID00099727	You have found all of Roach's History Of The Underground!
+GID00099729	4D Storage Inactive.
+GID00099731	You have found Roach's History Of The Underground Part 6 of 6.
+GID00099732	Find the set to unlock access to a new perk!
+GID00099734	You have found Roach's Audiodisc Review 3 of 9.
+GID00099735	Find the set to unlock access to a new perk!
+GID00099737	You have found Roach's Audiodisc Review 2 of 9.
+GID00099738	Find the set to unlock access to a new perk!
+GID00099740	You have found Roach's Audiodisc Review 6 of 9.
+GID00099741	Find the set to unlock access to a new perk!
+GID00099743	You have found Roach's Audiodisc Review 4 of 9.
+GID00099744	Find the set to unlock access to a new perk!
+GID00099746	AWOP Emergency Starter Box: Choose your loadout.
+GID00099747	You may only choose once.
+GID00099749	Nothing (Vanilla)
+GID00099750	Berzerker
+GID00099751	Doctor
+GID00099752	Repairman
+GID00099753	Scientist
+GID00099754	Soldier
+GID00099755	Trapper
+GID00099756	Pocket Warehouse
+GID00099757	Home Buyer
+GID00099758	Limited Loadout
+GID00099759	EMERGENCY PROTOCOL'S ACTIVATED.
+GID00099760	HIGH SECURITY WEAPONS UNLOCKED.
+GID00099761	Welcome Patriot,
+GID00099762	Here is the list of Active Weapon Caches availble for transfer to this port.
+GID00099763	WARNING:
+GID00099764	Power failure imminent.
+GID00099765	Estimated retrivals left until port shutdown: 001
+GID00099767	Nothing (Leave the machine alone)
+GID00099768	Laser Rifle
+GID00099769	Plasma Rifle
+GID00099770	Minigun
+GID00099771	Rocket Launcher
+GID00099772	Gatling Laser
+GID00099773	Plasma Caster
+GID00099774	Fat Man
+GID00099775	YCS/186 Gauss Variant
+GID00099776	Salvaged Alien Pistol
+GID00099777	4D Storage active. Carry weight increased.
+GID00099779	You just ingested a ridiculous amount of toxic poison. For some reason however you feel stronger (aside from the main side effects). With any luck it's not a chemically induced delusion.
+GID00099780	Iron Belly Perk added.
+GID00099782	You have found Roach's History Of The Underground Part 3 of 6.
+GID00099783	Find the set to unlock access to a new perk!
+GID00099785	You have found all of Roach's Audiodisc Reviews!
+GID00099787	You have found Roach's Audiodisc Review 8 of 9.
+GID00099788	Find the set to unlock access to a new perk!
+GID00099790	You have found Roach's History Of The Underground Part 2 of 6.
+GID00099791	Find the set to unlock access to a new perk!
+GID00099793	You have found Roach's Audiodisc Review 9 of 9.
+GID00099794	Find the set to unlock access to a new perk!
+GID00099796	You have found Roach's Audiodisc Review 5 of 9.
+GID00099797	Find the set to unlock access to a new perk!
+GID00099799	Rad Resistance increased by 2.
+GID00099801	You have found Roach's Audiodisc Review 7 of 9.
+GID00099802	Find the set to unlock access to a new perk!
+GID00099804	Destroying Loot!
+GID00099806	You have found Roach's History Of The Underground Part 5 of 6.
+GID00099807	Find the set to unlock access to a new perk!
+GID00099809	Quest Stage %5.0f Updated!
+GID00099811	You have found Roach's History Of The Underground Part 4 of 6.
+GID00099812	Find the set to unlock access to a new perk!
+GID00099814	Quest Variable Updated!
+GID00099816	You have found Roach's History Of The Underground Part 1 of 6.
+GID00099817	Find the set to unlock access to a new perk!

@@ -1,0 +1,991 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc04_name_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00095782	Snow Globe - Lonesome Road
+GID00095783	Tunneler
+GID00095784	Swag Bag
+GID00095785	Red Victory Grenade Rifle
+GID00095786	Great Bear Grenade Rifle
+GID00095787	Bowie Knife
+GID00095788	Silo Blast Door Controls
+GID00095789	Flash Bang
+GID00095791	Red Glare
+GID00095792	Tunneler
+GID00095793	Tunneler
+GID00095794	Tunneler
+GID00095795	Tunneler
+GID00095796	Tunneler
+GID00095797	Tunneler
+GID00095798	Tunneler
+GID00095799	Tunneler
+GID00095800	Tunneler
+GID00095801	Flare Gun
+GID00095802	ED-E
+GID00095805	The Divide
+GID00095813	Warhead
+GID00095816	Maintenance Access Level Three
+GID00095817	Security Control Level Two
+GID00095818	Arc Welder
+GID00095821	Laser Detonator
+GID00095822	ED-E Arc Welder
+GID00095823	Ulysses' Duster
+GID00095824	Ulysses' Mask
+GID00095825	Breathing Mask
+GID00095826	Ulysses' Duster
+GID00095827	Old Glory
+GID00095828	Satchel Charge
+GID00095830	Third Street Municipal Building
+GID00095831	Ulysses' Temple
+GID00095832	Sunstone Tower Roof
+GID00095833	Municipal Sewers
+GID00095834	Sewer Grate
+GID00095835	Cave of the Abaddon
+GID00095836	Boxwood Hotel Roof
+GID00095837	Cave of the Abaddon
+GID00095838	Ulysses Combat Barks
+GID00095839	Toolbox
+GID00095840	Locker
+GID00095841	Desk
+GID00095842	Filing Cabinet
+GID00095843	Wastewater Treatment Plant
+GID00095844	Wastewater Treatment Plant
+GID00095845	Rawr
+GID00095848	Wardrobe
+GID00095849	Desk
+GID00095850	Oven
+GID00095851	Refrigerator
+GID00095852	Vending Machine
+GID00095853	Pvt. Foster's Personal Journal
+GID00095854	Door
+GID00095855	Door
+GID00095856	High Road Entrance
+GID00095857	Ashton Silo Control Station
+GID00095858	Ghoul
+GID00095859	Door
+GID00095860	Door
+GID00095861	EDE Powers Silo
+GID00095862	Maintenance and Storage
+GID00095864	Door
+GID00095865	Control Station
+GID00095866	Gas Valve
+GID00095867	Silo Door Sealed
+GID00095868	Young Deathclaw
+GID00095869	Deathclaw
+GID00095870	Deathclaw Alpha Male
+GID00095871	Hulking Tunneler
+GID00095872	Hulking Tunneler
+GID00095873	Hulking Tunneler
+GID00095874	Hulking Tunneler
+GID00095875	Hulking Tunneler
+GID00095876	Venomous Tunneler
+GID00095877	Venomous Tunneler
+GID00095878	Venomous Tunneler
+GID00095879	Venomous Tunneler
+GID00095880	Venomous Tunneler
+GID00095881	Tunneler Queen
+GID00095882	Mole Rat
+GID00095883	Mole Rat Pup
+GID00095884	Sentry Bot
+GID00095885	Sentry Bot
+GID00095886	Sentry Bot
+GID00095887	Sentry Bot
+GID00095888	Sentry Bot
+GID00095889	Sentry Bot
+GID00095890	Sentry Bot
+GID00095891	Sentry Bot
+GID00095892	Sentry Bot
+GID00095893	Sentry Bot
+GID00095894	Marked Men
+GID00095895	Marked Men Scout
+GID00095896	Marked Men Hunter
+GID00095897	Marked Men Ravager
+GID00095898	Marked Men Marauder
+GID00095899	Blister
+GID00095900	Beast
+GID00095901	Bonesaw
+GID00095902	Blade
+GID00095903	Mark II Turret
+GID00095904	Mark IV Turret
+GID00095905	Mark VI Turret
+GID00095907	Gas Valve
+GID00095908	Security Briefcase
+GID00095909	Marked Men Marauder
+GID00095910	Marked Men Hunter
+GID00095911	Marked Men Ravager
+GID00095912	Marked Men Scout
+GID00095913	Riot Gear
+GID00095914	Riot Gear Helmet
+GID00095915	Advanced Riot Gear
+GID00095916	Shoulder Mounted Machine Gun
+GID00095917	Advanced Riot Gear Helmet
+GID00095918	Elite Riot Gear Helmet
+GID00095919	Elite Riot Gear
+GID00095920	Satchel Charge Box
+GID00095921	Satchel Charge Box
+GID00095922	High-Tech Gun Case
+GID00095923	Direct the Show
+GID00095924	Door
+GID00095925	Mainframe Terminal
+GID00095926	Awaken Bot
+GID00095927	Hopeville Silo Mainframe Controls
+GID00095931	Filing Cabinet
+GID00095932	Filing Cabinet
+GID00095933	Filing Cabinet
+GID00095934	Refrigerator
+GID00095935	Refrigerator
+GID00095936	Wardrobe
+GID00095937	Wardrobe
+GID00095938	Wardrobe
+GID00095939	Locker
+GID00095940	Locker
+GID00095941	Locker
+GID00095942	Metal Box
+GID00095943	Metal Box
+GID00095944	Metal Box
+GID00095945	Metal Box
+GID00095946	Sack
+GID00095947	Sack
+GID00095948	Sack
+GID00095949	Duffle Bag
+GID00095950	Duffle Bag
+GID00095951	Duffle Bag
+GID00095952	Duffle Bag
+GID00095953	Desk
+GID00095954	Desk
+GID00095955	Desk
+GID00095956	Desk
+GID00095957	Desk
+GID00095958	Desk
+GID00095959	Mole Rat Pup
+GID00095960	Mole Rat
+GID00095961	Marked Men Scout
+GID00095962	Marked Men Hunter
+GID00095963	Marked Men Hunter
+GID00095964	Marked Men Ravager
+GID00095965	Marked Men Scout
+GID00095966	Marked Men Hunter
+GID00095967	Marked Men Ravager
+GID00095968	Marked Men Hunter
+GID00095969	Marked Men Ravager
+GID00095970	Marked Men Hunter
+GID00095971	Marked Men Scout
+GID00095972	Marked Men Scout
+GID00095973	Awaken Guard Duadz
+GID00095974	Direct the Show
+GID00095975	Awaken Scout Dood
+GID00095976	Marked Trooper Armor
+GID00095977	Marked Scout Armor
+GID00095978	Blade of the West
+GID00095979	Direct the Show
+GID00095980	Industrial Hand
+GID00095981	Broken Eyebot
+GID00095982	Direct Silo Show
+GID00095983	Start the Show
+GID00095985	US Army General Outfit
+GID00095986	US Army Combat Armor
+GID00095987	Maintenance Terminal
+GID00095988	Maintenance Terminal
+GID00095989	Warhead
+GID00095990	Warhead
+GID00095991	Warhead
+GID00095994	ED-E Access Point
+GID00095995	Marked Men Scout
+GID00095996	Marked Men Ravager
+GID00095997	Sentry Bot
+GID00095998	Marked Men Scout
+GID00095999	Marked Men Hunter
+GID00096000	Hopeville Missile Silo Bunker
+GID00096001	Hopeville Missile Base - West Entrance
+GID00096002	Hopeville Missile Base - East Entrance
+GID00096003	Hopeville Missile Base Headquarters
+GID00096004	Marked Men Camp
+GID00096005	Marked Men Base
+GID00096006	Marked Men Guard Outpost
+GID00096007	Marked Men Supply Outpost
+GID00096008	Hopeville Missile Base - Loading Station
+GID00096009	Collapsed Overpass Tunnel Entrance
+GID00096012	Marked Men Scout
+GID00096013	Marked Men Hunter
+GID00096014	Marked Men Marauder
+GID00096015	Mission Report
+GID00096016	Pass to Canyon Wreckage
+GID00096017	Hopeville Silo Bunker Entrance
+GID00096018	Warhead
+GID00096019	Repair Eyebot
+GID00096020	Medical Eyebot
+GID00096021	Fiery Purgative
+GID00096022	Auto-Inject Stimpak
+GID00096023	Auto-Inject Super Stimpak
+GID00096024	MRE
+GID00096025	Snakebite Tourniquet
+GID00096026	Rushing Water
+GID00096027	Slide Show Theatre Room
+GID00096029	Bill the Tax Collector
+GID00096030	Courier Duster
+GID00096031	Courier Duster
+GID00096032	Courier Duster
+GID00096033	Courier Duster
+GID00096034	Red Glare Far Sighting
+GID00096035	Red Glare Alpha Strike
+GID00096036	SMMG Recoil Compensator
+GID00096037	SMMG Mechanical Upgrade
+GID00096038	SMMG Extended Magazine
+GID00096039	Red Glare Auto Launcher
+GID00096040	H&H Tools Nail Gun
+GID00096041	Rocket, Incendiary
+GID00096042	Nails
+GID00096043	Rocket
+GID00096044	Rocket, High Explosive
+GID00096045	Snakebite Tourniquet
+GID00096046	Fiery Purgative
+GID00096047	Rocket Ammo
+GID00096048	Auto-Inject Stimpak
+GID00096049	Auto-Inject Super Stimpak
+GID00096050	Bitter Drink
+GID00096051	Rushing Water
+GID00096052	Marked Tribal Armor
+GID00096053	Marked Patrol Armor
+GID00096054	Marked Beast Tribal Helmet
+GID00096058	Hopeville Silo - 2nd Level Security Code
+GID00096059	Hopeville Silo - 1st Level Security Code
+GID00096060	Desk
+GID00096061	Desk
+GID00096062	Base Commander's Terminal
+GID00096063	Turret Security Terminal
+GID00096064	Hopeville Silo Turret Security Terminal
+GID00096065	Hopeville Silo Mainframe
+GID00096066	Hopeville Silo Mainframe
+GID00096067	Hopeville Silo Mainframe
+GID00096068	Hopeville Silo Mainframe
+GID00096069	ED-E Connected to Silo's Mainframe
+GID00096070	Maintenance Bot
+GID00096071	Maintenance Bot
+GID00096072	Door
+GID00096073	Tunneler Hide
+GID00096074	Tool Cabinet
+GID00096075	Toolbox
+GID00096076	Filing Cabinets
+GID00096077	Fire Hose Box
+GID00096078	Garbage Can
+GID00096079	Filing Cabinets
+GID00096080	Desk
+GID00096081	Garbage Can
+GID00096082	Garbage Can
+GID00096084	Marked Men Scout
+GID00096085	Marked Men Ravager
+GID00096086	Marked Men Hunter
+GID00096087	Eyebot Control Console
+GID00096088	Eyebot Control Console
+GID00096090	Eyebot Control Station
+GID00096091	Deathclaw
+GID00096092	Tunneler
+GID00096093	Bowie Knife Fun
+GID00096094	Awaken Tunneler
+GID00096097	Hulking Tunneler
+GID00096102	Marked Men Ravager
+GID00096103	Marked Men Scout
+GID00096104	Marked Men Hunter
+GID00096105	Warhead
+GID00096106	Footlocker
+GID00096107	Ruined Highway Interchange
+GID00096108	Junction 7 Rest Stop
+GID00096109	ED-E Connected to Silo's Mainframe
+GID00096110	ED-E Access Point
+GID00096111	Young Deathclaw
+GID00096112	Young Deathclaw
+GID00096113	Young Deathclaw
+GID00096114	Young Deathclaw
+GID00096115	Deathclaw
+GID00096116	Deathclaw
+GID00096117	Deathclaw
+GID00096118	Deathclaw
+GID00096119	Young Deathclaw
+GID00096120	Mole Rat Pup
+GID00096121	Mole Rat Pup
+GID00096122	Mole Rat Pup
+GID00096123	Mole Rat Pup
+GID00096124	Mole Rat Pup
+GID00096125	Deathclaw Alpha Male
+GID00096126	Deathclaw Alpha Male
+GID00096127	Deathclaw Alpha Male
+GID00096128	Deathclaw Alpha Male
+GID00096129	Deathclaw Alpha Male
+GID00096130	Mole Rat
+GID00096131	Mole Rat
+GID00096132	Mole Rat
+GID00096133	Mole Rat
+GID00096134	Mole Rat
+GID00096135	Mark II Turret
+GID00096136	Mark II Turret
+GID00096137	Mark II Turret
+GID00096138	Mark II Turret
+GID00096139	Mark IV Turret
+GID00096140	Mark IV Turret
+GID00096141	Mark IV Turret
+GID00096142	Mark IV Turret
+GID00096143	Mark VI Turret
+GID00096144	Mark VI Turret
+GID00096145	Mark VI Turret
+GID00096146	Mark VI Turret
+GID00096148	Eyebot Control Station
+GID00096149	Eyebot Control Station
+GID00096150	Eyebot Control Station
+GID00096151	Eyebot Control Station
+GID00096152	Eyebot Control Station
+GID00096153	Eyebot Control Station
+GID00096154	Eyebot Control Station
+GID00096158	Old Glory
+GID00096159	Old Glory
+GID00096160	Old Glory
+GID00096161	Old Glory
+GID00096162	Marked Men Scout
+GID00096163	Marked Men Marauder
+GID00096164	Deathclaw
+GID00096165	Marked Men Scout
+GID00096166	Metal Box
+GID00096167	Garbage Can
+GID00096168	Hopeville
+GID00096169	Energy Zap
+GID00096170	Laser
+GID00096171	Laser
+GID00096172	Laser
+GID00096173	Laser
+GID00096174	Laser
+GID00096175	Laser
+GID00096176	Laser
+GID00096177	Laser
+GID00096178	Laser
+GID00096179	Laser
+GID00096180	Laser
+GID00096181	Laser
+GID00096182	Gas Valve
+GID00096183	Marked Men Marauder
+GID00096184	Eyebot Maintenance
+GID00096186	Destroyed Eyebot
+GID00096187	Caravan Crate
+GID00096188	Dumpster
+GID00096193	Missile Launcher
+GID00096194	Missile Launcher
+GID00096195	Missile Launcher
+GID00096196	Missile Launcher
+GID00096197	SentryBot Minigun
+GID00096198	SentryBot Minigun
+GID00096199	SentryBot Minigun
+GID00096200	SentryBot Minigun
+GID00096201	Military Shipping Crate
+GID00096202	Military Shipping Crate
+GID00096203	Military Shipping Crate
+GID00096204	Ammunition Box
+GID00096205	Ammunition Box
+GID00096207	Ashton Silo Lift Controls
+GID00096208	Door
+GID00096209	Door
+GID00096210	Missile Launch Terminal
+GID00096211	Launch Control Terminal
+GID00096212	Launch Control Terminal
+GID00096213	Launch Control Terminal
+GID00096214	Launch Control Terminal
+GID00096217	Waste Disposal Station
+GID00096218	Basement
+GID00096219	Hopeville Women's Barracks
+GID00096220	Hopeville Armory
+GID00096221	Hopeville Men's Barracks
+GID00096222	Dying Breath Note
+GID00096223	Note
+GID00096224	For whoever finds this....
+GID00096225	Suitcase
+GID00096226	Military Shipping Crate
+GID00096227	Military Shipping Crate
+GID00096228	Ammunition Box
+GID00096229	Metal Box
+GID00096230	Metal Box
+GID00096231	Metal Box
+GID00096232	Military Shipping Crate
+GID00096233	Footlocker
+GID00096234	Military Shipping Crate
+GID00096235	Damaged Shipping Crate
+GID00096236	Footlocker
+GID00096237	First Aid Box
+GID00096238	Manager's Terminal
+GID00096239	Office of the Treasurer Terminal
+GID00096240	Jackie's Computer
+GID00096241	Suitcase
+GID00096242	Sunflower Summers' Diary
+GID00096243	Report
+GID00096244	Inter-Office Email
+GID00096245	Wastewater Note
+GID00096246	Re: Wastewater Note
+GID00096247	Noise
+GID00096248	Earthquakes
+GID00096249	Earthquakes Part 2
+GID00096260	Suitcase
+GID00096261	Suitcase
+GID00096262	Dirty Crate
+GID00096263	Damaged Shipping Crate
+GID00096264	Survivor's Footlocker
+GID00096265	Lead-Lined Metal Box
+GID00096266	Lead-Lined Metal Box
+GID00096267	Military Shipping Crate
+GID00096268	Personal Footlocker
+GID00096269	Parts Cabinet
+GID00096270	Broken Refrigerator
+GID00096271	Nostalgia
+GID00096272	Most Likely To...
+GID00096273	Ulysses' Odyssey
+GID00096274	ED-Ecated
+GID00096275	Condemned to Repeat It
+GID00096276	Hometown Hero
+GID00096277	Ends of the Earth
+GID00096278	The Courier's Mile
+GID00096279	Rocket's Red Glare
+GID00096281	Warhead Hunter
+GID00096285	Desk
+GID00096286	Supply Cabinet
+GID00096287	Metal Box
+GID00096288	Metal Box
+GID00096289	Filing Cabinet
+GID00096290	Wall Safe
+GID00096293	Marked Men Scout
+GID00096294	Eyebot Control Station
+GID00096295	Eyebot Control Station
+GID00096296	Lonesome Road
+GID00096297	Marked
+GID00096298	Certified Tech
+GID00096299	Broad Daylight
+GID00096300	Adventurer's Pack
+GID00096301	Filing Cabinet
+GID00096302	Ammunition Box
+GID00096303	Ammunition Box
+GID00096304	Destroyed Eyebot
+GID00096305	Physician's Desk
+GID00096306	Filing Cabinets
+GID00096308	Filing Cabinet
+GID00096310	Hopeville Silo - Maintenance Access Status
+GID00096311	Hopeville Silo - Security Log - Second Level
+GID00096312	Hopeville Silo - Maintenance Status
+GID00096313	Maintenance Bot Control
+GID00096315	Marked Men Scout
+GID00096316	Marked Men Hunter
+GID00096317	Marked Men Marauder
+GID00096319	Laser Tripwire
+GID00096320	Laser Tripwire Emitter
+GID00096323	Healing Ammo
+GID00096324	Commissary Terminal
+GID00096325	Commissary
+GID00096328	Warehouse Stash Key
+GID00096329	Marked Men Hunter
+GID00096330	Marked Men Scout
+GID00096331	Marked Men Ravager
+GID00096332	Marked Men Marauder
+GID00096333	Metal Box
+GID00096334	Awaken Bot
+GID00096335	Door
+GID00096336	Long 15
+GID00096337	Dry Wells
+GID00096340	Gas Valve
+GID00096342	Ash Pile
+GID00096343	Ash Pile
+GID00096344	Ash Pile
+GID00096345	Ash Pile
+GID00096346	Ash Pile
+GID00096347	Sewer Grate
+GID00096354	Tunneler
+GID00096356	Tunneler
+GID00096357	Marked Men Scout
+GID00096358	Script quest for ED-E's climactic sacrifice.
+GID00096361	A Final Delivery
+GID00096363	Exit
+GID00096364	Door
+GID00096365	Tunneler
+GID00096377	Ulysses' Footlocker
+GID00096380	Commissaries Locked Down
+GID00096381	Commissary Terminal
+GID00096384	Repair Pod Terminal
+GID00096385	Inter-Office Email
+GID00096386	Door
+GID00096387	Eyebot Upgrade Circuit Board
+GID00096388	Direct the Show
+GID00096389	Holotape Infos
+GID00096390	NCR Trooper
+GID00096391	Trooper Gleeson
+GID00096392	NCR Ranger Action Report
+GID00096393	NCR Ranger Action Report - Addendum
+GID00096394	NCR Radio Distress Beacon
+GID00096397	Launch Control Terminal
+GID00096398	The Apocalypse
+GID00096399	Duffle Bag
+GID00096400	NCR Trooper
+GID00096401	Door
+GID00096402	Toolbox
+GID00096403	Base Service Gate Key
+GID00096404	Office of the Treasurer Terminal
+GID00096405	Duffle Bag
+GID00096406	Duffle Bag
+GID00096407	Satchel Charge
+GID00096408	Gas Valve
+GID00096410	Irradiated Legionary Veteran
+GID00096411	Irradiated Legionary Prime
+GID00096412	Irradiated Legion Explorer
+GID00096413	Irradiated Legion Explorer
+GID00096416	Irradiated Deathclaw
+GID00096417	Thought You Died
+GID00096418	Just Lucky I'm Alive
+GID00096427	Scourge of the East
+GID00096428	Dead Man's Burden
+GID00096429	The Bear-Slayer
+GID00096433	Irradiated Marked Men Marauder
+GID00096434	Irradiated Marked Men Ravager
+GID00096435	NCR Heavy Trooper
+GID00096436	Irradiated Marked Men Hunter
+GID00096437	Irradiated Marked Men Scout
+GID00096443	Certified Tech
+GID00096444	High-Explosive Rocket Ammo
+GID00096446	Broad Daylight
+GID00096450	Boat to Nuked Legion Encampment
+GID00096451	Dry Wells
+GID00096452	Boat to Dry Wells
+GID00096453	Gate
+GID00096454	Gate to Long 15
+GID00096455	Long 15
+GID00096460	Door
+GID00096464	Perk gained: Lonesome Road
+GID00096465	Footlocker
+GID00096467	Hydraulics Access Level Three
+GID00096468	Sentry Security Access Level One
+GID00096470	Hopeville Base - Armory Access Codes
+GID00096471	Armory Access Terminal
+GID00096472	Metal Box
+GID00096473	Safe
+GID00096478	Thought You Died
+GID00096479	Door
+GID00096481	Blank Magazine
+GID00096482	Salesman Weekly Skill Magazine
+GID00096483	True Police Stories Skill Magazine
+GID00096484	Future Weapons Today Skill Magazine
+GID00096485	Patriot's Cookbook Skill Magazine
+GID00096486	Milsurp Review Skill Magazine
+GID00096487	Locksmith's Reader Skill Magazine
+GID00096488	Today's Physician Skill Magazine
+GID00096489	Tales of Chivalrie Skill Magazine
+GID00096490	Fixin' Things Skill Magazine
+GID00096491	Programmer's Digest Skill Magazine
+GID00096492	 La Fantoma! Skill Magazine
+GID00096493	Meeting People Skill Magazine
+GID00096494	Lad's Life Skill Magazine
+GID00096495	Boxing Times Skill Magazine
+GID00096496	Ulysses
+GID00096497	Gas Valve
+GID00096498	Gas Valve
+GID00096501	Tool Cabinet
+GID00096502	Tool Cabinet
+GID00096503	Tool Cabinet
+GID00096504	Terminal
+GID00096505	Terminal
+GID00096506	Ammunition Box
+GID00096507	Marked Men Ravager
+GID00096508	Ammunition Box
+GID00096509	Adventurer's Pack
+GID00096510	Emergency Kit
+GID00096512	Emergency Kit
+GID00096513	Wardrobe
+GID00096514	Wardrobe
+GID00096515	Wardrobe
+GID00096516	Wardrobe
+GID00096517	Wardrobe
+GID00096518	Toolbox
+GID00096519	Toolbox
+GID00096520	Toolbox
+GID00096521	Toolbox
+GID00096522	Toolbox
+GID00096523	Suitcase
+GID00096524	Suitcase
+GID00096525	Suitcase
+GID00096526	Suitcase
+GID00096527	Supply Cabinet
+GID00096528	Supply Cabinet
+GID00096529	Supply Cabinet
+GID00096530	Supply Cabinet
+GID00096531	Supply Cabinet
+GID00096532	Survivor's Footlocker
+GID00096533	Survivor's Footlocker
+GID00096534	Survivor's Footlocker
+GID00096535	Survivor's Footlocker
+GID00096536	Survivor's Footlocker
+GID00096537	Tool Cabinet
+GID00096538	Tool Cabinet
+GID00096539	Tool Cabinet
+GID00096540	Tool Cabinet
+GID00096541	Tool Cabinet
+GID00096542	Emergency Kit
+GID00096543	Emergency Kit
+GID00096544	Emergency Kit
+GID00096545	Emergency Kit
+GID00096546	Emergency Kit
+GID00096552	Wall Safe
+GID00096553	Wall Safe
+GID00096554	Wall Safe
+GID00096555	Wall Safe
+GID00096556	Wall Safe
+GID00096557	Floor Safe
+GID00096558	Floor Safe
+GID00096559	Floor Safe
+GID00096560	Floor Safe
+GID00096561	Floor Safe
+GID00096562	Safe
+GID00096563	Safe
+GID00096564	Safe
+GID00096565	Safe
+GID00096566	Safe
+GID00096567	Sack
+GID00096568	Sack
+GID00096569	Sack
+GID00096570	Sack
+GID00096571	Sack
+GID00096572	Refrigerator
+GID00096573	Refrigerator
+GID00096574	Refrigerator
+GID00096575	Refrigerator
+GID00096576	Refrigerator
+GID00096577	Gun Case
+GID00096578	Gun Case
+GID00096579	Physician's Desk
+GID00096580	Physician's Desk
+GID00096581	Physician's Desk
+GID00096582	Personal Footlocker
+GID00096583	Personal Footlocker
+GID00096584	Personal Footlocker
+GID00096585	Personal Footlocker
+GID00096586	Personal Footlocker
+GID00096587	Parts Cabinet
+GID00096588	Parts Cabinet
+GID00096589	Parts Cabinet
+GID00096590	Parts Cabinet
+GID00096591	Parts Cabinet
+GID00096592	Oven
+GID00096593	Oven
+GID00096594	Oven
+GID00096595	Oven
+GID00096596	Oven
+GID00096597	Metal Box
+GID00096598	Metal Box
+GID00096599	Metal Box
+GID00096600	Metal Box
+GID00096601	Metal Box
+GID00096602	Metal Box
+GID00096603	Metal Box
+GID00096604	Metal Box
+GID00096605	Metal Box
+GID00096606	Military Shipping Crate
+GID00096607	Military Shipping Crate
+GID00096608	Military Shipping Crate
+GID00096609	Military Shipping Crate
+GID00096610	Military Shipping Crate
+GID00096611	Metal Box
+GID00096612	Metal Box
+GID00096613	Metal Box
+GID00096614	Metal Box
+GID00096615	Metal Box
+GID00096616	Locker
+GID00096617	Locker
+GID00096618	Locker
+GID00096619	Locker
+GID00096620	Locker
+GID00096624	High-Tech Gun Case
+GID00096625	High-Tech Gun Case
+GID00096626	High-Tech Gun Case
+GID00096627	High-Tech Gun Case
+GID00096628	High-Tech Gun Case
+GID00096629	Garbage Can
+GID00096630	Garbage Can
+GID00096631	Footlocker
+GID00096632	Footlocker
+GID00096633	Footlocker
+GID00096634	Footlocker
+GID00096635	Footlocker
+GID00096636	First Aid Box
+GID00096637	First Aid Box
+GID00096638	First Aid Box
+GID00096639	First Aid Box
+GID00096640	First Aid Box
+GID00096641	Fire Hose Box
+GID00096642	Fire Hose Box
+GID00096643	Fire Hose Box
+GID00096644	Fire Hose Box
+GID00096645	Fire Hose Box
+GID00096646	Filing Cabinets
+GID00096647	Filing Cabinets
+GID00096648	Filing Cabinets
+GID00096649	Filing Cabinet
+GID00096650	Filing Cabinet
+GID00096651	Filing Cabinet
+GID00096652	Filing Cabinet
+GID00096653	Filing Cabinet
+GID00096654	Duffle Bag
+GID00096655	Duffle Bag
+GID00096656	Duffle Bag
+GID00096657	Duffle Bag
+GID00096658	Duffle Bag
+GID00096659	Dirty Crate
+GID00096660	Dirty Crate
+GID00096661	Dirty Crate
+GID00096662	Dirty Crate
+GID00096663	Dirty Crate
+GID00096664	Destroyed Eyebot
+GID00096665	Destroyed Eyebot
+GID00096666	Destroyed Eyebot
+GID00096667	Destroyed Eyebot
+GID00096668	Destroyed Eyebot
+GID00096669	Desk
+GID00096670	Desk
+GID00096671	Desk
+GID00096672	Desk
+GID00096673	Desk
+GID00096674	Desk
+GID00096675	Desk
+GID00096676	Desk
+GID00096677	Desk
+GID00096678	Desk
+GID00096679	Desk
+GID00096680	Desk
+GID00096681	Desk
+GID00096682	Desk
+GID00096683	Desk
+GID00096684	Damaged Shipping Crate
+GID00096685	Damaged Shipping Crate
+GID00096686	Damaged Shipping Crate
+GID00096687	Damaged Shipping Crate
+GID00096688	Damaged Shipping Crate
+GID00096689	Caravan Crate
+GID00096690	Caravan Crate
+GID00096691	Caravan Crate
+GID00096692	Caravan Crate
+GID00096693	Caravan Crate
+GID00096694	Broken Refrigerator
+GID00096695	Broken Refrigerator
+GID00096696	Broken Refrigerator
+GID00096697	Broken Refrigerator
+GID00096698	Broken Refrigerator
+GID00096699	Broken Eyebot
+GID00096700	Broken Eyebot
+GID00096701	Broken Eyebot
+GID00096702	Broken Eyebot
+GID00096703	Broken Eyebot
+GID00096704	Ash Pile
+GID00096705	Ash Pile
+GID00096706	Ash Pile
+GID00096707	Ash Pile
+GID00096708	Ash Pile
+GID00096709	Ammunition Box
+GID00096710	Ammunition Box
+GID00096711	Ammunition Box
+GID00096712	Ammunition Box
+GID00096713	Ammunition Box
+GID00096714	Adventurer's Pack
+GID00096715	Adventurer's Pack
+GID00096716	Adventurer's Pack
+GID00096717	Adventurer's Pack
+GID00096718	Adventurer's Pack
+GID00096719	Suitcase
+GID00096720	Marked Beast Helmet
+GID00096721	Marked Beast Eyes Helmet
+GID00096722	Marked Beast Face Helmet
+GID00096723	Metal Box
+GID00096724	Metal Box
+GID00096725	Metal Box
+GID00096726	Metal Box
+GID00096728	Military Shipping Crate
+GID00096729	Marked Men Hunter
+GID00096730	Ammunition Box
+GID00096731	Gas Valve
+GID00096732	Feel Like a Kid Again
+GID00096734	Eyebot Maintenance
+GID00096735	Fist of the North Rawr
+GID00096736	Fist of Rawr
+GID00096739	"Missing" shipment
+GID00096742	Ammunition Box
+GID00096743	No More Lift For U
+GID00096744	Welcome to Silo01
+GID00096745	Door
+GID00096746	Door
+GID00096748	Auto-Doc
+GID00096750	Toolbox
+GID00096751	Toolbox
+GID00096752	Toolbox
+GID00096753	Military Shipping Crate
+GID00096754	Military Shipping Crate
+GID00096755	Military Shipping Crate
+GID00096756	Military Shipping Crate
+GID00096757	Military Shipping Crate
+GID00096758	Military Shipping Crate
+GID00096759	Military Shipping Crate
+GID00096760	Military Shipping Crate
+GID00096761	Military Shipping Crate
+GID00096762	Floor Safe
+GID00096763	Ammunition Box
+GID00096764	Ammunition Box
+GID00096765	Gas Valve
+GID00096766	Lights Out!
+GID00096771	Ulysses Log: Y-17.15
+GID00096772	Ulysses Log: Y-17.16
+GID00096773	Ulysses Log: Y-17.17
+GID00096774	Ulysses Log: Y-17.21
+GID00096775	Ulysses Log: Y-17.22
+GID00096776	Ulysses' Final Message
+GID00096777	Ulysses Log: Y-17.23
+GID00096778	Direct the Show
+GID00096779	Stimpak Effect
+GID00096783	Super Stimpak Effect
+GID00096784	Mentats Test Level
+GID00096785	Radiation Healing
+GID00096786	Radiation Resistance
+GID00096787	Conversion, Blank Magazine to Book
+GID00096790	Ulysses' Mask
+GID00096792	Conversion, Missile to Rocket
+GID00096793	Bitter Drink Recipe
+GID00096794	Glowing Trooper Ghoul
+GID00096797	Hey, Voracious Reader!
+GID00096799	Skeleton
+GID00096802	Skeleton Head
+GID00096803	Tourniquet Effect
+GID00096805	The Crow's Nest
+GID00096806	First Aid Box
+GID00096812	Waste Disposal Station
+GID00096813	Terminal Lever
+GID00096814	Marked Men Hunter
+GID00096815	General Martin Retslaf
+GID00096816	NCR Riot Control
+GID00096817	NCR Riot Control
+GID00096818	Locker
+GID00096819	Locker
+GID00096820	Locker
+GID00096821	Locker
+GID00096822	Dead Marked Man
+GID00096823	Dead Marked Man
+GID00096824	Dead Marked Man
+GID00096830	Tribute Crate
+GID00096834	Missile
+GID00096837	Tribute Crate Key
+GID00096844	Terminal Lever
+GID00096845	Terminal Lever
+GID00096846	Footlocker
+GID00096847	Locker
+GID00096848	Locker
+GID00096849	Ammunition Box
+GID00096859	Footlocker
+GID00096860	Footlocker
+GID00096861	Footlocker
+GID00096869	Roughin' It! Bedroll Kit
+GID00096870	Light Step
+GID00096871	Rawr
+GID00096872	Flechettes
+GID00096873	Marked Men Perception Penalty
+GID00096875	Seymour
+GID00096876	Nails
+GID00096877	Gas Valve
+GID00096878	Gas Valve
+GID00096879	Gas Valve
+GID00096880	Marked Men Scout
+GID00096881	Marked Men Hunter
+GID00096882	Marked Men Ravager
+GID00096883	Marked Men Marauder
+GID00096884	Laser Detonator
+GID00096886	Lonesome Road
+GID00096887	Irradiated Heavy Trooper
+GID00096888	Repair Eyebot
+GID00096889	Repair Eyebot
+GID00096890	Repair Eyebot
+GID00096891	Medical Eyebot
+GID00096892	Medical Eyebot
+GID00096893	Medical Eyebot
+GID00096894	Glowing Trooper Ghoul
+GID00096895	Glowing Trooper Ghoul
+GID00096896	Glowing Trooper Ghoul
+GID00096897	Hopeville Silo Mainframe
+GID00096898	Irradiated Heavy Trooper
+GID00096900	Snap out of it
+GID00096901	Bravo Team Mission Orders
+GID00096902	NCR Trooper
+GID00096903	NCR Trooper
+GID00096904	NCR Ranger
+GID00096905	Commissary Reminder
+GID00096907	Colonel Royez
+GID00096908	Marked Men Hunter
+GID00096909	Marked Men Scout
+GID00096910	Marked Men Scout
+GID00096911	Marked Men Marauder
+GID00096912	Marked Men Ravager
+GID00096913	Marked Men Ravager
+GID00096914	Marked Men Marauder
+GID00096915	Marked Men Scout
+GID00096916	Marked Men Scout
+GID00096917	Marked Men Hunter
+GID00096931	Ulysses
+GID00096932	Poison
+GID00096934	RALPHIE Poster
+GID00096936	Flare Resist
+GID00096940	DEBUG RAD FOOD
+GID00096941	Silo Blast Door Controls
+GID00096942	Control Station
+GID00096944	Blood-Nap Bonuses
+GID00096945	Door
+GID00096946	Tunneler
+GID00096950	Flash Bang
+GID00096951	Flash Bang Information
+GID00096952	Enhanced Sensors
+GID00096959	Incendiary Rocket Ammo
+GID00096960	Snap out of it
+GID00096961	Blood-Nap
+GID00096962	Breakdown Rocket
+GID00096963	Awaken Bot
+GID00096965	Trail Carbine
+GID00096966	Freeside
+GID00096967	Freeside
+GID00096968	Plasma Rifle
+GID00096969	Grenade Machinegun
+GID00096970	Canyon Wreckage
+GID00096971	Mojave Wasteland
+GID00096972	The Faderator
+GID00096974	The Lonesome Road
+GID00096975	Ashton Missile Silo
+GID00096976	Hopeville Missile Silo
+GID00096977	The Divide
+GID00096978	The High Road
+GID00096979	Ashton Missile Silo Lift
+GID00096981	The Reunion
+GID00096982	The Reunion
+GID00096983	Lonesome Road Loaded
+GID00096984	DLC04 XP Calculator
+GID00096985	The Job
+GID00096986	The Divide
+GID00096987	The Tunnelers
+GID00096988	The End
+GID00096989	The Courier
+GID00096990	The Silo
+GID00096991	The Launch
+GID00096992	Lonesome Road
+GID00096993	Door
+GID00096994	Door
+GID00096995	Door
+GID00096996	Door
+GID00096997	Door
+GID00096998	Door
+GID00096999	Door
+GID00097000	Door
+GID00097001	Buried Buildings
+GID00097002	Sunstone Tower
+GID00097003	Ulysses' Temple
+GID00097004	Gas Valve
+GID00097005	Door
+GID00097006	Door
+GID00097007	Silo Network Security Codes
+GID00097008	Door
+GID00097009	Base Commander's Desk
+GID00097010	Ulysses
+GID00097012	Door
+GID00097013	Hopeville Missile Base HQ
+GID00097014	Collapsed Overpass Tunnel
+GID00097015	Gate Terminal
+GID00097016	Tunneler
+GID00097017	Enter
+GID00097018	Enter

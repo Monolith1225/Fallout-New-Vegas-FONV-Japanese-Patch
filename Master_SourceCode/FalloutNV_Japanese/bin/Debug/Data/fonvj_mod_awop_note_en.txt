@@ -1,0 +1,814 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_awop_note_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00102268	It's been literally less than an hour since the last explosion registered above ground and now or own fucking defenses have turned on us. They have set the whole facility to lockdown. We lived through the end of the world to be destroyed by our own hoarded tech. Robots all over the facility have suddenly turned hostile. How or why I can see so reason. The only outside contractors we hired for this place were Vault-Tec who had nothing to do with the robotics and House Tools and even House was only allowed a minor role in the robots design.
+GID00102269	Lifesigns all over the main facility are blinking out. The barracks seem relatively safe so far, there are only a handful of turrets in this area and Daniels is leading an EMP team to take them out from thier blind-spots. That's all well and good but if the main robot force comes this way then we are doomed...
+GID00102270	I barely made it out of the range alive today.
+GID00102271	The weakest shot was to be used as a live target for the others and I never could stop my hands shaking. It seems like our new Centurion has been taking lessons in authority from Lanius himself.
+GID00102272	If Marshal had not shown up when he did I'd be dead now.
+GID00102273	I'm just gonna sign up for the Legion Destruct implant. I heard that thing will make a person explode like a frag if they are killed. Then Baculus wont be able to push me around as much.
+GID00102274	It sounds like 90% of the Store-room was filled with junk. Bix has dumped most of it outside the Bunker with the broken droids. The teleports are ready to go though and right now we are all mentally preparing ourselves for what may lie ahead. This will be for our first teleport in over five years.
+GID00102275	I have no idea what just happened but there has been some kind of huge explosion. Many have been killed, trapped by rubble or caught by shockwaves in our confined conditions. Many of the troops have started to hemorrhage and we do not have the medical facilities down here to deal with them all. Octavius seems unaffected as always and has restored some semblance of order. Our main problem is now we are walled in, in all directions and my Gieger Counter is showing some worrying figures. If we don't get out of here soon, I doubt we ever will...
+GID00102276	Yeah, I guess you're right. Oh well, thanks for the advice ol' buddy.
+GID00102277	Turns out no-one cares about the computer, all anyone is talking about is how to get out of here. Damn those Vault 41 bastards. And they say we attacked them..., what the hell are they on about? We are low on everything and now Greggs says we'll have to blast our way out. How the hell are we supposed to blast our way out of a nuke proof vault?
+GID00102278	The Underground by Roach Part 2
+GID00102279	2080-2103: All hell breaks loose. Mutants start pouring into the state from all angles. Raider gangs launch guerrilla offensives against any and all authority figures. Within a year chaos reigns and the gangs begin to fight with each other for territory. I leave Vegas and head towards The Rocky Mountains where I lived for a few years. I figured the area would be pretty rad-free but I was wrong and foolish enough to venture out without a Gieger Counter. I paid the price when my skin began falling off but I lived through it and now I am almost thankful for it. Now I can live as long as I can stay in one piece.
+GID00102280	2104-2109: I return to New Vegas after a series of adventures, escapades and various other life affirming incidents and find a new home in The Underground. By this point there was some balance restored to the area. The gangs had settled and The Underground Milita owned their ground and defended it well. They had set up defences in all the buildings around the main office and were recruiting from the locals to guard the place. I signed up for frontline defence. Sniping basically. Not a whole lot of other work available for a Ghoul I quickly found. The locals were a good group though and within a few years I had earned enough to get my own Apartment in the Residential area. Anyway that turned out to be a Shack in an unfinished Sector which we then had to build into a house. There were certain rules back then barring people like me from living amongst the norms. That's another story though. I didn't mind at the time. It was better work than being on the front lines and there were plenty of others like myself who in many ways were worse off because they had so much more to lose.
+GID00102281	One of the other Ghouls was a scientist who set about standardising a test for our kind to detect any potential hazards they might cause to norms which the Military officials eventually agreed to. Those of us who passed got to stay in the main Sectors. Those who did not set up homes in unfinished neighbouring sectors and tried to make the best of things together.
+GID00102282	2110: After many years of building and saving a steady supply of caps, I return to my pre-war hobby/job of making music.
+GID00102283	It looks like Mlix wants to stay a while. I think she's made some friends in that Underground place we visited and has chosen to stick around. I tried to talk her out of it but she was adamant. Anyway it sounds like Tony has the Dimension Portal set up so she can come home at any point. I'll miss her though. If you ever come back and read this Mlix please know that despite retching at almost all our physical contact (like I know you do with everyone) and despite all the times I yelled at you for eating everything in sight I have to say you were the only one I ever really liked and I guess that makes you my best friend. Please come home soon. It's gonna be hell without you back there.
+GID00102284	That bastard, he's taken Mary away from me. I don't know what he's done to her, I know she would never even volunteer for one of his crazy experiments but now she's changed. She won't acknowledge me and when I confronted Rotson he looked like he was going for a weapon. I drew my own Pistol but him Mary of all people grabbed me and threw me against the wall. I heard a ripple of noise run through the facility, like a hundred ghouls snarling simultaneously. Mary started moving towards me and I could hear scuffling in the corridor outside, I grabbed my gun and told Rotson to make them all back off or I would shoot him. I don't know what he did but they all just stopped and walked away. He told me to get out and never come back. Well I will, but I'm gonna leave a surprise for that bastard. Next time he greets his precious Mr Handy he's gonna find it's got a few new subroutines in its AI.
+GID00102285	We finally found a new Redoubt. I thought we were in for a fight when I almost stumbled head-first into the rusting husk of an old Security Droid outside. The caves are littered with them. Looks like they have all been offline since The Big Chill.
+GID00102286	This place is not like any of the others we have visited before. Getting in was easy enough. Reprogramming these security cards is easy enough with all the data we have collected so far. It's not like any Redoubt I have visited before though. It looks more like a private laboratory. On first glance the technology here looks more streamlined and efficient having multiple teleporters running from a single generator but on closer inspection it turned out that the local teleport array consists of prototype models that only allow for 2-way transport. Not that that makes any difference to our situation given that we could not predict where we will end up even with the newer models.
+GID00102287	On the plus side the current teleport array seems unused and fully functional which should give us up to eight new locations to visit. Condor is scanning for local Redoubts now and Bix is still busy trying to restore the Store-rooms and convert them into a workable Armory. Looks like we will be using this Bunker as a base of operations for the time being. Makes sense since if any of the local areas seem too hostile then we'll have to teleport back to this destination anyway.
+GID00102288	Liquid Blasted - Plazmatekk EP 2208
+GID00102289	Three more awesome tracks from Riazanov's Liquid Blasted project with a new style Freetech vibe.
+GID00102290	1, 'Digital Comrades' kicks things off at 210bpm with industrial snares and warped noises forming the intro before the beat drops, later being joined by a vocal loop. Solid production throughout.
+GID00102291	2, 'Net Stalker' is a little faster at 220bpm and features a more melodical arrangement of unusual noises than the A-Side. Effectively an instrumental this track is very effective for adding a bit of bounce to a raw speedcore track in the mix.
+GID00102292	3, 'Wicked Games' is straight up bangin' speedcore. 240bpm with very heavy drums for recent Freetech output and a mad little tune which takes over the middle before dropping back into the big drums and a vocal cut of a bloke saying 'radiation' over and over. Nice. Gets a bit weird about a third in where the beats start to stagger out of formation. Sounds awful mixed over something so avoid that. Great tune though.
+GID00102293	8/10
+GID00102294	Initiate Emergency Protocol 177
+GID00102295	The town is under attack - some kind of toxic leak.
+GID00102296	The bunker's air filters can't handle it. Some troops are already showing signs of sickness.
+GID00102297	Not sure how long we can last down here but it's better than what's going on up there. There's been no comms from the town in over 15 minutes so whatever that stuff is, it is deadly as hell. All we can do now is hope that it dissipates before it reaches us down here.
+GID00102298	Still no word from Bix. We have successfully returned from salvage operations at three other Redoubts now and there has been no sign of him anywhere. Condor says we should push onwards. That we are more likely to find him that way. I'm not so sure. The Vault-Tec office proved too hostile for us to handle alone. If Bix had of been here I know we would have found a way to deal with those robots. As much as I love and trust Condor I still have a very bad feeling about this next teleport. Usually he would listen to me but I understand his motives. I just hope he's right.
+GID00102299	Episode 2: History
+GID00102301	Episode 3: Hobbies
+GID00102303	Episode 4: Curry
+GID00102305	Episode 5: Film
+GID00102307	Episode 6: Life
+GID00102309	Episode 7: Contract
+GID00102311	Episode 8: Enemy
+GID00102314	Email: djmystro1@hotmail.com
+GID00102315	Dj Promo - Battling Ignorance 2208
+GID00102316	Excellent 2-tracker from kick drum king Sir Hoff aka Promo. Both tracks have drums bigger and bolder than pretty much anything else out there which is nice.
+GID00102317	1, 'Battling Ignorance' has some awesome vocals about 'more education and more determination' and 'more' other things which make a nice change from the general negative attitude often found in the genre. This track is 170bpm of thumping Freetech with a distinctive Promo melody twisting throughout. Highly recommended.
+GID00102318	2, 'Always Futile' again at 170bpm-ish is a break from Promo's usual style with a music box themed breakdown reminiscent of happy Freetech (remember that anyone?). An unusual female vocal adds an extra dimension, though I can't figure out what she's on about for the most part. The drums are just as heavy as usual, if not heavier which forms a nice contrast to the mellow sections.
+GID00102319	9/10
+GID00102320	I don't think Maddox is right on this one, sending Burke and her crew to revenge attack Vault 40 is the dumbest idea I have ever heard. I know tensions have been running high between the Vaults since before I was born but to go to war with them just seems insane. Also what the fuck is he calling me paranoid for? I'm just trying to ensure the safety of the Vault and he's trying to wage a goddamn war out of spite and superstition. I do not believe for one second the story that prisoner told us, he was just telling Maddox what he wanted to hear. He looked like he had been out in the wastes for years, there is no way he had lived in a Vault his entire life. Something very bad is going on here and now we are severely lacking in the active personnel needed to deal with it.
+GID00102321	Feb 4, '78
+GID00102322	This seems to be the safest room in the visitors centre so I'll make it my new home for now. The bunk of the mantises are dead and the remainder will not bother me up here. I managed to dig up a key to storage at reception and found plenty of stuff, enough to keep me from scavenging for the next few weeks at least. I'll move the best of it up here tomorrow. For now I need some rest.
+GID00102323	Apr 10, '78
+GID00102324	Signs of an attempted forced entry last night. I doubled the traps and barricades. I'm not much for fighting anymore so it's better if I can persuade any invaders that I'm not worth the effort.
+GID00102325	Apr 19, '78
+GID00102326	The intruders turned out to be intelligent Super Mutants. After a short shouting match with their leader we agreed to share this place. I managed to defuse the bulk of the explosives before anyone was killed but I think a few of thier Scouts are a bit pissed at me. None of them have attempted to physically harm me though.
+GID00102327	I am unsure how much I can trust these mutants but it seems I do not have much of a choice now regardless.
+GID00102328	May 22, '78
+GID00102329	Things have been pretty good since those mutants showed up despite our first impressions of each other.
+GID00102330	Their company almost serves to take my mind off the loss of Maggie all those years ago at Helios.
+GID00102331	They seem much more civilised than I was led to believe. With my explosives and engineering skiils and their knowledge of heavy weaponry and machinery I feel there is much we have to share with each other.
+GID00102332	Their latest recruit, Fabrie, was a weapon designer before the Great War and has already helped me draw up blueprints for several new weapon modifications.
+GID00102333	Jun 11, '78
+GID00102334	I seem to have taken on the role of repairman around here. Suits me better than hunting these days anyway. Koek and the other "Headbangerz" as they have taken to calling themselves, make sure I am well fed.
+GID00102335	Jun 16, '78
+GID00102336	Several braindead Mutants showed up today wating to join. I was worried they would be allowed in and would be a liability but it seems the Headbangerz are a smart group and they forced them back out.
+GID00102337	Jun 19, '78
+GID00102338	More of those Mutants came back last night. Said we either let them in or they'll be back in greater numbers to take this place by force. We have prepared our defences but so far there has been no sign of an attack.
+GID00102339	Fabrie says I need to stay hidden and that I'll be of no use in an all Mutant brawl. Even at my age I'm not sure if I can manage that. Hiding never was my style when other peoples lives are at risk.
+GID00102340	21/09/2281 15.36
+GID00102341	USER: Unknown:
+GID00102342	Oh WAH WAH! I'm a dead guy from the past... My family is all dead from being blown up into little bits and I helped build my own coffin...
+GID00102343	Ha ha, you big twat.
+GID00102344	We require your assistance again.
+GID00102345	Fire Geckos have been appearing with greater regularity from the North and the NCR are not gonna do a thing about it. I need you to organise a team and find and destroy the nest. Meet me at the Bison 9am tomorrow if you are interested and I'll arrange for your payment.
+GID00102346	Shit, so much for paradise, the Docs a looney. He says he wants to fix the ferals by operating on their brains, he's already rounded up a dozen or so. The ones he's supposedly 'fixed' so far, well they 'aint friendly, they just do what he says. I think he's trying to create some sort of army, only now he wants us to volunteer for one of his operations. His thinks he can reverse the ghoulification process or some nonsense. Well I'm not having any part of it.
+GID00102347	It looks like we have cleared out the last of the gear from Vault 3. Damn, those pussies rolled over quick - with a little training they could have put up a serious fight. I'm still telling the youth about it these days. One of our greatest battles.
+GID00102348	I finally cracked the door on that last room, at least the last one in my skill range. How many years has that taken now? hmmm... Don't even know what year it is anymore... Anyway it was crammed full of weapons again. Great for the cause, whatever that is, but I need a fucking drink. This place is no fun sober. It fucking stinks too.
+GID00102349	Some of the troops around here have taken to wearing some kind of wristband donated by the other gang. It's some form of that DOD tech that has been kicking around for a while where users explode on death taking all thier loot with 'em. I won't tough the things myself. Mother always said I had dead eyes.
+GID00102350	We may have found a way out. Last night I convinced Octavius to let me take a squad of our stealthiest troops on a recon of the ant's nest. Stealth definitely seemed to work in our favor. Dispatching our enemies silently we were able to get through much of the nest without alerting any unmanageable hordes.
+GID00102351	It seemed we had hit a dead end until Scott pointed out a nearby patch of brick wall. It looks like we have found the basement of a shop on the outskirts of the city.
+GID00102352	We now have to set up a defensive perimeter and blast our way through. Luckily we have more than enough explosives to do the job.
+GID00102353	Steve--
+GID00102354	I know you said to wait til you got back, but that Roach guy keeps broadcasting and people are getting wound up waiting. The help broadcasts ended long ago and we may even be too late already. The Vipers keep on launching raids in this area and it's only a matter of time before they attack us again. I asked for a volunteer to help defend the place but no one is willing to stay behind. We are headed in the direction of the FreeTech braodcasts up by The Sunset Sass HQ. Please don't be mad. Hopefully you will read this and meet us up at where the broadcast is coming from.
+GID00102355	your brother, Jules.
+GID00102356	Apr 27th
+GID00102357	Lower East has been excavated. I'm not sure what the purpose of this area was exactly but a large number of ferals had already gained access through an old utility pipe. I have sent several workers to seal access to that chamber from the outside. The surviving untreated ferals are locked in the old Clinic for now. I'll decide what to do with them later.
+GID00102358	There are still several locked doors to access down there. For the time being it will serve as safe storage for the local toxic waste which the ferals seem so fond of. They have taken to tearing at any barrels left out in the open in order to further expose their contents.
+GID00102359	Apr 29th
+GID00102360	More petty problems. Butch has not responded well to the treatment. In fact he has become permanently frenzied. I can see him on the monitors now trying to bash down the walls. All the rads down there are only making things worse.
+GID00102361	On top of that my Mr Handy Droid seems to be showing signs of degradation. Twice now it has nearly taken my head off in a series of accidents and blunders. Not to mention the infuriating vocal loops it seems to output. I'm going to have to take it back up to its charge unit and take a look at it's circuits. I'll have to deal with Butch later.
+GID00102362	Sent: 21/12/80
+GID00102363	From: Captain Albert Petro
+GID00102364	Mohave Bunker
+GID00102365	To: General Lee Oliver
+GID00102366	Camp McCarren
+GID00102367	RE: Potential Candidates.
+GID00102368	Here's a list of people you may be interested in:
+GID00102369	Atkinson, Lara (Private)
+GID00102370	Recent recruit. Athletics expert and already one of our top snipers.
+GID00102371	Bull, Arnold (Sergeant)
+GID00102372	AKA Bulldozer, very stong, very high pain threshold and legendary kill count.
+GID00102373	Guerra, Wade (Ranger Veteran)
+GID00102374	One of our most intelligent & experienced Rangers. Knows the local area better than anyone else posted here.
+GID00102375	Hickman, Paul (Private)
+GID00102376	Psysically unimposing but performed to an outstanding level on all audio tests and has proven to be a great scout.
+GID00102377	I'll have them sent over to McCarren first thing in the morning.
+GID00102378	The Underground by Roach Part 6
+GID00102379	2269: During a final attempt to purge the Western Underground Major Cobb is cornered by a giant Lakelurk when he is saved by a Deathclaw called Masseling. Masseling and his mate Yenny are welcomed into the Underground.
+GID00102380	2270: The radiation in Power Plant B now attracts so many ghouls from the outside that they start to overwhelm the Lakelurks in number.
+GID00102381	Our acting commander takes his own life with a drug overdose one night and Colonel Hoff assumes command of the Military. The council is formed under the orders of the Colonel, back then consisting of Hoff, myself, Security Chief Santana (senior) and Doctor Funk.
+GID00102382	2271: Tech Raider DOD Tech starts to leak out onto the open market. By the use of a small implant anyone with this tech explodes or disintegrates on death taking all thier possesions with them. The practical uses for this in a world where people will stab you in the back for your shoes are numerous. To such a degree that many of our troops and residents wear an optional removable version at all times.
+GID00102383	2272-2279: According to our now dead spy (he never would tell me his name), Scowell has given Blaze, a particularly brutal Tech Raider ghoul, the task of rallying the ferals together to create another army in the Western Underground. Not long after the Skeleton Crew were formed and started to carry out raids from Residential Sector 2 (which they now call 'Ghost Town').
+GID00102384	A local Nightstalker infestation spirals out of control and the creatures begin to attack our Troops and the Tech Raiders indiscriminately. Before long the Tech Raiders figure a way to turn the situation to their advantage, breeding their own Nightstalkers and using them as a meatshield in Trapper's Pass.
+GID00102385	The Enclave also began work on a new type of soldier - The Tech Psycho, as wounded raiders soon found themselves involuntarily merged with suits of hardened Power Armor.
+GID00102386	In response new Underground Trooper Training regimes prove so strict that one outsider dies from exhaustion. They are not changed but the screening process is refined slightly.
+GID00102387	Military training classes become mandatory for all Underground residents.
+GID00102388	2280: The first encounter between the Underground Troops and the Tech Pyschos ends in a defeat for the Underground. Yenny, Masseling's partner is slain in the battle.
+GID00102389	2282: Present day and... well, you know the rest...
+GID00102390	Greetings John,
+GID00102391	Your theory does not compute. Clive Unit 3.1 thinks you may be overworked. Perhaps you need some time to recharge your batteries.
+GID00102392	Your good friend,
+GID00102393	Jedd.
+GID00102394	First geckos, now mantises? What next fucking squirrels? They began crawling in from a crack that had opened up near the General's office. Only little bastards but they still managed to take out Anders, our chief medic. Greggs and Lewis' team are holding them off with small arms and the flamer at the moment. On the plus side Harkins reckons the dig team have nearly reached the surface. We may just get out of here yet... Shit, what was that... another explosion? I've gotta go check this out.
+GID00102395	Sent: 19/08/2210
+GID00102396	To: Betty Pelican
+GID00102397	Hyper-Test Labs
+GID00102398	From: Johnny Limes
+GID00102399	Location Unrecognised
+GID00102400	RE: Power Failiure
+GID00102401	Damn, my power is down. Door is unresponsive. Sounds like there is some fighting outside. I felt explosions even through these walls. I need help. Used my last Fission Battery getting the term back online and now I'm trapped in here. Backup should kick in, outer door will reset to default so with any luck it's still active.
+GID00102402	DATA RESTORED 01%
+GID00102403	xxxxxxxcgs xxxxxxxahlaa zxxxx .. 7snm ....CORRUPT DATA
+GID00102404	Meanwhile in the basement which is about to be finished being transformed into a bar:
+GID00102406	CHARLIE "Just this one last nail to go and we are done"
+GID00102407	MLIX "About time, I need a rest."
+GID00102408	CHARLIE: "There we go, perfect in every last detail."
+GID00102409	MLIX (rubbing hand): "I still don't see why you needed a nail bed."
+GID00102410	CHARLIE "I told you, to help with my insomnia and headaches plus maybe it'll help with the drinking."
+GID00102411	MLIX "If you're that worried about your alcohol consumption level why have we just spent the last 7 hours converting the basement into a bar."
+GID00102415	MLIX: "Can I have a go?"
+GID00102416	CHARLIE: "Well, I suppose so."
+GID00102417	MLIX: "Cool, how do I get on it?"
+GID00102421	CHARLIE "How is it?"
+GID00102422	MLIX "Quite painful actually."
+GID00102423	CHARLIE "Here, do you want a hand."
+GID00102428	MLIX "It's not my fault there's no decent food in this house."
+GID00102430	MLIX "I am not obsessed with cakes."
+GID00102431	CHARLIE "Yes you are, look you're eating one now."
+GID00102433	MLIX "Yeah, well it's been a long day."
+GID00102435	TONY "So this is what you two have been upto, wow, I must say I'm impressed."
+GID00102436	MATT "Oh great, now I get to live in a pub and I can't even have a drink."
+GID00102437	TONY "Unlucky dead guy."
+GID00102438	STEVE "Yeeees nice one, who fixed up the old pool table?"
+GID00102441	CHARLIE "Hey, I've been slaving down here for hours."
+GID00102464	We gained some ground recently and found some kind of blast door not mentioned in any of the area records. The local terminal refused us entry, I got the impression it was not working correctly anyway. Much to our suprise, not long after the door opened of it's own accord and a team of troops in Radiation suits came to explore. Octivius ordered that we open fire on the 'NCR'. They we're wiped out in seconds but the blast door dropped straight back down. A few of the troops were well armed and many had Raider gang tattoos and scars. An ex-Scorpions member if I'm not mistaken had a huge Sniper Rifle which Octavius has claimed this as his own. There was no evidence any of them were NCR, though who could unite so many Gangs and get them to work together remains a mystery.
+GID00102465	I feel sick, and not from guilt. I wanna throw up my own legs.
+GID00102505	Wake Up Brew:
+GID00102506	3x Nuka Cola
+GID00102507	1x Jet
+GID00102508	1x Vodka
+GID00102509	1x Honey Mesquite Pod
+GID00102510	Damn, I should have known better than to try and teleport to such an old Redoubt. It should have occurred to me that a power failure could happen on-route. It would not have happened in a standard Redoubt but these local systems only allow for single-file transport. Now we have lost Bix to some unknown Redoubt and only myself and Roth remain from our original group.
+GID00102511	After all we have been through together I'm sure we will find him somewhere but Roth looks more worried than ever before. Maybe we are finally starting to get too old for this. No. Can't think like that. Gotta find Bix.
+GID00102512	The Redoubt itself was a literal scrap-heap, 90% inaccessible. Tried to repair one of the scrapped Droids but had no luck. What a waste of time.
+GID00102513	I can't believe our luck. I know Rotson was convinced about there being a location like this around here but really, what were the chances? A Radiological Research Centre right next to a bomb crater, a bit ironic if not just coincidental I feel. A sign peeping out from behind a pile of rubble was our only clue. We quickly set up a shack and set about removing the blockage. After many days of digging we finally excavated the entrance.
+GID00102514	I think we have found a perfect refuge from the wasteland. A veritable ghoul's paradise. It is ideal for our needs with many beds, medical facilities and more than ample supplies (mmmm, irradiated scotch). Rotson still seems pissed for some reason. No matter what we do he's never happy.
+GID00102515	Apparently there was supposed to be a whole level dedicated to the study of radiation but the entire area is blocked off by rubble. Now he wants us to go to work on fixing that. I told him we would need a break first and he just glared at me for about a minute before he eventually agreed.
+GID00102516	Interrogation of the prisoner eventually yielded two important facts. Yes, he was from a Vault and yes, it was Vault 40. I knew this day would come. My dad always told me never to trust those scumbags at Vault 40 and now they have declared war. Well war it is. I have assembled a team to head directly to Vault 40 and blow the bastards into the sky. Burke will lead, Phillips protested, I thought at first he wanted to lead the attack but it turns out he thinks someone else is involved. I told him he is getting paranoid and to get some rest.
+GID00102517	Still no word from Burke's crew. I have begun training some of the cadets in advanced combat techniques early, though the idea of putting teenagers on the front line sickens me and it still only boosts our active duty roster by three. Maddox seems confident, he keeps going on about how we are the latest in a line of great warriors, descended from the best military minds blah blah blah. None of that is gonna do us any good when we are looking down a gun barrel.
+GID00102518	Forced to retreat. I hate it when that happens. Between The NCR, The Fiends and what's left of those Underground freaks the North is unclaimable. We spotted their broadcast office near the sunken Poseidon Gas Station. We tried to get in but Snipers forced us to keep our distance. They are armed a fuckton better than us and from what I hear that office was designed to be blast-proof. We'll need some serious firepower to make a dent.
+GID00102519	Time to see what more we can find of use down here instead. I hear Roland has managed to access the Utility passages. We'll need a full crew if we are gonna clean up those tunnels. Also there's an unmarked blast door no-one can open. We still have no idea what could be inside.
+GID00102520	Get these Plinking nines converted to HP ASAP. Plinks don't do shit against those rotting flesh-bags.
+GID00102521	Underground Residential Sector coming soon...
+GID00102522	The Praetorian and his team are dead.
+GID00102523	This land may be safe from the NCR but it appears they are not the only threat around here.
+GID00102524	All surviving legionnaires are to avoid contact with the giant Lurk and it's brood where possible and instead are to retreat and regroup at Cottonwood Cove where upon they will be issued new orders.
+GID00102525	...you can kill a baby gecko in about a second. Just get in there and kick it's face off.
+GID00102526	There are other perks too. The ladies fancy you if they see you kicking the shit out of a gecko...
+GID00102527	Here's a list of the parts you need to find if you want me to build you a modified Super Sledge:
+GID00102528	1x Super Sledge
+GID00102529	3x Fission Batteries
+GID00102530	4x Scrap Electronics
+GID00102531	1x Steam Gauge Assembly
+GID00102532	Good luck finding everything.
+GID00102533	Fabrie.
+GID00102534	Sent: 17/09/81
+GID00102535	From: General Lee Oliver
+GID00102536	Camp McCarren
+GID00102537	To: Captain Albert Petro
+GID00102538	Mohave Bunker
+GID00102539	RE: X13 MIA
+GID00102540	It's been nearly a day since we last heard back from our X13 Troops. Thier last reported location was the Emergency Railyard Station east of Primm. Send word to any troops in the local area to perform a recon.
+GID00102541	Hey Jedd, this may sound mad but is it just me or are the workers here being systematically replaced by completely different looking robots who are then pretending to be them in order for the management to get away with paying them less without angering the unions?
+GID00102542	The Underground by Roach Part 3
+GID00102543	2116: Several Underground citizens along with myself set up a small Broadcast Station to advertise The Underground's ample supplies and shelter to the Wastes. It is soon overwhelmed by an influx of hungry and homeless wastelanders.
+GID00102544	2117: Too many citizens are allowed into the Underground. Fighting breaks out and the first Military execution takes place, in public. People were worried for sometime that the place was just gonna turn into another fascist state but the Officer who committed the act later resigned and left the facility, supposedly in shame. I got the impression that it was not 100% his idea to go but from what I remember of the guy he won't have been missed. Nothing like that ever happened again until The Tech Raiders showed up.
+GID00102545	To stop the overcrowding I agreed to stop broadcasting messages about supplies and instead started to play music including much of my own which turned out to be surprisingly popular.
+GID00102546	2122: Work begins on the Incomplete Sector to create space for many wealthy citizens attracted to New Vegas by the allure of a Rad-free atmosphere only to find that we in The Underground are the last bastion of civilization. Workers in the area are being contracted from the outside and are allowed to build their own housing nearby too so everyone should benefit.
+GID00102547	2123: Power Plant B is brought online to provide power for construction.
+GID00102548	2124-2125: Work on the Incomplete Sector is cancelled after reports of several deaths from mutated animal attacks. The area is declared off limits and Power Plant B is fenced off from the connecting areas. Attempts to expand the facility in any direction underground seem to be met with similar consequences, as though we are surrounded by other creatures.
+GID00102549	Much speculation arises as to what happened to several other planned Sectors said to be in progress at the time of the War and yet not present or accessible via our own Networks.
+GID00102550	Location: Unknown area labelled as 6AF14.
+GID00102551	Managed to gain entrance by using the classified codes we found at Area 2.
+GID00102552	This location is clear of enemies and radiation.
+GID00102553	According to this terminal it is indeed a "Redoubt". Still no clues as to what that means.
+GID00102554	This terminal appears to have been unused for any real purpose. I'm guessing parts of this area were never finished.
+GID00102555	Very little equipment is active and 80% of the mainframe is offline.
+GID00102556	There is at least one more locked door down here that is beyond our squad's current technical capabilites.
+GID00102557	Due to confined nature of this facilty coupled with it's proximity to the main power generators I would not recommend an explosive breach.
+GID00102558	At the very least this place should prove handy for storage and maybe some of this equipment can be salvaged for parts.
+GID00102559	DATA RESTORED 100%
+GID00102560	I think we have found a safe place to store the excess waste from the new power plant. The connecting sewer network is deep and complex. If we collapse certain tunnels and set the rest of the area into lockdown I think we can store all our toxic waste without the threat of attracting more mutants. Run the info past the general and see what he has to say. We'll need some extra manpower to get the job done effectively.
+GID00102561	The mutants are back and we still have nothing new to fight them with. There must be something in this place else they would not keep coming back here but if it's behind those Turrets we're fucked. I sure as hell aint gonna make a run for it, not that I can now anyway. Terrence says we are loosing ground in the Tunnels and if we don't find something soon we are gonna be overrun. Sandwiched between giant mutants and homicidal machines. Just another day in the Jackals...
+GID00102562	Carnage's birthday tomorrow. I wonder what to get him...?
+GID00102563	We have finally achieved stability with the recharge unit. It pools energy from every availble source and stores it in order to replenish the Energy Cell unit as and when required.
+GID00102564	Unfortunately we could not match the MicroBreeder for recharge times but this is certainly a big step in the right direction.
+GID00102565	1: All new occupants are to head to the Clinic in the main Office for a full health check-up on entry. If you have not already attended this check-up then do so immediately or risk exile. Anyone found to have an illness or infection that could spread to the others will be quarantined until the person in question is back to full health.
+GID00102566	2: Respect your superiors. In the event that we lose the Capitol or contact with the outside the Military will assume command of the entire facility. This is for everyone's safety and failure to follow orders may end in exile.
+GID00102567	3: Respect your Neighbours. In The Underground we will all have to live and work together for an indefinite amount of time. In this time it is important that petty feuds do not develop which could escalate into death or rioting. Failure to behave in a relatively Social Manner will result in punishments such as ration decreases, pay cuts, imprisonment or in the worst cases, exile.
+GID00102568	If you believe you will have problems behaving in a social manner report to the Clinic for analysis and Mood-Chem prescriptions.
+GID00102569	Please refer to the Underground Guidelines Manual for a full list of what is classified as 'Antisocial Behaviour'.
+GID00102570	4: Sign up for work. If not already assigned a job in The Underground, report to main Reception for a list of available posts. Though built into the entrance fee is a lifetime's supply of basic essentials you will find life much more bearable if you can afford a few more of life's luxuries and we have plenty of those on offer down here.
+GID00102571	Certain Jobs may also become mandatory in an emergency. Please refer to the Underground Guidelines Manual for a full list of these.
+GID00102572	It's been unusually quiet around here recently. Some dissention in the ranks. Sanderson accused Kracken of being an enemy spy and a fight broke out. Both were drunk. I got the impression they were cheating each other at Caravan if the other troops accounts are accurate. They earned themselves triple partol duty until next week.
+GID00102573	Sent: 17/04/2069
+GID00102574	To: Johnny Limes
+GID00102575	Location Unrecognised
+GID00102576	From: Betty Pelican
+GID00102577	Hyper-Test Labs
+GID00102578	RE: Hyper-Reality or Reality?
+GID00102579	I can't believe they turned down your proposal. Those idiots. We could save thousands, maybe millions...
+GID00102580	Screw it, I'm with you. Life in the game sounds a hell of a lot better than waiting for the bombs to drop. If your predictions are all correct we could live for hundreds of years in the machines, maybe thousands now we have fully accessed the dream state.
+GID00102581	Hundreds have already logged on. Maybe it's not just gonna be our staff in there after all.
+GID00102582	Lock and load Johnny. Lets go kick some virtual ass!
+GID00102583	Use the key to gain entry to the Vault 21 Waste Disposal area.
+GID00102584	Once inside you must gain access to the left side furnace. It is usually locked but marked out of order to avoid arousing suspicion.
+GID00102585	Look to the ventilation box on the left hand side. The switch to gain access to the redoubt is hidden on it's far-side panel.
+GID00102591	The Underground by Roach Part 4
+GID00102592	2126-2194: For the most part The Underground citizens live happy and prosperous lives in its free and safe environment as was intended by its creators.
+GID00102593	2190-2195: My own music gains its own title - Freetech. It becomes so popular it is now the only music we play on the station. Many Underground Citizens ask to learn how to make it so I teach them everything I can and many start to bring me back amazing new examples of the genre for me to play.
+GID00102594	2196: Ahhh, the energy of '96. When all looked well. We set up our first massive Underground rave. Over 300 attendants and no deaths. Not even any fights. We may have spiked the water a little but you can't argue with the results. One of the best parties ever.
+GID00102595	2197-2216: The main creative peak of The Underground. A time when many of the residents had care-free lives and the free time to put into artistic expression instead of fighting. Any of us who can still remember back then agree they were the best years to be alive. So much so I must admit, my memory remains a little hazy. Still there are a lot of record reviews I wrote knocking about from around then. They take me right back.
+GID00102596	2217: Mr House threatens a hostile takeover of the facility if we do not allow him control of our Mainframes, or at least that's what I heard. We tell him to bring it on and sent him a vid-disc of our troops plus some new weapons from the lab on the range. The facility is put on red alert for almost a year and strict military training regimes are brought back into place. We never heard back from House.
+GID00102597	So, my work is predictable and derivative huh? Well I'll show them, I'm gonna write the world's greatest novel - no one will know what will happen next. I can see it now, my name, finally up in lights... Hmm, short on Mentats, guess I'm back to smoking this blue weed again...
+GID00102598	Sent: 20/06/2077 09.13
+GID00102599	To: Marcus Chumley
+GID00102600	[Vault-Tec Nevada Office]
+GID00102601	From: Gordon Checketts
+GID00102602	[Vault Monitoring Station NV03]
+GID00102603	What's going on here? We have been waiting for weeks for the final components for the mainframe when suddenly everything lights up on auto and the whole place goes into lockdown. Now we are trapped in here with limited rations and we can't even do any work. This whole place has been a complete waste of time. We are only hard-wired into barely half of Vault 3's network. At this rate we'll never get the regional coverage they want at head office.
+GID00102604	Get back to me ASAP, half the workers did not even turn up today and I don't know what to tell the rest. Things are getting tense down here to say the least.
+GID00102605	Steak Crispbakes:
+GID00102606	2x Sailsbury Steak,
+GID00102607	1x Potato Crisps
+GID00102608	1x Pinyon Nuts
+GID00102609	2x Fresh Maize
+GID00102610	Sent: 21/10/2277 00.17
+GID00102611	To: Marcus Lumley
+GID00102612	[Vault-Tec Nevada Office]
+GID00102613	From: Gordon Checketts
+GID00102614	[Vault Monitoring Station NV03]
+GID00102615	Why have you done this to us? The others are dead... My family... I don't know... Why now?
+GID00102616	I don't know if you'll receive this... if anyone is still out there. Don't even know which bombs were inside and which were out... if any... I was here in the main control room... Looks like the explosives engineers did not have time to get this far... No food or water. I'll die soon anyway. Waste of time... time and life...
+GID00102617	We're getting reports of some heavily mutated ghouls East of Novac. Recon of the Clark area suggests that they are in fact coming from the old Novac Shipping Tunnels.
+GID00102618	We are unaware of anything in that location that could cause mutations of this nature so we are sending a researcher from the Followers to meet with your squad in Novac. His job is to analyse the local area and see if he can discover the source of the problem. He has very little combat training so you'll need to keep an eye on him at all times.
+GID00102619	Your primary objective is to protect the researcher and help him do his work. Killing all the ferals will come later after we have learned more about the problem. Try to conserve your ammo and don't get lost down there.
+GID00102620	Abundant drugs here. They are almost as common as food. I killed a bunch of dickheads who were crucifying some kids over to the east. Their blood tasted fine but I should have let the kids go before tucking in. I could still hear them screaming after they had fled the valley. Anyway I sold their crap to a travelling Doctor. Ada I think her name was, who gave me access to a steady supply of blood packs and various drugs.
+GID00102621	I thought I'd document their effects.
+GID00102622	Jet:
+GID00102623	Nice at first - adrenalin, big headrush, made want to run outside and attack a cactus with a baseball bat. Effects wore off after a few minutes.
+GID00102624	Psycho:
+GID00102625	Intense feelings of anger coupled with a loss of fear and topped off with a vague sense of worthlessness. Made me actually go outside and attack a cactus with a baseball bat, along with a giant rat and an old bench. Wore off pretty quick again.
+GID00102626	Mentats:
+GID00102627	Nice, all around relaxed buzz, feelings of confidence and even seems to improve eyesight. Like all the others wears off after a stupid amount of time but if I take about four packs at once it makes my head feel like an over-inflated balloon stuck inside a velvet box.
+GID00102628	Buffout:
+GID00102629	Seemed like steroids of some kind. No real visual effects though taking a handful made my foot swell up to the size of a dog. At least it did return to normal after Tony shot it. I can't complain, after all I put a Frag Mine under his mattress last week. At least we were all sleeping outside so it didn't break anything this time.
+GID00102630	So now Tabitha wants more broadcasting power and we all have to die for it. That damn Ghoul mouths off about local Underground Research Facilities and new here we are knee deep in shit and the dead in a fucking sewer.
+GID00102631	I'll bet this whole mission is entirely due to the overcrowding at Black Mountain. Everyone knows we don't have the supplies to feed the Army she is trying to build, let alone arm them all too. Worst of it all when we do get sent out on a salvage mission half the time it's a pointless venture to acquire some new useless piece of pre-war Tech where half our troops get killed. Looks like this is no exception. Bracken is dead already, though he was an asshole anyway. I'm not gonna miss being told what to do by that alcoholic moron.
+GID00102632	Shit. I knew we were gonna hafta rip a few Robots apart but this Sewer is filled with territory obsessed humans as well. They all came out from the Facility we are meant to be looting. The one that Tabitha's scout said was abandoned. It was fun at first crushing their tiny skulls but pretty quickly they got organized and counter-attacked while we were still fucking about bullying the few that survived the first battle.
+GID00102633	Madge blamed me. Said I kept whipping the others into a bloodlust. Stupid bitch. Dead now anyway. Got her legs blown off. Was funny trying to watch her get back up. She actually managed a few steps on the stumps. Even managed to strangle a guy to death as she went down. Kinda beautiful in a way.
+GID00102634	Stalemate now. We own the south east and the humans have the north west. It's been quiet for nearly an hour. Bound to kick off again soon though.
+GID00102635	Shit I'd have been better off with those Human eaters at Spring Mount. At least they all get along.
+GID00102636	...need to remind you that this project has brought Nano and Biotechnology forward decades. People can change thier appearance instantly and for free using our methods. Years of discrimination, petty squabbles, inferiority complexes and body envy can be ended overnight.
+GID00102637	7:
+GID00102638	Hyper-Real Project Objective:
+GID00102639	To create a virtual reality world identical to our own where 1 hour in the game = 1 minute in real life so people can live at least 60 times longer by accessing unused areas of the brain and making use of brain functions used during sleep. Using the Nano & Bio-Tech we will make ourselves psysically and mentally stronger whilst playing the game than we ever could outside the game even living a 100% healthy lifestyle.
+GID00102640	8:
+GID00102641	Global Benefits:
+GID00102642	These games can solve over-population and provide an alternative energy source (depending on time and capitol). On the other hand once we have fully harnessed the potential of Nano & Bio tech all fuel sources will become irrelevant anyway as we can turn any existing matter into anything else.
+GID00102643	It will negate the need for 99% of material possesions including cash thus ending 99% of world conflicts at the same time. Theoretically it could even put an end to the...
+GID00102644	We'd only been here about an hour when Matt managed to run straight into a minefield. It was quite spectacular in all fairness. He bounced about three times and kept landing on another mine. I got the last bit on my phone so at least he was able to watch some of it after. We do not have the equipment to give him another body here so we have had to put his old body in a freezer and buried it to keep it preserved. If he can possess his old corpse again Tony thinks we can get him back home once his is done with his new machine. Oh well, it's back to haunting everyone for him again.
+GID00102645	The time to blow the Northern Sector has arrived. We do not have the resources to prolong this battle any further. Destroy all the data and supplies that you cannot carry and fall back to the Living Quarters. Vault 40 will survive.
+GID00102646	Local environment seems to consist mainly of sand and stone. Some radiation permeates the area but for the most part the air filter checks come back cleaner here than back home. Then again that may have just been due our old house's general background smell biasing the results.
+GID00102647	None the less the whole area is filled with mutants and homicidal maniacs which make for an entertaining atmosphere.
+GID00102648	Strangely enough when I tried to analyse one of the local mutants DNA under one of my own portable microscopes it appeared to become more and more pixellated as I zoomed in, like it was a computer generated image. The same happened with sand, whiskey, a printed photo and even my own knee. However after checking again with locally salvaged equipment I was able to perform a full autopsy and analysis on another local mutant with no more problems. It turned out just to be a really big scorpion. I'll have to re-check the calibration on my personal equipment when I get back home.
+GID00102649	Much of the local area seems to resemble Las Vegas from our own reality but on a much smaller scale. Looked like it would be fun here at first but it turns out there's no point gambling unless I want to take home a stash of worthless bottle caps.
+GID00102650	The strangest thing is we seem to be trapped here. I discovered some kind of invisible wall high up on a cliff face that seems to be totally impenetrable. I had Danny check out a few other locations to be sure and from the looks of it we are boxed into some kind of huge valley. How this has happened or why I have yet to establish.
+GID00102651	There's little of value about though Danny managed to salvage a decent sized ship's engine to remind me of home. Right now I just want to get out of here and back to my own world and Nova.
+GID00102652	Gangs of the Mohave!
+GID00102653	It is time to unite!
+GID00102654	Are you sick of misfiring weapons, shoddy armor and irradiated food?
+GID00102655	Come join our great organization and you will receive:
+GID00102656	-Advanced firearms and full training.
+GID00102657	-The best armor in the wastes.
+GID00102658	-Access to vast pre-war food supplies.
+GID00102659	-The chace to be a part of the world's most powerful organization.
+GID00102660	Your nearest recruitment post is at Lone Wolf Radio. Our representatives will fill you in on how to find us.
+GID00102661	FROM: Maynard R.
+GID00102662	TO: Nelson P.
+GID00102663	Lock down all the doors. Don't ask any questions - no time, just get out and lock all the fucking doors NOW!
+GID00102664	One scout returned from Cottonwood. He had orders to observe from Cottonwood Overlook in case things went wrong. By the looks of it they were not welcomed back into the camp. They were stripped of their weapons and equipment. It sounds like they found alcohol on Scott. He must have been keeping it in his flask. They were executed on the spot. At least it was quick.
+GID00102665	I looks like we have no friends in the Wastes anymore. Surrounded by Giant Ants and NCR...
+GID00102666	My skin feels like bark... I'm turing into a fucking tree. I can't even sleep without breaking off chucks of my own flesh...
+GID00102667	Fucking fuck it.
+GID00102668	Fuck off.
+GID00102669	Those fools actually went ahead and did it. The whole planet is on fire but here at least the faithful have shelter and salvation. Just goes to show that the Church can still afford to go toe to toe with the local corporations.
+GID00102670	Vault-Tec installed three backup generators in our bunker. Puts that shelter down at the cove into perspective. I heard they blew over half thier budget on art-deco.
+GID00102671	By the sound of it we were not even hit so bad here and whatever detonated locally did not have a high enough yield to reach out this far judging by local soil analysis. We may even be able to leave the shelter in a few days. Praise be.
+GID00102672	After getting to know the locals better I met a man called Frankie who knew a huge amount about the nearby Underground. It turns out he lived down there for a while when it was a more peaceful place. During his time there he studied the history of the place. After a few whiskeys he agreed to share some this information with me. This is what I learned.
+GID00102673	'The Underground' is more than just a series of caves as I had first assumed. It used to be a vast city built below New Vegas as a refuge from the pending war. Apparently many of the wealthier citizens in Vegas could see the looming war as inevitable and banded together to form an alliance. One vault was deemed too small for this group of New Vegas citizens and the standard Vault-Tec rulebook entry stating that no personal possessions can be brought into the Vault was enough to persuade the alliance to create a new alternative.
+GID00102674	Together they set about hiring the best available contractors architects and builders with no expense spared and in conjunction with Vault-Tec begun plans on an underground city. In January 2076 construction began.
+GID00102675	At this point Frankie's memory gets hazy, by now I think the booze had gotten the better of us.
+GID00102676	I remember a few more facts, about one of the main power stations blowing up about twenty years ago. Now the place is infested with endless floods of ghouls and mutants attracted by the radiation and shelter. Apparently there is still a group who live somewhat peacefully down there, the way Frankie described them they sound like some kind of weird cult. Something about them all being united by music or something. He said they were OK but they must be a bit crazy to want to live down there.
+GID00102677	I hope I can find out more tomorrow. The whole place sounds fascinating.
+GID00102678	Message for Fergie:
+GID00102679	I thought I had this old console up and working properly but after reading through the logs I'm not so sure. Also I keep getting some strage error messages. Benson brought it in about three months back - said he found it in a boarded up abandoned house north of Westside. Looks like it belonged to some kind of writer only I can't make any sense of his story. You may want to check this out.
+GID00102680	Spent yesterday poking around the local ruins including the REPCONN lobby with a couple of the rookies. We got out with a bottle of NukaCola and a pack of cigs, unopened without getting spotted by the Robots. I guess they were all patrolling the upper floors. Damn I'd like to see what they have up there but Lucifer wont allow it. Says we have lost too many troops to those mindless 'bots already.
+GID00102681	The representative from that well armed group came around again while I was gone and took a load of our new recruits with him when he left. We got a pile of ammo in return and Lucifer has had his weapon upgraded by their engineers. He seems happy. A few beers would have been nice though.
+GID00102682	A mess. Little of value inside though we did not stick around long. It looked like the place had been ransacked before. Redoubt had been locked out and most likely just become forgotten tech like so many of the others. Exit was blocked by a large amount of rubble. Looked clearable but it could take several days and it's obvious that Bix had not been that way so we left empty handed.
+GID00102683	Centurion Octavius's,
+GID00102684	In the past you have proven most resourceful and your hatred of the NCR makes you the ideal candidate for our surprise attack in Boulder City.
+GID00102685	You are to take a full platoon of troops into the Boulder Sewer access tunnels west of here and launch a secondary assault on the city from beneath. It's the last thing the NCR will expect. Praetorian Cornelius will act as a guide and cartographer in the event that the current plans we have of the area are incorrect.
+GID00102686	Make sure to stock up on explosives in case you need to clear any major blockages.
+GID00102687	Make us proud Centurion,
+GID00102688	Caesar.
+GID00102689	Dad showed me how to use this old computer so I've decided to keep a journal of our life down here. Dad brought the key to this pre-war bunker from a nearby merchant. Thanks to his old job hunting down criminals and of course the fact he was the very best, we now have enough caps to settle down as a family. Dad says we can't go out much though because people may be after him and us because of the bad people he has killed. I don't mind, I like it down here.
+GID00102690	They're all dead... Billy, Steve, The Sarge... These monsters are like nothing I have fought before. Only one choice left. Gotta break out The Fatman. I'm gonna nuke this whole damn quarry...
+GID00102748	Eastern Turret repaired. Structural damage indicated a lucky hit by a Radscrop.
+GID00102749	Marks and Vizzy have been transferred to Camp Golf. No reason given. Vizzy will be missed around here.
+GID00102827	Dad has begun to teach us how to defend ourselves properly. He even let me try out his work gun. It has a hell of a kickback on it, I thought it was gonna bruise my palm. He also told me his eyesight was beginning to fail him. He said something about cats was in them but I can't remember the word. He say's we have enough supplies left to last about four years and no matter what happens we are to stay in the shelter until the food runs out. Dad says Emily is still too young to look after herself properly and that I'm gonna hafta look after her soon. I'm sick of typing. I look back and see too many unhappy memories. Maybe if I stop typing things will get better.
+GID00102828	Skoza - The Never Ending Obsession 2207
+GID00102829	One of my favourite discs ever, this three tracker from Skoza combines relentless bouncy drums, warped background noises, solid percussion and segments of intriguing melody to awesome effect.
+GID00102830	1, 'Reseductio Hill' (200bpm) kicks in after about twenty seconds and pretty much stays bombarding the listener with one of the biggest and bounciest drums for its entirety. Being mostly instrumental apart from a robot voice saying 'reseductio' occasionally opens the tune up for lots of mixing possibilities though you'll want to stick around for the classical music sampling ending which can stick in your head for days.
+GID00102831	2, 'All These Ways' is my favourite track on the record, and at just above 200bpm, is also the fastest. It starts with a series of odd noises which layer up and up until a series of rewinds signal the arrival of the kick drum. The awesome melody which comes in after about two minutes really brings the song to life for me and despite its relentlessness it switches melodical segments frequently keeping the whole track fresh.
+GID00102832	3, 'Crazy Toys' is a 160bpm gabber track with a huge modern Freetech drum, chopped up vocal samples and another superb melodic outro. Flawless music, I wish I'd done this.
+GID00102833	10/10
+GID00102834	-Rescue a Powder Ganger
+GID00102835	-Get a Generator Valve to Nellis
+GID00102836	-Stop the NCR from creating a forward camp at Hidden Valley
+GID00102837	Rescue a 'Powder Ganger'
+GID00102838	Completed finally. As usual none of the others decided to help out. I eventually found some poor sod called 'Mooky' about to jump off a roof. I convinced him not to, gave him a long talking to. Apparently the longest conversation he has ever had. I thought everything was going great until his old gang turned up calling for his blood. It turns out he stole some stuff which in turn was stolen from him. I tried to use my powers on the gang but nothing was happening. Either they have been incredibly well-behaved up until now or God has no influence over this realm and so as a result, neither do I. So we ran. Luckily we were not far from where the others were constructing our new home. Danny soon saw 'em off with his new rifle.
+GID00102839	Mooky went off to join some organisation called 'The Followers of the Apocalypse'. They seem a nice enough bunch.
+GID00102840	Get a generator valve to Nellis.
+GID00102841	Found the part in a sealed case in old factory called Repconn. The place was filled with robots who covered me in laser burns. Straight after I headed up to meet Nellis who turned out to be an Air Force Base instead of a person. A very well defended Air-Force base I must add. To make matters worse Mooky's old gang somehow followed me into the valley and managed to ambush me. They tried to take the case but not long after we were struck by a series of artillery bombardments which turned the gang into a big red mess. I was blown some distance away but was soon discovered by the locals who inhabit the Air Force Base. The valve was intact and they took me in and for a while I feared they were going to start to worship me as a God. I figured I'd better get out as soon as possible and managed to quietly escape that night with the use of a local device called a 'Stealth-Boy'.
+GID00102842	At least Mlix tended to my wounds when I got back which was nice.
+GID00102843	Persuade the NCR not to create a new forward camp at Hidden Valley.
+GID00102844	I'm not going into detail here. Everything after the Fat-man misfired was a complete disaster but somehow I managed to get the job done without harming any people. Tony's machine is up and running and right now I just wanna go home.
+GID00102845	DATA RESTORED 03%
+GID00102846	3de GGGera1 nas sss ksd\zzz 44kzzzzzzzzzzz ....CORRUPT DATA
+GID00102847	Damn, should have asked that smart-ass Sheriff how the fuck they dealt with this Ghoul infestation all these years. Damn things just keep on coming. The more we kill the more arrive. Nothing puts them off - grenades, plasma, mines, bear-traps, fire... Fucking mindless freaks. If we are gonna hold this town from the NCR we need this place cleared out once and for all.
+GID00102848	Those Legion goons showed up again yesterday. They know Verona used to live here and now they want vengance. No point telling them he's dead already, it would only get us deeper into trouble. If they find Frost's drug lab and realise he was getting the chems from us we'll be in serious shit. Damn Legion scum. As if I don't have enough problems already with this bullet stuck in my spine.
+GID00102849	They were already threatening to do some vile fucking things to us. I gather they really don't respect women much. We had to show 'em out at the end of our gunbarrels in the end. Now the others are setting up barricades in case they return again in force. Next time we may have to fight to survive.
+GID00102850	Sent: 07/01/81
+GID00102851	From: General Lee Oliver
+GID00102852	Camp McCarren
+GID00102853	To: Captain Albert Petro
+GID00102854	Mohave Bunker
+GID00102855	RE: Bull
+GID00102856	After the testing phase we have decided only to keep Bulldozer. Only he has been informed or the purpose of the tests. The others were curious too so make sure no-one else finds out what this has been about.
+GID00102857	2x Absinthe
+GID00102858	8x Beer
+GID00102859	4x Blamco Mac and Cheese
+GID00102860	4x Fancy Lads Snack Cakes
+GID00102861	4x Dandy Boy Apples
+GID00102862	4x Scotch
+GID00102863	Lurk Casserole:
+GID00102864	1x Lakelurk Meat
+GID00102865	1x Potato
+GID00102866	1x Cave Fungus
+GID00102867	1x Wine
+GID00102868	The Outside Agency - Way of the Exploding Fist 2207
+GID00102869	Maybe my favourite from Nitzinsky and Wessels aka The Outside Agency (though it has to be said they just keep getting better). Though lacking some of the subtle and catchy melodies of other releases such as 'Nostromo', 'Last Storyteller' or 'Memory Stealer' which make those recordings so memorable it more than makes up for this in speed and energy.
+GID00102870	1 'Garou Densetsu' opens in a style which has probably become very familiar to followers of Outside Agency's and Dj Hidden's recent output. 175bpm and with breakz to rival any Breaktech track at the same speed with the added bonus of a big fat kick drum. Vocals about feeling trapped fill out the breakdown. Not the best track at this speed by Hidden (I reckon ''Surreal' is better) but still worth a listen.
+GID00102871	2 'The Kid With The Golden Axe' is a 200bpm instrumental stomper with an unusual kick drum cleverly edited alongside some fast breakz which sounds very cool. Midway through it breaks down into a nice oriental sounding melody before dropping everything back in on top. Quality tune.
+GID00102872	3 'International Karate Nightmare' kicks things at 200bpm. Rolling kick drums which drop out into offbeat rhythms throughout the track give it a unique style and a twisted beepy melody gives it an extra dimension of sound about two thirds in. Excellent stuff.
+GID00102873	3, 'Yie Ar Kung Fu' has Eye-D taking things up to 220bpm for this dark bassline heavy track. It features lots of martial arts fighting samples and a reasonably heavy kick plus chopped & filtered breakz and a breakdown with a really cool bassline melody which keeps the track moving till the drums crash back in on top.
+GID00102874	9.5/10
+GID00102875	Sent: 20/10/2077 19.20
+GID00102876	To: Marcus Chumley
+GID00102877	[Vault-Tec Nevada Office]
+GID00102878	From: Gordon Checketts
+GID00102879	[Vault Monitoring Station NV03]
+GID00102880	Yeah, explosives in the walls... Stop the commies getting any info on the Vaults... Shit... There is no fucking way out... I should know, I designed the place. We need help down here right away!
+GID00102881	Heh, that stupid kid will make a damn fine stew. Little shit took out two of my boys though. Well at least we lucked out on this place and now I have a cool new gun. So Eddie boots us out of the prison after we eat another dead guy. Well what the fuck are we supposed to eat? Our own shit? I'll kill that piss weasel one day.
+GID00102882	Savvys dead, Bitten by Geckos and stabbed by a Raider and I was nearly shot dead by Securitrons all for a bunch of worthless gaddamn Poker Chips. Nearly broke my damn back dragging this thing home and for what. Another fucking waste of time...
+GID00102883	On behalf of The Underground welcome to your new home!
+GID00102884	This Mini-Vault Home was created to house between 4-12 people in a safe comfortable environment free from the horrors of the inevitable war and the huge complex screening process and re-education bureaucracy of the Vault-Tec Corporation.
+GID00102885	We are even pleased to announce that we managed to persuade many top-ranking Vault-Tec engineers to move to our project thanks to the sound financial backing of The Vegas Coalition, many of whom have homes waiting down here themselves. What better guarantee of your personal safety could you need? On top of these we have some of the country's leading Doctors, Scientists, Mechanics, Entertainers and a Military defence force so specialist that we can't even tell you their name all who have been specifically hired or have purchased property with us simply because of how much more appealing The Underground is compared with any other shelters on the market.
+GID00102886	Here in the Underground you will find all you could ever want with supply stocks of food, drink, medicine, entertainment, weapons and facilities for manufacturing all these products.
+GID00102887	No limits will be made on the amount of possessions you can bring in, assuming you get them all here in time. Our self-powering wall mounted 4D Storage units will house as many items as you require in a perfectly preserved state, though in the event of an emergency people will come first and possessions may have to be left outside.
+GID00102888	Here you are allowed to behave as you please, however failure to respect the others within your community or your superiors will be dealt with severely, with exile if necessary.
+GID00102889	If you are a new arrival we ask that you read the rules and regulations at the earliest available opportunity to help avoid any potential problems. Though we tried to capture the best of Vegas in The Underground we could still do without the worst.
+GID00102890	We hope you enjoy your stay and new life here.
+GID00102891	Geckos, hundreds of 'em. We lost fifteen people today, one of the blasts blew a hole into a nearby cave and the damn things came running in straight away, as if they had been waiting for this moment all along. They killed four before we even got to our weapons. In the end we had to blow the cave entrance and seal ourselves in again. This is becoming a real nightmare. Why would Vault 41 do this to us?
+GID00102892	The Underground by Roach Part 1
+GID00102893	2075: A consortium of rich and influential New Vegas citizens calling themselves' The Vegas Coalition' gather together to pool resources and create a free and safe environment from the coming war, contracting outside companies such as Vault-Tec (vaults), Hard-Tek (advanced computer systems) and Rob-Co (robotics & engineering) for assistance. Their idea soon catches on and pretty soon similar groups get together and private Shelters begin to spring up all around Nevada. I even visited several of them myself many years later delivering food parcels when the area was less hostile. There's one at the old Jean Sky Diving Ranch, one near Nipton, one out by the old NCR camp at Searchlight and another at Cottonwood Cove where the Legion have set up.
+GID00102894	2076: (January) Construction begins on The Underground.
+GID00102895	2077 (October) War breaks out and the half-complete Underground network is all but sealed off from the outside world.
+GID00102896	2077-79: Word gets out that Nevada is still safe after the War. Many leave the Underground and, like I had done, join up with local authorities to help out in whatever way possible. Also it was the only way to guarantee a meal back then. During this time the only way in and out of The Underground is through the Old Reception area, or what is now our Broadcast Building. They kept the residents rooms locked up until they returned or word arrived that they would not be coming back. No-one else was allowed to enter and the Gangs feared The Underground's Military force like no other. In this way The Underground thrived like it was intended to.
+GID00102897	Redoubt was clean and well-stocked and locked from the inside. Roth and I teleported most of the priority supplies back and went back in just to make sure Bix had not gotten himself trapped outside somehow. Local security terminals informed us that it was once a Vault-Tec facility. Further exploration and local scans showed that it was buried deep Underground and had been subject to some severe internal damage. Looked more like the results of strategically placed explosives rather than anything Nuke-related. Most likely Vault-Tec trying to cover up their own actions again.
+GID00102898	Somehow one of us managed to trigger the security systems and suddenly walls were sliding down to reveal active turrets and Droids were pouring into the halls from the far side of the facility. We had to leave fast, blind firing behind us for the most part. We locked out the Redoubt from the inside and the Droids did not attempt to follow us.
+GID00102899	Spicy Naan Bread:
+GID00102900	1x Flour
+GID00102901	1x Yeast
+GID00102902	2x Jalapeno Peppers
+GID00102903	2x Yum Yum Devilled Eggs
+GID00102904	None of the terminals around here are compatible with USB technology so once my MP3 player died I thought I was gonna go crazy. Luckily there's some kind of Underground settlement nearby where they actually play Hardcore music. They call it Freetech here but it's just as good as the real thing, well, for the most part anyway. Me, Mlix and Matt are off to the Tower where the broadcasts have been coming from to learn a bit more.
+GID00102905	Summer of '23 and I'm feeling great. I have a sweet new job and get to share this place with a sweet dame by the name of Hannah. She's one of the Undergrounds top scientists yet she's barely out of her twenties. I doubt she would be interested in an old rotting programmer like myself but she's still friendly enough.
+GID00102906	Finding The Underground has completley changed my life. Looks like I arrived just in time too. Some of the hard-wired terminal defenses were perplexing even thier best Techs. Luckily it's nothing to an ex-RobCo employee. Damn, we built half this stuff, yet I'm constantly amazed at how well everything has been preserved down here.
+GID00102907	Only downside is a couple of people have gone missing recently. Folk are starting to say this place is haunted. Superstition but still, at night, when all the machines are off and the music has died down even I hear things sometimes. Like there's a whole other species living down here behind the walls. Sure as hell does not bode well but the local Troops are some of the best armed, trained and motivated that I have met. They don't let the old ways die if they can help it, yet they go beyond to create new Tech too. Not to mention the music. Plus they have so much to defend, they take saftey very seriously.
+GID00102908	No contact with Vault 40 now for over a year. After our last conversation I think it would be unwise to not prepare for attack. Then if those privileged pussies show up at our doorstep we'll show 'em what the real grunts can do. We've got the guns, the numbers and a bigger Vault, though obviously not still big enough. I heard they get twice the space and half the people per room in Vault 40. Lucky bastards. Just coz their great grand daddy was richer than ours or was a senator. While our descendents had to fight and struggle to earn their place in the Vault. War heroes every one.
+GID00102909	Sent: 18/04/2169
+GID00102910	To: Betty Pelican
+GID00102911	Hyper-Test Labs
+GID00102912	From: Johnny Limes
+GID00102913	Location Unrecognised
+GID00102914	RE: 100 Year Celebrations
+GID00102915	We made it! 100 years in VR and I feel better than ever. I can't believe it has only been this long. It feels more like a thousand. Nutrient levels seem good and the VM Unit has my muscles in peak physical condition.
+GID00102916	As for this place most of my cameras are down but from those that are left I can tell our local store is gone. Only minor structural damage to the Shelter however which indicates it was not directly hit. It seems to now be occupied by a group of refugees and a group dressed like Police. It looks like law & order has not broken down entirely.
+GID00102917	The security door seems to be holding out so I think I'll skip the meet greet and just get back into the game. I'm locked out from my side anyway.
+GID00102918	They stitched me right up. There's not fucking loot here... I bet those bastards are stealing me blind right now. I managed to sneak into this maintenance room but now I don't know what to do. I only managed that by popping a stealthboy and using a portable radio to distract the locals. Only problem is this place is swarming with ferals. It aint gonna take 'em long to figure I'm in here and I don't know how much longer my steatlhboy will last.
+GID00102919	Shit I can feel my skin starting to burn. Damn place must be irradiated like outside and I'm all of out anti-rads. This is fucked...
+GID00102920	Faithless NCR Scum. Taken over our beloved Bunker for our last generator.
+GID00102921	Father Cameron was accused of being a Legion spy and killed when he tried to protest. Struck with such force that his skull cracked.
+GID00102922	As if the others will fare better out in the wastes. Many are not trained to survive for the world in which we now live. Evicting them from our Bunker was as good as a death sentence for them all.
+GID00102923	This level of barbarity and heresy will not go unpunished. I hereby vow to kill every hell-damned NCR trooper in this entire state. Whatever it takes...
+GID00102924	I am the Bug Lord and this is my kingdom. They flock to me, bring me food, kill my enemies and sing to me at night. Sometimes we fight for fun but I think they always let me win. Now some of my friends are much bigger too. They crawl in as babies and grow to full size inside where it is safe. Even the soldiers don't bother us anymore. Not after the last time.
+GID00102925	I think we will soon take over the world.
+GID00102926	Sent: 27/08/2210
+GID00102927	To: Johnny Limes
+GID00102928	Location Unrecognised
+GID00102929	From: Betty Pelican
+GID00102930	Hyper-Test Labs
+GID00102931	RE: Rescue
+GID00102932	I hope you can still get this, sorry it took me so long to realise something was wrong. I have assembled a team and we are heading out to get you now. Hold on Johnny, we'll get to you.
+GID00102933	The ants are back Ted...
+GID00102934	Here's a list of the parts you will need if you want me to build you a modified Heavy Incincerator:
+GID00102935	Common Parts:
+GID00102936	1x Incinerator M
+GID00102937	1x Fire Hoze Nozzle
+GID00102938	4x Scrap Metal
+GID00102939	Rare Parts:
+GID00102940	1x High Density Pilot Light
+GID00102941	1x Kinetic Power Booster
+GID00102942	1x Precision Targeting Chip
+GID00102943	You will most likely have to seach Caleb's gang for the rare items. I know he and his leaders carry weapons with the relevant parts. You should be able to find Caleb in Spring Mt Visitors Centre. Scabs will be in The Station as he wont fit anywhere else, you most likely saw him on the way in. Klaus will be guarding the sewer. Good luck dispatching those bastards. I won't miss them.
+GID00102944	Fabrie.
+GID00102945	I spoke to Frankie again today about the Underground. He seemed reluctant to speak again at first. I gathered he had lost several close friends down there. When it came to the history of the place though, he had plenty to say.
+GID00102946	The place is divided into several main segments called Sectors. Each sector fulfilled a purpose. At the time of the war there were two residential sectors with another one half constructed. There were two sectors devoted to power distribution (in case one failed), a shopping district and a military HQ. Apparently only one sector is still safe for humans.
+GID00102947	There were also many connected caves which had to be left incomplete once the war broke out. Within hours of the first launch the whole of The Underground was sealed off from the outside world. Once the war had reached its swift end, it did not take long for the people gathered below Vegas to realise that the city above had gotten through relatively unscathed. A few left but most returned with stories of martial law and major civil unrest. A few more chose to leave then and do what they could to help out above ground but the vast majority chose to stay put.
+GID00102948	Throughout this one building became the major hub for people going in and out of The Underground. That building was an office block that before the war that had been specially designed to withstand, to the best of its ability a local nuclear blast. After the war it became a broadcast tower of sorts and is now owned by a ghoul by the name of Roach who makes his own music.
+GID00102949	Frankie tells me he spent a good deal of time with Roach, despite not having a taste for his musical works which he described as 'like angry machinery'. Roach was a music producer when the war broke out, though not a particularly successful one. Even back then he said he felt like everyone had been listening to the same records for over 100 years. I know what he means.
+GID00102950	After the war he helped out with the local military to try and restore order to the area. When it became clear the gangs were taking over he took exploring and adventuring on his own. At some point he stepped through one too many radpools and his skin began to fall off. Luckily for him he became a ghoul rather than succumbing to radiation poisoning. He even told Frankie it was the best thing that happened to him and that he plans to live forever, if he can get away with it.
+GID00102951	Now he makes music like nothing else in the wasteland out of computers of all things. I thought I knew a lot about computers but I have no idea how to turn a keyboard into a piano, that's for sure.
+GID00102952	The more Frankie told me about the Underground the more I wanted to see the place for myself. I have set about selling some of my computer tech and weapons to the local merchants so I can hire an NCR bodyguard to north Vegas and to Roach's broadcast tower. I do not know if I will be back to Goodsprings again.
+GID00102953	T. Haggard.
+GID00102954	Damn, just as we had the machines up and running again the Geckos start flooding to the area. Manny reckons they are attrcted to the vibrations of something. Shit, we're making caps but not enough to hold off this many Gecks. Frankie set us up with a steady supply of ammo but less people are willing to turn up for work every day. 5 months excavating this shithole just to find out that we are gonna hafta shut down the entire operation.
+GID00102955	Detest - Hail To The Freaks 2209
+GID00102956	Three-tracker from sound chameleon Mr Shulze aka Detest who on this disc has given us his interpretation of the modern Freetech sound. A-side's 'Saxony Funk Station' has a good bounce to it (as you would expect from the genre) and moves along nicely at 210bpm. Though a perfect mimic of the new Compressed/filtered bouncy drum sound it only brings a few new ideas into play. Next track however, 'Stepin Nerve' is an amazing and unusual track as it's both laid back chilled and 200bpm drum bounce madness. I don't know the original track that this samples however it uses it to great effect dropping in subtle segments of melody and soothing vocals over a solid drum track. Final song 'Twisted Turn PII' features some nice choppy breakz which are surprisingly rare in the recent Freetech style, some filtered bass melodies and nice big bouncy drums but is overall not quite as catchy as the first two.
+GID00102957	8/10
+GID00102958	Unexist - Attack (The Remixes) 2209
+GID00102959	One of Iapicca's greatest tracks gets the remix treatment from scene newcomers Devour and the ever reliable Calcagni aka Dj Mad Dog. Also included is a remastered version of the original which is handy for people like me who lost it during the fire of '99. For those who 'aint heard it, the original starts with a steady drum build-up at 190bpm, dropping out to a cool bit of vocal before the fat kick drops proper and carries on, mostly on its own in true Unexist style, with the drum very much the centre of attention. About halfway though it breaks down again and in comes the crazy noise which I'd love to source for you but have no idea where it came from. It sounds a bit like an angry elephant though (for anyone who still remembers elephants), cue vocal, bit of disc scratching, 'fight' and its drum time again.
+GID00102960	Mad Dog's remix is impressive for at least three reasons, firstly and most obviously it just sounds better. The drums sound bigger and the production is much more complex. Secondly it's a whole ten bpm faster clocking in at an impressive 200bpm which is the fastest Mad Dog record I've heard so far. Thirdly the angry elephant is back and seems to have brought a lot of other angry elephant friends along of varying shapes and sizes to join in. Much fun has been has listening to this track.
+GID00102961	The Devour remix adds a unique twist for Freetech track being devoid of any steady kickdrums, I would even go so far as to call it Breaktech, despite a few occasional kick drum drops. It's at 175bpm, same as 99% of all Breaktech records I have heard so far. It's a damn good track though, catchy and still easily recognizable as an Attack remix.
+GID00102962	9/10
+GID00102963	The Underground belongs to us now. The local resident's don't have the balls or the manpower to launch an offensive on our position. We have even managed to recruit a few of the locals. A week or so ago we ran into a group calling themselves 'The Fiends' on a recon of the surface. After beating some sense into them they seemed more than happy to join our cause and already seem to have a familiarity and taste for Energy Weapons which will come in handy.
+GID00102964	To further bolster our numbers The Van Graff's have agreed to provide us with some extra manpower in exchange for a steady supply of energy weapons. Our meetings with them have proven very productive and their representative, Vernon, an educated man, has agreed to join our ranks as a permanent member. I have ordered Gloria personally not to mention our organisation or arrangement to anyone, else they may just find themselves at the wrong end of a strategically placed mini-nuke or ten.
+GID00102965	The Xander lab was our last hope and it's gone to shit. The Deathclaws have completely taken over and it looks like one of the science team managed to erase all the mainframe data. There is only one other friendly bunker in Nevada and no one in our group knows the location.
+GID00102966	The Captain thinks we should retake the Labs. It's suicide for sure but it's our best shot. Enclave troops are hunted for sport around these parts anyway. Chances are even with Mapple along as a guide we would still get our asses shot off by NCR if we tried to get back into town now. I hear they hunt us for sport around here.
+GID00102967	Sent: 19/09/81
+GID00102968	From: General Lee Oliver
+GID00102969	Camp McCarren
+GID00102970	To: Captain Albert Petro
+GID00102971	Mohave Bunker
+GID00102972	RE: URGENT! RESPOND!
+GID00102973	What the hell is going on over there? We have not received a single communication from Mohave Bunker in over two days. Has there been an attack? We need a status report immediately!
+GID00102974	Some kind of Satellite Redoubt from what we could tell. Another bad call on my part. No sign of Bix and there was no way for us to have verified that the location had sufficient oxygen supplies to keep us alive in the first place. I should have recognised the satellite tag in the Redoubt code after our previous trips. Luckily the Redoubt was largely intact though according to scans it was being subject to an enormous amount of external pressure indicating that it was most likely now residing somewhere deep below the sea. The few leaks we saw throughout seemed to bear this theory out so we left rather than be trapped by a sudden cascade of sea-water.
+GID00102975	Wow, Burke's scam worked like a charm. We found an old holodisc a few months back with some preachy TV Evangelist on it and it gave us the idea. Go around the wastes preaching words of hope and forgiveness from that old Book, gathering as big a crowd as possible. Take the crowd back to a safe, secluded area and poison the lot with Radscorp Wine. Then take everything they own. The only downside is most of these wasters only carry trinkets and a handful of caps. We must have killed thirty people already and we still don't have the caps to pass the Strip gate check.
+GID00102976	Burke wants to try out a new Book next time. He thinks we would have more luck with some of the local gangs if we we're not advocating a 'pussy' religion as he called it, so we are gonna try something a bit more hardcore. Burke is gonna summon a demon. Ha, that should be a laugh - I can't wait.
+GID00102977	We have ourselves a new home. Looks like they knew we were coming and fled to the North. So much for Old World justice. Resistance was pathetic. Just that sheriff wannabe and two of his goons. If the last entry is anything to go by it sounds like we should check out the Sunset Sass HQ next. See if we can find some more easy prey...
+GID00102978	New home is good. We can spy on those freaks to the east from here. Maybe find out why they don't die when we shoot at them. We have the place rigged to blow big time if one of them sets foot in here. Then we'll see if they can rebuild themselves from a thousand bloody pieces.
+GID00102979	We are under attack again. I have ordered everyone to grab an Assault Rifle and take up defensive positions. The invader's leader somehow hacked into the speaker system and has been taunting us. For the last two hours we have been bombarded by what sounds like some kind of horrific music. Most of the speakers have now been destroyed but I ordered that one remain. Their leader makes speeches on it periodically. He says they have nothing to do with Vault 40 and they just want access to our armory. He sent one of the troopers from Burke's team down to prove it. My worst fears have come to life. Not only were Vault 40 not involved in the recent attack but Burke's team had managed to detonate a small nuke in Vault 40's main entrance anyway. On top of this the mission had not run smoothly, one of the troopers, heavily wounded and out of reach had been grabbed by of Vault 40's troops and dragged off, probably for a full interrogation. On their return to Vault 41 Burke's remaining team were surrounded and individually slaughtered by a gang of surprisingly well armed Raiders, only Private Donald was spared and sent to tell me everything I did not want to hear. Everyone on the first level has been killed. That leaves twelve of us to defend the entire Vault, and a lot of them are just kids. Donald is out of it. What have I done...?
+GID00102980	I have been a bigot and a fool. My only redemption can come from destroying whatever it is these freaks came looking for.
+GID00102981	Local toxicity levels have spiked way beyond our expectations. Several of the barrels must have ruptured judging by these readings.
+GID00102982	If we continue to dump at this location the possibility of a local contamination leak would be virtually unavoidable.
+GID00102983	We have no choice but to evacuate and seal the tunnels.
+GID00102984	Several mechs are still present at the site and will continue with the clean up operation for as long as they are technically able.
+GID00102985	User: Steve
+GID00102986	Guys, you gotta check this out. I was playing around with the mainframe tracker, trying to centre in on own reality and I discovered a dimension where we're all TV stars in our own show. It's so fucking trippy - they have Tony's Drinks and a bit from when Charlie rescued Danny and a shitload of other stuff. I downloaded the whole first script.
+GID00102987	Sent: 20/10/2077 18.44
+GID00102988	To: Gordon Checketts
+GID00102989	[Vault Monitoring Station NV03]
+GID00102990	From: Marcus Chumley
+GID00102991	[Vault-Tec Nevada Office]
+GID00102992	Jesus Gordon, I'm sorry. What the hell have you been doing down there, we have been trying to contact you all week. Haven't you heard? The shits about to hit the fan big time... Forget about the Monitoring Station, they were just to impress the shareholders in the first place.
+GID00102993	Get out of there while you still have chance, you know what Vault-Tec's policy is when it comes to this sort of thing.
+GID00102997	CHARLIE & DANNY "Don't Shoot."
+GID00102998	CHARLIE "You're not going to shoot at me?"
+GID00102999	DANNY "No, I hadn't planned on it. You're not going to shoot at me?"
+GID00103001	DANNY "No but this is my first time out of the lab so I'm being extra careful."
+GID00103002	CHARLIE "What do you mean, oh nevermind look maybe you can help me."
+GID00103066	Well so much for interrogating Deene. Jerzy got carried away and used a frag grenade strapped to a brick of C4 on him. The fucker was taking potshots at us from the bathroom. Last thing he'll ever do.
+GID00103067	Whether or not he used to be with the Gunrunner's there sure aint no stash here. The hostages we grabbed don't know anything. They're nothing but food for the rookies. No military tech anywhere.
+GID00103068	Still we got us a place to settle for a few days. Makes a nice change to be above ground and I'm in no hurry to get all these food supplies back. Not until I have had my share at least.
+GID00103069	All storage units within the Underground are powered by Hard/Nanite 4D Technology. Any objects placed within will be scanned and stored in stasis in an entirely different time and space (even form) meaning that the storage is limited only by the internal CPU housing the content retrieval details which are of the latest military standard (basically they can't be filled).
+GID00103070	On top of this 4D allows for smart sorting. Pour in a load of sand, rocks and dirt with gold-dust in it and just delete everything but the gold and you will have just the gold leftover for easy collection. Can be used for easy sorting of very similar currencies, foods, ammunition varieties, collectable cards etc...
+GID00103071	Just scan through the available contents using the internal interface or use our user definable voice activated retrieval system for instant object retrieval.
+GID00103072	Your 4D Storage comes at no extra charge.
+GID00103073	WARNING: Do not put living matter into the 4D Storage. They have not been built with sufficient safety parameters for this purpose and any creature(s) stored will most likely be returned dead.
+GID00103074	I did it... I killed them all... Let in a dozen ferals and let them go to work... I don't evn know why... The pranks, their taunts, the way the girls acted out being sick whenever they saw my mutated body... Those things which I hated so much... Now I miss them...
+GID00103075	Salavdor is no use for company. He just crafts ammo all day...
+GID00103076	The only thing I have to look forward to is the next batch of Radshine and we are already running low on fresh rad-waste. Even the ferals get stuck into it. It seems to make them even stronger and faster... It means we are well protected for now but there's no telling how the ferals will behave once we finally run out of juice.
+GID00103077	Glum Grape:
+GID00103078	Unworkable with local ingredients
+GID00103079	[Apple variant?]
+GID00103080	Reluctant Raspberry:
+GID00103081	90% of Ingredients available.
+GID00103082	[Found everything but the ham.]
+GID00103083	Petrified Peach:
+GID00103084	Unworkable with local ingredients
+GID00103085	Vague Feelings Of Inadequacy Melon
+GID00103086	Unworkable with local ingredients
+GID00103087	Sweaty Strawberry
+GID00103088	Unworkable with local ingredients
+GID00103089	Falling Down A Well Orange:
+GID00103090	Unworkable with local ingredients
+GID00103091	Massive Kidney Failure Cranberry:
+GID00103092	100% Ingredients Available!
+GID00103093	6x Nuka-Cola Victory
+GID00103094	3x Whiskey
+GID00103095	1x Yeast
+GID00103096	1x Hydra
+GID00103097	1x Cherry Bomb
+GID00103098	1 x Abraxo Cleaner
+GID00103099	Makes approx 8 bottles. The Hydra ingredient actually counteracts the kidney failure mid-process. Makes for quite an unusual experience. I still doubt there will be much demand for it.
+GID00103100	I have seen daylight for the first time in what feels like years, and food, so much food...
+GID00103101	It took us days to get through the first wall. Every explosive we detonated brought a dozen or so Fire Ants to our location. In the end we had to use most of the explosives as traps which eventually seemed to put them off investigating the local area.
+GID00103102	The first wall led to an area so blocked off it felt like as much as a dead end as the rest of this place. Luckily our detonations exposed another brick wall nearby and once we got through that we found our salvation. A locked and stocked Mini-Mart.
+GID00103103	I have sent half our number back to report the good news to Octavius.
+GID00103121	TONY "You've got to be kidding."
+GID00103168	TONY "I I distinctly remember no one saying anything about handgrendes."
+GID00103169	MLIX "That's true."
+GID00103198	Feb 26th:
+GID00103199	This facility is not all I had hoped. Many of the key laboratories are buried under heaps of rubble. The workers are still tired from digging out the entrance site. I don't know how much longer I can stand this lack of motivation.
+GID00103200	To make matters worse there is a thief in our group. Several of my more expensive tools have vanished already and now they have taken my model Vintage Police Cruiser. No one seems to know anything.
+GID00103201	Mar 2nd:
+GID00103202	Crime everywhere. Damn thieves and thugs and Raiders and Military atrocities. How I miss my old pathology lab. Maybe I'll find a solution to all this chaos in this facility. There's ample equipment here to continue with the Barrows experiments. I just need to gather some ferals to use as subjects.
+GID00103203	Apr 12th
+GID00103204	My experiments in feral pacification have proved a huge success but beyond that I even seem to have found a way of controlling their behaviour and judgements. I need more subjects.
+GID00103205	Apr 21st
+GID00103206	One of the workers confronted me today, Butch Henderson. A tough SOB and clever bastard too. He stormed out before I could put him down. Now I'm gonna have to send the ferals to do that for me. I sense insurrection brewing in the remaining uncleansed.
+GID00103207	Apr 23rd
+GID00103208	Lost 7 workers to their own stubborn nature and four ferals in the eventual battle. Only one volunteered for the experiment. I have put the remaining cleansed to work excavating the Lower East.
+GID00103209	On the plus side we finally tracked down that bastard Butch Henderson not far from Nipton. Several of the less appaling workers dragged him back semi-concious this morning. I have him under heavy sedation in one of the test areas for now.
+GID00103210	The troops I sent back through the caves have not reported back, nor have I heard from Octavius. I fear the worst.
+GID00103211	One of our scouts did a recon of the local area last night, or as much as they could. The entire city is crawling with NCR. Now we only have one option; to send for re-enforcements from Cottonwood.
+GID00103212	I hope Caesar still recognizes us.
+GID00103213	Micron - Imagination Is More Important That Knowledge 2209
+GID00103214	Four more tracks from Reeves aka Micron who somehow managed to still find time to bring out some amazing Freetech in his spare time. It's in his usual style of fast chopped up kick drum instrumentals. Never dull and always original and well produced despite occasionally lapsing into over-experimental abstract beat editing, Micron has developed a style which is harder than the new Freetech sound (one of his original styles if I'm not mistaken), though often maintains the same bounce and is more energetic than the Breaktech influenced sound.
+GID00103215	1, 'Tesla Technology' starts the record off at 220bpm and thunders along pretty much relentlessly for six minutes.
+GID00103216	2, 'Taken From Kecksburg' signals the start of abstract drum editing but maintains a solid rhythm, sounding somewhat reminiscent of his work on 'Chaos Theory Override'.
+GID00103217	3, 'Materialisation : Dematerialisation' does what only a few people ever manage - slick, undistorted, well produced, modern 240bpm Speedcore. I love this shit and just can't get enough music at this speed (though the collection is growing). Finally 'Dulce Experimentation' kinda lets the disc down a bit not really providing a consistent supply of energy but still worth a listen, especially if you like choppy beats like Noize Creator makes.
+GID00103218	8/10
+GID00103219	Whoops, I accidentally just erased all the logs on this terminal. Greggs will kill me if he finds out. He had stuff from his great grandfather on here. Shit, I must have triggered a reset when I moved it up.
+GID00103220	So that Vigilante bitch thinks she can escape from us in here does she. Thinks that her zombie husband was worth a dozon of us. Dumb fuck will most likley run into a worse death in here than with us. Well I'm not dumb enough to go in after her. Moss ran in in a rage and a few minutes later I heard his death screams. I'll get some of the boys to set up a checkpoint outside in case somehow she does make it out alive. For now I'll just leave a few suprises behind for our vengeful friend.
+GID00103221	This is this last shipment from Mariposa. The runs are becoming too expensive and we cannot afford another catastrophe like last time. The roads have become too dangerous and unpredictable out here and the gangs have all but taken over. The dumping operation is being moved to the coast on The Masters orders.
+GID00103222	I have no idea what I am doing anymore. One day I'm petty part-time Jackal, going no-where and the next I'm in charge of the Viper's and going straight to hell...
+GID00103223	"Infiltrate the gang" they said, "learn their secrets, their hidden stashes...."
+GID00103224	Shit, just like us they got nothing. A load of guns but just enough food and other shit to scrape by until the next caravan arrives. Same shit, different package... Huh, just like me...
+GID00103225	About two years back our old boss takes a hit from an NCR sniper . The next in line, Tray-Z, the boss's daughter just happens to have a soft spot for me. So she makes me the new second in command. What the fuck? I'm only in the gang about a month and all of a sudden I get to tell everyone what to do. About two months later and some Super Mutant is dining out on her brains... Then, boom, I'm the boss.
+GID00103226	It was then I figured it out. We 'aint the main Viper crew around here, were not even the biggest crew in the area.
+GID00103227	In one direction we have Super Mutants who are constantly trying to take our territory. In another there seems to be an endless flood of ghouls who for the most part, just keep the Mutants occupied. Also there's some kind of Cazador nest to the south and even the local Khans don't want us here. We're just some kind of dumping ground for unwanted Vipers, fodder for all the local mutants.
+GID00103228	I swear one day I stepped out of the sewer only to be confronted by some nutcase with a chainsaw. He had already killed about five of our crew but he had not counted on my new gun.
+GID00103229	It's some kind of super-Mini-gun. I swiped it off a dead Super Mutant, one of them blue fuckers.
+GID00103230	It tore the chainsaw guy to shreds... eventually...
+GID00103231	Shit I can hear gunfire again...
+GID00103232	If I ever had a home I know I would wanna go back there right now.
+GID00103233	I hate this place. It looks like our new found paradise has a dark side after all. I don't know what it is... I don't think we are supposed to be here. I hear scratching coming from the walls all the time and breathing sometimes too...
+GID00103234	Fredericks still insists that there is nothing down here but what about Linny and Den? No one has heard from them yet and that makes them the fourth to go missing this week.
+GID00103235	They increased the troop presence around here recently but mainly around the new Reactor. I know we all need a place to live but I get the feeling something does not want us to stay here....
+GID00103236	I'd quit and walk away right now but we all need the money, especially now Abigail is pregnant again.
+GID00103237	Oh my god, I can't believe it... In the night we heard a lot of noise coming from the local prison. Dad went out to check it out this morning. While he was out we heard a banging coming from the hatch door. Mom went to investigate in case it was dad. I heard shouting so I went to see what was going on. It was two men dressed in blue. They had knives and dynamite, mom shot at them. She was fast and always was a good shot but one must have got lucky coz they cut her real bad. I got bandages and stimpacks as quick as I could but she wouldn't stop bleeding. By the time dad got back she was dead already...
+GID00103238	Emily was hysterical about mom but dad managed to calm her down. He told us later there had been a riot at the prison and the convicts have taken over the place. The local NCR have fled the area leaving us to defend for ourselves. Dad says now we are not to leave the shelter under any circumstances. Emily was unhappy about it. She made friends with an older kid called Sunny from the local town last time we were allowed out. Dad got mad when she complained too much, I thought he was gonna hit her but he didn't. I don't know what we are going to do without mom.
+GID00103239	Desruktiv Kultur - 1000 Hours In 20 Minutes 2206
+GID00103240	The only record I've heard so far from Holmstromm aka Detruktiv Kultur with the exception of a remix of Tellurian's 'The Guyver' (possibly his best song) and it has to be said it is still one of my favourite records. The whole sound borders on experimental, all instrumental but with enough energy to keep a dancefloor interested.
+GID00103241	1, 'Crushed' (180bpm) uses all sorts of filters and fades over twisted chopped and re-arranged drums and breakbeats with very spaced out sections of melody to break the tune down. Very slick and smooth production throughout.
+GID00103242	Track 2, 'Apfest' is a chilled 150bpm old-school-ish Freetech track, again with solid production, especially on the drums but not especially a stand out melody. Finally, 175bpm bouncefest 'Nothing Lasts Forever' again seems to maintain a 'chilled' vibe but with a more advanced melody than the other tracks which speeds up, slows down, morphs into sirens and all sorts, again set against some awesome chopped up drums and breakz with stuff filtering and fading in and out, left and right it's hard to get bored of a tune like this.
+GID00103243	9/10
+GID00103244	We finally broke through to another sewer network today only to find the area is crawling with Fire Ants. I have no idea how many of the things are in there but there must be a nest down here somewhere coz we must have killed dozens of 'em but they still keep coming.
+GID00103245	Cornelius has set up a perimeter that seems to be holding but we are not gaining any ground and have already lost another three of our best to the ant's onslaught.
+GID00103246	To make matters worse the rad readings from that area are enormous and many of our remaining troops are already showing signs of radiation sickness. I fear I may have led us down the wrong path. So much for the shortest distance being a straight line...
+GID00103247	GET ME SUM PROPA FOOD YOU DUM RUNTS
+GID00103248	ANY MORE OF DIS SHIT AND WE ALL EAT YOU INSTEAD
+GID00103249	Lurk's Killed: IIIII IIIII IIIII IIII
+GID00103250	19 down and that's a new record. Thank you tri-beam! That's the old workshop cleared. Now I can see where they have been getting in.
+GID00103251	At this rate I'm gonna take back this whole area single handed. I should turn back but I'm so sick of these fishy bastards. If I can just get the big one then all this will have been worth it and the others will not have died in vain.
+GID00103252	The Ghouls keep attacking us from the South. This is very strange. Ghouls usually ignore us coz we ignore them. There must be one or two in the sewer who keep stirring things up.
+GID00103253	Get into those sewers, find those Ghouls, kill them and burn them all so this does not happen again.
+GID00103254	User: Tony:
+GID00103255	It looks like the schematics transferred to this terminal should be sufficient to create a Dimension Hyperjump Portal Generator. This twat who keeps going around claiming to be God is really getting on my tits. Now he's giving me access to technology that's beyond even my birth-time. One of these days I'm gonna find out who he really is.
+GID00103256	Building the portal should be a piece of piss. Now we just have to find the parts. Well, Danny and Steve need to find the parts. I have valuable research to do here. And several crates of Whiskey that wont drink themselves.
+GID00103257	Chapter 1:
+GID00103258	Selemy the Chimney Stopper stooped to pick up a pile of wine left in a giant living metal enthusiat's silver flask.
+GID00103259	What he found under the wine was more amazing than 19 Christmases. A hand, but not just any hand, this was the hand of a 1920's Wedgewood Glass Hedgehog, and not just any 1920's Wedgewood Glass Hedgehog, but specifically the 1920's Wedgewood Glass Hedgehog that he had lost 10 minutes earlier, around that area.
+GID00103260	He was delighted to also realise that the metal enthusiast's silver flask was also his.
+GID00103261	He stopped to make a note of this new discovery becuase of his bad memory. "sey ksalF", he wrote the words backwards.
+GID00103262	By the time he had finished pinning the note into his diary all hell had broken loose with the beans sploppering downstairs.
+GID00103263	Selemy threw his arms in the air and spun about a bit because he felt helpless. Not being able to assist with the beans downstairs. He was well aware of his position being upstairs whilst the bean problem was downstairs. What could he do, he was upstairs. The beans were of course downstairs. Unbeknownst to Selemy this was a problem he had encountered several times before and one which his therapist had told him was 'all his fault'. A simple solution was all together not so simple.
+GID00103264	10 YEARS LATER
+GID00103265	The small green cabbage had been waiting many years for the nutrients. This summer had brought many a scrammy cabbage, but this was no ordinary cabbage. It was in fact a miniature version of an acceptable cabbage. Combie Boiluer the local butcher wandered past. Combie Boiluer recently had his name changed by Deedpol from Combie-Boiluer.com
+GID00103266	This was also a change from his original name; Jack Shappulls.
+GID00103267	Combie Boileur heard a shout from across the road it was Gwince from the Chapel.
+GID00103268	"Bovilollypop!" Gwince yelled, staring madly at a dog. It was a cross between an Alsatian and a Shropshire Plotty.
+GID00103269	Bovrilollypop was not the dogs name but this is what Gwince insisted on calling it.
+GID00103270	"Bovrilollpop - to the chapel!"
+GID00103271	The dog refused to move. It's real name was Swaft.
+GID00103272	"That dog is deaf you know" shouted Combie Boiluer, swaggering over to Gwince.
+GID00103273	"Bugger - that's the third one this week."
+GID00103274	"Never mind Gwince, I'm sure you'll get it sorted. Heck knows, I did"
+GID00103275	"You're a good man Combi, I'll be seeing you."
+GID00103276	Gwince walked away whistling the theme from "The Sweeny".
+GID00103277	Combie muttered something under his breath that sounded like "the polygon has landed."
+GID00103278	Champer 2
+GID00103279	Xxxxxxxxxxxxxxxjsd fkkkkkka
+GID00103280	They can't see me up here, I don't know why... Maybe they just don't care about me...
+GID00103281	I thought it was all over as soon as I heard the door go....
+GID00103282	I'm too scared to look down. I can't hear the screams anymore... That's a good thing... I think.
+GID00103283	I grabbed this gun off a dead Trooper but I don't even know how to use it...
+GID00103284	I know that as soon as they see me it's all over...
+GID00103285	Please let help come soon...
+GID00103286	I hate those guys so much...
+GID00103287	Kill Khans or kill NCR... Why all this killing?
+GID00103288	I'm just gonna hide down here. When they find out I poisoned the Corporal they'll most likely hang me. No don't think about it, safe here, in the sewers, with the rats...
+GID00103289	I knew it, a sneak attack in the middle of the night. Cowardly and inept. A dozen or so well armed soldiers burst into the vault using some kind of plasma explosive and engaged our brave troopers in combat. After a lengthy struggle during which a stray bullet ruptured the generators main coolant seal, we defeated the invaders. Unfortunately the vault was quickly becoming contaminated with radiation. We had already suffered heavy losses and Doc Powell now says that we are going to lose the people I ordered to seal the generator room too. This has been a dark day indeed. At least we managed to keep a prisoner alive so I can personally torture the bastard.
+GID00103290	God I am bored. What a dump. Head of the local Viper's and this is what I have to show for it. A shitty train tunnel filled with bumbling oafs. I want my spot on the strip dammit.
+GID00103291	As a money making venture this was doomed from the start. Travelling merchants are wise to our tricks and never have a large amount of caps on them. After dividing what we do get, even by my heavily biased system, I only end up with enough caps to buy a couple of drinks in Freeside.
+GID00103292	The men around here are really dull and for the most part dumber than a bag of wet socks. Trevor spends all his time making missiles. I have no idea why, we never get to use any. What's the point in blowing up all the loot? We only have one launcher so it's not like we're gonna take out the whole NCR.
+GID00103293	I want a new gun too. This one keeps turning everything into green sludge. Shame though, it's saved my life a few times.
+GID00103294	Hey John, its Bill here,
+GID00103295	Thank God if you actually read this. I was installing one of the home terminals in The Underground complex when I heard the bombs were being dropped. I know you and Stacey could not get into a Vault due to the waiting lists but by the looks of it there is gonna be a few free spaces around here.
+GID00103296	I just hacked the security terminal and there is a verbal code each citizen is required to have memorized for emergency entry. A different code for each person. Some ambassador who visits has the code XC554RE4. By my estimation he should be in DC right now so I'm guessing he won't come knocking anytime soon.
+GID00103297	Anyone travelling with you will be considered your entourage and they should let you through without even checking ID. You can bring up to three others with you with that level clearance.
+GID00103298	Once you are in I don't know what they will do when they figure out you are not the ambassador but I don't think they will be anything more than just mad... Hell, we may not have a country anymore. I will vouch for you. I assume Jenny and the kids made it to Vault 40, but in case they were delayed, please bring them. I managed to find a second code for Jenny: XC446RY1. It is for a female doctor who comes here often but was not here when the bombs fell. I know I can count on you.
+GID00103299	Your good friend,
+GID00103300	William Turnage
+GID00103301	This sewer is a radiation cesspit. This is strictly a search and destroy mission. We need all hostiles purged from this area. Take no prisoners and only use supplies from the safe zones.
+GID00103302	Omar Santana & Nyocore - Don't Lie To Me 2207
+GID00103303	This has to be one of, if not my favourite audiodisc from Omar Santana from recent years, maybe due to the influence of newcomer Hurck aka Nyocore. The title track has some legendary production including a complex and catchy melody and big undistorted drum (for those not too keen on the early turn of the century craze for clipped or over-distorted drums) which bounces along nicely at 160bpm. In the next track we find find a crazy vocal fuelled 220bpm track, 'No Mercy' which is easily my personal favourite on the disc. Big rollin' drums tweaked to perfection and a warped sub-melody combine with genuinely uplifting vocals to create a truly unique slice of Freetech.
+GID00103304	The final track, 'Toe Tappin MF', though bouncy and maintaining the usual solid production values fails to ignite in the same way as the other two tracks do and if your anything like me you'll probably ignore this in the mix in favour of 'Dont Lie To Me' as it's at near enough the same speed.
+GID00103305	9/10
+GID00103306	User: Tony:
+GID00103307	So this is what we will be calling home from now on. What a dump.
+GID00103308	Not sure why the others don't follow me down here but that suits me just fine. I'm not scared of a few rats. They are my dinner, not the other way around.
+GID00103309	Lots of locked doors down here. Security door seemed faulty. I managed to temporarily short it out with my cattle prod. Not sure how many more times I can do that before this thing runs out of battery for good or I fry a control panel.
+GID00103310	On the plus side I think the keycard I found in the Security Office will fit that fence in the tunnel. It looks like there is a Military facility of some kind down here. With a bit more luck I'll score me some valuable salvage.
+GID00103311	The Underground by Roach Part 5
+GID00103312	2218-2265: Ups and downs but mostly good times. Enough that we all forgot about all the threats from the rest of the world again.
+GID00103313	2266: The Underground Military HQ is assaulted by a squad of Enclave fanatics let by a man we believe to be called Commander Scowell. According to Doctor Funk (actual name) after deep hacking into Enclave mainframes he found that Scowell along with several of his ghoul followers were survivors of The Poseidon Oil Rig explosion (2242). [If you wanna know more about this let me know. Marcus from Jacobstown knows a whole load about the guy who actually blew the place up. I'm sure I can talk the full story out of him sometime.]
+GID00103314	The Enclave group gained entrance through the then (relatively) safe Boulder Sewer and override the local robots with some kind of portable EMP scrambling device. [From what I gather sometime later Boulder Sewer was destroyed in a battle between the NCR and Legion which also wiped out most of the town above].
+GID00103315	The Enclave executed General Klingswood and broadcast the whole thing over the PA so we all got to hear it. Sick bastards.
+GID00103316	The Underground citizens were forced out of the Eastern Underground and built up their defences around Power Station A. The Underground loses its main Armoury, HQ, Transit System, Security Offices and Labs. I lose approximately three quarters of my audio-disc collection after having to abandon my old Mini-Vault. Morale hits an all time-low as decades of many people's work is potentially lost forever.
+GID00103317	The Enclave go to work building defences at their end, reprogramming friendly robots and hiring anyone from the outside who can fire a gun (the Tech Raiders).
+GID00103318	We had the numbers back then but they had our main Armory as well as advanced Power Armor beyond what our Troops had ever seen. Luckily one of the old Mini-Vaults in the Market had been converted into a 'Public' armory back during the House scare so everyone was armed to the teeth. Several small battles eventually ended with both sides in constant stalemate, neither risking a full out attack on the other due to a knowledge of each other's defensive capabilities.
+GID00103319	2267: Construction on The Incomplete Sector begins again.
+GID00103320	2268: An accident involving a Bucketloader plunging through an unstable floor results in hundreds of Lakelurks descending on the Incomplete Sector. During the subsequent fight the reactor in Power Plant B is stuck resulting in a meltdown and massive radiation leak.
+GID00103321	Later in the same year we lose Residential Sector 2 to the Lurks and build up our defences in Dead Man's Pass (back then just a couple of caves connected by a maintenance tunnel).
+GID00103322	It's too dangerous to leave you all back home right now so I have arranged for you to be transported to an alternative reality where you should be safe for the time being. I am only doing this because I owe you one, otherwise normally you would have to fend for yourselves. I don't own the God-rights to this reality and in order to persuade its creator to let me add you in I had to give away editing privileges for Canada.
+GID00103323	On top of that the owner wants you to perform several sacred tasks. You know the deal. Typical salvation and redemption BS. I'll radio through with further details on the portable radio once you have all got settled.
+GID00103324	Anyway, I hope you lot have fun here, I might even drop by when I'm finished with this Bat-pig project. See what I'm up against in this year's Top Deity awards.
+GID00103325	C-Ya.
+GID00103326	G.
+GID00103327	PLAYER: Johnny Limes
+GID00103328	PLAY TIME: 8064 Weeks, 2 Days, 3 Hours, 21 Seconds.
+GID00103329	CURRENT RANK: 1
+GID00103330	TOP ATTRIBUTES:
+GID00103331	RACER
+GID00103332	-Land Speed Record (11.45 MPS)
+GID00103333	--Highest Land Jump Record (7.71 M)
+GID00103334	--Highest Land Race Victory Record (766)
+GID00103335	-Air Speed Record (107.11 MPS)
+GID00103336	--Highest Air Race Victory Record (949)
+GID00103337	-Underwater Speed Record (4.32 MPS)
+GID00103338	-Space Speed Record (186.27 MPS)
+GID00103339	--Highest Space Race Victory Record
+GID00103340	--Space Explorartion Record
+GID00103341	RELATED UNIQUE PERKS:
+GID00103342	-Visual Mapping
+GID00103343	--Cognative Waypoints
+GID00103344	-Space Explorer
+GID00103345	--Space Conquerer
+GID00103346	-Speed Freak
+GID00103347	--Feel The G-Force
+GID00103348	-Zen Maintenance
+GID00103349	--Mech Whisperer
+GID00103350	KILLER
+GID00103351	-Highest Explosive Kill Record (27,199,207)
+GID00103352	-Highest Ranged Kill Record (1,233,101)
+GID00103353	-Highest Melee Kill Record (999, 476)
+GID00103354	-Highest Unarmed Kill Record (451, 013)
+GID00103355	-Highest Alien Kill Record (24, 010, 944)
+GID00103356	-Highest Animal Kill Record (1,305,222)
+GID00103357	-Highest Human Kill Record (1,891,437)
+GID00103358	-Highest Robot Kill Record (988,677)
+GID00103359	RELATED UNIQUE PERKS:
+GID00103360	-Bullet Time
+GID00103361	--Time Phasing
+GID00103362	-Visual Targeting
+GID00103363	--Critical Homing
+GID00103364	-Friendly Bullets
+GID00103365	--Healing Bullets
+GID00103366	-Physical Overcharge
+GID00103367	--Firey Personality
+GID00103368	LOVER:
+GID00103369	-Highest Lover Record (877,120)
+GID00103370	-Longest Session Record (15W, 6D, 22H, 39M, 11S)
+GID00103371	-Largest Reverse Gangbang Record (2088)
+GID00103372	RELATED UNIQUE PERKS
+GID00103373	-Force Orgasm
+GID00103374	-Pleasure Counter Reveal
+GID00103375	-Multiple Orgasm
+GID00103376	--Infinite Orgasm
+GID00103377	-Imbue Object
+GID00103378	--Imbue Objects
+GID00103379	-Instant Temporary Clone
+GID00103380	--Instant Temporary Clones
+GID00103381	-Share XP
+GID00103382	Damn, something went wrong. We lost Bix in the teleport. He was the last to go in and our arrival caused some kind of power surge in the local Redoubt which triggered a system reboot. Condor says he's OK and that the systems will shunt him to the next available Redoubt. I hope he's close. I know he can handle himself but I can't shake the feeling that he's a long way away from us now.
+GID00103383	Oh I really should have seen this coming. Fucking Vault-Tec...
+GID00103384	I'll play Freetech whenever I want. I had my fun and that's all that matters.
+GID00103385	22/09/2281 21.57
+GID00103386	USER: Unknown:
+GID00103387	No fucking decent loot here what so ever. Waste of time is right. All that tunnelling for nothing.
+GID00103388	Motor-Runner will be pissed again. So much for access to every Vault in the region. Nearly everythng of use here burned out long ago.
+GID00103389	All we managed to dig out was an old data drive with some corrupt data about Vault 41. It sounds like some kind of Military Vault. All the info is related to some kind of "psychological test" where Vault 41 was to be fed bad info about another Vault in the area by Vault-Tec. To what end I have no idea. They maybe just did it for a laugh.
+GID00103390	No data on the Vault's current status but we have a vague location which may prove valuable.
+GID00103391	Sent: 21/12/80
+GID00103392	From: General Lee Oliver
+GID00103393	Camp McCarren
+GID00103394	To: Captain Albert Petro
+GID00103395	Mohave Bunker
+GID00103396	RE: Squad Testing
+GID00103397	Be on the look out for any more unusually gifted troops. After we lucked out with that psychic The President himself thinks we can start putting these quasi-mutants to better use. He wants us to start assembling a team of such individuals for use on special missions. Crocker is over at Camp Golf inspecting the latest batch of recruits over there. With any luck we may even find a solution to the whole Legion problem right on our own doorstep.
+GID00103398	It's been over a month since our initial contact with the Fire Ants. Ammunition is running low and many troops are starting to improvise their own weapons and ammo from whatever they have lying around. To make matters worse over half of our remaining force have become ghouls. They still retain their mental faculties but they can all say goodbye to their looks - and hair. On the other hand in an environment such as this becoming a ghoul may have its advantages, better that than a slow death from radiation sickness anyway.
+GID00103399	Octavius has been using whatever he can find to stop the process happening to him. In several of the local areas we have found anti-rad supplies and Octivius has hoarded them all on the grounds that many contain substances banned by Caesar. Now he uses them all on himself. This really reached a head when one of the troops caught him injecting Never-Glow, a mildly psychotropic, adrenalin based substance which can permanently alter users DNA structures. A huge row ensued and Octavius shot Frogal after he started swigging from a bottle of Vodka in protest. He only wounded him in the shoulder though, he say's we can't spare the solders right now.
+GID00103400	Several crew members have reported hearing very strange sounds in the basement. I thought they were just freaking each other out until I heard them myself last night on the range. It sounds like something is scraping at the walls from the outside. Whatever it is it must be big because cracks are starting to appear.
+GID00103401	I sent word to Vex but I doubt she'll spare any of her guys despite the truce. I'll be personally heading up the basement watch crew for now. We can't risk another breach point down here.
+GID00103402	Nailz is out searching for clues in the wastes and I have left Roland in charge of the main Shelter.
+GID00103403	On the upside we managed to dismantle the blast door in the end. It just led to some kind of burned out control room. Can't tell what the consoles were for. Everything looks fried and nothing is wired into our network. Found some meds and some stale food at least. Will make a nice change from rat meat.
+GID00103404	I lugged this terminal back from the Vault so I have somewhere to write about my thoughts. No one else around here seems to understand but it's not like I give a shit. I do what I want and I don't answer to anyone. Except Lucifer of course, though if anything should happen to him, then that would make me the boss around here. Not like that's gonna happen though. If anyone around here has earned their Fiend status then it's him. It wouldn't surprise me if he's immortal after some of the wounds I have seen him shake off, let alone inflict on others.
+GID00103405	We're intercepting lots of transmissions from the Nelson areas. It sounds like the Legion are attacking. Get up there are find out what is going on. The Legion pose just as much a threat to our operation as the NCR. Get out there and if neeeded fuck some shit up.
+GID00103406	Don't come back empty handed.
+GID00103407	Thraxx.
+GID00103408	We finally brought in the last of the supplies. Phew, I've never seen so much food in one place before. Mom says we have enough steak alone to last us the rest of our lives. Dad laughed, he said it would probably last a week with us around.
+GID00103409	...and ten years later I'm back in Nevada and will soon be back inside our Bunker. I hope the others are OK. None of my transmissions made it through....
+GID00103410	Well, that went about as well as could be expected. Six casualties at our end including my second and third in command, but on the other hand we have taken over the target location and have requisitioned this facilities armory. The robots are up and running again now Preston is done re-programming the mainframe. Her EMP scrambler worked exactly as planned, disabling all the opposition's robot force within seconds.
+GID00103411	The old Mariposa dumping ground proved the perfect access point and just like in the blueprints we acquired, the blast door to this Underground facility was present and unguarded (apart from their useless robots). The background radiation down there was still severe. That damn FEV must have a hell of a half-life.
+GID00103412	Our entrance was sloppy, either that or their response time was unusually fast. In the heat of the battle it is easy to lose track of time. Despite our advanced armor and training they still managed to kill six of us including Lemington, the damned fool... Always wanting to be the first into every room.
+GID00103413	Now only three of us remain as survivors of the terrorist atrocity that was the Poseidon Oil Rig disaster.
+GID00103414	I executed the Underground resident's General over the PA to teach the locals a lesson about insubordination. We are the government around here. The Enclave are the true leaders of America, mutant or not. This rabble of spoiled agoraphobics would not know how to run a bus service, let alone what remains of our once great nation.
+GID00104290	Spencer, sorry, I had to come back here - I think they were following me. I have no ammo and my radio is destroyed....I don't know how - they're everywhere. Why did I come here...
+GID00104291	The cloud is entering the outer building now... I hope it hides this place...
+GID00104292	Fuck....
+GID00104293	What happened here, where has the med-lab gone? Just a wall now...
+GID00104294	What the...
+GID00104295	FRaa; hXXrzz Mil08565,
+GID00104296	To....///z01
+GID00104297	....cbZ64 5ome sEriuous reports ol m87nx struuuural defects in xasv 8cnxs. Cru7ports confimed, aaaysis of local 4xaaamm. Requesting an engieeeeEteam to better ASsess our owenx wkznz.....
+GID00104298	DATA CORRUPT
+GID00104299	Spencer, sorry, I had to come back here - I think they were following me. I have no ammo and my radio is destroyed....I don't know how - they're everywhere. Why did I come here...
+GID00104300	The cloud is entering the outer building now... I hope it hides this place...
+GID00104301	Fuck....
+GID00104302	What happened here, where has the med-lab gone? Just a wall now...
+GID00104303	What the...
+GID00104304	An NCR Ranger by the name of Spencer arrived today. By the sound of it Elijah has somehow initiated a distress beacon which lured her here. To what ends I don't know but she passed below my apartment and I dropped her an old fashioned hand-radio so we can talk at length. Somehow she was drugged and has had a collar attached that will explode if see tries to remove it or escape. Elijah did this somehow, now he has told her she must wait until we have 'two others'. I gave her some ammo and food, at least Elijah gave her a rifle to defend herself. I can't let her in though. If Elijah is massing an army of slaves here then I sure as hell don't wanna get caught up in the middle of it and I'll bet those collars have tracking beacons in them.
+GID00104305	I'll have to make preperations to leave this area. I'll take over the sewers. The ferals down there seem to be non-hostile towards me and will provide efficient protection from the Ghosts and Elijah.
+GID00104306	Found I was not alone today. I met another Ghoul by the name of Dean who has been living out here for the last 200 years, pretty much all on his own from what I could tell. He did not seem particularly happy to see me. He seems to think he has a way into the casino so I tried playing the dumb grunt role but he was having none of it. Seems he has had his eye on me for a while and I think he may even see me as a threat now. Damn, he'd better not try anything, I could do without another death on my conscience. He did inform me of another resident, a Nightkin by the name of Dog, who by the sound of it is probably worth avoiding. He spends most of his time at the Police Station screaming his own name apparently.
+GID00104307	Personally I have had no luck finding a way into the Casino and have found little of value in the town itself. The technology behind the vending machines could be worth a lot but I have yet to stumble onto any schematics for the machines themselves.
+GID00104308	The way I see it I have two options now, either use my limited engineering skills to reverse engineer the internal workings of the Vending machines in order to program a device that would allow me access to the Casino or befriend Dean and find out what he knows. I am unsure which would be easiest course of action right now.
+GID00104309	Cloud Mash:
+GID00104310	Beer.
+GID00104311	Instamash,
+GID00104312	Jar of Cloud Residue.
+GID00104313	Meat Cakes:
+GID00104314	Pork & Beans,
+GID00104315	Cram,
+GID00104316	Flour.
+GID00104317	Sweet & Sour Smoothie
+GID00104318	Dandy Boy Apples,
+GID00104319	Radioactive Gum Drops,
+GID00104320	Scotch.
+GID00104321	Sorry Randall, I got cornered by a gang of Ghosts in Burkley's Bar and dropped my sack with the key in it. I'm nearly out of ammo so I'm heading to the Medical safehouse for now. Hope you are OK,
+GID00104322	Spencer.
+GID00104323	Concentr8 Pills Black:
+GID00104324	Buffout,
+GID00104325	Mentants,
+GID00104326	Water (purified),
+GID00104327	Abraxo Cleaner
+GID00104328	Some guy called Elijah showed up yesterday. I have most of the villa rigged with cameras now and caught him on film briefly. It seems he has somehow enlisted the help of Dog and the pair are currently tearing through the Ghost People in the Medical District. I don't like the looks of this, I'm gonna lie low and see what happens.
+GID00104329	Why should I ca88 aboUx eht staYe of that shantT Ttwntthey_aeeeerecting in frU7tXof th01 eyesOjje_We never hire second best. Just t t t t t t tttttx0010x make sure our manufacturing plant is running at 100% effeciency and thav_Sinclair's g00x4 don't8vbbvnt 6oo gn8ehJstind in whats 8DFNg_xx. 0231 banlk saasy should.xxx kb ...
+GID00104330	DATA CORRUPT
+GID00104331	Welcome to the Sierra Madre. Huh, looks like that old fool's map was right after all. Better be worth loosing my entire squad for. Again... They'll never accept me back at HQ now. Not that I could have saved them, thier human lungs couldn't deal with the cloud pockets that surrounded the aceess area. I'm better off alone. Same as ever.
+GID00104332	The Casino is still standing strong and it looks like no humans have been here in years. There is some kind of lifeform that wanders the streets. They are totally hostile and do not respond to any communication. They also appear to be without emotion or fear but can still be dispatched easily enough with the correct equipment. My only concern is if I were to become heavily outnumbered by these beasts.
+GID00104333	To add to the threat from the locals the gas cloud present in the town seems to be corrosive, even to my scarred flesh. To make matters worse the town itself it crumbling under its own weight and the Casino is under total lockdown.
+GID00104334	Luckily I found a functioning turret unit out in the desert on the way in. It took a while to lug it back here, its anti-grav system was on the fritz, but it was worth it. Looks like it was built to last and can provide cover whilst I reinforce this house against the elements.

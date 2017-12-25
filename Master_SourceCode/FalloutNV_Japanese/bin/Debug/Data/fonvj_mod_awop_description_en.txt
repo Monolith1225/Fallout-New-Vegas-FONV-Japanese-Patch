@@ -1,0 +1,44 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_awop_description_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00098627	For The Enclave![CRLF]We will never forget.
+GID00098628	Hard-Tek Security Systems.
+GID00098629	Freetech local braodcast terminal 1.
+GID00098630	Freetech local braodcast terminal 2.
+GID00098631	The Underground school teacher's terminal.
+GID00098632	The Underground school student terminal.
+GID00098633	Tony's Terminal
+GID00098634	Communal Terminal
+GID00098635	Charlie's Terminal
+GID00098636	Steve's Terminal
+GID00098637	Update Terminal
+GID00098638	Searchlight Church Bunker.[CRLF]Father Polavo's Terminal.
+GID00098639	Sunnytime Cigarettes Area Manager Terminal
+GID00098640	Property of J. Empire[CRLF]Deputy-Chief programmer for project Beta-Power.
+GID00098641	Vault-Tec Vault Monitoring Station NV03[CRLF][CRLF]>\ Welcome, USER[CRLF]
+GID00098642	Mini-Vault Welcome Terminal
+GID00098643	Your knowledge of the years of artistic work destoyed by the Tech Raiders has given you a new found hatred for them. You gain a +15 Damage Bonus when fighting Tech Raiders, Tech Psychos and their Leaders.
+GID00098644	Your knowledge of the History of The Underground has endeared its citizens to you, and vice versa. You gain +25 to Speech and Barter while conversing with any friendly Underground resident.
+GID00098645	NCR Mohave Bunker Outpost.[CRLF]Welcome Captain Petro.
+GID00098646	Uz1zrground Cozzzztion Terzzzz/[CRLF][CRLF]CORRUPT DATA:[CRLF]________________________[CRLF]System Restore Incomplete[CRLF]Status 08%[CRLF]________________________[CRLF]Press Any Key to continue.[CRLF]
+GID00098647	Vault 40 Terminal.[CRLF]South Power Station.[CRLF][CRLF]>\ Welcome, USER[CRLF]
+GID00098648	Property of Johnny Limes[CRLF]Hyper-Real Project[CRLF]Lead Designer[CRLF]
+GID00098649	NCR Searchlight Bunker Outpost[CRLF]Communications Terminal.[CRLF]Welcome Sgt Ranovich.
+GID00098650	Your knowledge of the History of The Underground has endeared its citizens to you, and vice versa. You gain +25 to Speech and Barter while conversing with any friendly Underground resident.
+GID00098651	Rick's terminal - Keep out Emily!
+GID00098652	Vault 40 Armory Terminal.
+GID00098653	Neveda Radiological Research Facility Data Terminal.[CRLF]Property of Butch Henderson
+GID00098654	Welcome Lt. Phillips.
+GID00098655	Vault-Tec Vault 41 Overseer Terminal.
+GID00098656	Your knowledge of the History of The Underground has endeared its citizens to you, and vice versa. You gain +25 to Speech and Barter while conversing with any friendly Underground resident.
+GID00098657	Pre-War Hardtek Home Terminal[CRLF][CRLF]Restored by Fergie M. - Jan' 2270
+GID00098658	With the Iron Belly perk, you take 50% less radiation when consuming irradiated food and drink. Stacks with Lead Belly.
+GID00098659	Redoubt 6AF14[CRLF]Nellis Air Force Base[CRLF]Nevada[CRLF][CRLF]>\ Welcome, USER[CRLF]
+GID00098660	Ivanpah Weapon Research Facility[CRLF]Project Overcharge Worker's Terminal[CRLF]
+GID00098661	Samson Rock Crushing Plant.[CRLF]Engineer Terminal.[CRLF]
+GID00098662	Nipton Pit-Stop Shelter Public Terminal
+GID00098663	Property of Troy Cowarne.[CRLF]Construction Supervisor Class 2.
+GID00098664	Property of Da Fiendz - Fuck Off!
+GID00098665	Hardtek Home Terminal.[CRLF]Property of UNKNOWN[CRLF]Your terminal has not been shut down properly....
+GID00104165	>\ W3lcome, USER[CRLF][CRLF]HOUSE TOOLx Seeee Madre[CRLF]Master Terminal[CRLF][CRLF]bX0010982bv[CRLF][CRLF]Status: Crrrrpt[CRLF][CRLF]

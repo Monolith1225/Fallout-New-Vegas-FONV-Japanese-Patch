@@ -50,6 +50,8 @@ Partial Class mains
         Me.NVSE_DEL = New System.Windows.Forms.CheckBox()
         Me.Hashsan = New System.Windows.Forms.CheckBox()
         Me.NVSE_checks = New System.Windows.Forms.CheckBox()
+        Me.close_not_delete_box = New System.Windows.Forms.CheckBox()
+        Me.offline_online_chenge = New System.Windows.Forms.Timer(Me.components)
         Me.SuspendLayout()
         '
         'ProgressBar1
@@ -159,9 +161,9 @@ Partial Class mains
         Me.EventTxT.Font = New System.Drawing.Font("Meiryo UI", 8.25!, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, CType(128, Byte))
         Me.EventTxT.ForeColor = System.Drawing.SystemColors.GradientActiveCaption
         Me.EventTxT.ImageAlign = System.Drawing.ContentAlignment.BottomRight
-        Me.EventTxT.Location = New System.Drawing.Point(19, 146)
+        Me.EventTxT.Location = New System.Drawing.Point(10, 133)
         Me.EventTxT.Name = "EventTxT"
-        Me.EventTxT.Size = New System.Drawing.Size(512, 32)
+        Me.EventTxT.Size = New System.Drawing.Size(521, 45)
         Me.EventTxT.TabIndex = 11
         Me.EventTxT.Text = "..."
         Me.EventTxT.TextAlign = System.Drawing.ContentAlignment.BottomRight
@@ -253,7 +255,7 @@ Partial Class mains
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(547, 13)
         Me.Label3.TabIndex = 25
-        Me.Label3.Text = "Japanese Patch Version 3.7 | FOJP2 v4.6 | NVSE 5.0b2/5.0b3 | 日本語翻訳作業所（最終版)"
+        Me.Label3.Text = "Japanese Patch Version 3.8 | FOJP2 v4.6 | NVSE 5.0b2/5.0b3 | 日本語翻訳作業所（最終版)"
         Me.Label3.TextAlign = System.Drawing.ContentAlignment.TopCenter
         '
         'optionButtons
@@ -321,12 +323,30 @@ Partial Class mains
         Me.NVSE_checks.Text = "NVSEベータ版を利用する" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         Me.NVSE_checks.UseVisualStyleBackColor = False
         '
+        'close_not_delete_box
+        '
+        Me.close_not_delete_box.AutoSize = True
+        Me.close_not_delete_box.BackColor = System.Drawing.Color.Transparent
+        Me.close_not_delete_box.Font = New System.Drawing.Font("ＭＳ Ｐゴシック", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(128, Byte))
+        Me.close_not_delete_box.ForeColor = System.Drawing.Color.White
+        Me.close_not_delete_box.Location = New System.Drawing.Point(40, 180)
+        Me.close_not_delete_box.Name = "close_not_delete_box"
+        Me.close_not_delete_box.Size = New System.Drawing.Size(110, 15)
+        Me.close_not_delete_box.TabIndex = 35
+        Me.close_not_delete_box.Text = "終了時に削除する"
+        Me.close_not_delete_box.UseVisualStyleBackColor = False
+        '
+        'offline_online_chenge
+        '
+        Me.offline_online_chenge.Interval = 1500
+        '
         'mains
         '
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None
         Me.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
         Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
         Me.ClientSize = New System.Drawing.Size(547, 280)
+        Me.Controls.Add(Me.close_not_delete_box)
         Me.Controls.Add(Me.offline_mode_1)
         Me.Controls.Add(Me.NVSE_checks)
         Me.Controls.Add(Me.Hashsan)
@@ -354,7 +374,7 @@ Partial Class mains
         Me.Name = "mains"
         Me.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Fallout: New Vegas Japanese Patch 3.6"
+        Me.Text = "Fallout: New Vegas Japanese Patch 3.8"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -385,5 +405,6 @@ Partial Class mains
     Friend WithEvents NVSE_DEL As System.Windows.Forms.CheckBox
     Friend WithEvents Hashsan As System.Windows.Forms.CheckBox
     Friend WithEvents NVSE_checks As System.Windows.Forms.CheckBox
-
+    Friend WithEvents close_not_delete_box As CheckBox
+    Friend WithEvents offline_online_chenge As Timer
 End Class

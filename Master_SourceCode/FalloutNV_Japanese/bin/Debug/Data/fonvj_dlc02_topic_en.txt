@@ -1,0 +1,493 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc02_topic_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00086412	I'm ready to go to Zion.
+GID00086413	Okay, let's do it! Zion here we come!
+GID00086414	We're all ready to get going.
+GID00086415	We're both set. Let's go.
+GID00086416	All right, let's go. I'm ready.
+GID00086417	Joshua told me you needed a few things. I think this is everything.
+GID00086418	I checked on everything in the valley and got you the map of Grand Staircase.
+GID00086419	Yes, go!
+GID00086420	Tell me about Waking Cloud's family.
+GID00086421	Well, I returned the calf to its mother, and didn't even kill any of the Bighorners.
+GID00086422	Well, I returned the calf to its herd. Had to kill a few Bighorners to do it, though.
+GID00086423	Well, all of the Bighorners are dead. Problem solved!
+GID00086424	I had to kill the Bighorners, but I saved the little one.
+GID00086426	Where is Vault 22 located?
+GID00086427	I've heard of some strange goings-on at Vault 22. Know any details?
+GID00086428	You're lying. I've been to Vault 22. No one's lived there in 150 years.
+GID00086429	Did you notice I'm wearing a Pip-Boy, too?
+GID00086430	What are you doing here?
+GID00086431	About your husband... I'm afraid he was killed by White Legs during the evacuation.
+GID00086432	Relax, I've humped this load across the Mojave on my own two feet long enough. I can handle it.
+GID00086433	Hey, man, I'm cool. I got a big backpack and everything!
+GID00086434	Hey, man, I'm cool. I got a big backpack and everything!
+GID00086435	Not only could I carry my own gear, I could carry yours, his, and one of your brahmins'.
+GID00086436	Don't worry about me. I'm used to finding out-of-the-way places to stuff my gear.
+GID00086437	What's with this obsession you seem to have with "civilization?"
+GID00086438	I talked to Joshua about your thoughts on civilization.
+GID00086439	<Lie> Daniel isn't avoiding talking about your family. He's just preoccupied with all of this.
+GID00086440	Who is Joshua Graham, and why shouldn't I talk about him?
+GID00086441	Do you have any family?
+GID00086442	I like your bear glove. Where can I get one?
+GID00086443	Tell me more about the job.
+GID00086444	Tell me a little about this area - any interesting wildlife?
+GID00086445	So, about those Bighorners....
+GID00086446	Tell me about the Bighorner problem again.
+GID00086447	Any idea where to start looking for these pre-War supplies Daniel needs?
+GID00086448	Tell me a little about this area - any interesting wildlife?
+GID00086449	Follows-Chalk seems like he's interested in seeing more of the world.
+GID00086450	What was that like to grow up in New Reno?
+GID00086451	Tell me about the Ghost of She.
+GID00086452	Why the weight limit?
+GID00086453	How come I can't bring all my stuff?
+GID00086454	Tell me about Happy Trails Caravan Company.
+GID00086455	Tell me more about Joshua Graham.
+GID00086456	Who were those tribals who attacked me?
+GID00086457	"Deadeye," huh? How did you get that nickname?
+GID00086458	Do you have any other special skills or abilities?
+GID00086459	Where'd you get the Vault suit?
+GID00086460	Tell me about Caliente.
+GID00086461	What's your deal?
+GID00086462	Give me some info on this Daniel. Who is he?
+GID00086463	Why do you need a map of Grand Staircase?
+GID00086464	I want to know more about you.
+GID00086465	What do you use your Pip-Boy for?
+GID00086466	Were the 80s a gang, or a tribe?
+GID00086467	Tell me more about your tribe.
+GID00086468	What do you know about Salt-Upon-Wounds?
+GID00086469	I understand this caravan is headed to Zion. What can you tell me about the area?
+GID00086470	You mentioned you need healing powder. I have some, if you're still interested.
+GID00086471	What do you know of the White Legs?
+GID00086472	What do you know about the White Legs?
+GID00086473	Who or what is the Father in the Cave?
+GID00086474	Is there any other way I can help the Sorrows?
+GID00086475	Wait here.
+GID00086476	I haven't been through Utah recently - what's the situation like?
+GID00086477	You do anything around here, besides talk too much?
+GID00086478	You do anything around here, besides make women sick?
+GID00086479	What do you do here?
+GID00086482	Why are you so eager to evacuate Zion? You don't seem to be a pacifist.
+GID00086483	What did you say about a courier? Who were you expecting?
+GID00086484	I see you're wearing a Pip-boy and Vault suit.
+GID00086485	What do you know about the Father in the Caves?
+GID00086486	Why won't you tell me about what happened at New Canaan?
+GID00086487	I've met Caesar, you know. What do you think he would say if I told him you were here?
+GID00086488	Medicine check.
+GID00086489	Unwarranted hostility and general agitation. How long have you been a Psycho addict?
+GID00086490	Are you feeling all right?
+GID00086491	Let's get going.
+GID00086504	Yes, I'm sure.
+GID00086505	Actually, let me take care of some more things first.
+GID00086506	What can you tell me about New Canaan?
+GID00086507	How about a game of Caravan to kill some time?
+GID00086508	How about another game of Caravan?
+GID00086509	All right, I'll come back when I'm carrying less than 75 pounds.
+GID00086510	All right, I'll come back when I'm carrying less than 100 pounds.
+GID00086511	Why can't you get to Salt Lake City?
+GID00086512	It sounds like Happy Trails isn't in the best financial shape.
+GID00086513	So, you guys are totally rich, right?
+GID00086514	Do you know anything about their religion?
+GID00086515	You don't know what happened to their mission?
+GID00086516	Tell me about the raiders.
+GID00086517	Degenerate tribes?
+GID00086518	Warlords? How dangerous are they?
+GID00086519	I had some other questions.
+GID00086520	Like I care. Let's just go. I'm ready.
+GID00086521	I think Joshua's right. We should fight the White Legs.
+GID00086522	Don't worry. I think leaving Zion is for the best.
+GID00086523	I need to think about this.
+GID00086524	No, not yet.
+GID00086525	Here's one healing powder.
+GID00086526	Take all I have.
+GID00086527	I came in with the Happy Trails Caravan. We were attacked by tribals. I'm the only survivor.
+GID00086528	Oh, heh. I just walked here. No big deal.
+GID00086529	Who are you to be asking me questions?
+GID00086530	Anything to help. I'll do what I can.
+GID00086531	If it will get me out of here, sure.
+GID00086532	Come on. I got you everything you needed. Just give me the damned map.
+GID00086533	I apologize, Daniel. I think stress got the best of me.
+GID00086534	Sorry, I uh... didn't mean to insult you or whatever.
+GID00086535	Fine.
+GID00086536	I'll be taking the map now.
+GID00086537	That's an awful lot of responsibility to take on.
+GID00086538	You're right to leave, but I don't think you should kill any of the White Legs.
+GID00086539	If you're willing to defend the Sorrows, why not pursue the White Legs?
+GID00086540	Joshua's a New Canaanite and he's obviously willing to attack the White Legs.
+GID00086541	Joshua's come up with a reasonable alternative. Why not help them fight?
+GID00086542	That makes sense. Let's talk about something else.
+GID00086543	The use of violence only leads to more violence.
+GID00086544	She said one of her births was difficult and you helped her through it.
+GID00086545	Did you help the rest of her family leave Zion?
+GID00086546	What's the matter? Did something happen?
+GID00086547	O... kay, let's talk about something else then.
+GID00086548	It's her husband! Don't you think she has a right to know?
+GID00086549	I don't think you should hide this from her, but I see your point. I won't say anything.
+GID00086550	Settle down. I'm not telling her squat.
+GID00086551	You're the New Canaanite who's supposed help lead these people, not hide things from them.
+GID00086552	Aren't you the guy in charge around here?
+GID00086553	That's too bad, because I'm going to tell her.
+GID00086554	Fine. Forget it.
+GID00086555	I have an addiction problem.
+GID00086556	Oh, the usual. A few scrapes, burns, and bullet wounds.
+GID00086557	Radiation sickness.
+GID00086558	I need medical supplies.
+GID00086559	Yes. Here's 200 caps.
+GID00086560	Hmm. I guess I don't have 200 caps.
+GID00086561	Here's 150 caps for the trouble.
+GID00086562	Sure. Will 300 caps cover it?
+GID00086563	I can handle the expenses. 600 caps should cover everything, shouldn't it?
+GID00086564	I guess I don't quite have 150 caps...
+GID00086565	Actually, I think I'll be fine. Thanks anyway.
+GID00086566	It looks like I'm a bit short of 300 caps...
+GID00086567	Er... it looks like I don't quite have 600 caps.
+GID00086568	Here's 300 caps to cover the expenses.
+GID00086569	I don't quite have 300 caps.
+GID00086570	You said you "used to" help the Sorrows with problems. What do you do now?
+GID00086571	I'm trading Pre-War goods and supplies from the Mojave Wasteland. You need those too, don't you?
+GID00086572	But I have... caps. Many of them. Let me show you all of my fine caps.
+GID00086573	Most of the Sorrows and Dead Horses are protected. I'm out there getting shot up by White Legs.
+GID00086574	Yeah, but I'm helping you so... come on.
+GID00086575	I understand.
+GID00086576	Salvation? From what, the wasteland?
+GID00086577	What does a bishop do? Is that your boss?
+GID00086578	Has this happened before, the White Legs attacking other tribes?
+GID00086579	The White Legs are here already, so what's your plan?
+GID00086580	What happened at New Canaan?
+GID00086581	Were you close to Mordecai?
+GID00086582	If you don't acknowledge your past now, it'll come back to you later.
+GID00086583	That's it?
+GID00086584	Interesting.
+GID00086585	Sounds kind of far-fetched, even for the wasteland.
+GID00086586	Why don't you teach them something useful instead of filling their heads with nonsense?
+GID00086587	You're the man in charge. If something's troubling you, it could affect all of us.
+GID00086588	I'm just curious, that's all.
+GID00086589	I understand. Let's talk about something else.
+GID00086590	I'd like to talk to you about Mordecai.
+GID00086591	Let's talk about something else.
+GID00086592	And you have the right to pull them off of their land?
+GID00086593	This is the way the world is. They're part of it, whether you like it or not.
+GID00086594	Uh... you might want to have a chat with them. They think your "Lord" and the "Father" are the same.
+GID00086595	I had some other questions for you.
+GID00086596	Here, take three of my healing powders.
+GID00086597	Here, take five of my healing powders.
+GID00086598	I don't have any more questions. Let's talk about something else.
+GID00086599	Why are you called Follows-Chalk?
+GID00086600	I'll do what I can, but I need to defend myself if I'm attacked.
+GID00086601	Who is this Joshua?
+GID00086602	Civilized lands? What do you mean?
+GID00086603	I don't have time for this. Go away.
+GID00086604	What are all those tattoos?
+GID00086605	Tell me about your tribe.
+GID00086606	What did Joshua do for you?
+GID00086607	Do you remember anything about Joshua from before he became your leader?
+GID00086608	What do you know about the New Canaanites?
+GID00086609	What's with the shell casings in your club?
+GID00086610	Maybe I can help with that.
+GID00086611	All right, I'll look into it.
+GID00086612	That sounds like way too much work. Maybe later.
+GID00086613	Why is it so important that we fight the White Legs?
+GID00086614	Wait, what about Caesar?
+GID00086615	All right, let's go.
+GID00086616	What happened to him?
+GID00086617	The only recent war I know of is when Caesar's Legion attacked Hoover Dam. Is that where he fought?
+GID00086618	Small? Have you ever seen Hoover Dam? It's bigger than some of these mountains.
+GID00086619	You'd be surprised what "civilized" tribes will fight over.
+GID00086620	Are you sure? You've been a useful companion so far.
+GID00086621	Give my regards to Joshua, then.
+GID00086622	Typical. Just when I get a useful minion....
+GID00086623	What is this place?
+GID00086624	Who are you?
+GID00086625	Hang on, I want to know more about what's going on.
+GID00086626	Okay, I'll go talk to him.
+GID00086627	I had no reason to stay for that fight.
+GID00086628	White Legs? Who are they?
+GID00086629	Huh, I think I know that guy. Small world.
+GID00086630	Who is this Joshua?
+GID00086631	I could use a guide. Let's go.
+GID00086632	No way, pal. I'm not traipsing around the desert with a barbarian who doesn't wear pants.
+GID00086633	What would you suggest I do instead?
+GID00086634	You've got a funny idea about what the Mojave's like, but I'll go with you and see your boss.
+GID00086635	Wait, what? New Canaan was wiped out? How?
+GID00086636	Where do they come from?
+GID00086637	Wildlife problem? What kind of wildlife?
+GID00086638	Wildlife problem? What kind of wildlife?
+GID00086639	What does Joshua think of this?
+GID00086640	Really? Maybe I could talk to him about it for you. Be a neutral party.
+GID00086641	He said he has a hard time being objective about the whole idea, and that I should give you advice.
+GID00086642	<Lie> That it's a den of corruption and vice, and the Dead Horses' way of living is better.
+GID00086643	<Lie> That a man must follow his heart no matter where it leads him.
+GID00086644	I know that guy! I got him a job!
+GID00086645	What taboo places?
+GID00086646	Where should we start looking?
+GID00086647	You should stay here with your people. You have a duty to them.
+GID00086648	Civilization isn't perfect, but neither is tribal life. You should go see it for yourself.
+GID00086649	What's this "place where the little ones fell?"
+GID00086650	White Legs? Those are the people who attacked us?
+GID00086651	If you're willing, I'll take the help.
+GID00086652	Forget it, I'm out of here.
+GID00086653	Wait, Joshua! Don't!
+GID00086654	Let's do it.
+GID00086655	I came here with the Happy Trails Caravan Company to make contact with the New Canaanites.
+GID00086656	Joshua, you've already won. Look around you. There's no need to kill him.
+GID00086657	Let him keep his dignity. Give him a fighting chance.
+GID00086658	No objections.
+GID00086659	How do I get out of here?
+GID00086660	I'm not going to leave without offering to help. What can I do?
+GID00086661	Don't try to get me to help you. I'm not interested.
+GID00086662	How about I go find dear Daniel and shake the information out of him?
+GID00086663	Why don't you or Daniel do it?
+GID00086664	Taboo?
+GID00086665	I'll see what I can do.
+GID00086666	Sorry, but I'm not going on a scavenger hunt for you.
+GID00086667	Fine. What do you need?
+GID00086668	I'll see you on the other side.
+GID00086669	I'll see you on the other side.
+GID00086670	Well, I'm guessing you're pretty mad about something.
+GID00086671	All right, let's go.
+GID00086672	No, and I don't really care.
+GID00086673	You don't want to leave Zion. You'd rather kill every last one of the White Legs.
+GID00086674	This conversation just got pretty dark. What was that about happy... dashing the little ones?
+GID00086675	Why are you talking to me about it?
+GID00086676	You'll get no argument from me. These White Legs are human garbage.
+GID00086677	I'll talk to him about it. Maybe he can be persuaded.
+GID00086678	I need to think about it.
+GID00086679	Yes, what has to be done is you have to get these tribes out of here.
+GID00086680	And what kind of tribe is that?
+GID00086681	I do. They're little more than raiders, if that.
+GID00086682	Fair enough, I guess.
+GID00086683	Hmm. Okay.
+GID00086684	I don't know if you've figured this out yet, but I don't believe what you believe.
+GID00086685	Fair enough. What do you want me to do about it?
+GID00086686	Enough with the drama. I just want to get home.
+GID00086687	Sounds like a good deal.
+GID00086688	Huh. If you say so.
+GID00086689	Ha ha ha! Wait... you don't actually believe that, do you?
+GID00086690	Do you ever "fall?"
+GID00086691	Why did the White Legs attack my caravan?
+GID00086692	Does the valley belong to the Dead Horses?
+GID00086693	Why haven't I seen any Sorrows in the valley?
+GID00086694	Are the New Canaanites really a tribe?
+GID00086695	Thanks for the offer, but I'll handle it myself.
+GID00086696	What do you know of Salt-Upon-Wounds?
+GID00086697	Do they speak... our language?
+GID00086698	Let's talk about something else.
+GID00086699	Fine, I'll look into getting those supplies for Daniel.
+GID00086700	I have a few questions for you.
+GID00086701	Were you always with the New Canaanites?
+GID00086702	If what you believe is true, he'll pay for it later. The Sorrows don't need to see you do this.
+GID00086703	What are those bandages for?
+GID00086704	Who are you to decide this?
+GID00086705	Was one of those men Caesar?
+GID00086706	How did you end up as Caesar's legate?
+GID00086707	How did you survive?
+GID00086708	Are you in much pain? Is there anything I can do to help?
+GID00086709	What do you know about the war between Caesar and NCR?
+GID00086710	What do you think of NCR?
+GID00086711	You know that means I'm going to encourage him to leave, right?
+GID00086712	Do you know about Mr. House?
+GID00086713	I'm guessing you don't like Caesar very much.
+GID00086714	What's at the Divide?
+GID00086715	The Divide blocked all of their northern land routes?
+GID00086716	Hmm. Okay.
+GID00086717	Fine by me. I prefer the wilderness.
+GID00086718	Caesar is dead. I saw to it personally. I thought you should know.
+GID00086719	They won't. I'll make sure the Legion has very little to go home with.
+GID00086720	We'll see.
+GID00086721	You don't think Lanius can lead the Legion?
+GID00086722	I have some gear that needs repairs.
+GID00086723	How do you know so much about what happened to me?
+GID00086724	You're saying that you killed a Brotherhood of Steel Paladin?
+GID00086725	Please go on. This promises to be entertaining.
+GID00086726	Guns Check
+GID00086727	Too bad there's no such thing as an 11mm submachinegun.
+GID00086728	What a shot!
+GID00086729	That's quite a story.
+GID00086730	Survival check re: "Deathjaws"
+GID00086731	"Deathjaws," huh? Did you mean to say "Deathclaws?"
+GID00086732	"Deathjaws?" I've never heard of those...
+GID00086733	What a load of crap. The eyeslits of T-series power armor are bullet-proof!
+GID00086734	Black Widow
+GID00086735	I'll bring my tweezers and a microscope.
+GID00086737	Great, I'll see what I'm shooting at.
+GID00086738	Ewww. I think I'll pass.
+GID00086739	for extra gear.
+GID00086740	Looks like you're traveling light. What would you say to carrying some of my stuff?
+GID00086741	Looks like you're traveling light. Carry some items for me, and I'll make it worth your while.
+GID00086742	How much Psycho you got stashed away? If you run out on the trail... the withdrawal's not pleasant.
+GID00086743	I've got Psycho to sell, but it won't come cheap.
+GID00086744	I can sell you a dose of Fixer, but it won't be cheap.
+GID00086745	Yeah, leave now. Before the withdrawal hits you out on the trail, no Psycho for miles.
+GID00086746	One hit for 30 caps.
+GID00086747	Two hits for 60 caps.
+GID00086748	Three hits for 90 caps.
+GID00086749	Five hits for 150 caps.
+GID00086750	Ten hits for 300 caps.
+GID00086751	80 caps.
+GID00086752	Never mind. It's your problem, not mine.
+GID00086753	Never mind. Keep living the dream.
+GID00086754	I'll give you 100 caps to make sure Jed lets me carry extra gear.
+GID00086755	I'll give you 75 caps to make sure Jed lets me carry extra gear.
+GID00086756	I'll give you 50 caps to make sure Jed lets me carry extra gear.
+GID00086757	Never mind, I don't want to spend caps on that right now.
+GID00086759	I don't think your Pip-Boy works. I'd better go tell Jed.
+GID00086760	I guess two Pip-Boys is better than one, anyway.
+GID00086762	Your Pip-Boy isn't working. The screen's locked up, and the reboot button is missing.
+GID00086763	Any chance you could show me some new ways to use my Pip-Boy?
+GID00086764	I'm convincing, you're not. He'll believe me.
+GID00086765	What I want is for you to scram. This expedition doesn't need you.
+GID00086766	Carry some of my gear, and I'll keep my mouth shut.
+GID00086767	Vow of secrecy? Fine, forget about it.
+GID00086768	PER check.
+GID00086769	You're lying. You have no idea where Vault 22 is.
+GID00086770	Sorry - didn't mean to be pushy.
+GID00086771	PER check.
+GID00086772	You're lying. You've never been to Vault 22.
+GID00086773	Sorry - didn't mean to be pushy.
+GID00086774	I've got your number, that's all. Just wanted you to know.
+GID00086775	Wait! There's no reason this has to end in bloodshed!
+GID00086776	Can't we just, you know, be friends?
+GID00086777	Time to die, General Gobbledegook!
+GID00086778	Your power is broken. You cannot hope to prevail here. Leave this valley in peace.
+GID00086779	You're right. We're going to kill you, but not like this. Defend yourself!
+GID00086780	I've already crushed your warriors. Retreat now and rebuild your tribe, or die in obscurity.
+GID00086781	Daniel and the Sorrows are weak prey, not fit for such mighty warriors.
+GID00086782	Then see how strong my spears are, warrior.
+GID00086783	Let's end this, then.
+GID00086784	Whatever. Joshua, put a cap in General Gobbledigook here.
+GID00086785	Whoa. This isn't what I signed up for. Let me talk to Joshua about this.
+GID00086786	Wait a minute, what if I don't want to do any of that?
+GID00086787	I have the sacred datura here.
+GID00086788	Not yet. I had some questions first.
+GID00086789	All right, let's do this.
+GID00086790	Not yet. I need a moment.
+GID00086791	It's done.
+GID00086792	Not yet. I had some questions first.
+GID00086793	Okay then. I guess I'll just... go then.
+GID00086794	What? I don't know what "visions of truth" means.
+GID00086795	Crazy old man. I'm not doing anything for you.
+GID00086796	(ask questions)
+GID00086798	Okay then... I guess... I guess I don't have any questions after all.
+GID00086799	I've already got the roots you need.
+GID00086800	Umm... tell me about this vision quest again?
+GID00086801	Who or what is the Ghost of She?
+GID00086802	Umm... Goodbye.
+GID00086803	What can I do to help?
+GID00086804	Wait, you think the survivalist is... God?
+GID00086805	That doesn't sound like what I've heard about the New Canaanites....
+GID00086806	I see. That's fascinating.
+GID00086807	Holy books?
+GID00086808	Have you known him long?
+GID00086809	Midwife? I haven't seen any children around.
+GID00086810	What do you do when you're not delivering babies?
+GID00086811	Safe? Where are they?
+GID00086812	I had other questions.
+GID00086813	I'm afraid so. Daniel kept it from you because he thought the grief would distract you.
+GID00086814	He was only doing what he thought was best for the tribe. It wasn't an easy choice for him.
+GID00086815	I agree. It was arrogant and cruel - not exactly the kind of thing a friend would do.
+GID00086816	You're right. Now, what are you going to do about it?
+GID00086817	Any advice on how to deal with the situation?
+GID00086818	So the totems are sacred to them somehow? Good to know.
+GID00086819	Okay then, let's get down there and take care of business.
+GID00086820	What should we do about it?
+GID00086821	These traps must have come from somewhere - I bet the White Legs who placed them are still around.
+GID00086822	Let's take care of it then.
+GID00086823	What do you propose?
+GID00086824	Big deal, I've killed worse.
+GID00086825	We'd better get to work then.
+GID00086826	I'll be sure to tell Daniel to bring some bear-monster-thing snacks, then.
+GID00086827	How would we do that?
+GID00086829	What are you talking about?
+GID00086830	I don't have time for your religious superstitions. It's just a cave, that's all.
+GID00086831	Holy wrath. Right. I'll keep an eye out for that. Bet it looks a lot like a bear trap.
+GID00086832	The Father in the Caves was just a man who lived a long time ago.
+GID00086833	I understand. I'll respect your beliefs, then, but we need to search the cave.
+GID00086834	Sounds good. Let's go.
+GID00086835	I prefer to travel alone, thanks.
+GID00086836	Let's talk about something else.
+GID00086837	Any idea what he wants?
+GID00086838	Any idea what he wants?
+GID00086839	Okay, I'll talk to him.
+GID00086840	Okay, I'll talk to him.
+GID00086841	Maybe later, if there's time.
+GID00086842	Maybe later, if there's time.
+GID00086843	I could talk to him, maybe he'll open up more to me.
+GID00086855	No, I've changed my mind.
+GID00086856	Yes, I'm sure.
+GID00086857	I want you to travel with me.
+GID00086858	Let's go.
+GID00086860	I want you to change your combat style.
+GID00086861	I want you to attack enemies the moment you see them.
+GID00086862	That's it for your tactics. Let's talk about something else.
+GID00086863	That's all. Let's get going.
+GID00086864	Switch to a melee weapon.
+GID00086865	I don't want you to attack enemies unless I've already engaged them.
+GID00086866	I want you to use ranged weapons.
+GID00086867	Let's talk about how close you're following me.
+GID00086868	Stay close to me.
+GID00086869	Your distance is good. Let's talk about something else.
+GID00086870	You're good. Let's get going.
+GID00086871	Spread out and keep your distance from me.
+GID00086872	Enough about tactics. Let's talk about something else.
+GID00086873	That's all. Let's get going.
+GID00086874	Wait here.
+GID00086932	Umm... what?
+GID00086933	Am I... looking for Joshua? Yes, I am. Can you tell me where he is?
+GID00086934	If you're too dumb to speak my language, you're too dumb to talk to me. Get lost.
+GID00086935	Yes, I'm looking for him. Is he here?
+GID00086936	I'll make sure to be on my best behavior, then.
+GID00086937	Umm... okay. Thanks for that. I sure would hate to be shown thunder and fire.
+GID00086938	Back off, savage - I'm just here for a map out of this shithole valley, not kowtow to your messiah.
+GID00086939	I'm sorry, I don't understand you.
+GID00086940	No, I smash White Legs alone. You stay here so you not get dead.
+GID00086941	Just get out of here, you're no match for hardened White Leg warriors.
+GID00086942	Fine, but at least let me handle it alone. You're no match for hardened White Leg warriors.
+GID00086943	Sure, whatever. We go smash White Legs.
+GID00086944	Just wait here a few minutes. Don't do anything crazy.
+GID00086992	I want you to attack enemies the moment you see them.
+GID00086993	I want you not to attack enemies unless I've already engaged them.
+GID00086994	On second thought, stick with me for a little longer.
+GID00086995	Yes, I'm sure.
+GID00087000	I think we should travel together.
+GID00087001	I want you to travel with me.
+GID00087002	I want you to travel with me.
+GID00087003	Let's talk about your tactics.
+GID00087004	I want you to change your combat style.
+GID00087005	Let's talk about something else.
+GID00087006	That's it for your tactics. Let's talk about something else.
+GID00087007	That's it for your tactics. Let's talk about something else.
+GID00087008	That's it for your tactics. Let's talk about something else.
+GID00087009	That's all. Let's get going.
+GID00087010	Switch to a melee weapon.
+GID00087011	I want you to use ranged weapons.
+GID00087012	Let's talk about how close you're following me.
+GID00087013	Stick close to me.
+GID00087014	Stay close to me.
+GID00087015	Your distance is good. Let's talk about something else.
+GID00087016	All right, you're good. Let's get out of here.
+GID00087017	Keep your distance. Try to flank them.
+GID00087018	Enough about tactics.
+GID00087050	I need some medical assistance. Can you help?
+GID00087051	Go back to your people's camp.
+GID00087052	Pray? God? What are you talking about?
+GID00087053	I want to trade equipment.
+GID00087054	Nice guns.
+GID00087055	Let's talk about your tactics.
+GID00087056	Do you run the show around here?
+GID00087057	What's going on with all of these... tribes?
+GID00087058	Let's trade equipment.
+GID00087059	Do you have anything to trade?
+GID00087060	Goodbye.
+GID00087061	Goodbye.
+GID00087062	I have some gear that needs repairs.
+GID00087063	It's time for us to part ways.
+GID00087064	Go back to your people's camp.
+GID00087065	Go back to your people's camp.
+GID00087066	Can I ask you some personal questions?
+GID00087067	That's all for now, but I'll be back.
+GID00087068	Let's talk more later.
+GID00087069	Nothing else. Talk to you later.
+GID00087070	Goodbye.
+GID00087071	That's all I wanted to know for now.

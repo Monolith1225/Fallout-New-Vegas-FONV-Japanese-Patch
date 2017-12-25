@@ -1,0 +1,8 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc02_ammo_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00084187	.45ŒûŒaƒX[ƒp[’eEHand Load
+GID00084188	.45ŒûŒa©“®Œe’e +P’e
+GID00084189	.45ŒûŒa©“®Œe ƒzƒ[ƒ|ƒCƒ“ƒg’e
+GID00084190	.45ŒûŒa©“®Œe’e

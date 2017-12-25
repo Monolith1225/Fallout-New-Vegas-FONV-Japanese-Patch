@@ -1,0 +1,1125 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc04_dialogue_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00094411	<Confused beeping>
+GID00094412	[FAILED] <Worried beeping>
+GID00094413	[SUCCEEDED] <Happy beeping>
+GID00094414	[SUCCEEDED] <Happy beeping>
+GID00094415	[FAILED] <Happy beeping>
+GID00094416	[SUCCEEDED] <Happy beeping>
+GID00094417	[FAILED] <Happy beeping>
+GID00094418	<Expository beeping>
+GID00094419	<Expository beeping>
+GID00094420	<Happy beeping>
+GID00094421	[SUCCEEDED] <Happy beeping>
+GID00094422	[FAILED] <Confused beeping>
+GID00094423	[SUCCEEDED] <Happy beeping>
+GID00094424	[FAILED] <Confused beeping>
+GID00094425	<Happy beeping>
+GID00094426	Mayday, mayday, mayday! This is NCR Trooper Gleeson calling anyone listening on this channel.
+GID00094427	My platoon has been wiped out, and I am pinned down by a goddamn huge Deathclaw in a place called the Divide!
+GID00094428	So far I've been able to scare it away with flares, but I lack any explosives to kill the damn thing! Please assist! I say again, please assist!
+GID00094429	Mayday, mayday, mayday! This is NCR Trooper Gleeson calling anyone listening on this channel.
+GID00094430	<Happy beeping>
+GID00094431	[SUCCEEDED] <Happy beeping>
+GID00094432	[FAILED] <Confused beeping>
+GID00094433	[SUCCEEDED] <Happy beeping>
+GID00094434	[FAILED] <Confused beeping>
+GID00094435	<Happy beeping>
+GID00094436	<Happy beeping>
+GID00094437	<Confirmatory beeping>
+GID00094438	<Confirmatory beeping>
+GID00094439	<Inquisitive beeping>
+GID00094440	[SUCCEEDED] No... no, I couldn't. And I'm thinking you can't kill me, either. If you did, you'd answer for it, just as I would.
+GID00094441	Let the land do the killing for you, that's one of the things you taught me.
+GID00094442	Killing is personal - so's vows, promises. Last bit's more important to me than the first.
+GID00094443	[FAILED] Talking... words won't settle this. The Road will. And the end.
+GID00094444	A question one could have asked you not long ago, before walking the road West into the storms.
+GID00094445	Need to be here, see what was done. It's custom of the Bear to never see the marks it claws in the land... not my custom.
+GID00094446	Maybe that's why you've come, too - need to see where the missile from Ashton touched ground down below, in Hopeville... the Courier's Mile.
+GID00094447	Need to be here, see what was done. In the Divide, in Hopeville... the Courier's Mile.
+GID00094448	No, opposite of that. It's where my tribe was taken. Where another history was put to the blade, lesson taught.
+GID00094449	It is where we realized Vulpes did not approach us as equals. Where we realized the wolf had come, and we watched our history die.
+GID00094450	Now it belongs to Legion... and all the death there now belongs to them as well. Not revenge... just the way of things when you own them.
+GID00094451	No damage done, not yet. Maybe in years. Keeps the Bear fenced... if Caesar can't drive it back, fire might.
+GID00094452	Only delays the end for the Bull, a new wall for them to scale and cross... once they're done with the Mojave. And Hoover Dam.
+GID00094453	Never again do you or any other courier and caravan need walk that route. Let the Mojave breathe without that asphalt scar raking it.
+GID00094454	Name's died twice to history. If the West thanks you... the East won't, in time. Fall apart, back to the tribes, maybe.
+GID00094455	Name's died twice to history. If the West thanks you... the East won't, in time. Fall apart, back to the tribes, maybe.
+GID00094456	Let's see what gifts the Mojave has for us.
+GID00094457	Let's make something new from the old.
+GID00094458	Not a camp - vigil, maybe. Never claimed it as mine. If anyone owns the Divide... your claim is stronger than mine.
+GID00094459	Don't feel like adding a campfire to the ones that already burn below. If you brought Mojave gifts, might be able to shape something for the road.
+GID00094460	Depends what history has to say about them. There's a lot the land can provide... if you know the road that led to it.
+GID00094461	Mojave's got ways of healing most ills - if not, some tribe's usually found a way you didn't expect.
+GID00094462	Like Healing Powders. Tribes back West only use Xander and Broc flower. There's a way the Twin Mothers in the East used to brew it, though.
+GID00094463	Called it Bitter Drink, mixed up the Xander and Broc in a bottle, added some kick to it so your head doesn't get all clouded.
+GID00094464	Antivenom's helpful around the Mojave with the Bark Scorpions. Even one sting can kill you. Tunneler bite can be just as bad.
+GID00094465	My tribe, Twisted Hairs, had a better way than Antivenom, if you act fast.
+GID00094466	Snakebite Tourniquet - cuts off the venom, no need to scavenge glands and blood. Or drink that mess.
+GID00094467	Part of the reason we wore our hair like we did, like I do now.
+GID00094468	Here's some for the road - trick to making it's not hard. Get bit, hook and twist it. Fast as blinking, doesn't give poison time to sink in.
+GID00094469	Nothing more than I've already shared. We'll have to keep with what we know. Tired of history's lessons, anyway.
+GID00094470	Didn't think I'd be breathing to hear you say that. Message isn't important, meaning is.
+GID00094471	Had to speak of it, in case the words got lost in paper, ink, or other's voices. Maybe even yours, in time.
+GID00094472	Still, meant for you. Courier to Courier. Belongs to you now, or history. Doesn't matter.
+GID00094473	House spoke, acted through machines. Sometimes can judge a man by his messengers. Sometimes the messengers judge him.
+GID00094474	Wonder what happens to Vegas now. The tribes - families. We'll see.
+GID00094475	<Confirmatory beeping>
+GID00094476	Nothing but wind, sand... ash. More may reveal itself in time, not now.
+GID00094477	If you're determined, return, might be something new surfaces.
+GID00094478	Wind and blood has uncovered more beneath the soil.
+GID00094479	If you want these Old World relics, they're yours... better you carry them than the Marked Men.
+GID00094480	Walk there sometimes, keep the walks short. Still... it's important to see. Something else to answer for.
+GID00094481	Occasionally sift through the dust, the buildings... see if I can find some history. Marks of America.
+GID00094482	If you want them, keep them... you've earned it. Nothing to be gained by me holding them, and more will surface in time.
+GID00094483	[SUCCEEDED] Words aren't the only way couriers meet... sometimes it's the paths we walk. But no... we've never spoken before now.
+GID00094484	[FAILED] I know you. What we have in common, though, isn't in the words we traded.
+GID00094485	<Happy beeping>
+GID00094486	Careful, Tommy - I've never seen a robot like that before. It might be dangerous.
+GID00094487	I don't know, son... what if someone comes looking for it?
+GID00094488	All right, boy. But if he breaks anything, it's coming out of your allowance!
+GID00094489	<Evasive beeping>
+GID00094490	<Apologetic beeping>
+GID00094491	<Expository beeping>
+GID00094492	<Expository beeping>
+GID00094493	<Happy beeping>
+GID00094494	<Happy beeping>
+GID00094495	<Happy beeping>
+GID00094496	<Happy beeping>
+GID00094497	<Happy beeping>
+GID00094498	<Sad beeping>
+GID00094499	<Angry beeping>
+GID00094500	<Sad beeping>
+GID00094501	<Lonely beeping>
+GID00094502	<Evasive beeping>
+GID00094503	<Satisfied beeping>
+GID00094504	<Embarassed beeping>
+GID00094505	<Happy beeping>
+GID00094506	<Sly beeping>
+GID00094507	<Happy beeping>
+GID00094508	[SUCCEEDED] <Scared beeping>
+GID00094509	[FAILED] <Expository beeping>
+GID00094510	<Sad beeping>
+GID00094511	<Happy beeping>
+GID00094512	<Pained beeping>
+GID00094513	<Scared beeping>
+GID00094514	<Scared beeping>
+GID00094515	<Happy beeping>
+GID00094516	<Happy beeping>
+GID00094517	<Wistful beeping>
+GID00094518	<Happy beeping>
+GID00094519	<Confirmatory beeping>
+GID00094520	<Sad beeping>
+GID00094521	<Proud beeping>
+GID00094522	<Sad beeping>
+GID00094523	<Happy beeping>
+GID00094524	<Reassuring beeping>
+GID00094525	<Coy beeping>
+GID00094526	<Proud beeping>
+GID00094527	<Sad beeping>
+GID00094528	<Sad beeping>
+GID00094529	<Happy beeping>
+GID00094530	<Scared beeping>
+GID00094531	<Happy beeping>
+GID00094532	<Sad beeping>
+GID00094533	[SUCCEEDED] <Happy beeping>
+GID00094534	[FAILED] <Sad beeping>
+GID00094535	<Proud beeping>
+GID00094536	<Determined beeping>
+GID00094537	<Happy beeping>
+GID00094538	<Happy beeping>
+GID00094539	<Expository beeping>
+GID00094540	<Sad beeping>
+GID00094541	<Negatory beeping>
+GID00094542	<Confirmatory beeping>
+GID00094543	<Determined beeping>
+GID00094544	<Resigned beeping>
+GID00094545	<Dramatic music>
+GID00094546	ED-E? What are you doing in here all alone? And who left these old videos playing? Come on, let's get you into your recharge bay.
+GID00094547	We've got a big day tomorrow.
+GID00094548	<Explanatory beeping>
+GID00094549	<Declarative beeping>
+GID00094550	[SUCCEEDED] <Confirmatory beeping>
+GID00094551	[FAILED] <Negatory beeping>
+GID00094552	<Happy beeping>
+GID00094553	<Happy beeping>
+GID00094554	<Pained beeping>
+GID00094555	<Happy beeping>
+GID00094556	<Happy beeping>
+GID00094557	<Wistful beeping>
+GID00094558	<Wistful beeping>
+GID00094559	<Sad beeping>
+GID00094560	You may not know my voice, but we've walked the same places. The Long 15 to Primm... that wasn't the only road you ever walked.
+GID00094561	I've been to your home, the place you kept returning to... may not be the place you were born, was the place you gave life to, same thing.
+GID00094562	People forget couriers can keep communities alive... until the day they're gone, and their breath catches in their throat.
+GID00094563	For now, eyes alert, watch the streets below. There's still life in the Divide - threats other than the storms and wind... new inhabitants.
+GID00094564	RALPHIE, hurry! If mean old General Winters catches you, you'll never make it home!
+GID00094565	No! RALPHIE, fly far! Fly fast!
+GID00094566	<Hopeful beeping>
+GID00094567	<Frightened beeping>
+GID00094568	<Happy beeping>
+GID00094569	<Wistful beeping>
+GID00094570	<Determined beeping>
+GID00094571	<Happy beeping>
+GID00094572	<Ecstatic beeping>
+GID00094573	<Hopeful beeping>
+GID00094574	<Happy beeping>
+GID00094575	<Melancholy beeping>
+GID00094576	<Apologetic beeping>
+GID00094577	<Confirmatory beeping>
+GID00094578	[SUCCEEDED] <Sad beeping>
+GID00094579	[FAILED] <Worried beeping>
+GID00094580	<Determined beeping>
+GID00094581	<Sad beeping>
+GID00094582	<Happy beeping>
+GID00094583	<Confused beeping>
+GID00094584	<Worried beeping>
+GID00094585	<Sad beeping>
+GID00094586	<Apologetic beeping>
+GID00094587	Heard tales of you walking the Mojave. Casting off your disguise... yet you carried that Chip, determined to take it to Vegas... not Caesar.
+GID00094588	You and that Chip deserve each other, 29 fewer coins than other traitors have carried, by history's mark.
+GID00094589	For now - find the trigger for the warheads, buried in Hopeville. Use it to keep moving... and keep alive.
+GID00094590	They'll start emerging throughout the Mojave in time, might be years. Probably less.
+GID00094591	They breed fast, hunt in groups, more than enough to bring down the strongest in the Mojave. Once they draw blood...
+GID00094592	Seen them tear apart Deathclaws... Deathclaw might get some, but the rest will swarm it, tear it apart, like Denver hounds.
+GID00094593	Walked the East, too, before the Bull came. Then... much like the Mojave before the Bear... tribes, towns, clutching to life. Bull did a better job.
+GID00094594	[SUCCEEDED] <Pleased beeping>
+GID00094595	[FAILED] <Confused beeping>
+GID00094596	I'm a courier. Courier Six... was Courier Six. Like you - and not like you, in all the ways that matter.
+GID00094597	Spent too many years looking for you - now, letting you come to me.
+GID00094598	Thought carrying that Chip would end you, no... you got lives in you, hard to kill. Storms, bullets... sand and wind, yet still you walk. For now.
+GID00094599	The idea of a machine bearing a message new to you? Thought that was how House relayed all his messages... through his robots.
+GID00094600	The machine... the robot. No, not Legion... less history than that.
+GID00094601	The robot with you... all of them are machines - radios, Old World tech reshaped with new hands. Historians. Couriers, carrying messages.
+GID00094602	Seen them as I've walked the Divide, tending other machines. That one... sealed inside the Hopeville silo. Sign America is waking up.
+GID00094603	It will follow you, obey you. Carry it until we are face to face, then there'll be no more need for it to carry my words.
+GID00094604	[SUCCEEDED] America sleeps in the Divide - giants, beneath the earth. You saw one locked in the silo beneath you. There's more.
+GID00094605	Only takes a few of them, locked below ground, to tear apart the earth... and cast dust, sand... ash... into the skies above.
+GID00094606	[FAILED] Wasn't always like this. Old World wreckage's nothing new... after that, something you had your hand in - you'll walk it soon enough.
+GID00094607	The Divide... this place is a slice of it. Old military. Can still smell the pride - and the fear.
+GID00094608	Hope of the Old World, wrapped in fencing, covered in storm. Got new inhabitants now other than ghosts, more recent... recruits.
+GID00094609	If you saw their corpses, you saw mercy. Got what they deserved, coming to the Divide.
+GID00094610	The Bear and Bull - NCR, Legion - came in waves. Before. And after. Right into the invisible fires... the wind, ground... collapsing beneath them.
+GID00094611	Once under different flags, now they are equal in their hatred of the trespassers. You and I.
+GID00094612	America sleeps ahead of you, its nightmares filled with quakes, storms. You'll need to find your own path.
+GID00094613	That means waking America's spears up from their slumber. There's ways - warheads set off the collapse, warheads could open the gates again.
+GID00094614	You're resourceful. That machine, robot with you - can help you find the warheads you need to destroy... and their trigger, the detonator.
+GID00094615	The way ahead is below. The tools are there. The rest - up to you.
+GID00094616	Tunnelers. Predators that make their own roads beneath the ground here.
+GID00094617	Divide broke their sky, showed them the world above - and the scent of new prey.
+GID00094618	Be a slower death for the Mojave than bombs and fire... but they'll come for its people, from where they least expect - below.
+GID00094619	No Courier would go to the Divide... but you will. And that's what sets us apart - we walk roads no other Courier will walk.
+GID00094620	And for you... you'll want to see your home one last time, see what happened.
+GID00094621	You're curious. You walk, leave ruin in your path... you can't leave alone. Still, the choice is yours... what I offer, it's the last I offer you.
+GID00094622	I don't care if you walk the Divide. Turn, walk the Mojave, fight beneath the flags... but you'll wonder.
+GID00094623	If you don't, the Divide will come to you, and the Mojave. That will be my message to you, like the message you had for me.
+GID00094624	The Divide will send its worst against you - it may break you. We'll see if you're stronger.
+GID00094625	Road gets rougher from here... Courier. Left marks for you, colors'll tell the way - if you're smart.
+GID00094626	They'll lead you to your home one more time, lead to the ending of it - maybe remind you why you wander.
+GID00094627	You haven't seen enough of the Legion yet to see what they worship... what they hold on to, even after what happened to them.
+GID00094628	They bear false versions of Legate Lanius' mask, the one Caesar fashioned for him. Thought it was an insult at first.... know better now.
+GID00094629	It's shaped from Divide metal, not with care and strength, but with hate. Keeps them anchored.
+GID00094630	Crude, effective - like the blades they carry, distant mirrors of their Legate. A symbol they can hold on to - while the Divide tears at them.
+GID00094631	You see true. Not scavengers... it's what they wore before this all happened.
+GID00094632	Pain makes for strange allies... the hate the Bear and Bull shared across the battlefield, now turned against the Divide. Few survived... intact.
+GID00094633	Many NCR were already here when the destruction happened. Keeping the route East open, in fear of Caesar. Fear of the Legion.
+GID00094634	At the end of the High Road lies Ashton - its silo.
+GID00094635	That machine with you, it can open it, wake it up, like it did the one in Hopeville.
+GID00094636	[SUCCEEDED] Death'll come from below. In the Divide, need to watch the sky and ground... Mojave'll be easy prey for them.
+GID00094637	[FAILED] Mojave needs to survive itself first... does that, Tunnelers will be next on the list.
+GID00094638	[SUCCEEDED] Maybe not. Who's to say.
+GID00094639	You, perhaps. Found them, heard them after I cast them aside - maybe there was purpose in that.
+GID00094640	If they matter... if history matters... we'll see at the end of the road.
+GID00094641	[FAILED] Words lost to history. Wouldn't have left them on the road otherwise.
+GID00094642	I know that now. Doesn't change what was done. The Legion who died here.
+GID00094643	Even if you were Legion, you would answer for those deaths by Caesar's law.
+GID00094644	As I said before... it's of no consequence. Never intended you to find them, never intended you to hear them.
+GID00094645	Questions in those tapes I still haven't found answers to. You won't be the one to give them.
+GID00094646	Should've died there... but now that I know you live... the machines here... saved me. I was the only survivor, or thought I was.
+GID00094647	Your package, the message inside, awoke medical machines... close to the one that shadows you... began to build themselves, then others.
+GID00094648	They only take what parts they find in the Divide, never roam beyond it - can't even leave the silos without a human to shadow, like hounds.
+GID00094649	Maybe they saw the flag on my jacket, thought I was of America. If so, history saved me. A sign.
+GID00094650	At the end of the Divide, through the trenches and wreckage - that's where you'll find me. My new home, here, amongst dead men.
+GID00094651	You and that machine, keep your eyes on the tower that cuts the horizon... you'll find your way. Made it this far... not much farther to go.
+GID00094652	You delivered a package. Had markings that matched those in the Divide. Not all... but enough.
+GID00094653	Military markings, from some place the Bear had savaged in the West. Maybe seeing those markings on it reminded you of home... made you carry it.
+GID00094654	An ending. To this road, you and I. First, you need to find your way. At the end, I'll be waiting.
+GID00094655	These new inhabitants... not natives... most of them. Came with duty, purpose... ready to kill each other. The Divide was stronger.
+GID00094656	Left marks on them, too. Not Bear, not Bull - now... radiation's marked them, made them equal in history's eyes.
+GID00094657	As vicious as the storms are, these shadows of Legion, of NCR - silhouettes of things to come.
+GID00094658	Might have been. Once. To the Divide they came... in the Divide, they rest.
+GID00094659	Might have been. Once. To the Divide they came... in the Divide, they rest.
+GID00094660	Meant to? No. Never. Your burden.
+GID00094661	Weigh you down long enough to let death catch up to you... but you survived.
+GID00094662	There was death in that package, and while the Chip is important to Old World ghosts... no, you are more dangerous than that Chip ever could be.
+GID00094663	Maybe why you found each other, little piece of the Old World, speaking to you, waiting for you to wake something else up with it.
+GID00094664	We all have death following us, only a question of how close. You dodged it - for a time. You're good at that, talent for it.
+GID00094665	With that Chip weighing you down... a burden, lets death move a little faster without me pulling the trigger.
+GID00094666	Promises to keep. To others. And the Mojave's dangerous enough - left to the land, the land has its way.
+GID00094667	If I wanted you dead, we would have met sooner. Not sure that's the way this ends.
+GID00094668	Might be that history needs to have its say. If not, then messages will do.
+GID00094669	Even as the fires here burned them from within... the winds of the Divide tore their skin, exposed them... screaming... to the sky.
+GID00094670	And just as the Divide tears at them, so they tear at each other, for sport - like some tribal scarification. Falling back to their history, maybe.
+GID00094671	No matter what they suffer... the radiation, fire of the Divide, sustains them. Makes them stronger.
+GID00094672	[SUCCEEDED] There's truth in your words, in what I've seen of their tactics, movements - recovery. Those wounds - they couldn't live otherwise.
+GID00094673	The Divide winds have torn the skin from many of them - may be the radiation is the only thing keeping them walking.
+GID00094674	Make camp near silos... warheads. No way to cleanse the radiation - makes them hard to kill there, have to draw them out.
+GID00094675	[FAILED] They're more beasts than men now. They clutch at their pain as they clutch at their weapons... anchors them.
+GID00094676	[SUCCEEDED] There's truth in your words, in what I've seen of their tactics, movements - recovery. Those wounds - they couldn't live otherwise.
+GID00094677	The Divide winds have torn the skin from many of them - may be the radiation is the only thing keeping them walking.
+GID00094678	Make camp near silos... warheads. No way to cleanse the radiation - makes them hard to kill there, have to draw them out.
+GID00094679	[FAILED] They're more beasts than men now. They clutch at their pain as they clutch at their weapons... anchors them.
+GID00094680	[SUCCEEDED] America sleeps in the Divide - giants, beneath the earth. You saw one locked in the silo beneath you. There's more.
+GID00094681	Only takes a few of them, locked below ground, to tear apart the earth... and cast dust, sand... ash... into the skies above.
+GID00094682	You'll see the extent - the miles of it, soon enough. You need to see it... walk it.
+GID00094683	[FAILED] Wasn't always like this. Old World wreckage's nothing new... after that, something you had your hand in - you'll walk it soon enough.
+GID00094684	For the two-headed Bear... NCR... they don't have symbols in the same way Legion does.
+GID00094685	They revere their mines and explosives, guns... that is their religion - death from afar, take pride in it.
+GID00094686	Not my given name, close enough.
+GID00094687	Took it from history, found it in a book. It's an Old World name.
+GID00094688	Ulysses lived a long time ago, long before the Old World set fire to itself. He made a mark without being myth.
+GID00094689	Had to fight during a time when his world had two flags, and he had to make them one.
+GID00094690	[SUCCEEDED] History. Yes.
+GID00094691	Ulysses walked a hard road. A general, like Caesar and Oliver. He was Brahmin-stubborn, gave him strength on the battlefield.
+GID00094692	He led his side to victory, turned two flags into one. That's when he lost - when the fighting was done, the sickness took hold.
+GID00094693	Lesson there, if history's to be believed. One you should heed.
+GID00094694	[FAILED] Search history, might find meaning in it.
+GID00094695	It's just a name - you have no idea who I am. You'll know by the end.
+GID00094696	[SUCCEEDED] War. Call it that. Our part in it.
+GID00094697	Ulysses wasn't made for the flag he followed. He wasn't made for peace. That's the lesson.
+GID00094698	If you follow a symbol to the end, ask yourself what that means. More important, ask what happens after the end.
+GID00094699	[FAILED] Fighting? Yes... but different weapons than you're used to.
+GID00094700	You're wasting time. Stalling. Won't help you.
+GID00094701	What kind of world would this be if Courier killed Courier.
+GID00094702	You've got enough distance ahead of you - save your breath for the road, don't waste it on words.
+GID00094703	All right... Courier. If the why of it matters to you.
+GID00094704	I hold Legion to be my brothers... even as misguided as they are. And you... more so than most.
+GID00094705	It's not Legion - the Legion I know, but they change, even in small ways as they march West, with every tribe they break.
+GID00094706	But yes... last I heard, you needed a weapon between your legs to carry one for Caesar.
+GID00094707	What do you m... I see the way of it. Have fight in you, at least. Save it for the road ahead.
+GID00094708	Power isn't strength. Power can wall off someone, when they believe it's freed them.
+GID00094709	House's power... you've seen the wall around Vegas. He gains more power, that wall will grow. The Mojave'll become Vegas.
+GID00094710	But it's more lights than strength. You'll see the way of it soon enough.
+GID00094711	No... not new. And not new among all those in the shadow of the Bear.
+GID00094712	You know their flag, a bear with two heads. Symbol's an Old World one, had one head then, better off for it.
+GID00094713	Their flag speaks to their spirit. They're split like any two-headed animal, trying to go in different directions, ending up nowhere.
+GID00094714	In the Mojave, that'll only get you sand between your fingers - or over your grave.
+GID00094715	Yes. And any Courier could tell you the same, see it everywhere. The Bear...
+GID00094716	...Bear's too busy carving up the Mojave with knives, roads, borders, and how things should be to see how it is.
+GID00094717	They're stretched thin, can't protect their frontlines, their towns, think paper's power, radio means control - all of it, useless.
+GID00094718	Trying doesn't hold much weight with me. Legion doesn't try to kill people, they do it. The Bear kills people trying to protect them.
+GID00094719	Irony's sharp. And Legion... their flag may be old, but it's not at war with itself.
+GID00094720	No matter now. Bear couldn't hold the Divide.
+GID00094721	You and that machine, are all that remains of NCR here... rest fell to radiation, fire... and what burrows below.
+GID00094722	Maybe that's why you chose Vegas... the lights can blind, make people forget themselves. Their convictions - vows.
+GID00094723	Not going to waste time trying to make the blind see. Took a chance coming here - same as I did. Now we'll see how it plays out.
+GID00094725	Not going to convince a deaf man with words. Shown strength coming in here - if strength's what you respect, then you belong East of the Colorado.
+GID00094726	Your future with House has two roads. The road the tribals in Vegas walked... their spirits crushed...
+GID00094727	...or your face on a robot servant, smiling forever in a dead casino. There's future in neither.
+GID00094728	Vegas is Old World, filled with Old World ghosts. And ghosts need the living to do their work.
+GID00094729	That's why the families are there, why the Bear stumbles there to lose itself. It's a dance, I don't know its purpose.
+GID00094730	You've been, you've seen the Wall. It's what's inside that worries me.
+GID00094731	That's the wrong word. "Theater" is better - the families, the Bear all on a stage.
+GID00094732	House. He's the one watching. The why... you'd know better than I would. If you don't - you will.
+GID00094733	You've been, you've seen the Wall. Safe? No... what's inside - that's what worries me.
+GID00094734	Inside, Old World's waking up. No facts or history I've heard tells me that city ever went to sleep, and that makes me think.
+GID00094735	The blue of the Mojave skies - isn't like the rest of the world. Don't hear a Geiger ticking there, more to fear from predators than rads.
+GID00094736	The city - the whole Mojave, wasn't hit by bombs. Been my call, Vegas would be one of the first pieces of the Old World to burn.
+GID00094737	Someone protected it. Wasn't chance, wasn't luck. Something larger - yet they let the rest of the world suffer. And they'll do it again.
+GID00094738	Families of Vegas were once tribes. Got drunk on the Vegas lights, the spirit bled out of them. Old World history, under a different flag.
+GID00094739	Whatever traditions or rituals they had, most likely squeezed out of them by now, turned into something else.
+GID00094740	And if not, then I'm afraid what's going to happen when they come creeping back.
+GID00094741	Believe that. Vegas runs, I've seen what it's done to those who oppose it. And I've seen its messengers.
+GID00094742	No... only seen his works. Those he's broken with light and gold. His messengers.
+GID00094743	But everything in Vegas speaks of someone who can't let go.
+GID00094744	House takes a shovel to history's graves, props up the dead, then puts words in their mouths. The tribes don't even know how they were broken.
+GID00094745	Not a world I want to be part of, going through motions until we're all smiling faces on some robot's screen.
+GID00094746	The High Road... not the Divide yet, many more miles to walk. But you got this far. You and that machine that shadows you.
+GID00094747	Wasn't sure if both of you'd make it - above, then below the underpass.
+GID00094748	[SUCCEEDED] "Who are you, who do not know your history?"
+GID00094749	You came all this way for answers. Only currency I have, nothing else to be gained - could turn around, walk away at any time.
+GID00094750	If history matters to you... you'll need to earn it. Any logs of mine I have already cast away in the Divide, they're lost to you.
+GID00094751	[FAILED] You want to know more, keep walking.
+GID00094752	I'll give answers as you go. Not before.
+GID00094753	Mojave and the Divide aren't the only places I've walked.
+GID00094754	[SUCCEEDED] Mojave and the Divide aren't the only places I've walked.
+GID00094755	[FAILED] Another city fallen to nations, in the east... not important. Doubt you'll ever walk that far, you'd need the land to sustain you.
+GID00094756	[SUCCEEDED] Makes sense. Truth favors that, matches the history of this place.
+GID00094757	Were signs they were here for a long time, before Marked Men, before what happened to the Divide cracked their sky.
+GID00094758	If so, they were buried deep. Might have been born the day America's embers started to settle. Seen worse things twisted by radiation.
+GID00094759	[FAILED] Don't know the history of them - only their patterns, how they hunt.
+GID00094760	Still, takes a long time for such patterns to develop. A longer history than what happened here.
+GID00094761	Home isn't where you're born into this world. You taught me that. Part of your message, whether you meant it or not.
+GID00094762	Can be a place of mind, a moment where you know who you are, the history of it. And they can be places you breathe life into.
+GID00094763	Never would have known the Divide had it not been for you. The road you made with your tracks, again and again.
+GID00094764	You were the only one willing to make the journey to and from here... a hard road. Kept the land before the Divide alive through seasons, storms...
+GID00094765	...can't have been just a job. Was something more to you. Don't feel for a place that hard unless it's home.
+GID00094766	Want to hear the answer of it. Not just history's answer... your answer for what happened here.
+GID00094767	It means everything - even if you deny it, cast it aside, that speaks to what you are, proves what happened here.
+GID00094768	And you've forgotten. Forgotten everything. Careless, as careless with futures then as you are now in the Mojave.
+GID00094769	Wrong? No, I know the truth of it.
+GID00094770	It was you walking that road that kept the Divide alive. It grew from what you did. Settlers... camps... filling that Old World city.
+GID00094771	Chance for a new nation, new beginning. New way of thinking.
+GID00094772	Could've breathed new life into the Mojave, bridging East, West. Like Hoover Dam... but not Old World, something you made. Road was a supply line.
+GID00094773	No, recounting history.
+GID00094774	Not any more. If one existed, the two-headed Bear would have claimed it. And it tried to.
+GID00094775	NCR saw the worth in that road you made. Staked a claim, whether it was wanted there or not - true elsewhere in the Mojave.
+GID00094776	And where the Bear tries to cling to life, the Legion comes... bearing messages. Some brought by blade. Others... by Couriers.
+GID00094777	You knew what was coming, as sure as I know what's coming for you.
+GID00094778	This time you carry the burden. Walk west into the sun, and keep walking until it dies. There - I'll be waiting.
+GID00094779	Mojave and the Divide aren't the only places I've walked.
+GID00094780	It was a device, a detonator. One I'd never seen before - or heard before.
+GID00094781	You carried that thing to the Divide. I know because I followed you as you walked the road, watched you do it.
+GID00094782	You brought it here, to the community you built. And you are responsible for what happened after - when the device opened, started to speak.
+GID00094783	When it did, the Divide answered back. Those missiles you've seen, buried in their silos.
+GID00094784	They exploded beneath the ground, cracked the landscape. Sand, ash... the dead... the Divide skies became a graveyard.
+GID00094785	It was from the West. From deep in NCR. Whether made by them or not... it came here. Through your hands.
+GID00094786	All these roads, you walked. These packages you carried. Think it wasn't your choice?
+GID00094787	Of course it was your choice. You could have stayed in the Mojave. But you chose to come, couldn't let be - not in you to let go.
+GID00094788	Came for no other reason than you were curious, restless - always have been. Had to know the why of it - now, I'll show you.
+GID00094789	If you had been there when it happened. If you had seen the Divide break, you would know it.
+GID00094790	You carry death wherever you go - if the Mojave doesn't know it yet, it will.
+GID00094791	No... I'm certain. What I hadn't known was that you still lived after the Divide.
+GID00094792	You will. I'll show the Mojave, Bear and Bull the way of it. How Couriers can break nations.
+GID00094793	What happened here... can happen again. You've already proved it, what you did in Ashton. The silo there.
+GID00094794	Didn't stop you, though. Like carrying the Chip to Vegas, Old World death in your hand.
+GID00094795	Pieces of the Old World like that just need someone careless enough to take them where they need to go, to do their killing.
+GID00094796	No, you are. Cut off your retreat, your supply line. Ashton missile, turned Hopeville into a furnace.
+GID00094797	You could walk back. Still can - but the Divide will mark you, sickness will set in.
+GID00094798	Not immediate, maybe, but in time. Slow burn, a little faster than before.
+GID00094799	The way ahead and below - leads to the heart of the Divide.
+GID00094800	And there... you and I, we'll have an ending to things.
+GID00094801	Spent years looking for you. If you head back to the Mojave, it's like nothing's changed. Can live with that. Had to.
+GID00094802	Wasn't sure if history would matter to you. If it doesn't, that answers my question.
+GID00094803	If you turn your back on your home, so be it. I'll remain here in the Divide for you to return. And you will.
+GID00094804	Your road's not done. Haven't walked it full yet, not nearly enough.
+GID00094805	The two-headed Bear made its claim, dug its claws into the trail you made. For once, it seemed like it might succeed - cut a route to the Mojave.
+GID00094806	Couldn't let NCR stay in the Divide. Trade route, road the military could use... can't have two roads into the Mojave.
+GID00094807	Not after the work we'd done to cut off New Canaan, other routes, killing caravans... all we'd done to make the West bleed.
+GID00094808	Already heard you once, long ago and loud enough for history to hear. Tired of your messages.
+GID00094809	Still - curiosity drove you this far. Let's see what else it can do.
+GID00094810	Caesar's orders. Every supply line gets cut, every community that feeds the Bear... cut its throat, starve the Mojave.
+GID00094811	Assassin? If killing needs to be done, I'll face my victims... not kill from a distance, like you.
+GID00094812	No, when they come this far, they aren't Legion. They walk as Couriers. Like we do.
+GID00094813	And the Divide is the reason no Legion has been seen. None belong to Caesar. Not in this place.
+GID00094814	The ones that came... were following orders.
+GID00094815	Bear made its shadow felt here, more than I could handle. Heavy guard, watchful. I watched, waited.
+GID00094816	And as I watched, studied the people. The flag, markings. Thought perhaps... if I got rid of the Bear... what you had given life to might come again.
+GID00094817	Waited too long. Hesitated. A Courier isn't meant to stay in one place for long. And then you came, with the package. History.
+GID00094818	All right. Done with words, then, won't get you where you need to go.
+GID00094819	No, they don't know the history of it. So send others to find out, more to die... at the hands of their brothers the Divide has claimed.
+GID00094820	It doesn't matter, the Bear's reach was cut off. Now only the Long 15 remains. Once that's finished, Mojave will be under the flag of the Bull.
+GID00094821	Didn't know, but Couriers can travel anywhere. They make roads into places no one else will go, guarded or not. Was going to watch, see.
+GID00094822	The Legion... thought it might get into the community through me, just as I'd found the way by following you.
+GID00094823	But you struck first, shattered the ground, and let your home burn instead. Nearly killed me. And everyone here, walking or still.
+GID00094824	The tapes... didn't think those would be found... weren't worth the words anyway, not like I'd forget what happened.
+GID00094825	Had the tech from the Big Empty, recorder a woman gave me... on its last legs, didn't survive the road. Cast it and the tapes aside.
+GID00094826	If you heard them... they're of no consequence. Ramblings, reminders for a man who doesn't need them.
+GID00094827	[SUCCEEDED] Maybe not. Who's to say.
+GID00094828	You, perhaps. Found them, heard them after I cast them aside - maybe there was purpose in that.
+GID00094829	If they matter... if history matters... we'll see at the end of the road.
+GID00094830	[FAILED] Words lost to history. Wouldn't have left them on the road otherwise.
+GID00094831	Twisted Hairs are dead, lost at Dry Wells, died in Vulpes' smile. Won't discuss their fate with you, not now - their past is mine to keep.
+GID00094832	Walk farther, see me face to face - you might earn more. Now, let the words keep you without me adding to them.
+GID00094833	I had, did. It was madness... asked them a question in anger. Got an answer, more than I expected.
+GID00094834	Answer told me what happened here at the Divide, the how of it, and that was enough.
+GID00094835	The tape has the telling of it, don't need me adding to the questions already there.
+GID00094836	The tapes... didn't think those would be found... you know the Divide better than I thought.
+GID00094837	Had tech from the Big Empty, recorder a woman gave me... didn't survive the road, on its last legs.
+GID00094838	Cast it and the tapes aside... weren't worth the words anyway, not like I'd forget what happened.
+GID00094839	If you heard them... nothing but ramblings, reminders for a man who doesn't need them. Probably more, lying from here to the Divide.
+GID00094840	You know the why of it. If you don't - I do, and that's enough. Shows trust only walks so far West.
+GID00094841	Earned more than that, though, getting this far. We walk the same road, carry the same colors. Can't break that by making the road red.
+GID00094842	Want more than that, walk the Divide. Answers'll come, closer you get to home... you and that machine.
+GID00094843	You scavenge words. Things I have no need of, no history there worth recounting.
+GID00094844	Scour the Divide, claw at it for meaning - but my words will give you no answer.
+GID00094845	[SUCCEEDED] They won't help you understand what happened here.
+GID00094846	And they won't help you understand me. Keep them, listen, study them - they won't help you here in the Divide.
+GID00094847	[FAILED] Words lost to history. Wouldn't have left them on the road otherwise.
+GID00094848	Won't hold it. Divide taught me you don't need to - just cut it off.
+GID00094849	Then the Mojave will fall, Bear will starve, its flag will burn. It's spent too long dying, the Long 15 will end it.
+GID00094850	The tapes... didn't think those would be found... weren't worth the words anyway, not like I'd forget what happened.
+GID00094851	Had the tech from the Big Empty, recorder a woman gave me... on its last legs, didn't survive the road. Cast it and the tapes aside.
+GID00094852	If you heard them... they're of no consequence. Ramblings, reminders for a man who doesn't need them.
+GID00094853	You scavenge words. Things I have no need of, no history there worth recounting.
+GID00094854	Scour the Divide, claw at it for meaning - but my words will give you no answer.
+GID00094855	[SUCCEEDED] Maybe not. Who's to say.
+GID00094856	You, perhaps. Found them, heard them after I cast them aside - maybe there was purpose in that.
+GID00094857	If they matter... if history matters... we'll see at the end of the road.
+GID00094858	[FAILED] Words lost to history. Wouldn't have left them on the road otherwise.
+GID00094859	[SUCCEEDED] They won't help you understand what happened here.
+GID00094860	And they won't help you understand me. Keep them, listen, study them - they won't help you here in the Divide.
+GID00094861	[FAILED] Words lost to history. Wouldn't have left them on the road otherwise.
+GID00094862	You've seen the Divide, walked it - farther than I thought you would. Not sure how much farther you have in you.
+GID00094863	If you need answers, speak. You've earned them... even if only you and I can carry them from here.
+GID00094864	If I have the answers, you've earned them.
+GID00094865	You know what it was. Had the symbols of America on it. New markings. From after the Great War.
+GID00094866	Thought it might be America come again. Promise of another future. Another flag.
+GID00094867	I knew of you, your name. Your road, to and from the Divide, what that meant for the Legion.
+GID00094868	We never spoke, knew you through your actions. Knew you'd walked the West as I'd walked the East. Learned different lessons.
+GID00094869	And I would never have discovered the Divide without you.
+GID00094870	Promises to keep. 'Courier shall not kill Courier.' Always - let them live, spread the word.
+GID00094871	Caesar's orders. Some time before I realized the why of it. Wasn't just you. All couriers.
+GID00094872	No telling how many were Legion. Maybe all of them.
+GID00094873	Wasn't sure about you. Until the Divide... all the NCR burning... that much death, it bears the mark of a Legion hand.
+GID00094874	But you killed like NCR. Like Hanlon, with mines, bombs... missiles. Killed Legion along with the Bear. Like a coward, kills from a distance.
+GID00094875	If you were Legion, then NCR beat you, the West changed you.
+GID00094876	Promises to keep. 'Courier shall not kill Courier.' Always - let them live, spread the word.
+GID00094877	It was a piece of machinery... military, holding memories, codes, maybe. When it woke, made these sounds... words.
+GID00094878	When it spoke, the Divide became fire, the ground... tore apart like the skies. Through it all, kept calling out - maybe calling for home.
+GID00094879	[SUCCEEDED] Hate? No. There's nothing to hate in metal... steel, gold. Or platinum.
+GID00094880	Your machine... it's just a tool, made of wreckage of the Divide... all that was brought here.
+GID00094881	[FAILED] When I speak in anger, Courier, you'll know it. Your machine? Worth no more hate than any other machine.
+GID00094882	Machine couldn't speak by itself. Needed a terminal to access it... like the terminals in the silos here, or the machine with you.
+GID00094883	When it was connected, it started speaking. And the Divide answered.
+GID00094884	The Dam. That Old World Wall.
+GID00094885	The Dam. That Old World Wall.
+GID00094886	The Dam. That Old World Wall.
+GID00094887	The why of it. Hoover Dam.
+GID00094888	The Bear, NCR, couldn't be allowed to reach it easily. Long 15... Canaan... both bad enough.
+GID00094889	Kimball, Caesar, House... you'd think their whole world was that wall, cutting the Colorado. If I'd never laid eyes on it, never spoke of it...
+GID00094890	...but once found, it was all Caesar could see. That, and the flag beyond it, another symbol, big enough to challenge him.
+GID00094891	And the Divide, one of the roads to it - Legion was tasked with cutting that artery. If you can't kill the Bear in one stroke, bleed it, starve it.
+GID00094892	That kind of murder... it's what any of the Legion would have done. Now... the Divide belongs to history.
+GID00094893	Blame? Accident? The names you hang on this... Courier... you carry death wherever you go, Mojave knows - or will.
+GID00094894	I'll see you answer for this. The road doesn't end here, there's more to come, I swear to you.
+GID00094895	Accident? Ignorance is a choice. The Chip - a choice.
+GID00094896	As for anger... it is what I carry for the dead, and all that come here.
+GID00094897	Not the name I'd give it. Not the name the dead would give it.
+GID00094898	Soldiers of the Bear died here... Legion died, too, my brothers. Still dying, both of them, all around us.
+GID00094899	None of the people that lived here survived... yet all of the West and the East, they hold on as the Divide tears at them.
+GID00094900	Revenge isn't the message I have for you. More than that... Courier.
+GID00094901	Machinery. Simple on the outside, computer parts. Inside... more complicated.
+GID00094902	Was the only time I'd heard a machine speak in the Divide, the only machine with a voice.
+GID00094903	I've walked the East. You've walked the West, more than I have.
+GID00094904	Circle Junction. Reno. Vault City. Word of you at Fort Aradesh... Fort Abandon. Even further West than that, Brahmin drives on the Big Circle.
+GID00094905	Whatever you saw out there, wasn't enough to make you stay. Maybe the markings on the package reminded you of the road home.
+GID00094906	Buried in the Divide. Part of it now.
+GID00094907	Wherever it is, it's been silent... if it spoke again, we'd know.
+GID00094908	I know that now. Doesn't change what was done. The Legion who died here.
+GID00094909	Legion doesn't know your history. I do. They find out what happened here, how many of their own died... they'll want an answer.
+GID00094910	Then Legion kills Legion. Farther you walk from the flag of the Bull, the more West creeps into you.
+GID00094911	Legion wears many colors, East and West. You... maybe blinded by Vegas's light, or the promise of that Chip.
+GID00094912	Or maybe you walked so far West, the Bear's sickness crept into you. We'll see. Your offenses before Caesar, the least of the crimes here.
+GID00094913	Really. Who's to say the truth of it. You? No. You walked from this, turned your back on it. Now you and others will answer for it.
+GID00094914	I'll start with the West. Let that burn. Then... if the East falters after, I'll bring the Divide there as well.
+GID00094915	Burn away the flags. Begin again.
+GID00094916	It's a messenger. Like us... and it shares our history.
+GID00094917	If you feel its loss... remember you could have turned away at any time. Gone back home, and none of this would have happened.
+GID00094918	But you had to make one last delivery, and that's why I knew you'd come, Courier. Couldn't stay away, it's who you are.
+GID00094919	What's inside that machine - that's all that mattered. All the machines here, made of wreckage from the Divide... and all that was brought here.
+GID00094920	Inside its frame, it carries the message you brought here... and it'll do what it was programmed to do: whatever it can to get home.
+GID00094921	The giants here will listen to it. I'll bring the Divide to your home, your nation. Let its flag burn, just like you let the Divide burn.
+GID00094922	Big Mountain access code... Ulysses. Command override...
+GID00094923	Navarro.
+GID00094924	Many in the Mojave think the Divide's nothing but canyon and storm. Wasn't always.
+GID00094925	There was life, a town, farther West... not talking about an Old World town like Hopeville... more recent. Something you saw in your lifetime.
+GID00094926	It had the name "the Divide," too. But rather than cracks in the earth, it was a road from the West into the Mojave, a supply line.
+GID00094927	Took a Courier to make that road. You. Back then, you saw the road with eyes facing East. This time... the Divide's in the other direction.
+GID00094928	And if your eyes try to make sense of it when you reach it... home's not what it was.
+GID00094929	All roads lead back to one's home. Not your birthplace maybe, but home.
+GID00094930	You gave it a name. What was it to you? Companion? Slave... weapon? All of that, nothing compared to its primary function.
+GID00094931	The machine you brought is mine now, it's coming home. I'll reduce it to parts, just enough to function, to be aware of what's happening.
+GID00094932	My family? My tribe lives... its history? Died long ago, fell under the shadow of the Bull... consumed by another symbol.
+GID00094933	No, this isn't about family - or any common blood. It's blood shared by acts, not by chance.
+GID00094934	The soldiers of the Bear? They were dead already, their symbol... diseased. Deserved to die as my brothers did at Boulder City, mines, bombs.
+GID00094935	I carry nothing for them. Their deaths here were a mercy - compared to the ones that still walk the Divide.
+GID00094936	As for my brothers in the Legion... they deserved to die in battle, as do all beneath the flag of the Bull.
+GID00094937	But no... the dead number more than my brothers.
+GID00094938	The soldiers of the Bear? They were dead already, their symbol... diseased. Deserved to die as my brothers did at Boulder City, mines, bombs.
+GID00094939	I carry nothing for them. Their deaths here were a mercy - compared to the ones that still walk the Divide.
+GID00094940	The Legion who died here... they didn't deserve to die, like those that died in the fires of Boulder City... bombs, Hanlon's gifts.
+GID00094941	Their deaths were mercy compared to those who still walk. Any who die beneath the flag of the Bull... their death should be in battle.
+GID00094942	But no... the dead number more than my brothers.
+GID00094943	The supply line - the artery for the West? I have seen the blood of NCR at Legion hands many times.
+GID00094944	I carry no hatred for duty... if that's what this was. The Divide was more than that. Its people, more than that.
+GID00094945	Serves the Legion?
+GID00094946	I carry no hatred for duty... if that's what this was. The Divide was more than that. Its people, more than that.
+GID00094947	The community that was once here... and the package you brought... both had markings of the Divide. Markings of America.
+GID00094948	You've seen the marks, the symbol. As early as the Hopeville silo, maybe. Carried it etched on your weapons.
+GID00094949	The Divide, its buildings, its people, were built around those same markings, surrounded them here...
+GID00094950	...markings like the flag on my back. When I followed your road to the Divide those years ago, I saw the symbol I wore all around me.
+GID00094951	An Old World symbol. Strong, to survive here - its people, strong. Outlast the Bear, outlast the Bull. Promise of something better.
+GID00094952	Caesar was right to want it dead. NCR was right to want to rake their claws in it.
+GID00094953	Seeing it... changed me, just as seeing Hoover Dam changed Caesar and the NCR.
+GID00094954	Seeing it end changed me, too.
+GID00094955	There was hope here, another chance. A new nation, stirring to life. A place I could have set my flag.
+GID00094956	Not the America of old. But something larger than the tribes of the East, something larger than the houses of the West. Something better.
+GID00094957	The Divide... could have bridged both, like Hoover Dam. Now like the Dam, it's too covered in blood to see what it could have been.
+GID00094958	You gave life to this place. I followed your road here, saw the Divide. You led me here, so that I could see.
+GID00094959	Then, you brought it to an end.
+GID00094960	My history isn't revenge, or hate. The road that brought us both here - isn't about that.
+GID00094961	It's about the message you carried. The one in that package, whether you knew it or not.
+GID00094962	The message that one can kill a nation. Can kill a symbol. And all that gather beneath its flag.
+GID00094963	I don't blame you for the Divide. I blame you for what you made me see.
+GID00094964	Now you will see what you brought to the Mojave, and that will be my message to you.
+GID00094965	The nations of the Mojave. Cracked and broken as the Divide... its people, the same.
+GID00094966	I have walked at Caesar's command, across the East, into the West. Far enough to know Caesar's word did not drive me. Far enough to see the end.
+GID00094967	You've seen it. No Courier, whatever their flag can ignore it. Why you didn't stay in the West. Why you wandered.
+GID00094968	There is no future in the Bear or Bull. The Bear is diseased, barely clings to life.
+GID00094969	And the Bull... when the Legion reaches the sea, it will turn on itself and die.
+GID00094970	Killing one will end both. And you made me see how one could do it. Your ignorance, carelessness - can be used with a purpose.
+GID00094971	You already tried once, won't give you another chance.
+GID00094972	Machines... bombs, things of NCR, are your tools, not mine. When we meet, this machine won't keep me from you.
+GID00094973	What kind of world would this be if Courier killed Courier.
+GID00094974	You've got enough distance ahead of you - save your breath for the road, don't waste it on words.
+GID00094975	You struck first. Not just at me... at the Legion. Or so I thought. Not sure of the history of it now.
+GID00094976	Whatever flag you follow, or followed then... either way, you got too much of the Bear's sickness in you to live. Divide's proof of that.
+GID00094977	Want more than that, walk the road. Answers'll come, closer you get to home... you and that machine.
+GID00094978	Legion died here as well. What you did... that's not all that cuts at me.
+GID00094979	Accident? Ignorance is a choice. The Chip - a choice.
+GID00094980	As for anger... it is what I carry for the dead, and all that come here.
+GID00094981	Yes. And it did to you once, I'm sure of it.
+GID00094982	No, it is a title you earned. Legion or not, you have betrayed more than you know.
+GID00094983	If that's all that drives you, it won't last. The Legion... it won't last either.
+GID00094984	I'll finish history's work. If the Divide couldn't kill you... perhaps these spears of the Old World can.
+GID00094985	Let's end this, Courier, you and I. Here, with the Old World flag as witness.
+GID00094986	You've answered your own question. And you'll die with that question on your lips.
+GID00094987	That's part of why I'm here. Watch them - if they attack me, try to enter the Mojave, I answer. Not looking to kill them... save them, if I can.
+GID00094988	There might be something saving in them. If not, then what I do is mercy, not murder.
+GID00094990	Old World wall, run red with blood of Bear and Bull. It'll bleed more before the sun sets on the Mojave.
+GID00094991	That place and I have a past, owe it a debt - and it owes me. If your path takes you there, know you're not the only one.
+GID00094992	It's the wall by which this age will be measured, the gravestone of the Mojave. Old World never meant it as such.
+GID00094993	My words? And what do my words teach you.
+GID00094994	That question... either you walked the Big Empty... you found the last of the holotapes.
+GID00094995	The words are mine. Whatever... "answer" you think they hold, you're wrong. It was a question, nothing more.
+GID00094996	The invisible fires burn here, true enough. Still... to have helped carry out such an act, then not face it...
+GID00094997	Not my way. If my life burns out here, so be it... until then, I wait and watch, see what the road brings.
+GID00094998	Questions have a habit of making others.
+GID00094999	My name for it. If you have a better one, you grant it - my choice in names won't carry past you and I.
+GID00095000	Lies along the road, running from the Hopeville silo... straight on to where the ground burns, and wind howls even stronger than here.
+GID00095001	I believed in what I followed then. Kill no Courier, Caesar's words. I honored them.
+GID00095002	Other Couriers could have been Legion - like me. Now, our allegiances are reversed.
+GID00095003	Not if you believe in what you follow. Kill no Courier, Caesar's words. I honored them.
+GID00095004	Other Couriers could have been Legion - like me. The truth is, you serve nothing, believe nothing. Killing you... meaningless.
+GID00095005	[SUCCEEDED] The why of it... you taught me the why of it.
+GID00095006	If you believe in something enough, you must be willing to let it burn, lest it claim you.
+GID00095007	These governments of the two-headed bear... the Legion... they carry Old World ideas into an age that no longer needs them, where they cannot live.
+GID00095008	[FAILED] Yes, that is what you proved to me at the Divide - what is here, what you showed me... it is enough.
+GID00095009	You don't understand. You will.
+GID00095010	Comes down to perspective, how far one's walked, and what they've left behind.
+GID00095011	If you challenge this moment, let's hear your perspective. If my words are all you have, let's hear them.
+GID00095012	It may be... that as much destruction has been written in the earth here...
+GID00095013	One buried this place, yet it lived on between us. One may build it again - build others. Your history has proven this, here.
+GID00095014	There is truth in your words. But even if there is hope in change... it may not matter. The Divide still stands against us.
+GID00095015	[SUCCEEDED] Our history... the Divide. That history has been written, its lessons learned.
+GID00095016	There is nothing more to be dug from these cracks in the earth, no more fury to be torn from its sky.
+GID00095017	[FAILED] If those are your last words, they are weak ones. Actions would have had more voice.
+GID00095018	There is nothing more to be said between us. No words of yours will change what is about to happen.
+GID00095019	Even after the road you've walked, you only see a traitor before you.
+GID00095020	Not all the East will burn. The Legion does not need to be destroyed, only... contained within new borders.
+GID00095021	After that, it will fall as any culture bred on war, on forward momentum. It will falter, collapse.
+GID00095022	I will start with their camp at Dry Wells... once my homeland. Justice of a sort.
+GID00095023	I cannot go back. I wandered too far, far enough to know my home was lost to me.
+GID00095024	I could no more go back than you could return to the West. To NCR, and all its sickness.
+GID00095025	I'll finish history's work. If the Divide couldn't kill you... perhaps these spears of the Old World can.
+GID00095026	Let's end this, Courier, you and I. Here, with the Old World flag as witness.
+GID00095027	History? Cures a wound, leaves the bitterness that caused it. The Twin Mothers were always about lessons.
+GID00095028	Caesar taught them the last one, though, so that's it for them. Recipe still exists, Legion uses it on forced marches with wounded soldiers.
+GID00095029	Wouldn't have made it through Crimson River Trail a few years back without it - losing so much blood early on, was a Cazador feast.
+GID00095030	Enough Xander root and Broc flower along the trail though, the Legion was able to keep pace and get where they were going.
+GID00095031	Can do that and one better... just enough around to mix some. Here - might make the Twin Mothers' history live a little longer, you carrying it.
+GID00095032	When you drink it, down it all in one shot, or your stomach's not going to want to keep going after the second drink.
+GID00095033	Too soon to tell what will happen, let history weigh what you've done, if it gets that far.
+GID00095034	Unless you do the same for the Legate that comes, you'll get no thanks from me. When that Monster arrives, he's not going to have a leash.
+GID00095035	Caesar could command him. Not now. The Bear's going to burn, and burn slow.
+GID00095036	He let another hold a knife to him. If he was weak enough to allow the knife so close to his neck, maybe it needed to be his ending.
+GID00095037	Caesar would be history's hypocrite if he was angry about what happened. I'm not one for it, either.
+GID00095038	Seems you just proved his philosophy to him. If he'd been stronger, he'd be alive, and we wouldn't be talking.
+GID00095039	Done with blame, and Caesar was big on strength making right. Seems to me you proved that philosophy to him.
+GID00095040	If he was too weak to stop you, too weak to defend himself, then he needed to die with his beliefs.
+GID00095041	Wasn't his time, and wouldn't have been how he wanted to die.
+GID00095042	Not how most would've wanted him to die, either, Bear or Bull.
+GID00095043	What you did was for the best. The Old World died long ago. Anyone who believes they can make it return and everything will be as it was...
+GID00095044	...it is a dangerous belief. Needs to be silenced before their belief spreads.
+GID00095045	If you saw House, you didn't see a man. An Old World spirit, perhaps - filthy, diseased. If so, killing him was mercy, not cruelty.
+GID00095046	Let House sleep in his chamber. Let him dream of the Old World he remembers, and keep those memories where they belong, in his head.
+GID00095047	Bear and Bull shed too much blood there to let it go. Can't stop you from going, wouldn't.
+GID00095048	A warning, though - the Legate, Lanius. Whether Caesar stands or not, Lanius will come.
+GID00095049	Lanius... the "Butcher." Monster, Terror of the East.
+GID00095050	Not even his slaves have seen his face - struck them blind so they can't. Wears a mask, don't even know if it's the same man.
+GID00095051	He put Colorado to the sword, broke the Hangdogs by throwing their hounds upon the flames, so they might burn forever in the afterlife.
+GID00095052	Then there is nothing more to be done. The Mojave awaits.
+GID00095053	The Divide belongs to history now. The Mojave awaits.
+GID00095054	The Divide belongs to history now. The Mojave awaits.
+GID00095055	Lanius carries all the terrors of the East with him. He's the myth, the weapon the Legion needs.
+GID00095056	When he arrives, he'll fall on Hoover Dam like a hammer, break the Bear in two.
+GID00095057	To take Hoover Dam, Legion will need something as big as the Old World itself - another symbol, forged by history.
+GID00095058	Nineteen tribes could not do it. All the lights in Vegas cannot.
+GID00095059	His strength lies in his title - and it is his weakness. He will not fight a losing battle and destroy what he represents.
+GID00095060	Put the idea of loss in him. Convince him the Bear will not be the twentieth tribe beneath his heel, it will make him pause like nothing on earth.
+GID00095061	You do not need to convince him alone. Draw upon history. The past of other Legates are not filled with victories. Remind Lanius of this.
+GID00095062	There are other Legates, and the one before Lanius couldn't take Hoover Dam for Caesar.
+GID00095063	Yes. Graham was broken on the wall of the Dam.
+GID00095064	There are other Legates, and the one before Lanius couldn't take Hoover Dam for Caesar.
+GID00095065	That Legate's mistake is he didn't die trying. His name was Joshua - Joshua Graham. Answered for his failure - twice, some say.
+GID00095066	Caesar had him burned and cast into the earth, into the largest canyon you've ever seen. Watched the flames trail all the way to the bottom.
+GID00095067	Somehow Joshua walked away from that, went beyond Caesar's gaze. His footsteps trailing fire, walking from one hell - maybe to another.
+GID00095068	When one is ruined like Graham was... sometimes home is the only place left. If so, he went to New Canaan, Caesar's anger written on him like a book.
+GID00095069	Caesar's orders to the Frumentarii were to watch for him, find Graham. Kill him. Didn't try. Could've, no good would have come of it.
+GID00095070	Graham earned his life, and his nature... it'll kill him more surely than any blade of the Legion.
+GID00095071	So if you've heard word of it or seen sign of him, let it keep. Let his history keep.
+GID00095072	The Divide belongs to history now. The Mojave awaits.
+GID00095073	The Divide belongs to history now. The Mojave awaits.
+GID00095074	My tribe? That log... no, it concerned the White Legs, training them to kill. For Caesar.
+GID00095075	There is no meaning there beyond the road to New Canaan. The history of the murder of its people. And Caesar's past.
+GID00095076	[SUCCEEDED] Your actions have carried strength.
+GID00095077	[SUCCEEDED] There is conviction in your words, enough to rival a Legate, perhaps Caesar. You believe what you say.
+GID00095078	[SUCCEEDED] Your actions have carried strength. More importantly, not for House, but for the families on the Strip.
+GID00095079	[FAILED] Words are not enough to bear the weight of your flag - if you follow anything at all.
+GID00095080	Speeches are things of NCR, words without strength. Your actions have shown nothing. Your flag will burn. The Mojave will follow.
+GID00095081	[FAILED] You came from the West, walked there. You carry its sickness East to the Legion - and do not believe their cause enough to honor them.
+GID00095082	What I give the Legion is a swifter death than the disease you bring. You have not the strength to bear a Legion standard.
+GID00095083	[FAILED] You serve Vegas ghosts, not the tribes Vegas devoured. House is not the people of Vegas - you have walked the Strip, yet have seen nothing.
+GID00095084	Your carelessness for the paths you walk - it has destroyed the city you serve. NCR will burn. Then the walls of Vegas will follow.
+GID00095085	[FAILED] Yet you follow nothing at all.
+GID00095086	You have walked the Mojave, let the shadow of flags fall upon you, yet walk carelessly, no allegiance. Your words - empty as your actions.
+GID00095087	If you speak for the two-headed Bear, I'll hear your words. Even if I will be the only one to hear them.
+GID00095088	If you believe it should not die this day... then answer me why.
+GID00095089	If you feel I do not know the Legion's strength - then I will listen.
+GID00095090	If the ghosts of Vegas have come from behind their wall to speak for the West, I'll hear their words.
+GID00095091	If you believe that Vegas does not deserve to die as the Bear does... then answer me why.
+GID00095092	If you seek to anger me, words won't be enough. Your moral ground is weak here in the Divide.
+GID00095093	Blame you? No, learned from you. Both the weapon to kill a nation, and the strength to do it.
+GID00095094	You showed me a road, a way to carry my message. You've already answered for what you've done. Now the flag you follow will answer for it.
+GID00095095	No, now there is purpose. I believe you when you say you were... careless. The Divide... the Chip... the machine you brought here...
+GID00095096	Many messages can be taken from that, intended or not. What I do now is an act of conviction.
+GID00095097	No, the West. The East. It doesn't matter - the death of either one kills the other, Vegas along with it. The West shall answer first.
+GID00095098	No, not the Mojave. The West, all that's been built since America died. Same symbols as before the war, now a flag carried by a tribe of children.
+GID00095099	You walked the West, didn't stay. You know the reason... the Bear grows without structure, follows a symbol without knowing its history.
+GID00095100	No... the paths we've walked. The roads, and the flags above them, carry equal blame.
+GID00095101	My home in the East, Dry Wells, is no more. It is part of the Legion.
+GID00095102	The only other home... the chance of a home... was what you built at the Divide. Then you destroyed it.
+GID00095103	And knowing that you believe in the Bear's sickness and have given it strength... then that gives more reason to lay waste to your homeland.
+GID00095104	The sickness of the Bear already lies within you, even if you uphold the East. If there were time, I would let you kill the Legion.
+GID00095105	But no, the Legion will burn as well. Without the West to challenge it... its shore will be closer than before. It will feed on itself, die.
+GID00095106	Without NCR to support it, Vegas will fall to the Legion. That grave of lights, back to dust and ghosts, as was meant.
+GID00095107	After this, only one flag will remain over the Mojave. Let that one fly, or destroy itself.
+GID00095108	You don't see, listen - even when it's all around you, no matter if I nailed it into your head like a gift from Caesar.
+GID00095109	You brought the Divide to life, Courier. You walked the road. Brought the Bear, then the Bull, brought me, following your tracks.
+GID00095110	And when I saw the Divide you made, I saw a second chance, a new way of thinking. My world - no longer the East.
+GID00095111	Then you brought the West in that package. Destroyed it all. Nearly killed me, flesh and spirit.
+GID00095112	You destroyed something larger than the Bear, greater than the Bull. And even when you could have turned away, you brought it again, in that machine.
+GID00095113	You destroyed a nation taking its first breath. A place that could have been my home. Now, I'll destroy yours.
+GID00095114	No need to destroy the Bear, just cut its throat.
+GID00095115	You taught me that at the Divide - only need to cut off the supply line, the road, to watch something greater die.
+GID00095116	I'll turn the Long 15 into miles of fire, cut off the Mojave. NCR will fall back, lose Hoover Dam... and leave their throats exposed to the Legion.
+GID00095117	You destroyed your own homeland. Seeing a nation burn? Didn't think that would matter any more to you.
+GID00095118	There's a strength in that... lack of attachment. Still, you're here now. If there's no more answers you want, then we'll end this.
+GID00095119	[SUCCEEDED] History has proven this. Our history.
+GID00095120	And you think that you have this strength? Enough for all of NCR?
+GID00095121	The West is not the Divide, and nothing you can do can prevent the missile's launch. Convincing me - changes nothing.
+GID00095122	[FAILED] No... your answer is not enough.
+GID00095123	They deserve what comes... and should answer for it, as you should. The Bear is a thing of the people that gather to it, as are all symbols.
+GID00095124	You believe. Yet... you believe in the wrong symbol. Let it give you what strength it can... soon, it will be no more.
+GID00095125	Fear? No. Anger.
+GID00095126	If you've heard my words and that's all you've taken from them, then I was right to cast them aside.
+GID00095127	If you ever had any ability to hear anything beyond your own footsteps... the Divide silenced it. Now, its voice will end you.
+GID00095128	So... you resort to trickery. You were hoping that you could deceive me, reveal that somehow I can stop all this.
+GID00095129	Fire will rain on the West and the East, as intended, and the last words of the messenger of the Bull - nothing but lies.
+GID00095130	The West will burn, as intended, and Vegas will follow. The last words of its messenger, were not for the people of the city, but lies and deceit.
+GID00095131	Your nation will burn, as intended, and the last words of its messenger, were not for its people, but to beg for mercy.
+GID00095132	It may be... that as much destruction has been written in the earth here... you may build something else, as you built the Divide.
+GID00095133	You have spoken truly. There is a shadow of a nation behind you, the hope of a people... yet it may not matter. The Divide still stands against us.
+GID00095134	It is... enough.
+GID00095135	Our enemies gather outside... shadows of the Bear and Bull... they will have found their way in, just as you did.
+GID00095136	It was always my intention - in case I could not kill you, the Marked Men would flood this place, cut off your escape.
+GID00095137	If we cannot prevent what comes, then let us make our stand here. Two Couriers, together, at the Divide.
+GID00095138	[SUCCEEDED] History has proven this. Our history.
+GID00095139	And you think that you have this strength? Enough to hold up NCR, long enough so that Vegas may live again?
+GID00095140	Even if you speak for Vegas and its ghosts, nothing you can do can prevent the missile's launch. Convincing me - changes nothing.
+GID00095141	[FAILED] No... your answer is not enough.
+GID00095142	They deserve what comes. Vegas is born of the corrupt, the blind, lost, that gather to it. Without them... it would fall dark.
+GID00095143	You believe. Yet... you have been blinded by the wrong symbol. Let its light give you what strength it can... today marks its end.
+GID00095144	When I asked that question, death was certain. I wasn't begging for mercy.
+GID00095145	[SUCCEEDED] History has proven this. Our history.
+GID00095146	You seek to use your own crimes to prevent mine. There... is a strange honor in that. Perhaps the shadow of the Bull does walk with you.
+GID00095147	The West, the East - they are not the Divide, and nothing you can do can prevent the missile's launch. Convincing me - changes nothing.
+GID00095148	[FAILED] You answer me with questions. Doubt. You were strong enough to come here - but not strong enough to speak for all the Legion.
+GID00095149	This is the ending they deserve... a flag is a thing of the people that gather to it, as are all symbols.
+GID00095150	You believe. Yet you do not see that killing a symbol with its own weapon carries justice of its own... just as it will when the East dies as well.
+GID00095151	I never sought to escape. I went to them to get an answer or die.
+GID00095152	I spoke those words in anger, and I did not expect an answer. All was lost... I thought it was the end.
+GID00095153	Past their graves of failed technology, they had cared about the flag they had followed... and the people beneath it. Even with them dead and gone.
+GID00095154	But there's no answer in that. I do this because I care, because I believe it must be done.
+GID00095155	Kill them - no. The symbol they follow? Yes, as surely as you did at the Divide.
+GID00095156	Just? There was no justice in it, it was an act of carelessness, a coward. Killing an idea, before it had a chance...
+GID00095157	I see your meaning. You're tying this to our history... but it is different. The symbol I destroy, it has already proven itself wrong.
+GID00095158	Those are my words. After what happened with the Brotherhood... talking with them.
+GID00095159	Then with the rulers of the Big Empty. But it is their philosophy that was flawed - their weapons, used with new perspective...
+GID00095160	Those weapons can be used to kill a symbol that has already proven itself wrong.
+GID00095161	There is truth in that. History has proven it.
+GID00095162	But Mojave's proof that no homeland is sacred... until the larger symbols are destroyed.
+GID00095163	Whatever is built, the Bear, Bull... even Vegas... will tear it apart, convert it, either with purpose, or by accident.
+GID00095164	Both. Why do you care.
+GID00095165	Test it. As you test me? As if you believe there is some other road here.
+GID00095166	Nothing can prevent what comes. The missiles will launch. These questions - your words, or mine - what do they matter to you.
+GID00095167	As you defend it now?
+GID00095168	New Canaan? My tribe?
+GID00095169	The White Legs? To even claim they were shadows of the Twisted Hairs...
+GID00095170	No, whatever words you heard, they were not mine.
+GID00095171	Respect...?
+GID00095172	The braids I wore. They took that from me, thought it made them more like me, more willing to have Caesar listen.
+GID00095173	They didn't know what the braids meant, the mark of my tribe before Caesar came... before Vulpes came for them at Dry Wells.
+GID00095174	There was death in that meeting, even while Vulpes smiled - asked for our help against the other tribes.
+GID00095175	All the while, they were looking to cast our history on the fire. And did. Another tribe, consumed by the Bull - nothing left.
+GID00095176	Respect the White Legs? That tribe of jackals? Never.
+GID00095177	No, they didn't. They were ended, completely. Became part of history's march.
+GID00095178	If you feel there is meaning in the White Legs taking the braids of my tribe... what they did... insult, not respect.
+GID00095179	Both... both survived, pieces of them. Remnants, nothing more.
+GID00095180	Back to symbols and history, then. Hard to kill... like Couriers.
+GID00095181	You're saying when the meaning gets lost - that what happens here, can make things worse. Happened in the Mojave. Flags of the Bear and Bull.
+GID00095182	What do I care for your perspective. You walk blindly, foolishly into death, your own and others.
+GID00095183	You do not rule my actions, and do not mistake my acts for yours.
+GID00095184	The machine made from the parts of Navarro? It had only one message in its core - to get home, at any cost.
+GID00095185	It echoes its master... and soon the missiles here will as well.
+GID00095186	Nothing can prevent what comes. The missiles will launch. These questions - your words, or mine - what do they matter to you.
+GID00095187	No. You are wrong. Words will not bridge this.
+GID00095188	You were tricked. Still, you take pride in it.
+GID00095189	Nothing can prevent what comes. The missiles will launch. These questions - your words, or mine - what do they matter to you.
+GID00095190	We fight over how we will be remembered, then.
+GID00095191	There is nothing inside the machine except the means to awaken the missiles in the Divide. That is its only message.
+GID00095192	You lie. There was only one message in the machine, only one message in the package you brought.
+GID00095193	The Divide bore the symbol of America... as did the package from Navarro. The origins of the machine is... of no importance.
+GID00095194	What do you seek to gain by telling me this. If you think that the symbol I wear is a weakness...
+GID00095195	If we must survive to carry its message... then that is what shall be done. I will not let America die here.
+GID00095196	But... it may not matter. Even if we lay down our weapons, the Divide... it still stands against us.
+GID00095197	Experiment log 369248/B - Eyebot Duraframe universal interface override system. This is Dr. Whitley presiding.
+GID00095198	We've boosted signal gain and enlarged the overflow buffer system. That should ensure 100% connectivity and control. ED-E, whenever you're ready.
+GID00095199	<Electronic sounds>
+GID00095200	Yes! Success! Um, reporting full success on 369248/B. ED-E was able to interface with and override the test panel in under three seconds.
+GID00095201	Great job, team. Now, let's start on the proposal for the full rollout.
+GID00095202	<Distressed beeping>
+GID00095203	Dr. Grant? What the hell do you think you're doing?
+GID00095204	You didn't even disengage his damage-avoidance protocols! You're hurting him!
+GID00095205	Get the hell out of here!
+GID00095206	Ah, Whitley, there you are. Orders from Colonel Autumn - he feels the Eyebot Duraframe project isn't advancing quickly enough. I'm to-
+GID00095207	Don't be ridiculous, it's just a machine. See here, I've already increased the navigation system's efficiency by 65%.
+GID00095208	Fine, Whitley, it's your lab. At least until I tell the Colonel about this.
+GID00095209	I don't believe it! Grant actually went to Colonel Autumn and got approval for her damned "efficiency guidelines!"
+GID00095210	"All experiments will be carried out with the test subject fully active, to reduce iteration time." It's barbaric!
+GID00095211	I've explained this to the Colonel - just because the Eyebots don't have true AI doesn't mean they're just machines.
+GID00095212	I guess results are all that matter around here. Forget things like "ethical procedures" or "humane treatment."
+GID00095213	I'm starting to have serious misgivings about leadership around here. At least I've got you to talk to, huh ED-E?
+GID00095214	All due respect sir, I think you're making a mistake. We're close to a breakthrough with the Duraframe Eyebots, I can feel it! Yes, sir.
+GID00095215	Yes sir, I understand that we need the Duraframe assets for Hellfire armor, but-No, sir. Yes, sir. I understand, sir.
+GID00095216	I'll tell the team to start disassembling the ED series prototypes right away.
+GID00095217	ED-E, you little rascal. Were you eavesdropping again? I think those videos you watch are a bad influence on you. How much of that did you hear?
+GID00095218	<Sad beeping>
+GID00095219	Hmm... didn't Dr. Grant say she'd upgraded your navigational systems? I think I have an idea.... How'd you like to be just like RALPHIE?
+GID00095220	Good, you're back on-line. Listen to me, ED-E - if you stay here, they'll dismantle you for parts. You have to go now.
+GID00095221	I've uploaded destination coordinates for our outpost in Navarro into your system. I want you to go to the Enclave there, okay?
+GID00095222	Do you understand me? It's going to be a long journey, my little friend. You'll have to fly very far, and fly very fast. Can you do that?
+GID00095223	<Sad beeping>
+GID00095224	I know you can. Be careful out there, ED-E. Maybe I'll see you again some day.
+GID00095225	<Music, followed by gunshots.>
+GID00095226	Dad! Hey Dad! Check out this robot I found!
+GID00095227	He's not dangerous! Look, he's hurt! Can we take him home, Dad? Maybe Mom can fix him!
+GID00095228	Please? He looks so lonely! Maybe if Mom fixes him, he can help her out around the garage?
+GID00095229	Yay! He'll be just like RALPHIE, only this one's not a toy!
+GID00095230	Next week on RALPHIE the Robot's Incredible Odyssey!
+GID00095231	Tune in next Saturday for the exciting conclusion! Only on Vault-Tec Channel 9!
+GID00095232	Experiment log 369248/A - Eyebot Duraframe universal interface override system. This is Dr. Whitley presiding.
+GID00095233	Initial tests of the override system are promising. Against unsecured or lightly-encrypted targets, the Eyebots have a 98% success rate.
+GID00095234	More heavily protected systems are still problematic. Military-grade encryption presents a very real possibility of critical overload of key systems.
+GID00095235	We've stopped tests before any robots were destroyed, but if we don't address the problem our Eyebots will fry themselves hacking military networks.
+GID00095236	<Excited beeping>
+GID00095237	<Excited beeping>
+GID00095238	<Excited beeping>
+GID00095239	<Happy beeping>
+GID00095240	<Happy beeping>
+GID00095241	<Happy beeping>
+GID00095242	<Sad beeping>
+GID00095243	<Sad beeping>
+GID00095244	<Sad beeping>
+GID00095245	<Scared beeping>
+GID00095246	<Scared beeping>
+GID00095247	<Scared beeping>
+GID00095248	There's your signal... faint, but there. Just like NCR - voice without fire, without strength, sick.
+GID00095249	Heard tales of you walking the Mojave. Giving the two-headed bear strength. Giving hollow men like Kimball, like Crocker, half the life Hanlon had.
+GID00095250	Now... let's test that strength. That... "conviction." Courier.
+GID00095251	There's your signal... faint, but there. A woman in Caesar's service. Looks like the Bear has had its victory, after all.
+GID00095252	There's your signal... faint, but there. Charging ahead, like the rest of our brothers, blood in your eyes.
+GID00095253	Taking your chances, coming here. Just like bringing the lord of Vegas his tribute, bending your knee to Old World ghosts.
+GID00095254	You and that Chip - deserve each other, twenty-nine less coins than other traitors have carried, if history's true.
+GID00095255	Now see the road the Old World paves... and what the lights of New Vegas promise, if they haven't blinded your eyes.
+GID00095256	There's your signal. Faint, but there. You came, good. Curious, maybe.
+GID00095257	You walked the Mojave without a flag on your back. That'll end soon, can't walk the Long 15 and not have a nation's shadow fall on you.
+GID00095258	Maybe you just need to be tested. Or you believe in nothing. We'll see.
+GID00095261	There you are, you went quiet for a time... knew killing the Bear wouldn't prove easy... you and your machine, you survived.
+GID00095262	There's a lesson here, in the Divide. Old World history about paving and intentions could teach the Republic a thing or two - if they listened.
+GID00095263	They have an idea of trying to do what's right, never quite getting there. Maybe you've seen it - Nipton, elsewhere.
+GID00095264	Picking up the signal from your machine... was quiet for a time, thought the Road had claimed another of the Legion.
+GID00095265	Too many of the Bull have already fallen here... to radiation, fire... and what burrows below.
+GID00095266	There you are, you went quiet for a time... thought you might have returned to Vegas, its comforts. Maybe you took that machine with you.
+GID00095267	There's a lesson here, in the Divide. Old World history about holding on to something so tightly it breaks... or falls apart.
+GID00095268	May have seen the cracks in Vegas's walls already. If so, they'll grow, in time, no matter how much you back House.
+GID00095269	There you are, you went quiet for a time. Then that signal came in strong from your machine, like a heartbeat.
+GID00095270	Made your way through Old World towns, the tunnels that join them... now, the High Road.
+GID00095271	For all you've seen behind you - there's worse along this stretch. Deathclaws - hunt the Marked Men, and they also hunt what burrows below.
+GID00095273	Hopeville, High Road, Ashton... tiny cracks in the Earth, nothing compared to the road carved ahead.
+GID00095274	Before you... this is the edge of the Divide. Ahead lies your work, the history you burned in the earth. What you brought to the people here.
+GID00095275	Thought that explosion, that building falling deep in the Divide might have been your work... wouldn't kill you, maybe close.
+GID00095276	Knew you'd survive... but no need to go any farther. You've brought me what I need - that machine with you, sealed in the Hopeville silo.
+GID00095277	Needed someone to unlock it - bring it home. Now the signal's strong enough, no need for you to carry it anymore. I can call your machine to me.
+GID00095278	As for the Courier... he turned his back on his home for the second time and made his way back, navigating the treachery of the Divide.
+GID00095279	As for the Courier... she turned her back on her home for the second time and made her way back, navigating the treachery of the Divide.
+GID00095280	Tunnelers and the Marked Men... avoided the lone figure, as if recognizing the Courier's right to passage... or out of fear.
+GID00095281	ED-E, the version given life by the machines of the Divide, remained frozen in the military installation where Ulysses had summoned him.
+GID00095282	The robot's last coded transmission back to his counterpart in the Mojave told of upgrades, unlocked memories... then silence.
+GID00095283	Not long after the Courier left the facility, the Eyebot's data banks were wiped, and it was disassembled as rapidly as it had been constructed.
+GID00095284	When ED-E's circuits burned in the fires of the Divide, there was one small part that held on until the end.
+GID00095285	It was the fragment that held the Old World memories and the words of his creator in his last moments.
+GID00095286	As his last gesture, he sent one last signal to his counterpart in the Mojave, passing along what the Courier had taught him in the Divide.
+GID00095287	There was the chance... always, that ED-E's journey would continue, perhaps carried by another Eyebot in the Mojave...
+GID00095288	...the one from which the ED-E from the Divide had been shaped.
+GID00095289	For now, the Courier knew ED-E's history and could carry it, even if the Eyebot had forgotten.
+GID00095290	ED-E, given second life by the machines of the Divide, freed by the Courier, continued his quest west, to Navarro...
+GID00095291	...or what remained of what the Eyebot considered "home." Whether he found his homeland or not, his road is unknown.
+GID00095292	It may be the journey meant more than the destination - just as his counterpart in the Mojave had learned.
+GID00095293	Before leaving, he sent a coded signal to his original in the Mojave, passing along what the Courier had taught him in the Divide.
+GID00095294	With that last farewell, he set off, carrying the song of Old World hope with him, which had given him strength and purpose on his journey.
+GID00095295	And no matter what, he knew there would be a second home to return to, Navarro or not - and that his creator would be proud.
+GID00095296	And this road - has reached its end.
+GID00095297	...missiles fell on NCR and the Long 15 caravan route beyond the Mojave Outpost, the road the Courier had been walking when the tale began.
+GID00095298	Caravans and NCR outposts along the route were reduced to ash, an Old World gift from the Divide.
+GID00095299	...missiles fell on the East and the Legion encampment at Dry Wells... where the Twisted Hairs had allied, then been betrayed by Vulpes and Caesar.
+GID00095300	Legion soldiers died, their silhouettes blasted into the ground and earth, the last word of the last of the Twisted Hairs.
+GID00095301	As catastrophic as the damage was for NCR, the act made the Courier stronger for having no history, and no retreat.
+GID00095302	It was an ending to things - a way of erasing the road that had led to this point and the history that had walked with it.
+GID00095303	It was an ending to things - a way of erasing the road that had led to this point and the history that had walked with it.
+GID00095304	The Couriers finally, really did it. They blew up the lands West and East of the Mojave... damning them all to hell.
+GID00095305	The act was discovered 200 years later, as other Couriers explored the Mojave wastes.
+GID00095306	There, they saw NCR relics, reminders of their once proud history.
+GID00095307	The Divide erupted in fire, violent, red, as the last message of the two Couriers arced into the sky...
+GID00095308	The missiles rained like spears down on the land, burning flags and communities alike... destroying all they struck.
+GID00095309	The history of the West was erased for the second time, thorough and complete... and America slept once more.
+GID00095310	The Divide erupted in fire as the flame trail of the two Couriers' last message arced into the sky...
+GID00095311	It's said war - war never changes.
+GID00095312	Men do, through the roads they walk.
+GID00095313	Women do, through the roads they walk.
+GID00095314	Hopeville burned lightless in the night, invisible fires of radiation scorching it from within and without.
+GID00095315	It is said a man still walked its streets, with a tattered jacket, an Old World flag etched on the back...
+GID00095316	He remained there, perhaps as punishment for the scars he left on the wastes - or a reminder of a history he could not forget.
+GID00095317	For Ulysses... his journey was over. The Courier had been the end of his road.
+GID00095318	At the end of the struggle, only one Courier remained in the heart of the Divide. The true Courier, Courier Six.
+GID00095319	The Courier tore the ancient flag of the Commonwealth from its cables, and cast it over the corpse...
+GID00095320	...though whether done as a sign of respect, or in anger for what had been endured to reach this moment - that is unknown.
+GID00095321	Interpretation is something best left to history, and only the surviving Courier would ever know for certain.
+GID00095322	The Courier walked until he stood again upon the edge of the Divide, the last road he would walk before the second battle for Hoover Dam.
+GID00095323	There, beside his feet, was a final package, from one Courier to another - a footlocker, bearing a gift, and a message.
+GID00095324	The Courier walked until she stood again upon the edge of the Divide, the last road she would walk before the second battle for Hoover Dam.
+GID00095325	There, beside her feet, was a final package, from one Courier to another - a footlocker, bearing a gift, and a message.
+GID00095326	But that message - it is something for Couriers to carry, and for them alone.
+GID00095327	The lights flickered across the Divide, reminders that the Old World histories persist, and find meaning in the present.
+GID00095328	...back again. Left that crater behind. Got a few holotapes left, ones from the medical center.
+GID00095329	The woman... she fixed the recorder. Said it wouldn't last, repayment for me fixing her. She doesn't like debts, can respect that.
+GID00095330	Payment enough, just to hear someone who believes in the Brotherhood of Steel. Not Elijah. Different view. Same madness.
+GID00095331	She answered me on their philosophy, their way of seeing - the roads they walk. Dead-ends. Empty... as if technology can solve anything.
+GID00095332	Big Empty's proof where that road leads. Just like the Divide, and all the roads that lead to it.
+GID00095333	Big Empty - there's something hidden there, a crater, past wind and sand - so deep in the desert, there's no turning back.
+GID00095334	Finding the crater was an accident, was following the weather patterns - the Divide sky torn like that, man's violence, not nature's.
+GID00095335	That violence in the sky, had a source. Tracked it. Like following a river current.
+GID00095336	Left the colors to mark my way, like always, case someone finds them, learns the pattern - the Courier might.
+GID00095337	When I thought sand and wind would never end... came to the crater.
+GID00095338	And there... there was an Old World facility, a weather station, at the edge, still raking the sky with electricity and generators.
+GID00095339	And beyond it... saw the rest of the Old World hell there, all carved up like garden plots. Had to see what was there, couldn't leave it be.
+GID00095340	Things sleep in the Big Empty, the Brotherhood woke them up - can't move quiet, any more than the two-headed Bear can.
+GID00095341	And when they woke up, it was like all of history waking up at once. Almost didn't make it out. Almost. Left with answers I never intended.
+GID00095342	Have you ever wanted to speak to history - just to know the why of it? I don't. Not any longer.
+GID00095343	There's old stories about gods and men, past history, into myth - where the gods, they're like children... petulant, cruel.
+GID00095344	Those were the voices of the Big Empty, the past. Couldn't leave well enough alone, had to ask. Had to ask the why of it.
+GID00095345	Their answers were madness. And power, stronger than me, would take a hundred Elijahs... someone tougher than him or I to best them in their Dome.
+GID00095346	They didn't know why they were there, what had led to that point, their names - like serpents devouring themselves, cannibalizing their own thoughts.
+GID00095347	When all seemed lost, thought it was the end - my anger gave me strength to ask them my last question.
+GID00095348	"Who are you, that do not know your history?"
+GID00095349	And they awoke. For... a short time.
+GID00095350	The flag you wear, they said. We remember. America.
+GID00095351	It wasn't just a flag to them... it was a place, an idea they had cared for. Once.
+GID00095352	They told me what it was like to grow in that world... all they had done to lift it up... protect it. They... didn't know it was gone, that...
+GID00095353	...yet they had cared once. Before forgetting their history.
+GID00095354	As they were talking... kept seeing the Courier's shadow behind them, giving each their words weight. History cast aside... a home, left behind.
+GID00095355	I listened. I asked. Was there anything left? Anything that still carries America's voice?
+GID00095356	And they told me I had already been there. I and one other, walking right out of history deeper than we knew.
+GID00095357	They told me what lies in the heart of the Divide, what can be found there. And the words to awaken it - and the one to speak them.
+GID00095358	Destroying my machines won't help you. This facility will make more.
+GID00095359	Don't need Old World medicine to kill you.
+GID00095360	Didn't think you'd outlast the machines. Good.
+GID00095361	Just you and me, then. Always was.
+GID00095362	Can't stop the Old World's return, Courier.
+GID00095363	Took my machines? Hnh. Underestimated you.
+GID00095364	Machines might keep you alive, but they won't save you.
+GID00095365	No more echoes of the Bull and the Bear. The rest will share their fate.
+GID00095366	The dead men of the New World... they've come for you.
+GID00095367	Kill as many as you want - the Divide will birth more.
+GID00095368	Killing them is mercy.
+GID00095369	I'll end you - and your history.
+GID00095370	Come all this way - to die alone.
+GID00095371	Running out of time, Courier.
+GID00095372	Last tape, last message. In case... you best me. If you're hearing this, you have, through blood or word.
+GID00095373	This message, and all that lies with it - it is for you, Courier. If you want to know the... why of things.
+GID00095374	This world, I've walked a good part of it... I stopped only because of you. What you did - gave me pause.
+GID00095375	Long ago, I crossed the Colorado, the first among the Legion to see Hoover Dam in all its glory... an Old World wall, yet bridging two sides.
+GID00095376	And beyond it, a symbol of a two-headed Bear, an idea great enough to challenge Caesar himself.
+GID00095377	Might kill him, taking it, whether he won or lost. The Bull needs to fight, needs the challenge, without it... it falters, dies in the dust.
+GID00095378	Might be a lesson there, in you and me. Leave the thought behind the message to you.
+GID00095379	My message is this - the destruction that has been wrought, at the Divide - or elsewhere, if you couldn't stop me...
+GID00095380	It can happen again. It will keep happening.
+GID00095381	If war doesn't change, men must change, and so must their symbols. Even if it is nothing at all, know what you follow, Courier...
+GID00095382	...just as I followed you, to the end. Whatever your symbol...
+GID00095383	...carry it on your back, and wear it proudly when you stand at Hoover Dam.
+GID00095384	Even in this place, NCR's shadow falls. Or is it just, you, Courier, without the Bear's corpse to weigh you down.
+GID00095385	So you came, Frumentarii, Courier - whatever you are now. Come to carry out Caesar's law? His voice carries no weight here.
+GID00095386	Your city, Vegas, lies in the other direction... with the rest of its slaves. Or is it just, you, Courier, without the lights and ghosts.
+GID00095387	So you came, Courier, to what - watch your homeland burn one last time. Kill me, perhaps.
+GID00095388	Judging by your shadow... maybe you can't let your machine go. Doesn't matter now.
+GID00095389	Either way, the Divide giants are awakening. The missiles here, on their way home. There is no way to stop them.
+GID00095390	You are too late. The Divide is awakening - the package, and the message within, have come full circle.
+GID00095391	The sequence has begun, just as before. Except this time, the missiles will touch the sky instead of being locked beneath the ground.
+GID00095392	We've broken them. The Bear and the Bull have no more shadows to throw at us.
+GID00095393	They come for us, East and West alike.
+GID00095394	We've shown them fear, but not enough. More will come.
+GID00095395	Watch the shadows - the beasts cloak themselves in Old World tech.
+GID00095396	Watch the floor. Mines. Tactics of the Bear.
+GID00095397	Another Old World soldier falls.
+GID00095398	Old World's running out of machines.
+GID00095399	Beasts from the Divide. To the Divide, they return.
+GID00095400	Mercy killings - let them rest.
+GID00095401	You have forgotten all you were, traded glory for savagery. Fitting.
+GID00095402	Emptiness here - like the sands of the Great Salt Lake, echoed. The beating in the Divide sky... like storm drums of the White Legs.
+GID00095403	Ran with them on the salt beds, at Caesar's command - cut the throats of the two-headed Bear, cut all communities off.
+GID00095404	Use storm, sky. Disease. Fire, starvation... and the violence of the ignorant to ruin all who could... might stand against him.
+GID00095405	But the White Legs... they couldn't live on their own, like most scavengers. So gave them purpose - turned their hunger into a weapon.
+GID00095406	The wall of New Canaan... too high for Caesar. Too proud, maybe - or maybe something there, from his past, that needed killing. Memory of Graham.
+GID00095407	Helped them dig out Canaan supply caches, and other secrets the sands hid - bunkers, filled with powered weapons even the Brotherhood might desire.
+GID00095408	They called these new weapons "storm drums" in the firing of shells. Taught them the power in the casings... to channel the spirits in their guns.
+GID00095409	Me... they called me the Flag-Bearer. Glory in my hand, in my staff that still bore the weight of the Old World just as the symbol on my back did.
+GID00095410	I learned their weapons as a means of respect. And when it came their turn to pay respect to me... history came rushing back.
+GID00095411	Can't escape what's been done. History's there... no matter how far you walk.
+GID00095412	I walked the Great Salt Lake as Caesar's eye, then his hand.
+GID00095413	Mongrels there, two-legs and four. Saw the walls of New Canaan the scavengers circled... hadn't the strength or fire to take. Too high, too strong.
+GID00095414	White Legs, they were born for war, they run to it, hungry for battle... yet their hunger is to be a part of history, something larger.
+GID00095415	Like the Legion. As always, brought them a message - from Caesar.
+GID00095416	If New Canaan burns, Caesar might see them. "Might." Even the chance was a lie.
+GID00095417	To honor Caesar - destroy the history of New Canaan, and the way they carry it - in their generations and family.
+GID00095418	Caesar respects such strength, I told them. That - that was truth, even if "strength" wasn't the word. Obedience.
+GID00095419	You must be willing to kill anyone, children, mothers, the weak, elders... if these New Canaanites value the generations, that is what you must kill.
+GID00095420	It was like Vulpes was speaking through me. Use the night, silence, and fire to change their words to pleas, to screams.
+GID00095421	No need for bombs when hate will do.
+GID00095422	I... asked the White Legs to destroy a people with ancestry, going back thousands of years - another death of history, lost to time.
+GID00095423	The New Canaanites... they supplied medicine. Food, traded with others. Civilization, a hand from the past, not history...
+GID00095424	...but maybe a past deeper, farther than that to a place where this... God really exists.
+GID00095425	If so, his handiwork and people belong elsewhere, not in this place. Another symbol, like Bear and Bull, with no meaning in the present.
+GID00095426	The White Legs... meant to show respect, bribe me for Caesar's favor, echoing mannerisms and words...
+GID00095427	Showed them tech caches, taught them the workings of chamber and powder, spoke of Caesar's pride in those that used such things... lies. And...
+GID00095428	...and then... they tried to honor me - not the Legion.
+GID00095429	They brought me before the campfire one night, showed me how they changed themselves, how they wore their hair now.
+GID00095430	It was like my entire dead tribe in the firelight, teeth grinning red in the dark - eager corpses, blood-covered ghosts.
+GID00095431	They... had taken my braids, the way of the Twisted Hairs, as if it showed they were like me, of me...
+GID00095432	...while every knot in their braids spoke of raping, violence - and ignorance of what the knots meant. They thought to show respect... defiled it.
+GID00095433	Lost myself in trying to read the braids they wove, when I remembered they had put no meaning in it. They had no history of what it meant.
+GID00095434	They didn't even know the insult in the twists, knots... and Dry Wells came rushing back, the White Legs circled like that...
+GID00095435	It was like looking at the dead of my tribe, reborn as ghosts - hateful, hungry, bowing to Caesar. Another history... gone, carried by me alone.
+GID00095436	<Sneaky beeping>
+GID00095437	<Strained beeping>
+GID00095438	<Confirmatory beeping>
+GID00095439	<Confirmatory beeping>
+GID00095440	<Confirmatory beeping>
+GID00095441	Got you.
+GID00095442	Let's end this.
+GID00095443	End of the road.
+GID00095444	We'll see what you stand for.
+GID00095445	<Combat beeping>
+GID00095446	<Happy beeping>
+GID00095447	<Confirmatory beeping>
+GID00095448	<Confirmatory beeping>
+GID00095449	<Confirmatory beeping>
+GID00095450	<Confirmatory beeping>
+GID00095451	<Negatory beeping>
+GID00095452	<Confirmatory beeping>
+GID00095453	<Confirmatory beeping>
+GID00095454	<Confirmatory beeping>
+GID00095455	<Confirmatory beeping>
+GID00095456	<Confirmatory beeping>
+GID00095457	<Confirmatory beeping>
+GID00095458	<Confirmatory beeping>
+GID00095459	Won't lose you again.
+GID00095460	Didn't walk through ash and hell to lose you now.
+GID00095461	<Alert music>
+GID00095462	Whatever it was, gone now.
+GID00095463	Comes back, we'll deal with it then.
+GID00095464	<Frustrated beeping>
+GID00095465	Must've taken cover.
+GID00095466	Gone to ground.
+GID00095467	<Scanning beeping>
+GID00095468	Gone.
+GID00095469	Must've took off. Won't leave - not yet.
+GID00095470	<Triumphant beeping>
+GID00095471	Comes back, I'll be ready.
+GID00095472	Courier'll show soon.
+GID00095473	<Frustrated beeping>
+GID00095474	Got you.
+GID00095475	End you.
+GID00095476	<Combat music>
+GID00095477	Movement.
+GID00095478	Found you.
+GID00095479	There.
+GID00095480	<Alert music>
+GID00095481	Something nearby.
+GID00095482	Hear something.
+GID00095483	<Warning beeping>
+GID00095484	Don't see anything.
+GID00095485	Can't be far.
+GID00095486	<Seeking beeping>
+GID00095487	Something's here.
+GID00095488	Checking for movement.
+GID00095489	<Curious beeping>
+GID00095490	If that's what you wish.
+GID00095491	Then let's settle this.
+GID00095492	<Aggressive music>
+GID00095493	Watch yourself.
+GID00095494	Next time, you won't get mercy.
+GID00095495	<Triumphant beeping>
+GID00095496	Scavenger.
+GID00095497	So it's to be my ending, then.
+GID00095498	End of the road.
+GID00095499	My flag rests here.
+GID00095500	Bombs won't save you.
+GID00095501	Explosive!
+GID00095502	<Warning beeping>
+GID00095503	I'll answer fire with fire.
+GID00095504	Gift from the Divide.
+GID00095505	Need to get some distance.
+GID00095506	Stronger than I thought.
+GID00095507	<Scared beeping>
+GID00095508	<Grunt.>
+GID00095509	<Grunt.>
+GID00095510	<Combat beeping>
+GID00095511	Let's see what you stand for.
+GID00095512	The Divide'll be your grave.
+GID00095513	Let's have an ending to this.
+GID00095514	<Violent music>
+GID00095515	<Confirmatory beeping>
+GID00095516	Can hear the weight in your feet - you're bound for that Old World wall. Hoover Dam. Maybe not now - in time.
+GID00095517	<Happy beeping>
+GID00095518	The Divide belongs to history now. The Mojave awaits.
+GID00095519	Courier.
+GID00095520	Clearing the chamber?
+GID00095521	Better off saving ammo.
+GID00095522	Fire, and I won't take it lying down.
+GID00095523	Better be sure.
+GID00095524	A tactic of the Bear.
+GID00095525	Worthy of Hanlon.
+GID00095526	Watch the blast!
+GID00095527	Explosive!
+GID00095528	<Grateful beeping>
+GID00095529	<Alarmed beeping>
+GID00095530	<Music>... RALPHIE... fly far, fly fast!
+GID00095531	<Excited beeping>
+GID00095532	<Happy beeping>
+GID00095533	Not now. Let's settle things here.
+GID00095534	If we're done here, let's leave the Divide behind. If we get separated, I'll meet you above Hopeville, near the Canyon Wreckage.
+GID00095535	Full circle, walked your road - now back again.
+GID00095536	Something else in you needing an answer?

@@ -1,0 +1,9 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc05_message_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00098262	Caravan Pack items added to inventory.
+GID00098264	You take a sip from your trusty Vault 13 canteen...
+GID00098266	Classic Pack items added to inventory.
+GID00098268	Mercenary Pack items added to inventory.
+GID00098270	Tribal Pack items added to inventory.

@@ -1,0 +1,17 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc05_name_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00098272	Lightweight Leather Armor
+GID00098273	Sturdy Caravan Shotgun
+GID00098274	Caravan Pack
+GID00098275	Armored Vault 13 Jumpsuit
+GID00098276	Vault 13 Canteen
+GID00098277	Weathered 10mm Pistol
+GID00098280	Classic Pack
+GID00098281	Lightweight Metal Armor
+GID00098282	Mercenary's Grenade Rifle
+GID00098283	Mercenary Pack
+GID00098284	Tribal Pack
+GID00098285	Tribal Raiding Armor
+GID00098286	Broad Machete

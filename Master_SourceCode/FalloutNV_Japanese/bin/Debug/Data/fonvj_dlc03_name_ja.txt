@@ -1,0 +1,1154 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc03_name_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00091394	トランク
+GID00091395	道具箱
+GID00091396	供給シュート
+GID00091397	紙リサイクラー
+GID00091398	研究ターミナル
+GID00091399	Z-43革新的毒素プラント
+GID00091400	Big MT 西トンネル
+GID00091401	X-2送信アンテナアレイ
+GID00091402	Signal Hills送信機
+GID00091404	Nellis アレイ発電機
+GID00091405	エレベーター
+GID00091406	変人の巣
+GID00091407	磁気油圧複合体
+GID00091408	Big MT 北トンネル
+GID00091410	Project X-13
+GID00091411	ダミーのロボブレインのテスト
+GID00091412	レーザートリップワイヤエミッター
+GID00091414	#103
+GID00091415	#108
+GID00091416	#102
+GID00091417	#101
+GID00091418	#00
+GID00091419	地下室
+GID00091422	Z-9ガラガラヘビ属DNA保全研究室
+GID00091423	セキュリトロンの脱構築プラント
+GID00091424	机
+GID00091425	机
+GID00091427	原子力強度
+GID00091428	原子の教科書
+GID00091429	Atomic!
+GID00091431	Z-14ペプシン・DNA組替研究室
+GID00091432	#104
+GID00091433	Z-38光学研究室
+GID00091434	Dead Wind 洞窟
+GID00091435	Y-17医療施設
+GID00091436	Z-43革新的毒素プラント
+GID00091437	ゲート
+GID00091438	Big MT 西トンネル
+GID00091439	Saturnite合金研究施設
+GID00091440	Higgs Village
+GID00091441	Z-14ペプシン・DNA組替研究室
+GID00091442	Z-9ガラガラヘビ属DNA保全研究室
+GID00091443	Signal Hills送信機
+GID00091444	X-17気象ステーション
+GID00091445	Little Yangtze
+GID00091446	Z-38光学研究室
+GID00091447	精神病院
+GID00091448	Big MT 東トンネル
+GID00091449	X-2送信アンテナアレイ
+GID00091450	X-7b "Boom Town"ターゲットゾーン
+GID00091451	X-7A"レフトフィールド"砲撃台
+GID00091452	Y-17医療施設
+GID00091453	X-8研究センター
+GID00091454	危険性物質実験場
+GID00091455	廃棄物分解プラットフォーム
+GID00091456	セキュリトロンの脱構築プラント
+GID00091457	Y-0リサーチセンター
+GID00091458	X-22植物園
+GID00091459	Big MT 北トンネル
+GID00091460	磁気油圧複合体
+GID00091461	インプラント M-5
+GID00091462	インプラント Y-3
+GID00091463	インプラント C-13
+GID00091464	DNAgent
+GID00091465	ナイトストーカーエキス
+GID00091466	Mile in Their Shoes
+GID00091467	インプラント Y-7
+GID00091468	プロトン・インヴァーサル・アックス
+GID00091469	X8メインコードボックス
+GID00091470	X-8 Kennelターミナル
+GID00091471	暴走したセキュリトロン Mk1
+GID00091472	Spineless
+GID00091473	Brainless
+GID00091474	Increased Damage Resistance
+GID00091475	Torso Restoration
+GID00091476	Spineless Strength
+GID00091477	Heartless
+GID00091478	薄いレッド・ペースト
+GID00091479	ブラッドソーセージ
+GID00091480	Them's Good Eatin'
+GID00091481	Gibsonの小屋
+GID00091482	The Think Tank
+GID00091483	The Sinkのバルコニー
+GID00091484	禁止ゾーンドームエントランス
+GID00091485	プロテクトロン Mk3
+GID00091486	プロテクトロン Mk2
+GID00091487	プロテクトロン Mk1
+GID00091488	軍用サイバードッグ
+GID00091489	軍用サイバードッグ
+GID00091490	軍用サイバードッグ
+GID00091492	ドア
+GID00091494	ナイトストーカー
+GID00091495	ナイトストーカー
+GID00091496	ナイトストーカー
+GID00091497	X-8 メインターミナル
+GID00091498	X-8 遺伝子組換え施設のターミナル
+GID00091499	インプラント GRX
+GID00091500	インプラント GRX
+GID00091502	Klein Destine
+GID00091503	Make Up Your Mind
+GID00091504	Spinal-Tapped!
+GID00091505	心停止!
+GID00091506	Outsmarted
+GID00091507	Mobius Strip
+GID00091508	Mr.ハンディ
+GID00091509	犬
+GID00091510	工具棚
+GID00091511	金属の箱
+GID00091512	金属の箱
+GID00091513	ロッカー
+GID00091514	ロッカー
+GID00091515	小型ロッカー
+GID00091516	小型ロッカー
+GID00091517	書類棚
+GID00091518	書類保管棚
+GID00091519	書類保管棚
+GID00091520	書類保管棚
+GID00091521	保管棚
+GID00091522	道具箱
+GID00091523	科学者の手袋
+GID00091526	Mr.ガッツィー Mk1
+GID00091527	Mr.ガッツィー Mk3
+GID00091528	Mr.ガッツィー Mk2
+GID00091529	狂ったMr.ハンディ
+GID00091530	狂ったMr.ハンディ
+GID00091531	狂ったMr.ハンディ
+GID00091532	Mr.ハンディ
+GID00091533	警戒ロボット Mk1
+GID00091534	警戒ロボット Mk2
+GID00091535	警戒ロボット Mk3
+GID00091536	暴走したセキュリトロン Mk2
+GID00091537	暴走したセキュリトロン Mk3
+GID00091538	タレット Mark IV
+GID00091539	タレット Mark IV
+GID00091540	タレット Mark IV
+GID00091541	ロボブレイン Mk1
+GID00091542	ロボブレイン Mk2
+GID00091543	ロボブレイン Mk4
+GID00091544	ロボブレイン
+GID00091545	カサドレス
+GID00091546	カサドレス
+GID00091547	カサドレス
+GID00091548	ロボスコーピオン Mk1
+GID00091549	ロボスコーピオン Mk2
+GID00091550	ロボスコーピオン Mk3
+GID00091552	コロシブ・グローブ
+GID00091554	殺きんグローブ
+GID00091555	Dr.Mobiusの手袋
+GID00091556	Dr.Kleinの手袋
+GID00091563	Vault 11
+GID00091564	Brain Beam
+GID00091565	Brain Mesmetron
+GID00091566	ロボトミー
+GID00091567	Roxie
+GID00091568	ロボブレイン
+GID00091569	骨
+GID00091571	ドア
+GID00091572	dalptest
+GID00091573	Dog Run I - Dog Gone
+GID00091574	Dog Run II - Who let the...
+GID00091575	Dog Run III - Snake Skins
+GID00091576	VR the Champions I - Simulated
+GID00091577	VR the Champions II - Simulacra
+GID00091578	VR the Champions III - Hollowed Out
+GID00091579	MT Space
+GID00091580	Outer Space
+GID00091581	Encounter Code Box
+GID00091582	Encounter Spawn List
+GID00091583	NVDLC03Enc
+GID00091586	ドア
+GID00091588	ロボトミー
+GID00091589	ロボトミー
+GID00091590	ロボトミー
+GID00091591	Encounters
+GID00091594	X-13 研究施設
+GID00091597	価数増強輪
+GID00091599	Gabeの穴掘り場所
+GID00091600	Gabeの穴掘り場所
+GID00091601	警察用サイバードッグ
+GID00091602	Vault 11 下層階
+GID00091604	原子価数増強三重輪
+GID00091605	Techatticup Mine
+GID00091606	下水道のネズミ
+GID00091607	LAER
+GID00091608	ドア
+GID00091609	ドア
+GID00091610	ターミナル
+GID00091611	調査ターミナル
+GID00091612	ターミナル
+GID00091613	プロトン・スローイング・アックス
+GID00091614	プロトン・インヴァーサル・スローイング・アックス
+GID00091615	X-8タレット制御装置
+GID00091616	X-8タレット制御装置
+GID00091617	バルコニーのドア
+GID00091619	X-13 実験ステルススーツ コンプリート
+GID00091620	プロトタイプX-13ブーツ
+GID00091621	プロトタイプX-13グローブ
+GID00091622	プロトタイプX-13胸当て
+GID00091623	便器
+GID00091624	トイレ
+GID00091625	シンク
+GID00091626	噴水
+GID00091628	ロボ・スコルピオン Mk1
+GID00091631	ステルススーツMk II
+GID00091632	X-13フィールド破壊ピストル
+GID00091633	ホール・モニター
+GID00091634	X-2アンテナ
+GID00091635	ドア
+GID00091636	Lobotomite ゴーグル
+GID00091637	Higgs Village
+GID00091638	ホットプレート
+GID00091639	ロボットコンプライアンス
+GID00091640	ロボットコンプライアンス
+GID00091641	Basic Infiltration
+GID00091642	ウェイストランダー
+GID00091643	ライトスイッチ
+GID00091645	砲撃コントロール
+GID00091646	カサドレス
+GID00091647	カサドレス
+GID00091648	カサドレス
+GID00091649	軍用サイバードッグ
+GID00091650	軍用サイバードッグ
+GID00091651	軍用サイバードッグ
+GID00091652	ロボ・スコルピオン Mk4
+GID00091653	ロボ・スコルピオン Mk5
+GID00091654	ロボ・スコルピオン Mk6
+GID00091655	Mr.ガッツィー Mk4
+GID00091656	Mr.ガッツィー Mk5
+GID00091657	Mr.ガッツィー Mk6
+GID00091658	狂ったMr.ハンディ
+GID00091659	狂ったMr.ハンディ
+GID00091660	狂ったMr.ハンディ
+GID00091661	ナイトストーカー
+GID00091662	ナイトストーカー
+GID00091663	ナイトストーカー
+GID00091664	プロテクトロン Mk4
+GID00091665	プロテクトロン Mk5
+GID00091666	プロテクトロン Mk6
+GID00091667	ロボブレイン Mk3
+GID00091668	ロボブレイン Mk5
+GID00091669	ロボブレイン Mk6
+GID00091670	暴走したセキュリトロン Mk4
+GID00091671	暴走したセキュリトロン Mk5
+GID00091672	暴走したセキュリトロン Mk6
+GID00091673	警戒ロボット Mk4
+GID00091674	警戒ロボット Mk5
+GID00091675	警戒ロボット Mk6
+GID00091676	衛星アンテナへのハシゴ
+GID00091677	X-12
+GID00091678	スノードーム - Big MT
+GID00091679	メンタス・テストレベル
+GID00091680	Y-17 トラウマ オーバーライド ハーネス
+GID00091681	Y-17 トラウマ オーバーライド ハーネス
+GID00091682	Y-17 トラウマ オーバーライド ハーネス
+GID00091683	Gabe
+GID00091684	Gabe
+GID00091685	Gabe
+GID00091686	Gabe
+GID00091687	Gabe
+GID00091688	音波の再調整
+GID00091689	音波の再調整機器
+GID00091690	Dr. Calis
+GID00091691	患者衣
+GID00091692	収納キャビネット
+GID00091693	改造されたヌカコーラの自販機
+GID00091694	ヌカ・コーラ自動販売機
+GID00091695	Dr. Mobius
+GID00091696	Dr. Mobius
+GID00091697	Dr. Mobius
+GID00091698	Dr. Mobius
+GID00091699	Dr. Mobius
+GID00091700	Dr. Klein
+GID00091701	Dr. Klein
+GID00091702	Dr. Klein
+GID00091703	Dr. Klein
+GID00091704	Dr. Klein
+GID00091705	RoboScorpion Burst Attack
+GID00091708	エレベーター
+GID00091709	X-13 ステルス実験室
+GID00091710	アポカリプスの医師
+GID00091711	セキュリトロン Mk I
+GID00091712	Voice NPC for Stealth Suit Mk II
+GID00091713	スティムパック自動注入機
+GID00091714	ステルススーツ Mk II
+GID00091715	DNAvenger
+GID00091716	Caza-Death Dealer I
+GID00091717	Caza-Death Dealer II
+GID00091718	Caza-Death Dealer III
+GID00091719	ナイトストーカー サンプル
+GID00091720	Artillery Command Center
+GID00091721	注意事項:Sonic Emitter
+GID00091722	Hazmat Darklight Cowl
+GID00091723	Hazmat Suit
+GID00091724	Little Yangtze の監視塔
+GID00091725	金属の箱
+GID00091726	小型ロッカー
+GID00091727	Betsy Bright の懲戒記録
+GID00091728	中間試験段階のレポート: Richie Marcus
+GID00091729	Cherie O' Bannon の放課後スケジュール
+GID00091730	X-8 Data Retrieval Test
+GID00091733	Vault 34 - 1階
+GID00091734	科学者の手術着
+GID00091735	Dr. Kleinの手術着
+GID00091736	Dr. Mobiusの手術着
+GID00091737	マッドサインティストの手術着
+GID00091738	Turret Kill Volume
+GID00091739	X-8 施設試験ターミナル
+GID00091740	X-8 施設試験ターミナル
+GID00091741	X-8 施設試験ターミナル
+GID00091742	Bio-Mechanical 接合ルール
+GID00091743	Big Mountain トランスポータルポンダー
+GID00091744	Sonic Emitter - オペラ歌手
+GID00091745	Giant RoboScorpion Death Spell
+GID00091747	x-8 展望台ターミナル
+GID00091748	Institutional Data 取得試験
+GID00091749	Residential Cyberdog Test Off-Limits!
+GID00091750	アドバイスしてください
+GID00091751	X-8 テスト対象に関する情報
+GID00091752	Re: アドバイスしてください
+GID00091753	封鎖された配送部
+GID00091754	Field Gun Prototype on Loan
+GID00091755	Sink Vendor Container
+GID00091756	Upgrade - 冷蔵庫
+GID00091757	Upgrade - Auto-Doc 理容師モジュール
+GID00091758	x-13 VRプログラム警告
+GID00091759	セキュリティターミナル
+GID00091760	Sonic Emitter - Gabrielの吠え声
+GID00091761	Sonic Emitter - 黙示録
+GID00091762	Sonic Emitter - ロボスコルピオン
+GID00091763	Sonic Emitter - タランチュラ
+GID00091764	Upgrade - Auto-Doc 美容外科モジュール
+GID00091765	雷管と火薬箱
+GID00091766	K9000 サイバードッグガン
+GID00091768	ロボスコルピオン Mk1
+GID00091769	ロボスコルピオン Mk1
+GID00091770	ロボスコルピオン Mk1
+GID00091771	ロボスコルピオン ボマー Mk6
+GID00091772	ロボスコルピオン ボマー Mk5
+GID00091773	ロボスコルピオン ボマー Mk4
+GID00091774	ロボスコルピオン ボマー Mk3
+GID00091775	ロボスコルピオン ボマー Mk2
+GID00091776	ロボスコルピオン ボマー Mk1
+GID00091777	ロボスコルピオン ブラスター Mk6
+GID00091778	ロボスコルピオン ブラスター Mk5
+GID00091779	ロボスコルピオン ブラスター Mk4
+GID00091780	ロボスコルピオン ブラスター Mk3
+GID00091781	ロボスコルピオン ブラスター Mk2
+GID00091782	ロボスコルピオン ブラスター Mk1
+GID00091783	ロボスコルピオン ピンサー Mk6
+GID00091784	ロボスコルピオン ピンサー Mk5
+GID00091785	ロボスコルピオン ピンサー Mk4
+GID00091786	ロボスコルピオン ピンサー Mk3
+GID00091787	ロボスコルピオン ピンサー Mk2
+GID00091788	ロボスコルピオン ピンサー Mk1
+GID00091789	Project: Burke と Project: Hare - お読みください
+GID00091791	肉
+GID00091792	X-8 犬小屋の鍵
+GID00091793	カウントダウン
+GID00091795	Dialogue Dr. 8
+GID00091796	Dialogue Dr. O
+GID00091797	Dialogue Dr. Borous
+GID00091798	Dr. Dala
+GID00091799	Dr. Dala
+GID00091800	Dr. Dala
+GID00091801	Dr. Dala
+GID00091802	Dr. Dala
+GID00091803	Dr. Dala
+GID00091804	Dr. O
+GID00091805	Dr. O
+GID00091806	Dr. O
+GID00091807	Dr. O
+GID00091808	Dr. O
+GID00091809	Dr. O
+GID00091810	X-42 セキュリティータレット
+GID00091811	タレット制御システム
+GID00091813	ロボトミー ジャンプスーツ
+GID00091814	ロボトミー マスク
+GID00091815	ロボトミー マスク&ゴーグル
+GID00091817	Dialogue for HQ Buddies
+GID00091818	Muggy
+GID00091828	No Suit Detected!
+GID00091829	ステルススーツ Mk II
+GID00091830	X-13 ドキュメント
+GID00091831	Administrator's Wall Safe
+GID00091832	X-42 巨大ロボスコルピオン
+GID00091833	X-42 巨大ロボスコルピオン
+GID00091834	X-42 巨大ロボスコルピオン
+GID00091835	X-42 巨大ロボスコルピオン
+GID00091836	X-42 巨大ロボスコルピオン
+GID00091837	X-42 巨大ロボスコルピオン
+GID00091840	巨大ロボスコルピオン テストログ
+GID00091841	ドア
+GID00091842	ロッカー
+GID00091843	ロッカー
+GID00091844	ロッカー
+GID00091845	Target Drone Effectiveness
+GID00091846	Bio Research Station Voice (NOT USED IN GAME)
+GID00091847	Sink Voice (NOT USED IN GAME)
+GID00091848	Toaster Voice (NOT USED IN GAME)
+GID00091849	Sink CIU
+GID00091850	Light Switch 01 Voice (NOT USED IN GAME)
+GID00091851	Light Switch 02 Voice (NOT USED IN GAME)
+GID00091852	Jukebox Voice (NOT USED IN GAME)
+GID00091853	Book Chute Voice (NOT USED IN GAME)
+GID00091854	Auto-Doc Voice (NOT USED IN GAME)
+GID00091856	X-8 テストターミナル
+GID00091857	プロテクトロン
+GID00091858	プロテクトロン
+GID00091859	Expert Infiltration
+GID00091860	Advanced Infiltration
+GID00091861	ドア
+GID00091862	Safe
+GID00091863	Reward Safe
+GID00091865	Wastelander1
+GID00091867	Drone Control Terminal
+GID00091868	Power Regulation Terminal
+GID00091869	Terminal
+GID00091871	Dr.Borous
+GID00091872	Dr.Borous
+GID00091873	Dr.Borous
+GID00091874	Dr.Borous
+GID00091875	Dr.Borous
+GID00091876	Dr.Borous
+GID00091877	Dr.8
+GID00091878	Dr.8
+GID00091879	Dr.8
+GID00091880	Dr.8
+GID00091881	Dr.8
+GID00091882	Dr.8
+GID00091884	Dialogue Dr. Dala
+GID00091885	Robo-Scorpion Mk1
+GID00091887	Robot Compliance
+GID00091888	Expert Infiltration
+GID00091889	Advanced Infiltration
+GID00091890	Basic Infiltration
+GID00091891	Proximity Detector
+GID00091893	サタナイトフィスト
+GID00091894	プロテクトロン
+GID00091895	サタナイトフィスト・スーパーヒート
+GID00091898	建設現場
+GID00091899	ジャイアントスコルピオン DT 30
+GID00091900	非常停止ターミナル
+GID00091901	緊急 シャットダウン ターミナル用のパスワード
+GID00091902	テストコンプリート!
+GID00091906	X-8 犬小屋のドア
+GID00091908	FIDO
+GID00091909	Freeside
+GID00091910	墜落した人工衛星
+GID00091912	サイバードック
+GID00091913	あなたの脊柱
+GID00091914	あなたの心臓
+GID00091915	あなたの脳
+GID00091916	小型ロッカー
+GID00091917	ドア
+GID00091918	Lake Meadの洞窟
+GID00091921	Project X-13 Redux
+GID00091922	ダッフルバッグ
+GID00091923	Wooden Crate
+GID00091924	Oven
+GID00091925	保管棚
+GID00091926	金属の箱
+GID00091927	Desk
+GID00091928	Refrigerator
+GID00091929	Wardrobe
+GID00091930	小型ロッカー
+GID00091931	Vending Machine
+GID00091932	Grave
+GID00091933	トランク
+GID00091934	トランク
+GID00091935	トランク
+GID00091936	電気ボックス
+GID00091937	封鎖された配送部
+GID00091939	ナイトストーカーのDNA操作
+GID00091940	Ripped Scientist Scrubs
+GID00091944	エレベーター
+GID00091945	エレベーター
+GID00091946	ChristineのCOSサイレンサーライフル
+GID00091947	サンプルボックス
+GID00091948	サンプルボックス
+GID00091949	サンプルボックス
+GID00091950	Field Research
+GID00091951	All My Friends Have Off Switches
+GID00091952	Influencing People
+GID00091953	電気ボックス
+GID00091954	小型ロッカー
+GID00091955	Gabeの皿
+GID00091956	ナイトストーカー
+GID00091957	ナイトストーカー
+GID00091958	ナイトストーカー
+GID00091959	ナイトストーカー
+GID00091960	ナイトストーカー
+GID00091961	ナイトストーカー
+GID00091962	弾薬箱
+GID00091964	Making Friends
+GID00091965	Y-17 トラウマハーネス アクション指定
+GID00091966	"Chicken" の脚
+GID00091967	ロボトミー
+GID00091968	ロボトミー
+GID00091969	ロボトミー
+GID00091970	ChristineのCOSリコンアーマー
+GID00091971	Elijahの応急テスラキャノン
+GID00091972	タレット Mark IV
+GID00091974	Gnawed Bones
+GID00091975	Crashed Satellite
+GID00091976	DriveIn Movie
+GID00091977	Biological Research Station
+GID00091978	Player's Stuff Storage
+GID00091979	Throwing Hatchet
+GID00091980	音声サンプル - Gabrielの吠え声
+GID00091981	音声サンプル - オペラ歌手
+GID00091982	音声サンプル - Mobiusのロボスコルピオン
+GID00091983	音声サンプル - 巨大タランチュラ
+GID00091984	Sink Project: 生物研究ステーション
+GID00091985	Sink Project: Auto-Doc
+GID00091986	Sink Project: ジュークボックス
+GID00091987	Sink Project: ブックシュート
+GID00091988	Sink Project: トースター
+GID00091989	Sink Project: Sink
+GID00091990	Sink Project: ライトスイッチ01
+GID00091991	Sink Project: ライトスイッチ02
+GID00091992	Sink Project: Muggy
+GID00091993	Auto-Doc アップデート:ヘアスタイル改善
+GID00091994	Auto-Doc アップグレード: Implant C-13
+GID00091995	Auto-Doc アップグレード: Implant M-5
+GID00091996	Auto-Doc アップグレード: Implant Y-3
+GID00091997	Auto-Doc アップグレード: Implant Y-7
+GID00091998	ブックシュートアップグレード:マルチング
+GID00091999	流し台アップグレード:水作成
+GID00092000	ライトスイッチ01アップグレード:"スマートライト"
+GID00092001	"Muggy"アップグレード:パーツ製造
+GID00092002	乾燥した白いワルナスビ
+GID00092003	レシピ - Barterのスキルブック
+GID00092004	乾燥したネバダ・リュウゼツランの果実
+GID00092005	乾燥したタマサボテンの果実
+GID00092006	乾燥したインゲンマメのさや
+GID00092007	乾燥したバナナユッカの果実
+GID00092008	乾燥したブロックフラワー
+GID00092009	乾燥したウチワサボテンの果実
+GID00092010	乾燥したザンダールート
+GID00092011	乾燥したハニーメスキートのさや
+GID00092012	乾燥したハラペーニョの実
+GID00092013	乾燥したトウモロコシ
+GID00092014	レシピ - Energy Weaponsのスキルブック
+GID00092015	レシピ -  Explosivesのスキルブック
+GID00092016	レシピ - Gunsのスキルブック
+GID00092017	レシピ - Lockpickのスキルブック
+GID00092018	レシピ - Medicineのスキルブック
+GID00092019	レシピ - Melee Weaponsのスキルブック
+GID00092020	レシピ - Repairのスキルブック
+GID00092021	レシピ - Scienceのスキルブック
+GID00092022	レシピ - Sneakのスキルブック
+GID00092023	レシピ - Speechのスキルブック
+GID00092024	レシピ - Survivalのスキルブック
+GID00092025	レシピ - Unarmedのスキルブック
+GID00092026	白紙の本
+GID00092027	スキルブック: Barter
+GID00092028	スキルブック: Energy Weapons
+GID00092029	スキルブック: Explosives
+GID00092030	スキルブック: Guns
+GID00092031	スキルブック: Lockpick
+GID00092032	スキルブック: Medicine
+GID00092033	スキルブック: Melee Weapons
+GID00092034	スキルブック: Repair
+GID00092035	スキルブック: Science
+GID00092036	スキルブック: Sneak
+GID00092037	スキルブック: Speech
+GID00092038	スキルブック: Survival
+GID00092039	スキルブック: Unarmed
+GID00092040	警察用サイバードッグ
+GID00092041	警察用サイバードッグ
+GID00092042	警察用サイバードッグ
+GID00092043	警察用サイバードッグ
+GID00092044	警察用サイバードッグ
+GID00092045	警察用サイバードッグ
+GID00092046	建設用ドローン
+GID00092047	建設用ドローン
+GID00092048	建設用ドローン
+GID00092049	建設用ドローン
+GID00092050	建設用ドローン
+GID00092051	建設用ドローン
+GID00092063	ホログラム再生
+GID00092064	ホログラムフリッカーイン
+GID00092065	ホログラムフリッカーアウト
+GID00092066	ホログラムフリッカー
+GID00092067	Immune to Fire
+GID00092068	Hologram Neutral
+GID00092069	Hologram Neutral 2
+GID00092070	ホログラムの服
+GID00092071	ホログラムビーム
+GID00092072	エナジーセル
+GID00092073	ホログラム
+GID00092074	QAテスト用のテストセル
+GID00092075	Scripting Support for Hologram Features
+GID00092076	Deluxe Chemistry Set
+GID00092079	洞窟キノコ変種
+GID00092080	洞窟キノコ変種
+GID00092081	Picking Your Brains
+GID00092084	ライトスイッチ02アップグレード:"ムードライト"
+GID00092085	ストレージキャビネット
+GID00092086	データ検索
+GID00092087	データ検索
+GID00092088	Residential Cyberdog Guard Test
+GID00092089	X-8 Data Retrieval Test Replay
+GID00092090	Early Bird
+GID00092091	Early Bird Bonus
+GID00092092	Early Bird Penalty
+GID00092093	Hot Blooded Penalty
+GID00092094	Hot Blooded
+GID00092095	Hoarder Penalty
+GID00092096	Hoarder
+GID00092097	Logan's Loophole
+GID00092098	Mr.オーダリー Mk1
+GID00092099	Mr.オーダリー Mk2
+GID00092100	Mr.オーダリー Mk3
+GID00092101	Mr.オーダリー Mk4
+GID00092102	Mr.オーダリー Mk5
+GID00092103	Mr.オーダリー Mk6
+GID00092104	犬とLobotomiteの接合実験に関するホロテープ
+GID00092105	ロボットとナイトストーカーの接合実験に関するホロテープ
+GID00092106	犬とロボットの接合実験に関するホロテープ
+GID00092107	Spore Carrier Runt
+GID00092108	Spore Carrier
+GID00092109	Spore Carrier Brute
+GID00092110	Spore Carrier Savage
+GID00092111	Spore Carrier Scavenger
+GID00092112	Spore Carrier Alpha
+GID00092113	Skilled
+GID00092114	被験者の観察
+GID00092115	Independent Research
+GID00092116	RE: RE: RE: 被験者の観察
+GID00092117	被験者の観察
+GID00092118	被験者の観察
+GID00092119	提案.
+GID00092120	X-13 出荷通知
+GID00092121	Re: X-13 出荷通知
+GID00092122	Check out this mod I've been working on!
+GID00092123	Get off your butt, Butz!
+GID00092124	What the hell...?!
+GID00092125	Mk II Torso Research
+GID00092126	Mk II Glove Research
+GID00092127	Mk II Boot Research
+GID00092128	Vent
+GID00092129	Vent
+GID00092130	Greasyの道具箱
+GID00092131	技術者のターミナル
+GID00092132	ターミナル
+GID00092133	ターミナル
+GID00092134	ターミナル
+GID00092135	研究ターミナル
+GID00092136	研究ターミナル
+GID00092137	研究ターミナル
+GID00092138	テスト記録ターミナル
+GID00092139	セキュリティターミナル
+GID00092140	銃器庫
+GID00092142	Independent Research
+GID00092143	技術者ターミナル
+GID00092144	材料を処理しますか?
+GID00092145	レーザーライフル
+GID00092146	Seed Package
+GID00092147	Seed Package
+GID00092148	Seed Package
+GID00092150	閉所恐怖症のボーナス
+GID00092151	閉所恐怖症のペナルティ
+GID00092154	Protonic Inversal Axe
+GID00092155	Inversal Axe Thrown
+GID00092156	サタナイト・パワーフィスト
+GID00092157	Christine's COS Silencer Rifle
+GID00092158	Elijahの高性能LAER
+GID00092159	Elijah's Jury-Rigged Tesla Cannon
+GID00092160	LAER
+GID00092161	Sterilizer Glove
+GID00092162	Dr.Kleinの手袋
+GID00092163	Dr.Mobiusの手袋
+GID00092164	Lobotomite
+GID00092165	Lobotomite
+GID00092166	Lobotomite
+GID00092167	Lobotomite
+GID00092168	Lobotomite
+GID00092169	Lobotomite
+GID00092170	Lobotomite
+GID00092171	Lobotomite
+GID00092172	Lobotomite
+GID00092173	Lobotomite
+GID00092174	Lobotomite
+GID00092175	Lobotomite
+GID00092176	Lobotomite
+GID00092177	Lobotomite
+GID00092178	Lobotomite
+GID00092179	Lobotomite
+GID00092180	Lobotomite
+GID00092181	Lobotomite
+GID00092182	Lobotomite
+GID00092183	Lobotomite
+GID00092184	Lobotomite
+GID00092185	Lobotomite
+GID00092186	Lobotomite
+GID00092187	Lobotomite
+GID00092188	Lobotomite
+GID00092189	Lobotomite
+GID00092190	Lobotomite
+GID00092191	Lobotomite
+GID00092192	Lobotomite
+GID00092193	Lobotomite
+GID00092194	Lobotomite
+GID00092195	Lobotomite
+GID00092196	Lobotomite
+GID00092197	Lobotomite
+GID00092198	Lobotomite
+GID00092199	Lobotomite
+GID00092200	Lobotomite
+GID00092201	Lobotomite
+GID00092202	Lobotomite
+GID00092203	Lobotomite
+GID00092204	Lobotomite
+GID00092205	Lobotomite
+GID00092206	Lobotomite
+GID00092207	Lobotomite
+GID00092208	Lobotomite
+GID00092221	Skeleton Head Helm
+GID00092222	Y-17 Animatronic Lab Skeleton
+GID00092223	Y-17 Animatronic Lab Skeleton
+GID00092224	Y-17 Animatronic Lab Skeleton
+GID00092225	Ammunition Box
+GID00092227	Claustrophobia Bonus/Penalty
+GID00092238	スキルボーナス (スキル+5)
+GID00092239	Claustrophobia
+GID00092240	Implant Interface
+GID00092241	Salient Green
+GID00092242	Black Blood Sausage
+GID00092243	Black Blood Sausage
+GID00092244	[クローン] ネバダ・リュウゼツランの果実
+GID00092245	Thick Red Paste
+GID00092246	Thick Red Paste
+GID00092247	[クローン] タマサボテンの果実
+GID00092248	[クローン] インゲンマメのさや
+GID00092249	[クローン] バナナユッカ
+GID00092250	[クローン] Broc Flower
+GID00092251	[クローン] ウチワサボテンの果実
+GID00092252	[クローン] Xander Root
+GID00092253	[クローン] ハニーメスキート
+GID00092254	[クローン] ハラペーニョの実
+GID00092255	[クローン] トウモロコシ
+GID00092256	[クローン] 白いワルナスビ
+GID00092257	Light Switch
+GID00092258	Smart Lights
+GID00092259	Mood Lighting
+GID00092260	ナイトストーカー
+GID00092261	Disabled Jukebox
+GID00092262	材料を処理しますか?
+GID00092263	Holo-Vending Machine
+GID00092268	NVDLC03 Radio Quest
+GID00092272	Robo-Scorpion Mk1b
+GID00092273	Robo-Scorpion Mk2b
+GID00092274	Robo-Scorpion Mk3b
+GID00092275	Robo-Scorpion Mk4b
+GID00092276	Robo-Scorpion Mk5b
+GID00092277	Robo-Scorpion Mk6b
+GID00092284	Burning Explosion
+GID00092285	Ammunition Box
+GID00092286	X-12 研究センター
+GID00092287	Enable Linked
+GID00092288	Head Explosion
+GID00092289	Yangtze Camp Survivor
+GID00092290	Yangtze Camp Survivor
+GID00092291	Yangtze Camp Survivor
+GID00092292	Yangtze Camp Survivor
+GID00092294	Sonic Emitter not detected
+GID00092295	Need some heat?
+GID00092296	Need some heat?
+GID00092297	Need some heat?
+GID00092298	アイテムを処理しますか?
+GID00092299	Auto-Doc Upgrade: Cosmetic Enhancements
+GID00092300	Safe
+GID00092302	Set Target On Fire
+GID00092311	Antenna Club Paralysis
+GID00092312	Test Area A - Review
+GID00092315	Acid Weapon Critical
+GID00092318	Brain Tank Open Timer
+GID00092320	Hazmat Suit Containment Unit
+GID00092321	Hazmat Suit
+GID00092322	Spore Plant
+GID00092323	Spore Plant
+GID00092324	Spore Plant
+GID00092325	Spore Plant
+GID00092326	Spore Plant
+GID00092327	破損したセキュリトロン Mk1
+GID00092328	破損したセキュリトロン Mk2
+GID00092329	破損したセキュリトロン Mk3
+GID00092330	破損したセキュリトロン Mk4
+GID00092331	破損したセキュリトロン Mk5
+GID00092332	破損したセキュリトロン Mk6
+GID00092333	Spore Plant
+GID00092334	Hazmat Pod Security Code
+GID00092335	ホログラム
+GID00092336	Mega Robo-Scorpion Claw
+GID00092337	X8 Tunnel Hologram Code Box
+GID00092338	Borous' Basement Key
+GID00092339	Dalaのテディベア
+GID00092340	X-66 Hexcrete Archipelago
+GID00092341	ターミナル
+GID00092342	水浸しのダッフルバッグ
+GID00092343	Elijah's Watch
+GID00092344	Protectron Target Drone
+GID00092345	010011110110111001100101
+GID00092346	Spare Component
+GID00092347	Deactivated Bomb Collar
+GID00092348	Broken Detonator
+GID00092349	Damaged Satellite Dish
+GID00092350	Yangtze Camp Jumpsuit
+GID00092351	Cazador
+GID00092352	Cazador
+GID00092353	Cazador
+GID00092354	Cazador
+GID00092355	Cazador
+GID00092356	Cazador
+GID00092357	Mr.ガッツィー Mk1
+GID00092358	Mr.ガッツィー Mk2
+GID00092359	Mr.ガッツィー Mk3
+GID00092360	Mr.ガッツィー Mk4
+GID00092361	Mr.ガッツィー Mk6
+GID00092362	Mr.ガッツィー Mk5
+GID00092363	ナイトストーカー
+GID00092364	ナイトストーカー
+GID00092365	ナイトストーカー
+GID00092366	ナイトストーカー
+GID00092367	ナイトストーカー
+GID00092368	ナイトストーカー
+GID00092369	ロボブレイン Mk1
+GID00092370	ロボブレイン Mk2
+GID00092371	ロボブレイン Mk3
+GID00092372	ロボブレイン Mk4
+GID00092373	ロボブレイン Mk5
+GID00092374	ロボブレイン Mk6
+GID00092375	暴走したセキュリトロン Mk1
+GID00092376	暴走したセキュリトロン Mk2
+GID00092377	暴走したセキュリトロン Mk3
+GID00092378	暴走したセキュリトロン Mk4
+GID00092379	暴走したセキュリトロン Mk5
+GID00092380	暴走したセキュリトロン Mk6
+GID00092381	破損したセキュリトロン Mk1
+GID00092382	破損したセキュリトロン Mk2
+GID00092383	破損したセキュリトロン Mk3
+GID00092384	破損したセキュリトロン Mk4
+GID00092385	破損したセキュリトロン Mk5
+GID00092386	破損したセキュリトロン Mk6
+GID00092387	警戒ロボット Mk1
+GID00092388	警戒ロボット Mk2
+GID00092389	警戒ロボット Mk3
+GID00092390	警戒ロボット Mk4
+GID00092391	警戒ロボット Mk5
+GID00092392	警戒ロボット Mk6
+GID00092393	プロテクトロン Mk1
+GID00092394	プロテクトロン Mk2
+GID00092395	プロテクトロン Mk3
+GID00092396	プロテクトロン Mk4
+GID00092397	プロテクトロン Mk5
+GID00092398	プロテクトロン Mk2
+GID00092399	ドア
+GID00092400	ステルススーツ Mk II v1.3 ダウンロード!
+GID00092401	ステルススーツ Mk II v1.4 ダウンロード!
+GID00092402	ステルススーツ Mk II v1.1 ダウンロード!
+GID00092403	ステルススーツ Mk II v1.2 ダウンロード!
+GID00092404	X-8 テスト施設ターミナル
+GID00092405	X-8 テスト施設ターミナル
+GID00092406	X-8 テスト施設ターミナル
+GID00092407	設計図 - K9000 FIDO
+GID00092408	ドブネズミ
+GID00092410	K9000 FIDO サイバードッグガンのアップグレード
+GID00092413	Hall Monitor
+GID00092414	Generic Wild Wasteland
+GID00092416	Ulysses
+GID00092417	Christine
+GID00092418	オーバークロック・タレット
+GID00092419	ハエトリ草
+GID00092420	患者 Zero
+GID00092421	RY-588 ウルティモボット
+GID00092422	スーパー・エゴ
+GID00092423	主任建設ドローン
+GID00092424	The Custodian
+GID00092425	シャディス
+GID00092426	Dr.オーダリー 医学・哲学・歯科学博士
+GID00092427	スパークス
+GID00092428	アイアンベリー
+GID00092429	被検体 73
+GID00092430	Y-17 Advanced Animatronic Skeleton
+GID00092431	No.34
+GID00092432	No.27
+GID00092433	被験者1
+GID00092434	Y-17 マスタートラウマハーネス
+GID00092435	Debug Topics
+GID00092436	Big Empty Holotapes
+GID00092437	ロボブレイン
+GID00092438	プロテクトロン
+GID00092439	患者ログ:Y-17.0
+GID00092440	患者ログ:Y-17.5
+GID00092441	患者ログ:Y-17.9
+GID00092442	ジュークボックス
+GID00092443	謎の洞窟
+GID00092444	エレベーター
+GID00092445	保存された肉
+GID00092446	バトルブルー
+GID00092447	金属の箱
+GID00092448	Strange Cask
+GID00092449	Strange Still
+GID00092450	Hanging Meat
+GID00092451	赤い霧
+GID00092455	ドア
+GID00092456	ドア
+GID00092457	X-8 試験 2 ソニックエミッターのメモ
+GID00092458	Ulysses ポイント
+GID00092459	Ulysses の地図
+GID00092460	木箱
+GID00092461	Exit to Big MT
+GID00092462	空のホロテープ
+GID00092463	Reinforced Spine
+GID00092464	Ulysses ポイント
+GID00092466	Loading Station
+GID00092467	支援要請
+GID00092468	Sonic Emitter データ
+GID00092469	A Brain's Best Friend
+GID00092470	Coming Out Of Her Shell
+GID00092471	He Came... And Went
+GID00092472	On The Same Wavelength
+GID00092473	What's In A Name?
+GID00092474	When Visitors Attack!
+GID00092478	Elijahの日記
+GID00092479	ヤンツーキャンプのサバイバーの死体
+GID00092480	Y-17 トラウマオーバーライドハーネス
+GID00092481	Y-17 トラウマオーバーライドハーネス
+GID00092482	Y-17 トラウマオーバーライドハーネス
+GID00092483	ロボトミー
+GID00092484	ロボトミー
+GID00092485	ロボトミー
+GID00092486	ドブネズミ
+GID00092487	ドブネズミ
+GID00092488	ドブネズミ
+GID00092489	ドブネズミ
+GID00092490	ドブネズミ
+GID00092492	ロボブレイン
+GID00092495	日記 Entry - Day 2
+GID00092496	日記 Entry - Day 3
+GID00092497	日記 Entry - Day 4
+GID00092498	日記 Entry - Day 4 - 追記
+GID00092499	Field Disrupter Download Terminal
+GID00092500	Field Disrupter Download Terminal
+GID00092501	Pit of Doom
+GID00092504	金属の箱
+GID00092505	VR Test Kudos
+GID00092506	FW: RE: VR Test
+GID00092507	Nightstalker Squeezin's
+GID00092508	Mysterious Cave
+GID00092511	損傷したプロトタイプ
+GID00092513	損傷したプロトタイプ
+GID00092514	損傷したプロトタイプ
+GID00092515	損傷したプロトタイプ
+GID00092516	損傷したプロトタイプ
+GID00092517	損傷したプロトタイプ
+GID00092518	損傷したプロトタイプ
+GID00092519	伝説のブロートフライ
+GID00092520	Legendary Bloatfly Damage Threshold
+GID00092521	損傷したプロトタイプ
+GID00092522	損傷したプロトタイプ
+GID00092523	Stripe
+GID00092525	Radiation Resistance
+GID00092527	ドア
+GID00092528	ドア
+GID00092529	Legendary Bloatfly Code Box
+GID00092530	Psychiatric Evaluation
+GID00092531	Test Terminal
+GID00092532	Laser
+GID00092533	ダッフルバッグ
+GID00092534	道具箱
+GID00092539	X8 Gabe's Death Code Box
+GID00092540	ドア
+GID00092541	Lobotomite
+GID00092542	プロテクトロン Mk1
+GID00092543	What can Muggy do for you?
+GID00092544	What can Muggy do for you?
+GID00092545	What can Muggy do for you?
+GID00092546	エレベーター
+GID00092547	エレベーター
+GID00092548	Surgical Saw Control Panel
+GID00092549	ドア
+GID00092550	Smart Lights
+GID00092551	Mood Lighting
+GID00092552	K9000 Mod - Mentat Chow
+GID00092553	LAER Mod - Prismatic Lens
+GID00092554	LAER Mod - Auxiliary Recharger chip
+GID00092555	K9000 Mod - Resla Roil
+GID00092556	Opera Singer Bloody Mess
+GID00092557	Elijahの観察日記
+GID00092558	Torn Journal Page
+GID00092559	Parts Production
+GID00092560	Secondary Materials Mulching
+GID00092561	Main Computer Upgrade: K9000 Mod "Resla Roil"
+GID00092562	Main Computer Upgrade: LAER Mod "Auxiliary Recharger Chip"
+GID00092563	Main Computer Upgrade: LAER Mod "Prismatic Lens"
+GID00092564	Main Computer Upgrade: K9000 Mod "Mentat Chow"
+GID00092565	LAER Mod "Auxiliary Recharger Chip"
+GID00092566	LAER Mod "Prismatic Lens"
+GID00092567	K9000 Mod "Mentat Chow"
+GID00092568	K9000 Mod "Resla Roil"
+GID00092577	軍用Cyber Dog
+GID00092578	軍用Cyber Dog
+GID00092579	軍用Cyber Dog
+GID00092580	軍用Cyber Dog
+GID00092581	軍用Cyber Dog
+GID00092582	ターミナル
+GID00092583	ドア
+GID00092584	ドア
+GID00092585	Battle Brew
+GID00092592	Sonic Emitter - Revelation
+GID00092593	音波の再調整
+GID00092594	Soundwave Recalibration
+GID00092595	Empty Bottles to Purified Water
+GID00092596	Requisition Order: Chemical Suits
+GID00092597	Sierra Madre: Test Case?
+GID00092598	Dispenser Funding Update
+GID00092599	Requisition Order: Dispensers
+GID00092600	Vera Keyes: Hologram Progress Report
+GID00092601	Requisition Order: Holograms
+GID00092602	Terminal
+GID00092603	Terminal
+GID00092604	Terminal
+GID00092605	Terminal
+GID00092606	Swap body parts
+GID00092607	Dialogue X8 Robobrain
+GID00092608	腐食性の手袋
+GID00092609	NVDLC03HoloBaseCode Activator
+GID00092620	Dr.Kleinの眼鏡
+GID00092621	Dr.Mobiusの眼鏡
+GID00092624	マッド・サイエンティスト
+GID00092625	Evil Genius
+GID00092626	Automaton
+GID00092627	X-2 Antenna
+GID00092628	Science POW!
+GID00092629	Vent
+GID00092630	Spine-full
+GID00092631	Brain-full
+GID00092632	Heart-full
+GID00092633	Big Brained
+GID00092634	Cardiac Arrest
+GID00092635	Reinforced Spine
+GID00092638	Mad Science Attack!
+GID00092642	Giant Roboscorpion DT 10
+GID00092643	Giant Roboscorpion DT 15
+GID00092644	Giant Roboscorpion DT 20
+GID00092645	Giant Roboscorpion DT 25
+GID00092646	X-8 メインターミナル
+GID00092647	X-8 天文台ターミナル
+GID00092648	Assistance Granted
+GID00092649	K9000 Cyberdog Gun Sealed in X-12
+GID00092651	ドア
+GID00092652	門
+GID00092654	スーツケース
+GID00092655	Elijah's Advanced LAER
+GID00092656	タンク
+GID00092657	タンク
+GID00092658	タンク
+GID00092659	Robo-Scorpion Generic Dialogue
+GID00092660	Giant Robo-Scorpion Generic Dialogue
+GID00092661	Corpse Suit Generic Dialogue
+GID00092662	Damaged Securitron Generic Dialogue
+GID00092663	脳のタンク
+GID00092664	ドア
+GID00092665	Big-Brained
+GID00092666	Cardiac Arrest
+GID00092667	Reinforced Spine
+GID00092668	Y-17 Trauma Harness テスト結果
+GID00092669	Little Yangtze Log #01
+GID00092670	Little Yangtze Log #02
+GID00092671	Little Yangtze Log #03
+GID00092672	Little Yangtze Log Terminal
+GID00092674	Walking Eye
+GID00092675	Sink Project: Central Intelligence Unit
+GID00092676	VRシュミレーションノート
+GID00092677	Lobotomites
+GID00092678	エレベーター
+GID00092679	エレベーター
+GID00092680	Sonic Emitter Upgrade
+GID00092681	X-12 Terminal
+GID00092684	Implant Interface
+GID00092686	レシピ - Barter Skill Book
+GID00092687	レシピ - Energy Weapons Skill Book
+GID00092688	レシピ - Explosives Skill Book
+GID00092689	レシピ - Guns Skill Book
+GID00092690	レシピ - Lockpick Skill Book
+GID00092691	レシピ - Medicine Skill Book
+GID00092692	レシピ - Repair Skill Book
+GID00092693	レシピ - Science Skill Book
+GID00092694	レシピ - Sneak Skill Book
+GID00092695	レシピ - Speech Skill Book
+GID00092696	レシピ - Survival Skill Book
+GID00092697	レシピ - Unarmed Skill Book
+GID00092698	レシピ - Melee Weapons Skill Book
+GID00092699	Proton Axe
+GID00092700	ドア
+GID00092701	門
+GID00092703	Sink Drink Spell
+GID00092704	Encounter Code Box for Box #7
+GID00092705	Morning Star Cavern
+GID00092706	犬の皿
+GID00092707	Walking Box Cavern
+GID00092709	Ruby Hill Mine
+GID00092710	The Bison Steve Hotel
+GID00092711	Bloodborne Cave
+GID00092712	SentryBot Minigun
+GID00092713	Vault 34 - 武器庫
+GID00092714	モハビ・ドライブイン
+GID00092716	モハビ・ウェイストランド
+GID00092717	Hatchet
+GID00092718	Feral Ghoul Dialogue Quest
+GID00092719	タレット Mark II
+GID00092720	Nopah Cave
+GID00092721	The Faderator
+GID00092722	X-8 Institutional Test Facility
+GID00092723	The Basincreek Building
+GID00092724	Big MT
+GID00092725	X-42 Robo-Warfare Facility
+GID00092726	Midnight Science-Fiction Feature!
+GID00092727	Welcome to the Big Empty
+GID00092728	Old World Blues
+GID00092729	X-2: Strange Transmissions!
+GID00092730	X-8: High School Horror!
+GID00092731	X-13: Attack of the Infiltrator!
+GID00092732	Old World Blues をロードします
+GID00092733	Old World Blues
+GID00092734	The Sink
+GID00092735	Think Tank
+GID00092736	BrainBot Template
+GID00092737	Dr. Klein
+GID00092738	Dialogue Dr. Klein
+GID00092739	Old World Blues Narration
+GID00092741	X-13 テスト施設
+GID00092742	ナイトストーカー
+GID00092743	Dr. Mobius
+GID00092744	Dialogue Dr. Mobius
+GID00092745	Narrator
+GID00092747	Ending Slide Sequence
+GID00092748	X-13 テスト施設
+GID00092749	X-8 居住テスト施設
+GID00092750	X-8 中央施設
+GID00092751	X-8 テスト・ターミナル
+GID00092752	The Forbidden Zone Dome
+GID00092753	X-17 測候所
+GID00092754	プロトタイプ Auto-Doc
+GID00092755	冷蔵庫
+GID00092756	プロトタイプ Auto-Doc
+GID00092757	壊れた格子
+GID00092758	サタナイト合金研究機関

@@ -1,0 +1,44 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_awop_description_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00098627	Enclaveのために![CRLF]我々は決して忘れないだろう。
+GID00098628	ハードテックセキュリティシステム
+GID00098629	Freetechローカル放送ターミナル1
+GID00098630	Freetechローカル放送ターミナル2
+GID00098631	Underground学校の先生のターミナル
+GID00098632	Underground学校の生徒のターミナル
+GID00098633	Tonyのターミナル
+GID00098634	共同ターミナル
+GID00098635	Charlieのターミナル
+GID00098636	Steveのターミナル
+GID00098637	アップデートターミナル
+GID00098638	サーチライト教会バンカー[CRLF]Polavo神父のTerminal。
+GID00098639	Sunnytime Cigarette Area Managerのターミナル
+GID00098640	J. Empire所有[CRLF]ベータパワー計画の副チーフプログラマー。
+GID00098641	Vault-Tec Vaultの監視ステーションNV03[CRLF][CRLF]> \ようこそ、USER[CRLF]
+GID00098642	Mini-Vault Welcome Terminal
+GID00098643	長年に渡るテック・レイダーによる芸術作品の破壊に関する知識は、彼らに対する新たな憎悪を育みました。テック・レイダー、テック・サイコ、及び彼らのリーダーとの戦闘時にダメージが 15 上昇します。
+GID00098644	The Undergroundの歴史に対する知識により、市民たちも逆に、あなたを慕うようになりました。友好的なUnderground居住者と会話する際、Speech 及び Barter が 25 上昇します。
+GID00098645	NCR Mohave Bunker前哨基地。[CRLF]ようこそCaptain Petro
+GID00098646	Uz1zrground Cozzzztion Terzzzz/[CRLF][CRLF]CORRUPT DATA:[CRLF]________________________[CRLF]System Restore Incomplete[CRLF]Status 08%[CRLF]________________________[CRLF]Press Any Key to continue.[CRLF]
+GID00098647	Vault 40ターミナル[CRLF]南発電所[CRLF][CRLF]> \ようこそ、USER[CRLF]
+GID00098648	ジョニー・ライム所有[CRLF]Hyper-Real Project[CRLF]Lead Designer[CRLF]
+GID00098649	NCR サーチライトバンカー前哨基地[CRLF]通信用ターミナル[CRLF]ようこそRanovich軍曹
+GID00098650	The Undergroundの歴史に対する知識により、市民たちも逆に、あなたを慕うようになりました。友好的なUnderground居住者と会話する際、Speech 及び Barter が 25 上昇します。
+GID00098651	リックのターミナル - エミリーは触るな!
+GID00098652	Vault 40武器庫ターミナル
+GID00098653	ネバダ放射線研究施設データターミナル[CRLF]Butch Henderson所有
+GID00098654	ようこそPhillips中尉
+GID00098655	Vault-Tec Vault 41監督者ターミナル
+GID00098656	The Undergroundの歴史に対する知識により、市民たちも逆に、あなたを慕うようになりました。友好的なUnderground居住者と会話する際、Speech 及び Barter が 25 上昇します。
+GID00098657	戦前のHardtekホームターミナル[CRLF][CRLF]修理者 ファーギー M. - 2270年1月
+GID00098658	Iron Belly perkによって、汚染された食料や飲み物を消費した際に受ける放射線の影響を50%軽減します。効果はLead Bellyとスタックします。
+GID00098659	Redoubt 6AF14[CRLF]Nellis 空軍基地[CRLF]ネバダ[CRLF][CRLF]>\ Welcome, USER[CRLF]
+GID00098660	Ivanpah 武器研究施設[CRLF]オーバーチャージ計画 労働者のターミナル[CRLF]
+GID00098661	サムソン砕石プラント[CRLF]技術者のターミナル[CRLF]
+GID00098662	Nipton Pit-Stop Shelter Public Terminal
+GID00098663	Troy Cowarne所有[CRLF]建設主任クラス2
+GID00098664	Property of Da Fiendz - Fuck Off!
+GID00098665	Hardtekホームターミナル[CRLF]所有者不明[CRLF]ターミナルは適切にシャットダウンされませんでした…
+GID00104165	>\ W3lcome, USER[CRLF][CRLF]HOUSE TOOLx Seeee Madre[CRLF]Master Terminal[CRLF][CRLF]bX0010982bv[CRLF][CRLF]Status: Crrrrpt[CRLF][CRLF]

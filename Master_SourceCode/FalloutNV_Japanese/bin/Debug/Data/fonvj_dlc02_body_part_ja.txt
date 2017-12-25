@@ -1,0 +1,16 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc02_body_part_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00084191	頭部
+GID00084192	胴体
+GID00084193	左腕
+GID00084194	左足
+GID00084195	右足
+GID00084196	右腕
+GID00084197	頭部
+GID00084198	右後足
+GID00084199	右前足
+GID00084200	左後足
+GID00084201	左前足
+GID00084202	胴体

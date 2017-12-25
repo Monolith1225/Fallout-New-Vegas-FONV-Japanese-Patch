@@ -1,0 +1,81 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc02_quest_objective_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00086280	Happy Trails caravan のマスターを見つける。
+GID00086281	一旦一人で移動して、荷物の重量が75ポンド以下になったらJedに旅立つ準備ができたことを言う。
+GID00086282	一旦一人で移動して、荷物の重量が100ポンド以下になったら Jed に旅立つ準備が出来たことを知らせる。
+GID00086283	物資を Narrows の Daniel へ届ける。
+GID00086284	オプション: ガイドとして彼を連れて行くことを Follows-Chalk に話す。
+GID00086285	オプション: White Legs の強襲を打ち破る。
+GID00086286	Zion Valleyに移動する。
+GID00086287	Eastern VirginにあるDead Horses campに旅立つ。
+GID00086288	Joshua Grahamと話す。
+GID00086289	Jedに着いて行く。
+GID00086290	Grand Staircase region の地図を見つける。
+GID00086291	オプション: Waking Cloud に彼女をガイドとして連れて行くことを言う。
+GID00086292	Survivalist's cacheのドアを開ける方法を探す。
+GID00086293	White Legsのリーダー、Salt-Upon-Woundsを見つけて始末する。
+GID00086294	NarrowsにいるDanielの所まで戻る。
+GID00086295	Pine Creek Tunnelへの道を切り開く。
+GID00086296	Salt-Upon-Woundsを始末する
+GID00086297	Danielと話す。
+GID00086298	Pine Creek トンネルを崩壊させるために起爆装置を使用する
+GID00086299	3つの聖なるアサガオから根を採取する。
+GID00086300	根をシャーマンに返す。
+GID00086301	儀式を始めるためにシャーマンのところに戻る。
+GID00086302	Ghost of She から腕を回収する。
+GID00086303	シャーマンのところに戻る。
+GID00086304	White Birdのことをシャーマンに話す。
+GID00086305	3つの聖なるアサガオから根を採取する。
+GID00086306	いなくなった Mountain Bighorner の子供を見つける。
+GID00086307	子牛を母親の所まで連れて行く。
+GID00086308	(オプション) Mountain Bighornerを殺さない。
+GID00086309	ついてくる子牛を群れに戻す。
+GID00086310	Follows-Chalkと話す。
+GID00086311	断崖までの道を見つける。
+GID00086312	Mountain Bighorner を全て殺す。
+GID00086313	子牛を Follows-Chalk まで連れて行く。
+GID00086314	Zion峡谷の地図を修復する。
+GID00086315	Zionを去りMojave Wastelandへ戻る。
+GID00086316	Pine Creekへの橋を制圧している White Legs を倒す。
+GID00086317	オプション: 墓地のSorrowsと話す。
+GID00086318	Sorrows の墓地を汚している White Legs を殺す。
+GID00086319	オプション: Sorrows の墓地を汚している White Legs を殺す。 
+GID00086320	Ranger Substation Osprey にいる Sorrow の囚人たちを救出する。
+GID00086321	オプション: Ranger Substation Osprey にいる White Legs を殺す。
+GID00086322	独房のドアの鍵を探す。
+GID00086323	オプション: White Legs の war totems を野営地から盗む。
+GID00086324	オプション: Bighorn Bluffでwhite Legの野営地を一掃する
+GID00086325	White Legs のキャンプに対処する。
+GID00086326	オプション: 橋に仕掛けられた罠を解除する。
+GID00086327	オプション: 罠を仕掛けている White Legs を殺す。
+GID00086328	White Leg の罠に対処する。
+GID00086329	オプション: Yao Guai Caveを崩壊させる。
+GID00086330	オプション: Pine CreekにいるYao Guaiを殺す。
+GID00086331	洞窟内部の要所に鉱山用爆弾を仕掛ける。
+GID00086332	洞窟から出て、鉱山用の起爆装置で火薬を爆発させる。
+GID00086333	Pine CreekにいるYao Guaiを殺す。
+GID00086334	NarrowsにいるDanielの所まで戻る。
+GID00086335	DanielにSorrowsが戦うか逃げるかしないといけないことを告げる。
+GID00086336	コンパスのために 大破したスカウトバスの残骸を探す。
+GID00086337	壊れたコンパスを作業台で修理する。
+GID00086338	オプション: コンパスを修理するためにセンサーモジュールを探す。
+GID00086339	NarrowsにいるDanielの所までコンパスを持って戻る。
+GID00086340	オプション: ガイドとして彼を連れて行くことを Follows-Chalk に話す。
+GID00086341	センサーモジュールで壊れたコンパスを直す。
+GID00086342	携帯無線機のために Zion Fishing Lodge を探す。
+GID00086343	Zion Fishing Lodgeにある保管棚の鍵を見つける。
+GID00086344	Zion レンジャーステーションで、医療品キットを探す。
+GID00086345	医療品キットのためにターペンタインを見つける。
+GID00086346	医療品キットのためにダクトテープを見つける。
+GID00086347	オプション: 医療品キットを殺菌するために、ウイスキー、ウォツカ、またはスコッチを見つける。
+GID00086348	Zion 雑貨店で、5つのリル・スカウト・ランチボックスを探す。
+GID00086349	キャンプファイアから医療品キットを回収する。
+GID00086350	Zion General Storeにある机の鍵を見つける。
+GID00086351	NarrowsにいるDanielの所まで集めた補給品を運ぶ。
+GID00086352	Southern Passage を通ってモハビに戻る。
+GID00086353	Daniel が Waking Cloud の家族について知っていることを調べる。
+GID00086354	Waking Cloudに彼女の家族について話す
+GID00086355	Joshua GrahamにFollows-Chalkが文明を見たがっていることについて話す。
+GID00086356	あなたの文明についての意見をFollows-Chalkに教える。

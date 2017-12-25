@@ -1,0 +1,48 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_awop_quest_objective_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00103415	Hunt down and kill the 3 giant geckos.
+GID00103416	Return To Frankie
+GID00103417	Hunt Down and Kill Bertha.
+GID00103418	Return To Frankie & collect key.
+GID00103419	Enter The Underground
+GID00103420	You have killed some pretty big monsters. Maybe you should brag about your exploits?
+GID00103421	Word of your adventures have spread and someone has something to give you.
+GID00103422	Kill Smokey.
+GID00103423	Kill Labal.
+GID00103424	Kill Firetooth.
+GID00103425	Ask the residents around The Underground and try to find the spy.
+GID00103426	Report back to Colonel Hoff.
+GID00103427	Assemble your team and tell Corporal Iapicca you are ready to go.
+GID00103428	Kill all the Tech Raider Commanders and reclaim the Military HQ.
+GID00103429	The Commander and his Officers are dead. Report back to Corporal Iapicca.
+GID00103430	You have recaimed the East Underground. The Underground citizens have a reward for you.
+GID00103431	I have found a tool box with a name on it - Riazanov. It may come in handy later.
+GID00103432	Find Riazanov's Micro-Tool Kit.
+GID00103433	Return the Tool Kit to Riazanov.
+GID00103434	Find The Immortal's Shack
+GID00103435	Find Roach's missing audiodiscs.
+GID00103436	Find 'Pulse'.
+GID00103437	Find 'A Question Of Time'.
+GID00103438	Find 'Do What We Do'
+GID00103439	Return To Roach.
+GID00103440	Find Roach's missing audiodiscs.
+GID00103441	Find 'Recharger'.
+GID00103442	Find 'Substance C'.
+GID00103443	Find 'More Noize'.
+GID00103444	Return to Roach.
+GID00103445	Find Roach's missing audiodiscs.
+GID00103446	Find 'Bring The Pain'
+GID00103447	Find 'Them'
+GID00103448	Find 'Far From You'
+GID00103449	Return to Roach
+GID00103450	Hunt down and kill Blaze.
+GID00103451	Return to Sgt McMillan.
+GID00103452	Your deeds may have earned you a new reward - go collect it.
+GID00103453	Purge The Western Underground of it's boss enemies.
+GID00103454	Kill Megalurk
+GID00103455	Kill Beckett
+GID00103456	Kill Gregor
+GID00103457	Kill Lockjaw
+GID00103458	Return To McMillan.

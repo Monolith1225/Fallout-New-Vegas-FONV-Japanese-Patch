@@ -1,0 +1,118 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc01_description_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00076948	When Christine is a companion, she grants you a short period of time near a speaker before your bomb collar starts to activate as well as increasing the amount of time before your bomb collar detonates by 50%.
+GID00076949	When Dean is a companion, he grants you a short period of time before taking damage inside a toxic cloud as well as reducing the amount of damage you take inside the toxic cloud by 25%.
+GID00076951	Elijah obviously intended this to go to Veronica, but you earned it, right?[CRLF][CRLF]You've learned Elijah's secret Melee Weapon technique and your Critical Hits now do 150% more damage.
+GID00076952	Heavy armor just isn't your thing, so you've learned to customize light armor for maximum benefit. While wearing light armor you gain a +5% Critical Hit Chance and your enemies suffer a -25% Critical Hit Chance.
+GID00076953	Beams reflect off the mirror-like finish of your gleaming armor! You gain an additional +5 Damage Threshold against energy weapons while wearing any metal armor, +2 while wearing reflective eyewear.
+GID00076954	You've discovered a Shotgun technique that has a chance to knock an enemy back.
+GID00076955	Thanks to unclean living you've learned the secrets of the lounge lizards! [CRLF]+25% Addiction Resistance. +50% Health bonus from Snack Foods. Scotch, Vodka and Wine now give you Health in addition to their normal effects.
+GID00076956	Survival is the mother of invention! Craft ammo at the Reloading Bench using alternate materials (Scrap Metal and Tin Cans).
+GID00076960	You deal with Ghost People with ruthless efficiency. When you put them down, they stay down.
+GID00076961	You've learned the recipe to make slugs for the Vending Machines out of Scrap Metal and the acid from Fission Batteries. Craft them at the Workbench and spend them just like Chips!
+GID00076962	You've learned to make a mysterious edible substance at a Camp Fire out of scrap materials (Cloud Residue, Tin Cans, Junk Food) that provides +75 HP, +4 END, and +2 STR... but watch out, it's also highly addictive (15% chance of addiction).
+GID00076963	Collected a lot of Sierra Madre Chips.
+GID00076964	Used Sierra Madre Vending Machines.
+GID00076965	Killed 10 Harvesters.
+GID00076966	Killed 10 Seekers.
+GID00076967	Killed 10 Trappers.
+GID00076968	Used Poisons.
+GID00076969	Have you been working out? Weapons heavier than 10 lbs. now weigh half as much for you. (Modified weapons that drop below 10 lbs. will not gain this benefit.)
+GID00076970	With the Hobbler perk, your chance to hit an opponent's legs in V.A.T.S. is significantly increased.
+GID00076971	Found Dean's Secret Suitcases.
+GID00076972	Alerted Sierra Madre Holograms 20 times.
+GID00076973	Recruited Dean Domino, Christine, Dog... and what's inside Dog.
+GID00076974	Completed the Sierra Madre Gala Event.
+GID00076975	Confronted Father Elijah in the Sierra Madre's Vault.
+GID00076976	Saved Father Elijah in the Sierra Madre's Vault.
+GID00076977	Saved All Companions.
+GID00076978	Destroyed All Companions
+GID00076979	The Sierra Madre was believed nothing more than a Mojave legend, a fabled City of Gold, where fortune could be found.
+GID00076980	The Pip-Boy 3000 is a safe, secure piece of Pre-War technology. It guarantees privacy, safety, and guidance in times of need.
+GID00076981	The Clinic boasted a holographic security system. The Security Hologram was immune to attacks. Only its emitter could shut it down.
+GID00076982	Mojave travelers have mysteriously vanished after claiming to have heard a woman's voice on a Pre-War radio broadcast. They are never heard from again.
+GID00076983	According to prospector stories, the Sierra Madre lies in a dead city, surrounded by a poisonous cloud.
+GID00076984	Bomb collar technology existed before the war, they come in several models. Their Pre-War use was unknown.
+GID00076985	In Hardcore mode, the poisonous Cloud that blankets the Sierra Madre slowly reduces health the longer one is outside.
+GID00076986	The Sierra Madre's concentrated toxic clouds erode health more quickly.
+GID00076987	Construction of the Sierra Madre casino began a few years before the Great War.
+GID00076988	The Sierra Madre chief architect and financier was Frederick Sinclair. The casino was intended as a place for guests to reverse their fortunes and "begin again."
+GID00076989	The origins of the Ghost People are a mystery, as is their strange reverence of the holographic ghosts that fill the city streets.
+GID00076990	The Ghost People are difficult to kill, and anyone who has survived an encounter with them suggests simply avoiding their attention.[CRLF]
+GID00076991	Dismemberment, energy weapons, explosives... and devouring... work best against the Ghost People of the Sierra Madre.
+GID00076992	Speakers were specially shielded to prevent vandalism. Some have broken over time, however, and these damaged speakers can be destroyed.
+GID00076993	While radios can be destroyed, destroying the Villa speakers depend on how well the speakers have held up, and if there are terminals controlling them.
+GID00076994	As part of casino policy, Sinclair forbade chems and "foreign substances" in the Villa and the Sierra Madre.
+GID00076995	All of the Madre's and Villa's conveniences were supplied by machines tied to the casino.
+GID00076996	Where the Vending Machine technology came from is unknown. While they take Sierra Madre Chips, they seem to supply a number of non-commercial services.
+GID00076997	It is easy to become separated and lost in the Cloud and the Villa. Keep teammates close - or tell them to wait in a place where you can find them again.[CRLF]
+GID00076998	Radios that interfere with collars can be shot or switched off. Speakers, however, may be shielded depending on the activation light.
+GID00076999	According to legend, the Sierra Madre is said to be filled with Pre-War ghosts, and sections of the city are haunted.
+GID00077000	The Residential District of the Villa was a place for the casino's high rollers and entertainers to enjoy the outdoors of the Villa... in seclusion.
+GID00077001	Radio interference can be ended by destroying or switching off radios.
+GID00077002	The Nightkin are Super Mutants, stealth troops created by the Master. They scattered across the wasteland after his defeat, taking refuge in remote locations.
+GID00077003	Nightkin's prolonged used of Stealth Boy technology has led to mental instabilities, including schizophrenia and multiple personality disorders.
+GID00077004	It is unknown why Sinclair tied the opening of the casino's gates to the Gala Event.
+GID00077005	The Sierra Madre's Gala Event is said to be a series of lights, music, fireworks in the sky, and a final stunning light show.
+GID00077006	The Sierra Madre was Frederick Sinclair's last venture before the Great War.
+GID00077007	Elijah has sent other teams into the Villa's streets. What happened to them is unknown.
+GID00077008	The Ghost People seem to prefer primitive traps, favoring falling beams, bear traps, and luring prey into toxic areas.
+GID00077009	Sinclair was drawn to the nostalgic Art Deco era, and it's reflected in the architecture of the casino.
+GID00077010	The Dead Man's Hand is said to be composed of Aces and Eights, a hand of cards a Pre-War legend was holding when shot in the back.
+GID00077011	Both Puesta del Sol and Salida del Sol had switching stations regulating their power.
+GID00077012	RobCo guarantees the safety and security of your Pip-Boy from anyone seeking to tamper with it. Your personal logs and archives are yours and yours alone.
+GID00077013	The strength of the Sierra Madre broadcast is unusual, as is the frequency, normally reserved for emergency broadcast signals before the war.
+GID00077014	The Villa streets are filled with evidence of the previous teams. Graffiti suggests they turned on each other, even when their lives were at stake.
+GID00077015	Sinclair forbade any other food or vending machines in the Villa beyond the ones he'd installed there.
+GID00077016	The alloy that makes up the Pre-War kitchen knives is unknown, and seems to have decayed in contact with the toxic cloud.
+GID00077017	Sinclair, the financier and architect of the Sierra Madre casino was obsessed with security, believed due to his own financial losses.
+GID00077018	It is said that a Sierra Madre snowglobe survives somewhere in the Villa.
+GID00077019	Puesta del Sol stands for "Sunset," and the view from the Puesta del Sol rooftops was said to be breathtaking.
+GID00077020	In order to meet deadlines, the construction of the Sierra Madre and the Villa were handled by two different companies.
+GID00077021	Puesta del Sol's construction lagged behind Salida del Sol. It was as if construction efforts ran out of steam - and money.
+GID00077022	Puesta del Sol's construction crews had numerous clashes and arguments with the casino construction crews.
+GID00077023	Sierra Madre security began to conduct inspections of the Puesta del Sol construction offices and confiscating prohibited chems and other substances.
+GID00077024	The origin of the Cloud surrounding the Sierra Madre is unknown.
+GID00077025	The whispers that fill the streets of the Villa seem to come from Pre-War speakers, still piping in recorded music on reels that long since eroded.
+GID00077026	Early in the Villa's building stages, construction crews suffered numerous setbacks - and accidents.
+GID00077027	Shipping problems also plagued the Villa - construction explosives, countless crates of steak knives, and more were shipped to the Villa, paid for, and left.
+GID00077028	Salida del Sol stands for "Sunrise," and it was the home of the church and homes of many of the casino staff.
+GID00077029	The Sierra Madre is said to have an automated front desk that would escort guests to their rooms upon arrival. The status of this system is unknown.
+GID00077030	The doors of the Sierra Madre were designed to hermetically seal in case of emergency.
+GID00077031	It is said the dead in the Sierra Madre continue to gamble and drink among ghosts and whispers of times gone by.
+GID00077032	The walls of the casino are lined with a metal that interferes with radio reception and broadcasts.
+GID00077033	The bomb collars don't seem to work between floors of the casino, although they do work if two individuals are on the same floor.
+GID00077034	Part of Sierra Madre security was to prevent contraband or "foreign influences" from entering the Villa area. Visitors were often searched, and their belongings taken by the casino.
+GID00077035	The security center for the Sierra Madre was said to have arms and armaments beyond conventional casino security.
+GID00077036	The reason for the mines, heavy weapons, and other military gear in the casino's security centers is unknown. Some speculate Sinclair feared a Chinese attack on American soil.
+GID00077037	The Sierra Madre Holograms follow simple routines - vendors, bartenders, ushers, and greeters.
+GID00077038	Holograms cannot be targeted or harmed - only avoided, or their emitters destroyed.
+GID00077039	One of the draws of the Gala Event was a performance by Dean Domino in the Tampico Theater.
+GID00077040	The kitchens of the Sierra Madre were shooting for a 5 star rating, and sought to bring in the best chefs in the world.
+GID00077041	The financier and architect of the Sierra Madre casino, Frederick Sinclair, suffered many crippling losses in the 2070s.
+GID00077042	Vera Keyes was a Pre-War Hollywood starlet. Her claim to fame was a number of poorly-written romances that nonetheless drew in large box office crowds - and poor reviews.
+GID00077043	Pre-War tabloids and gossip columns claimed that Vera Keyes and Dean Domino had a torrid affair, predating her relationship with Sinclair.
+GID00077044	Not much is known about Vera Keyes, only that that is not believed to have been her real name.
+GID00077045	Tabloids and newspapers often called Vera Keyes a "kept" woman. Sierra Madre security proved them right.
+GID00077046	"Love Sets Sail" received the largest box-office draw of all of Vera's movies - and the most scathing of reviews.
+GID00077047	The Sierra Madre is a legend, like the Big Empty, the Burned Man, and the rumors of survivors from the Divide.
+GID00077048	It is believed Holograms stemmed from Stealth Boy technology rising from scientific drive to match the Chinese stealth suits.
+GID00077049	Hologram technology never achieved the same level of prominence, notably due to the excessive energy constraints.
+GID00077050	There are no reports of hologram technology being popular in the Pre-War era, and certainly no reports of Holograms employing weapons.
+GID00077051	The Hologram's hostile stance is said to have been inspired by a Pre-War sci-fi horror movie that made the world stand still.
+GID00077052	Increases weapon's rate of fire (+10%)
+GID00077053	Improves weapon's condition (+50%).
+GID00077054	Increases weapon's damage (+3 DAM).
+GID00077055	Listened to Companions' and Elijah's stories.
+GID00077056	Heard where your travels might take you in the future... all the way to the end of the road.
+GID00077057	Heard the entire history of the Sierra Madre.
+GID00077059	Collected Sierra Madre Cards of the Dead Man's Hand. (Ace and Eight of Clubs and Spades + Queen of Clubs)
+GID00077060	Collected Sierra Madre Chips.
+GID00077061	Holding down the Activate button at a sink, toilet, or water valve allows you to drink faster without pausing.
+GID00077062	Due to the toxic atmosphere surrounding the Sierra Madre, it is impossible to sleep on any beds exposed to the outside air.
+GID00077063	Increases damage (+25).
+GID00077064	Decreases spread.
+GID00077065	When God is a companion, he grants you increased Stealth as well as the ability to step lightly around placed traps.
+GID00077066	The Here and Now perk immediately grants an additional experience level, complete with all the advantages that brings.

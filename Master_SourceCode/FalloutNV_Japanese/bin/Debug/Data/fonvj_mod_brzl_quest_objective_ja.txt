@@ -1,0 +1,91 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_brzl_quest_objective_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00110409	指示に従い、監禁場所に向かう
+GID00110410	逃げ道を探す
+GID00110411	翌朝まで待ち、ALPHA の状況を確認する
+GID00110412	ロボットベイからALPHAの取得する
+GID00110413	ロボット犬を修理する
+GID00110414	ロボット犬の電源を入れる
+GID00110415	ドロイド無線ユニット、核分裂バッテリー、廃棄電子部品をそれぞれ一つずつ用意しロボット犬を修理する
+GID00110416	翌朝まで待ち、B-6-RK の修理状況を確認する
+GID00110417	Robotics LabからB-6-RKを回収する
+GID00110418	Benからの贈り物について詳しく調べる
+GID00110419	仲間と資源を集めてメインドアに向かう
+GID00110420	洞窟の出口まで辿り着き脱出する
+GID00110421	vaultが爆発する前に安全なところまで逃げる
+GID00110422	Patriot Attackに会う
+GID00110423	Chevy Braggを殺す
+GID00110424	Vault警備で囚人を開放する
+GID00110425	襲撃に備える
+GID00110426	JamieとEricの関係を調べる
+GID00110427	EricとJamieを一緒にしたままにするか、別れさせる
+GID00110428	Christianson監督官を救え
+GID00110429	上層居住区を通って水耕栽培研究所に行く
+GID00110430	(オプション) - 配管通路をこっそり経由する
+GID00110431	Chief Evansonと話す
+GID00110432	貯水池を通り抜ける
+GID00110433	Christianson監督官の所に行く
+GID00110434	Medical BayのJohnnyを訪ねる
+GID00110435	AftermathでJohnnyを探す
+GID00110436	Johnnyと話すか、彼を殺す
+GID00110437	End.
+GID00110438	仲間と資源を集めてメインドアに向かう
+GID00110439	洞窟の出口まで辿り着き脱出する
+GID00110440	Enclave に参加 - 彼らの制服を着用する
+GID00110441	監督官事務所ドアを開く
+GID00110442	Jenifer Haleを利用して監督官のドアを開く
+GID00110443	Braggについていきエアロックが開くのを待つ
+GID00110444	BraggについていきChristiansonのところに向かう
+GID00110445	Vault 18警備部隊を倒す
+GID00110446	Colonel Bragg に報告する
+GID00110447	Quest Objective 1
+GID00110448	Pinehaven を見つける
+GID00110449	Christianson監督官と話す
+GID00110450	監督官事務所に行く
+GID00110451	(オプション) - 監督官事務所へ真面目に同行する
+GID00110452	管理区画の古いパイプを修理する
+GID00110453	Sarah Carterに相談する
+GID00110454	Joe Marshallのところに戻る
+GID00110455	End
+GID00110456	メンテナンスに報告する
+GID00110457	準備ができたらベッドに移動する
+GID00110458	老人と話す
+GID00110459	光の道に従う
+GID00110460	Jeniferの部屋で彼女と会う
+GID00110461	Braggと話しに行く
+GID00110462	Jenについて付いて行き、彼女の秘密の場所へ向かう
+GID00110463	午後10時にアトリウムディナーでBraggを待つ
+GID00110464	Braggの事務所へ午前6時までに侵入する
+GID00110465	Braggのターミナルを覗く
+GID00110466	体育館から脱出する
+GID00110467	Braggの事務所に入る
+GID00110468	Jenに報告する
+GID00110469	Vault警備のOfficer Chevyに報告する
+GID00110470	Coach Braggに報告する
+GID00110471	Dr. RossmanにWasteland Scoutsについて尋ねる
+GID00110472	ロボット工学研究所に行く
+GID00110473	Dr. Rossmanについて行き、コンピュータ研究所へ向かう
+GID00110474	Mariaと話す
+GID00110475	下層のスイッチを入れる
+GID00110476	Vault 18 貯水タンクの配線を修復する
+GID00110477	ネットワーク第四段階の配線を繋ぎなおす
+GID00110478	上層のスイッチを入れる
+GID00110479	ネットワーク一段階の状態を調べる
+GID00110480	ネットワーク二段階の状態を調べる
+GID00110481	ネットワーク三段階の状態を調べる
+GID00110482	ネットワーク四段階の状態を調べる
+GID00110483	ネットワーク第三段階での二つ目の入力を調査する
+GID00110484	四段階のネットワークを全て修復する
+GID00110485	奇妙な第四段階信号を調査する
+GID00110486	Dr. Rossmanにターミナルロックの解除について話す
+GID00110494	ネットワーク一段階の状態を調べる
+GID00110496	ネットワーク二段階の状態を調べる
+GID00110498	Johnny に同行するように説得する
+GID00110499	Jab Johnny が死ぬ前にMed-Xを3つ彼に注射する
+GID00110500	活力テスターを使用する
+GID00110501	Coach Bragg と話す
+GID00110502	Coach Bragg に活力テスターの結果を報告する
+GID00110503	Dr.Rossman に話す
+GID00110504	活力テスターを使用する

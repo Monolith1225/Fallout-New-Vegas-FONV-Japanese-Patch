@@ -1,0 +1,27 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc02_description_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00084203	Increases condition.
+GID00084204	Silences weapon.
+GID00084208	Reduces spread.
+GID00084209	Increases ammo capacity.
+GID00084210	Whenever you interact with a campfire, you have the option of sleeping, with all the benefits that sleep brings.
+GID00084211	For each crippled limb you have, you do an additional 10% damage.
+GID00084212	You have learned the advanced weapon handling techniques of the New Canaanites. For you, all shots with.45 Auto Pistols have less spread and are twice as likely to score a critical hit.
+GID00084213	While Follows-Chalk is in your party, reaching any summit in Zion Valley (such as ranger stations) will reveal all nearby map markers and inspire a heightened state of awareness (+3 PER) for three minutes.
+GID00084214	While Waking Cloud is in your party, it is much easier to sneak by the White Legs (their PER is decreased).
+GID00084215	Discovered all six of the survivalist's hidden caches.
+GID00084216	Arrive at Zion.
+GID00084217	Resupplied Daniel and the Sorrows.
+GID00084218	Scouted the Zion Valley for signs of the White Legs.
+GID00084219	Crushed the White Legs.
+GID00084220	Evacuated Zion.
+GID00084221	Killed 10 Yao Guai in the Zion Valley.
+GID00084222	Increases damage (+5).
+GID00084223	Increases attack speed (+25%).
+GID00084224	Just good, honest infantry work! You do 25% more damage with 9mm and .45 Auto Pistols and SMGs, Service Rifles, Assault and Marksman Carbines, Light Machine Guns, Frag Grenades, Grenade Rifles and Launchers, and Combat Knives.
+GID00084225	Your limbs take 50% less damage from Animals, Mutated Animals, and Mutated Insects, you gain +25% resistance to Poison Damage, and can eat Mutated Insects when you're in Sneak mode.
+GID00084226	You don't take kindly to raiders, junkies, or tribals trying to "settle" or "stay alive" in civilized lands. Against dirty raider and junkie types as well as Zion's tribals you do +15% Damage and have a bonus to hit in V.A.T.S.
+GID00084227	You've had enough of the so-called "authorities" pushing poor folks around! You gain +2 Damage Threshold and +5% Critical Chance against anyone wearing the faction armor of the NCR, Legion, or Brotherhood.
+GID00084230	The Here and Now perk immediately grants an additional experience level, complete with all the advantages that brings.

@@ -1,0 +1,59 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc03_description_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00088781	With the Atomic! perk, you are 25% faster and stronger whenever you're basking in the warm glow of radiation. Outside irradiated areas, your Action Points (AP) regenerate faster and faster the higher your level of radiation sickness becomes.
+GID00088782	You can be made... better... faster... stronger... Actually, just faster. The M-5 implant increases your crouched movement speed by 20% for greater efficiency as a test subject.
+GID00088783	Implant Y-3 places an internal filtration system in the digestive tract that strips any liquid consumed of all radioactive particles before being processed by the body.
+GID00088784	Implant C-13 was originally designed as a defense turret subroutine to help eliminate Cazadores should they escape from their containment, but it's been repurposed for testing on human subjects. (+10% damage to Cazadores)
+GID00088785	Studying schematics on the abominations created at the Big MT has granted you a damage bonus (+10%) against Nightstalkers.
+GID00088786	You have come to understand Nightstalkers. Consuming Nightstalker Squeezin's now grants bonuses to Perception (+1 PER), Poison Resistance (+5), and stealth (+5 Sneak) in addition to the normal benefits.
+GID00088787	Implant Y-7 is an enzyme booster that increases the Health (HP) gained from foods and recovers additional Action Points (AP) per food item consumed.
+GID00088788	Your spine has been replaced with advanced technologies: Your torso can no longer be crippled and your Strength (STR) and Damage Threshold (DT) have been increased (+1).
+GID00088789	Your brain has been replaced with advanced technologies: Your head can no longer be crippled and is resistant to chem addiction (+25% resistance) and shock from bodily damage (+5% Damage Threshold, minimum +1).
+GID00088790	Your heart has been replaced with advanced technologies: You cannot be poisoned, and filters in your heart will also regulate bleeding and healing, allowing all healing items (chems) to function at a higher level. Robots are now confused by you and 50% less likely to score a critical hit.
+GID00088791	Any living creature you kill has a 50% chance to have the potent healing items Thin Red Paste or Blood Sausage when looted.
+GID00088792	You gain a non-addictive subdermal Turbo (chem) injector. This perk may be taken twice, with the second rank increasing the effect from 2 to 3 seconds and the uses per day from 5 to 10. [Activated in the Pip-Boy inventory.]
+GID00088793	Dressed in a complete set of Dr. Klein's clothes.
+GID00088794	Made up your mind... about your brain.
+GID00088795	Recovered X-8 vertebrae-pulse-de-sensitizer frequency!
+GID00088796	Recovered X-13 cardiac regulator sneaky suit!
+GID00088797	Completed Old World Blues.
+GID00088798	Dressed in a complete set of Dr. Mobius' clothes.
+GID00088799	Completed the X-8 Basic Testing Program.
+GID00088800	Completed the X-8 Advanced Testing Program.
+GID00088801	Completed the X-8 Testing Program...with Nightstalkers!
+GID00088802	Completed the X-13 Basic Infiltration Test.
+GID00088803	Completed the X-13 Advanced Infiltration Test.
+GID00088804	Completed the X-13 Robot Compliance Test.
+GID00088805	Visited every location in the Big MT.
+GID00088806	Dared to venture beyond the Big MT's perimeter... more than once!
+GID00088807	With the Robot Compliance perk, sneaking up on a hostile robot undetected and activating it will put that robot into a permanent shutdown state.
+GID00088808	Studying the abominations created at the Big MT has granted you a damage bonus (+10% per rank up to three ranks) against Cazadores.
+GID00088809	Killed Cazadores in the Big MT.
+GID00088810	Killed more Cazadores in the Big MT.
+GID00088811	Killed even more Cazadores in the Big MT.
+GID00088812	The latest software patch for the Stealth Suit Mk II.[CRLF]V1.1: Damping Sensors (+10 Sneak)[CRLF]V1.2: Aural Subnet (+1 PER)[CRLF]V1.3: Synced Fitment (+1 AGL)[CRLF]V1.4: Impulse Accelerator (Increased sneak speed)
+GID00088813	Reactivated all of the Sink's robotic assistants.
+GID00088820	Hey early risers! Enjoy a +2 to each of your S.P.E.C.I.A.L. attributes from 6 am to 12 pm, but suffer a -1 from 6 pm to 6 am when you're not at your best.
+GID00088821	When your health drops below 50% you gain +10% more damage, but you also suffer -2 to your Agility and Perception attributes.
+GID00088822	You gain +25 lbs. to your carrying capacity, but suffer a -1 to all attributes any time the weight you're carrying drops below 160 lbs.
+GID00088823	No one's going to put you out to pasture 'cause you're going to stay young (and level 30) forever! You'll never again become addicted to chems, and they'll last twice as long... but after 30 you can kiss experience, perks, and skill points goodbye!
+GID00088824	You're skilled, but not experienced. You gain +5 points to every skill, but you suffer -10% from experience gained from now on.
+GID00088825	You have a fear of enclosed spaces (probably because of the mutants that live there). You gain +1 to S.P.E.C.I.A.L. attributes when outside, but suffer -1 when indoors.
+GID00088826	Increases weapon fire rate.
+GID00088827	Splits beam.
+GID00088828	Recharges some ammo over time.
+GID00088829	Increases weapon damage.
+GID00088830	Had an experiment go horribly awry.
+GID00088831	Created an Abomination!
+GID00088832	Built a robot bent on destruction.
+GID00088833	It's good to have your own spine again. You're more agile now (+1 AGL), a bit sneakier (+5 Sneak Skill) and you've gain more confidence in your posture and movement (+1 CHA).
+GID00088834	Your brain is back in your body! And it's smarter now! You now gain experience at an increased rate (+10%) You gain one additional skill per level. Your Intelligence is higher (+1 INT) and your Science skill has been raised by 10.
+GID00088835	Your body once again pumps with blood and passion. Your Barter and Speech skills have increased by 5. And your ability to shoot an enemy's heart has increased (+10% VATS to the torso).
+GID00088836	Your brain is back in your body, but some of the advanced technologies remain: Your head still cannot be crippled, but you are only 10% more resistant to addiction now. Surprisingly your damage threshold has improved by 10% (minimum +1 DT).
+GID00088837	Your heart is back in your body, but some advanced technologies remain: You are less resistant to poison (50%) and robots are only somewhat confused by you (25% less likely to score a critical hit) now. But on the bright side, healing items (chems) are even more effective!
+GID00088838	Your spine is back in your body, but some advance technologies remain: Your torso can now be crippled again, but your Strength (STR) and Damage Threshold (DT) bonuses have doubled! (+2)
+GID00088839	Your brain has been augmented with advanced technologies: Your head can no longer be crippled and is resistant to chem addiction (25% resistance) and shock from bodily damage (5% Damage Resistance).
+GID00088840	Your heart has been augmented with advanced technologies: You cannot be poisoned, and filters in your heart will also regulate bleeding and healing, allowing all healing items (chems) to function at a higher level (+25%). Robots are now confused by you and 50% less likely to score a critical hit.
+GID00088841	Your spine has been augmented with advanced technologies: Your torso can no longer be crippled and your Strength (STR) and Damage Threshold (DT) have been increased (+1).

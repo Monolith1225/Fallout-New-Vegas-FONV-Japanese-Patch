@@ -1,0 +1,11 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc01_body_part_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00076941	Invulnerable Hologram
+GID00076942	Left Leg
+GID00076943	Right Leg
+GID00076944	Torso
+GID00076945	Right Arm
+GID00076946	Left Arm
+GID00076947	Head

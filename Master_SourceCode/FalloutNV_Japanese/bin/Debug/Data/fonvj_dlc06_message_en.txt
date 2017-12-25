@@ -1,0 +1,6 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc06_message_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00098376	The ongoing conflict in the Mojave Wasteland has kicked weapon manufacturers into high gear! All major and minor weapon dealers in the region are rolling in new weapons, ammunition types, and modifications. Head to your nearest participating vendor to peruse the merchandise!
+GID00098378	Gun Runners' Arsenal has been loaded.

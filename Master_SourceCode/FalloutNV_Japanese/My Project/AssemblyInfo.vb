@@ -17,10 +17,10 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyCopyright("Copyright © 2014-2017 NiG Application.")>
 <Assembly: AssemblyTrademark("")>
 
-<Assembly: ComVisible(False)>
+<Assembly: ComVisible(True)>
 
 'このプロジェクトが COM に公開される場合、次の GUID がタイプ ライブラリの ID になります。
-<Assembly: Guid("e9b007a7-9b31-4a1e-8a02-50e13e59d34e")>
+<Assembly: Guid("078FEABC-54FF-4BC8-AE27-8ABD45DABA76")>
 
 ' アセンブリのバージョン情報は、以下の 4 つの値で構成されています:
 '
@@ -33,7 +33,7 @@ Imports System.Runtime.InteropServices
 ' 既定値にすることができます:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("3.0.7.0")>
-<Assembly: AssemblyFileVersion("3.0.7.0")>
+<Assembly: AssemblyVersion("3.0.8.0")>
+<Assembly: AssemblyFileVersion("3.0.8.0")>
 
 <Assembly: NeutralResourcesLanguageAttribute("ja-JP")> 

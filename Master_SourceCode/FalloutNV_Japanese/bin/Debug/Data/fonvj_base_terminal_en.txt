@@ -1,0 +1,2188 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_base_terminal_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00054767	Server HV-VR1078
+GID00054768	Current Simulation: Base Defense
+GID00054770	Change simulation enemy type
+GID00054771	Change simulation ally type
+GID00054772	SoftLock Solutions, Inc
+GID00054773	"Your Security is Our Security"
+GID00054774	WARNING: Until further notice, the door to the caves is to be sealed at all times, by order of Administrator Bailey. See him for further details.
+GID00054776	Disengage Lock
+GID00054777	Access granted, Unlocking...
+GID00054778	Disengage Lock
+GID00054779	Access denied, contact admin for clearance
+GID00054780	SoftLock Solutions, Inc
+GID00054781	"Your Security is Our Security"
+GID00054782	>\ Welcome, USER
+GID00054784	Disengage Lock
+GID00054785	Clearance granted, Unlocking...
+GID00054786	Sunset Sarsaparilla Company Intranet
+GID00054787	To: Lucas Nash, VP of Sales, RobCo Corp.
+GID00054788	Subject: RE: How do you like your new toy?
+GID00054789	Body: Lucas, I couldn't be happier with the performance of the new model. If it's current performance is any measure, it promises to reinvent my company's entire distribution network. I'd like to tentatively discuss purchasing a few more in the near future. How soon do you expect more to become available?
+GID00054791	Good morning, chief!
+GID00054793	United Nations Disbanded!
+GID00054794	Pint-Sized Slasher: More than Myth?
+GID00054795	Hidden Valley Datastore
+GID00054796	> The Chain That Binds is the cornerstone of our organization, the rock that supports the great tree of the Brotherhood and its myriad branches. It holds that:
+GID00054797	1. Orders are to flow from on high down through the ranks. An order from a superior must always be obeyed, that their wisdom may be carried out without hesitation.
+GID00054798	2. Orders are to observe the flow and not skip ranks. A superior may only give orders to his direct subordinates, and not to those beneath them. In this way harmony of intent and cohesion of thought is maintained.
+GID00054801	Saved Invoice
+GID00054802	Loading...
+GID00054803	Company Policies
+GID00054804	Loading partial archive...
+GID00054805	Good morning, chief!
+GID00054807	U.S. to Annex Canada!
+GID00054808	Development of Super Weapon Confirmed
+GID00054809	ERROR 0x0AABFF00
+GID00054810	"Primary power source unavailable"
+GID00054811	"Check all cords and plugs for connection"
+GID00054813	Good morning, chief!
+GID00054815	Commies Crushed - Alaska Liberated!
+GID00054816	Food Riots Rile Feds
+GID00054818	Entry 2R-A0
+GID00054819	Loading...
+GID00054820	Entry 64D-A3
+GID00054821	Loading...
+GID00054822	ERROR 0x357C5001
+GID00054823	"Bad Sectors Found In Boot Block."
+GID00054824	"Terminal Error."
+GID00054826	-RobCo Trespasser Management System-
+GID00054827	====================================
+GID00054829	Re-configure Targeting Parameters
+GID00054830	Target Data cleared. Exercise Caution.
+GID00054831	<!>WARNING: No Targeting Data<!>
+GID00054832	<!>Please Exercise Caution<!>
+GID00054833	Activate Turret System
+GID00054834	Booting...
+GID00054835	Deactivate Turret System
+GID00054836	Powering Down...
+GID00054837	System Information
+GID00054838	Loading LOG file...
+GID00054839	System Information
+GID00054840	Loading LOG file...
+GID00054841	System Information
+GID00054842	Loading LOG file...
+GID00054843	System Information
+GID00054844	Loading LOG file...
+GID00054845	System Information
+GID00054846	Loading LOG file...
+GID00054848	Redhead
+GID00054849	*** Reminder ***
+GID00054850	Hi there!
+GID00054851	SoftLock Solutions, Inc
+GID00054852	"Your Security is Our Security"
+GID00054853	>\ Welcome, USER
+GID00054855	Disengage Lock
+GID00054856	Clearance granted, Unlocking...
+GID00054857	Welcome, Comrade!
+GID00054859	Rebuilding Proposal
+GID00054860	Daily Affirmation
+GID00054861	In the Wasteland, we can all be heroes!
+GID00054862	Daily Affirmation
+GID00054863	Chairman Cheng is watching you, Comrade!
+GID00054864	Daily Affirmation
+GID00054865	The invaded have been wiped out!
+GID00054866	Daily Affirmation
+GID00054867	Glorious work, happy life!
+GID00054868	Daily Affirmation
+GID00054869	Win glory for our motherland!
+GID00054870	Daily Affirmation
+GID00054871	Hold aloft the red lantern!
+GID00054872	Daily Affirmation
+GID00054873	Revolution brings happiness!
+GID00054874	-RobCo Trespasser Management System-
+GID00054875	====================================
+GID00054877	Re-configure Targeting Parameters
+GID00054878	Target Data cleared. Exercise Caution.
+GID00054879	<!>WARNING: No Targeting Data<!>
+GID00054880	<!>Please Exercise Caution<!>
+GID00054881	Activate Turret System
+GID00054882	Booting...
+GID00054883	Deactivate Turret System
+GID00054884	Powering Down...
+GID00054885	System Information
+GID00054886	Loading LOG file...
+GID00054887	System Information
+GID00054888	Loading LOG file...
+GID00054889	System Information
+GID00054890	Loading LOG file...
+GID00054891	System Information
+GID00054892	Loading LOG file...
+GID00054893	System Information
+GID00054894	Loading LOG file...
+GID00054896	Confirm
+GID00054897	Course change confirmed.
+GID00054898	Abort
+GID00054899	Course change aborted.
+GID00054900	SoftLock Solutions, Inc
+GID00054901	"Your Security is Our Security"
+GID00054902	>\ Welcome, USER
+GID00054904	Disengage Lock
+GID00054905	Clearance granted, Unlocking...
+GID00054907	Jul 19, 2077
+GID00054908	Dec 24, 2077
+GID00054909	Dec 25, 2077
+GID00054910	Feb 13 2078
+GID00054911	Feb 14 2078
+GID00054912	Feb 28 2078
+GID00054913	NCRA RECORDOTRON Squad Readiness Report Database
+GID00054914	v3.75
+GID00054916	Squad CG554-2 "Misfits"
+GID00054917	Accessing
+GID00054918	Ranger Detachment Alpha
+GID00054919	Accessing
+GID00054920	Ranger Detachment Bravo
+GID00054921	Accessing
+GID00054922	Ranger Detachment Charlie
+GID00054923	Accessing
+GID00054924	Sunset Sarsaparilla Company Intranet
+GID00054925	Automated Messages System
+GID00054927	Go to page 1
+GID00054928	Loading...
+GID00054929	Go to page 2
+GID00054930	Loading...
+GID00054931	Go to page 3
+GID00054932	Loading...
+GID00054933	-***------- FIELD OPERATIONS
+GID00054934	*-*-*------ ENCLAVE
+GID00054935	-***-------
+GID00054936	-----------
+GID00054937	----------- GOD BLESS AMERICA
+GID00054939	Field Report: PFC M.Scott
+GID00054940	Orders (CO eyes only)
+GID00054941	Vault 22 Interlab Network, Water Purification Subsystem
+GID00054942	Warning: System diagnostic shows that memory has been corrupted. Retrieving uncorrupted files only.
+GID00054944	Vault 22 Expedition, entry 6
+GID00054945	Loading...
+GID00054946	Vault 22 Expedition, entry 7
+GID00054947	Loading...
+GID00054948	>\ Warning! LS Chamber Occupant will be unable to control subsystems. Proceed?
+GID00054950	Yes.
+GID00054951	Starting...
+GID00054952	RobCo Security System v7.3
+GID00054953	Enter command:
+GID00054955	Deactivate Unit "Deputy Steel"
+GID00054956	Deactivation signal sent...
+GID00054957	Deactivate Unit "Deputy Weld"
+GID00054958	Deactivation signal sent...
+GID00054959	>\ Warning! Lethal Shock Risk if LS Chamber Occupied. Proceed?
+GID00054961	Yes.
+GID00054962	Starting...
+GID00054963	Camp Searchlight Turret Defense Terminal North Sector
+GID00054965	Activate Turret Defense System
+GID00054966	Turret Defense Activated
+GID00054967	House Industries Network
+GID00054969	Central Sewer Control
+GID00054970	... ACCESS OVERRIDE - HOUSE DIRECTIVE 449b
+GID00054971	The clock is ticking...
+GID00054973	Isolate virus.
+GID00054974	Isolating...
+GID00054975	Partition Virus
+GID00054976	Partitioning...
+GID00054977	Vault 22 Interlab Network, Oxygen Recycling Main System
+GID00054978	Warning: System diagnostic shows that memory has been corrupted.
+GID00054980	Check inventory
+GID00054981	Retrieving inventory information...
+GID00054983	Field Entry: Dog (feral)
+GID00054984	Field Entry: "Wild Dog"
+GID00054985	Field Entry: Large Scorpion
+GID00054986	Field Entry: "Large Scorpion"
+GID00054987	Field Entry: Molerat
+GID00054989	Have you found the other two hosts yet?
+GID00054991	Isolate virus.
+GID00054992	Isolating...
+GID00054993	Partition Virus
+GID00054994	Partitioning...
+GID00054995	Ha ha, suckers! Catch me if you can!
+GID00054997	Isolate virus
+GID00054998	Isolating...
+GID00054999	Partition virus
+GID00055000	Partitioning...
+GID00055001	SoftLock Solutions, Inc
+GID00055002	"Your Security is Our Security"
+GID00055003	>\ Welcome, USER
+GID00055005	Disengage Lock
+GID00055006	Clearance granted, Unlocking...
+GID00055007	SoftLock Solutions, Inc
+GID00055008	"Your Security is Our Security"
+GID00055009	>\ Welcome, USER
+GID00055011	Disengage Lock
+GID00055012	Clearance granted, Unlocking...
+GID00055013	Vault 101 Access Terminal
+GID00055015	Vault Door Activated
+GID00055017	(Town) Look Around
+GID00055018	You examine your surroundings...
+GID00055019	Speak with blacksmith
+GID00055020	You approach the smithy...
+GID00055021	Speak with blacksmith
+GID00055022	Speak with blacksmith
+GID00055023	Speak with priest
+GID00055024	You approach the clergyman...
+GID00055025	Speak with priest
+GID00055026	You approach the clergyman...
+GID00055027	Speak with priest
+GID00055028	You approach the clergyman...
+GID00055029	Go North
+GID00055030	You walk to the north...
+GID00055031	Inventory
+GID00055032	Vault 22 Interlab Network, Food Production Subsystem
+GID00055033	Warning: System diagnostic shows that memory has been corrupted. Three messages retrieved:
+GID00055035	Security request
+GID00055036	Accessing mail subsystem...
+GID00055037	Medical Emergency
+GID00055038	Accessing mail subsystem...
+GID00055039	Help!
+GID00055040	Accessing mail subsystem...
+GID00055041	Navitron, Inc
+GID00055042	"Steering You Right"
+GID00055043	>\ Welcome, USER
+GID00055044	Current coordinates for rocket 1: 689.7, 457.3, 598.1
+GID00055045	Current coordinates for rocket 2: 709.7, 459.3, 598.1
+GID00055046	Current coordinates for rocket 3: 729.7, 461.3, 598.1
+GID00055047	Alter coordinates?
+GID00055049	Set rocket 1 to collide with rocket 2.
+GID00055050	Mash on the keys.
+GID00055051	Invalid command.
+GID00055052	Welcome to Metro Security
+GID00055054	WARNING: System reports failure state. Please call Metro Maintenance for service.
+GID00055055	Welcome to Metro Security
+GID00055057	Protectron activated.
+GID00055058	Hoover Dam Maintenance System
+GID00055059	Warning: Intake tower maintenance should only be performed during scheduled periods of inactivity, and then only with the proper equipment. See you supervisor for more details.
+GID00055061	Unlock Maintenance Hatch
+GID00055062	Clearance granted, Unlocking...
+GID00055063	Array optimized.
+GID00055065	ERROR #P38C4K
+GID00055066	"Generator power source unavailable"
+GID00055067	"Check all cords and plugs for connection"
+GID00055069	Lincoln Davis
+GID00055071	The Water Situation
+GID00055072	Opening Message...
+GID00055073	External Relations
+GID00055074	Opening Message...
+GID00055075	Your Endorsement
+GID00055076	Opening Message...
+GID00055077	>\ Welcome, USER
+GID00055079	Recover Data
+GID00055080	-data corrupted-
+GID00055081	Greetings Vault Technician!
+GID00055082	How Can This Terminal Help You Today?
+GID00055084	Run Maintenance Routine
+GID00055085	...Loading Sequence
+GID00055086	Run Maintenance Routine
+GID00055087	<ERROR> Maintenance In Progress
+GID00055088	Sunset Sarsaparilla Company Intranet
+GID00055089	You have 1 saved message and 1 saved draft.
+GID00055091	Check message
+GID00055092	Loading message...
+GID00055093	Check draft
+GID00055094	Loading message...
+GID00055095	-RobCo Trespasser Management System-
+GID00055096	====================================
+GID00055098	Re-configure Targeting Parameters
+GID00055099	Target Data cleared. Exercise Caution.
+GID00055100	<!>WARNING: No Targeting Data<!>
+GID00055101	<!>Please Exercise Caution<!>
+GID00055102	Activate Turret System
+GID00055103	Booting...
+GID00055104	Deactivate Turret System
+GID00055105	Powering Down...
+GID00055106	System Information
+GID00055107	Loading LOG file...
+GID00055108	System Information
+GID00055109	Loading LOG file...
+GID00055110	System Information
+GID00055111	Loading LOG file...
+GID00055112	System Information
+GID00055113	Loading LOG file...
+GID00055114	System Information
+GID00055115	Loading LOG file...
+GID00055116	History of Vault 21:
+GID00055118	Vault 21 - A Paradise of Equality
+GID00055119	A Story to Be Told
+GID00055120	Opening to a New World
+GID00055121	Our Story is Your Story Now
+GID00055122	A Tribute to Mr. House
+GID00055123	Meet our Benefactor!
+GID00055124	>\ Welcome, USER
+GID00055126	Diary Entry #86
+GID00055127	SoftLock Solutions, Inc
+GID00055128	"Your Security is Our Security"
+GID00055129	>\ Welcome, USER
+GID00055131	Disengage Lock
+GID00055132	Clearance granted, Unlocking...
+GID00055133	Hidden Valley Datastore
+GID00055134	> Let it be recorded that on this day, April 23rd, 2237, Raymond Lorn was dismissed from his post as Elder for committing the crime of murder. Brother Lorn was known to have hostile feelings toward the victim, Senior Scribe Ritter. The guilty party insists that Ritter's death was a tragic case of friendly fire (the bunker was under attack at the time), but the tribunal felt they could not let him persist as Elder with such suspicion hanging over him.
+GID00055136	SoftLock Solutions, Inc
+GID00055137	"Your Security is Our Security"
+GID00055138	>\ Welcome, USER
+GID00055140	Disengage Lock
+GID00055141	Clearance granted, Unlocking...
+GID00055142	Welcome to Vault 21's Network:
+GID00055144	Messages
+GID00055145	Keeping You in Touch!
+GID00055146	Sent
+GID00055147	Keeping You in Touch!
+GID00055148	>\ Welcome, USER
+GID00055150	A Message From The Overseer
+GID00055151	Journal Entry 194
+GID00055152	Journal Entry 206
+GID00055153	Reasearch & Development
+GID00055154	< ! ! ! ! ! >
+GID00055155	SOLE OWNERSHIP L.O.B. ENTERPRISES
+GID00055156	VIOLATORS PUNISHED UNDER #P47
+GID00055158	Lab Reports
+GID00055159	Loading...
+GID00055160	Company Policies
+GID00055161	Loading Partial Archive
+GID00055162	Sunset Sarsaparilla Company Intranet
+GID00055163	Local Saved Messages
+GID00055165	RE: What contest?
+GID00055166	Loading message...
+GID00055167	While the iron is hot
+GID00055168	Loading message...
+GID00055169	RE: How do you like your new toy?
+GID00055170	Loading message...
+GID00055171	Sent Messages
+GID00055173	Hey, you!
+GID00055174	... Mail Loaded Successfully.
+GID00055175	ERROR 0x07F6BAAC
+GID00055176	"Bad Data. Cannot Read."
+GID00055179	Sunset Sarsaparilla Custodial Control
+GID00055180	Mail System
+GID00055181	From: Clark Weathers, VP of Operations
+GID00055182	Subject: Water Leak
+GID00055183	Body: Just letting you guys know we've had reports of a possible small water leak in the upstairs meeting room. The long term effects of water damage can be very, very expensive, so let's get this problem solved before it gets any worse, shall we?
+GID00055185	>\ Welcome, USER
+GID00055187	>\ Welcome, USER
+GID00055189	A Message From The Overseer
+GID00055190	Journal Entry 65
+GID00055191	SoftLock Solutions, Inc
+GID00055192	"Your Security is Our Security"
+GID00055193	>\ Welcome, USER
+GID00055195	Disengage Lock
+GID00055196	Clearance granted, unlocking...
+GID00055197	Engage Lock
+GID00055198	Clearance granted, engaging lock...
+GID00055199	Sunset Sarsaparilla Company Intranet
+GID00055200	Automated Messages System
+GID00055201	PRO931 reports an intruder!
+GID00055202	PRO931 reports major structural damage!
+GID00055203	HDY291 & 074 report major structural damage!
+GID00055204	PRO802 & 496 report an intruder!
+GID00055205	PRO802 & 496 report major structural damage!
+GID00055206	PRO805 & 014 report major structural damage!
+GID00055207	PRO446 reports the intruder has been injured!
+GID00055208	PRO446 reports major structural damage!
+GID00055209	HDY117 reports major structural damage!
+GID00055211	Hidden Valley Network
+GID00055212	Welcome, Lorenzo.
+GID00055213	Displaying last three files accessed.
+GID00055215	Journal Entry 745
+GID00055216	Loading document...
+GID00055217	Journal Entry 746
+GID00055218	Loading document...
+GID00055219	Journal Entry 747
+GID00055220	Loading document...
+GID00055221	Good day Mr. Isley
+GID00055223	Unlock Safe
+GID00055224	Clearance granted, Unlocking...
+GID00055225	RE: RobCo
+GID00055226	Opening Message...
+GID00055227	Inter-office Correspondence #3457477
+GID00055228	Opening Message...
+GID00055229	ERROR 0x03C663A1
+GID00055230	"Network connection not found"
+GID00055231	"Dummy terminal inactive"
+GID00055233	/////Custodial Terminal: Shared Access
+GID00055235	RE: Shipment Mistake?
+GID00055236	RE: Workplace Misbehavior
+GID00055237	RE: Shipment Sent Back
+GID00055238	*** East Pump Station Terminal ***
+GID00055239	*** Authorized Personnel Only ***
+GID00055241	East Vegas Distribution
+GID00055242	Percent: 65
+GID00055243	West Vegas Distribution
+GID00055244	Percent: 15
+GID00055245	The Strip Distribution
+GID00055246	Percent: 15
+GID00055247	Public Server Access
+GID00055249	Public Kitchen
+GID00055250	Welcome to RobCo!
+GID00055251	Retirement
+GID00055252	Hello Michael
+GID00055254	Sunset Sarsaparilla Company Intranet
+GID00055255	To: Margie Walker, Truckers' Union Rep
+GID00055256	Subject: Bad news
+GID00055257	Body: I'll apologize up front if there are any mistakes in this message. I'm trying out a new dictation headset. Margie, the boss man just ordered some kind of newfangled robot that's supposed to take over some of your deliveries. I'm not supposed to talk about it, but you should hear about it soon. I'll write again when I know more. Do not pass this along.
+GID00055259	SoftLock Solutions, Inc
+GID00055260	"Your Security is Our Security"
+GID00055261	>\ Welcome, USER
+GID00055263	Disengage Lock
+GID00055264	ERROR! DOOR MALFUNCTION! ERROR!
+GID00055265	Vault 22 Interlab Network, Patient Case Database
+GID00055266	Warning: System diagnostic shows that memory has been corrupted. Retrieving uncorrupted files only.
+GID00055268	Case 162
+GID00055269	Loading...
+GID00055270	Case 164 (Group)
+GID00055271	Loading...
+GID00055272	Case 162 update
+GID00055273	Loading...
+GID00055274	Case 173 (Group)
+GID00055275	Loading...
+GID00055276	Case 162 update
+GID00055277	Loading...
+GID00055278	Case 162 update
+GID00055279	Loading...
+GID00055280	ERROR #K1
+GID00055281	"Array damaged or disconnected"
+GID00055282	"Check all cords and plugs for connection"
+GID00055284	>\ Welcome, USER
+GID00055286	A Message From The Overseer
+GID00055287	Journal Entry 98
+GID00055289	Download manufacturing specifications.
+GID00055290	Processing request... complete!
+GID00055291	Vendortron Naming
+GID00055292	Camp McCarran Order #172
+GID00055293	Persona Non Grata
+GID00055294	Welcome, Overseer.
+GID00055296	Happy Birthday!
+GID00055297	Opening Message...
+GID00055298	Upcoming Election
+GID00055299	Opening Message...
+GID00055300	Thank You!
+GID00055301	Opening Message...
+GID00055302	Weapon Lockers
+GID00055303	Opening Message...
+GID00055304	Unlock Storage Room Doors
+GID00055305	Unlocking Doors
+GID00055306	NCRA RECORDOTRON Squad Readiness Report Database
+GID00055307	v3.75
+GID00055309	Rifle Range Report
+GID00055310	Accessing
+GID00055311	Rifle Range Report
+GID00055312	Accessing
+GID00055313	Grenade Range Report
+GID00055314	Accessing
+GID00055315	Grenade Range Report
+GID00055316	Accessing
+GID00055317	Alter Readiness Reports
+GID00055318	Altering
+GID00055319	Welcome, Guest.
+GID00055321	Prepared Speech of Gus Olson, Ombudsman
+GID00055322	Message Loading...
+GID00055324	Access Presidential Flight Plan
+GID00055325	Accessing...
+GID00055327	Override Lockdown.
+GID00055328	Overriding... complete.
+GID00055329	System Recording: Vault 11 Solution
+GID00055330	Recording downloaded.
+GID00055331	Automated Response: Vault 11 Solution
+GID00055332	Recording downloaded.
+GID00055333	Messages for Sheldon Weintraub
+GID00055335	New Message from Sarah Weintraub
+GID00055336	... Mail Message Loaded
+GID00055337	Upcoming Billboard Requirements
+GID00055338	... Mail Message Loaded.
+GID00055339	Sarah Weintraub
+GID00055340	Vault 21 Hotel and Shop Manager
+GID00055342	Sarah Weintraub's Mail
+GID00055343	... Mail Listing Loaded Successfully.
+GID00055344	Camp Searchlight Turret Defense Terminal East Sector
+GID00055346	Activate Turret Defense System
+GID00055347	Turret Defense Activated
+GID00055348	ERROR 0xFFFFF710
+GID00055349	"Processor Corru;xsfkleg,,g364[735}3__."
+GID00055351	Welcome, Guest.
+GID00055353	Message: Khan Hospitality
+GID00055354	*** East Pump Station Terminal ***
+GID00055355	*** Authorized Personnel Only ***
+GID00055357	WARNING
+GID00055358	Hermes Communications, Inc.
+GID00055359	Black Mountain Submatrix
+GID00055360	System Online
+GID00055362	Log 672
+GID00055363	Opening log...
+GID00055364	Log 674
+GID00055365	Opening log...
+GID00055366	Log 675
+GID00055367	Opening log...
+GID00055368	Log 676
+GID00055369	Opening log...
+GID00055370	-RobCo Trespasser Management System-
+GID00055371	====================================
+GID00055373	Re-configure Targeting Parameters
+GID00055374	Target Data cleared. Exercise Caution.
+GID00055375	<!>WARNING: No Targeting Data<!>
+GID00055376	<!>Please Exercise Caution<!>
+GID00055377	Activate Turret System
+GID00055378	Booting...
+GID00055379	Deactivate Turret System
+GID00055380	Powering Down...
+GID00055381	System Information
+GID00055382	Loading LOG file...
+GID00055383	System Information
+GID00055384	Loading LOG file...
+GID00055385	System Information
+GID00055386	Loading LOG file...
+GID00055387	System Information
+GID00055388	Loading LOG file...
+GID00055389	System Information
+GID00055390	Loading LOG file...
+GID00055391	-RobCo Trespasser Management System-
+GID00055392	====================================
+GID00055394	Re-configure Targeting Parameters
+GID00055395	Target Data cleared. Exercise Caution.
+GID00055396	<!>WARNING: No Targeting Data<!>
+GID00055397	<!>Please Exercise Caution<!>
+GID00055398	Activate Turret System
+GID00055399	Booting...
+GID00055400	Deactivate Turret System
+GID00055401	Powering Down...
+GID00055402	System Information
+GID00055403	Loading LOG file...
+GID00055404	System Information
+GID00055405	Loading LOG file...
+GID00055406	System Information
+GID00055407	Loading LOG file...
+GID00055408	System Information
+GID00055409	Loading LOG file...
+GID00055410	System Information
+GID00055411	Loading LOG file...
+GID00055412	Sunset Sarsaparilla Custodial Control
+GID00055413	Worker MHDY133 - Area: Hallways
+GID00055414	Current Status: Unavailable
+GID00055415	Worker MHDY134 - Area: Offices
+GID00055416	Current Status: Unavailable
+GID00055417	Worker MHDY135 - Area: Bottling, Shipping
+GID00055418	Current Status: Activated
+GID00055421	Internal Memorandum
+GID00055422	Weapons Policy #H31
+GID00055423	Evacuation Policy #T01
+GID00055424	Inclement Weather Policy #C31
+GID00055425	>\ Welcome, USER
+GID00055427	Journal Entry 167
+GID00055428	Journal Entry 168
+GID00055429	>\ Welcome, USER
+GID00055431	Power Reactor.
+GID00055432	Starting...
+GID00055433	Sunset Sarsaparilla Company Intranet
+GID00055434	To: Marcus Brody, VP of Technology
+GID00055435	Subject: While the iron is hot
+GID00055436	Body: Marcus, I have a few ideas about how we can turn this whole contest situation to our advantage. I'm going to need you to work with the advertising guys on a very special project. A meeting request will be sent out soon. By the way, how do you feel about cowboys?
+GID00055438	The Thorn's Mainframe Controls.
+GID00055440	Power Flow Status
+GID00055441	... Electricity Supply at 74% Capacity.
+GID00055442	Creature Cage Status.
+GID00055443	... Cage Access Secure.
+GID00055444	Maintenance Power Shutdown.
+GID00055445	... Accessing Options.
+GID00055446	>\ Welcome, USER
+GID00055448	A Message From The Overseer
+GID00055449	Journal #138
+GID00055450	Journal #139
+GID00055451	Sheldon Weintraub... Logged In.
+GID00055452	Welcome, Michael Angelo!
+GID00055454	Sheldon Weintraub's Mail
+GID00055455	... Mail Listing Loaded Successfully.
+GID00055456	Hermes Communications, Inc.
+GID00055457	Black Mountain Submatrix
+GID00055458	System Online
+GID00055460	Entry 1
+GID00055461	Opening file...
+GID00055462	Entry 2
+GID00055463	Opening file...
+GID00055464	Entry 3
+GID00055465	Opening file...
+GID00055466	Entry 4
+GID00055467	Opening file...
+GID00055468	Entry 5
+GID00055469	Opening file...
+GID00055470	Entry 6
+GID00055471	Opening file...
+GID00055472	Sunset Sarsaparilla Company Intranet
+GID00055473	From: Lucas Nash, VP of Sales, RobCo Corp.
+GID00055474	Subject: How do you like your new toy?
+GID00055475	Body: Kenneth, I hope you've been impressed thus far with your recent purchase. Your company has been and continues to be a valued customer. Contact me if you have any questions.
+GID00055478	[Guard transfers to the east.]
+GID00055479	[Comments on Caesar's Legion threat.]
+GID00055480	[Suspicions about prisoner conspiracy.]
+GID00055481	[Draft of complaint to NCR command.]
+GID00055482	SoftLock Solutions, Inc
+GID00055483	"Your Security is Our Security"
+GID00055484	>\ Welcome, Mr. House
+GID00055486	Cancel security alert.
+GID00055487	Protectrons standing down.
+GID00055488	Good day Ms. Wang
+GID00055490	Add User Facial Data To Database
+GID00055491	Facial data added for second floor access.
+GID00055492	Inter-office Correspondence #3457785
+GID00055493	Opening Message...
+GID00055494	Inter-office Correspondence #3458631
+GID00055495	Opening Message...
+GID00055496	Inter-office Correspondence #3458642
+GID00055497	Opening Message...
+GID00055498	Inter-office Correspondence #3458648
+GID00055499	Opening Message...
+GID00055500	Journal-It Software   2072 PagSoft
+GID00055501	USER: Ryan Brigg's
+GID00055503	Log Entry #173
+GID00055504	Loading Entry...
+GID00055505	Log Entry #172
+GID00055506	Loading Entry...
+GID00055507	Log Entry #171
+GID00055508	Loading Entry...
+GID00055509	Log Entry #87
+GID00055510	Loading Entry...
+GID00055511	Log Entry #86
+GID00055512	Loading Entry...
+GID00055513	Archived Entries
+GID00055514	disconnect user: RYAN BRIGGS
+GID00055515	disconneting user: RYAN BRIGGS
+GID00055516	Welcome to PoseidoNet, General.
+GID00055518	Configure Power Grid
+GID00055519	Arm ARCHIMEDES Plant Defense System
+GID00055520	System armed. Keep personnel indoors.
+GID00055521	Disarm ARCHIMEDES Plant Defense System
+GID00055522	System disarmed.
+GID00055523	Initial Trials
+GID00055524	Loading Message...
+GID00055525	ARCHIMEDES Testing
+GID00055526	Loading Message...
+GID00055527	*****------ FIELD OPERATIONS
+GID00055528	*****------ ENCLAVE
+GID00055529	*****------
+GID00055530	-----------
+GID00055531	----------- GOD BLESS AMERICA
+GID00055533	[Read First]
+GID00055534	Welcome To Rho Camp
+GID00055535	Request Main Base Connection
+GID00055536	Function Disabled [MESSAGE 0]
+GID00055537	Power Down Defense Grid
+GID00055538	Function Disabled [MESSAGE 0]
+GID00055539	Security Lockdown in place. Please enter override.
+GID00055541	Disengage Lock
+GID00055542	Clearance granted, Unlocking...
+GID00055543	*****------ FIELD OPERATIONS
+GID00055544	*****------ ENCLAVE
+GID00055545	*****------
+GID00055546	-----------
+GID00055547	----------- GOD BLESS AMERICA
+GID00055549	[Read First]
+GID00055550	Welcome To Crater Camp
+GID00055551	Request Main Base Connection
+GID00055552	Function Disabled [MESSAGE 0]
+GID00055553	Power Down Defense Grid
+GID00055554	Function Disabled [MESSAGE 0]
+GID00055555	Vault 22 Interlab Network, Pest Control Subsystem
+GID00055556	Warning: System diagnostic shows that memory has been corrupted. Retrieving uncorrupted files only.
+GID00055558	Species 1
+GID00055559	Loading...
+GID00055560	Species 2
+GID00055561	Loading...
+GID00055562	Species 3
+GID00055563	Loading...
+GID00055564	Michelle Dallian
+GID00055565	Head of External Associations Committee
+GID00055567	H&H Tools, Inc.
+GID00055568	"Building the things you need to build a better tomorrow!"
+GID00055569	Employee access terminal
+GID00055571	HR E-mail 05/14/2020
+GID00055572	Accessing
+GID00055573	E-mail from Jenny DeSoto
+GID00055574	Accessing
+GID00055575	HR E-mail 07/25/2022
+GID00055576	Accessing
+GID00055577	HR E-mail 11/08/2023
+GID00055578	Accessing
+GID00055579	Vault 22 Interlab Network, Overseer Node
+GID00055580	Warning: System diagnostic indicates some systems are damaged or offline. Please contact maintenance.
+GID00055582	Unlock Crew Quarters
+GID00055583	Crew Quarters door unlocked.
+GID00055584	Unlock Data Backup
+GID00055585	Data Backup door unlocked.
+GID00055586	Unlock Cavern Access
+GID00055587	Error! Override engaged at door site.
+GID00055588	Camp Searchlight Turret Defense Terminal North East Sector
+GID00055590	Activate Turret Defense System
+GID00055591	Turret Defense Activated
+GID00055592	Sunset Sarsaparilla Company Intranet
+GID00055593	Mail System
+GID00055594	From: Kenneth Aguilar, President
+GID00055595	Subject: Festus
+GID00055596	I knew I could count on you, Marcus. That new robot down in the lobby has been massively popular with tourists, and word of the contest has spread far and wide.
+GID00055605	>\ Welcome, USER
+GID00055607	Welcome
+GID00055608	Warning: Flooding
+GID00055609	Warning: Flooding
+GID00055610	Warning: Reactor
+GID00055611	Log
+GID00055612	Sarah Weintraub
+GID00055613	Vault 21 Hotel and Shop Manager
+GID00055615	Sarah Weintraub's Mail
+GID00055616	... Mail Listing Loaded Successfully.
+GID00055617	Sent Messages
+GID00055619	Sis, missing you like never before.
+GID00055620	... Mail Message Loaded.
+GID00055621	Good day Ms. Masters
+GID00055623	Encrypted Message
+GID00055624	Decoding Message...
+GID00055625	Q-35 Release Notes
+GID00055626	Accessing Records...
+GID00055627	Inter-office Correspondence #3262173
+GID00055628	Opening Message...
+GID00055629	Inter-office Correspondence #3262178
+GID00055630	Opening Message...
+GID00055631	Inter-office Correspondence #3262719
+GID00055632	Opening Message...
+GID00055633	-Nellis Air Force Base-
+GID00055634	Solar Array Command Interface
+GID00055636	Check Array Efficiency
+GID00055637	Array operating at 75% efficiency.
+GID00055638	Check Array Efficiency
+GID00055639	Array operating at 80% efficiency.
+GID00055640	Check Array Efficiency
+GID00055641	Array operating at 85% efficiency.
+GID00055642	Check Array Efficiency
+GID00055643	Array operating at 90% efficiency.
+GID00055644	Check Array Efficiency
+GID00055645	Array operating at 95% efficiency.
+GID00055646	Check Array Efficiency
+GID00055647	Array operating at 100% efficiency.
+GID00055648	Check Array Efficiency
+GID00055649	Array operating at 120% efficiency.
+GID00055650	[Science 50] Optimize Array Alignment
+GID00055651	Array alignment optimized.
+GID00055652	[Science 50] Press a bunch of buttons
+GID00055653	-RobCo Trespasser Management System-
+GID00055654	====================================
+GID00055656	Re-configure Targeting Parameters
+GID00055657	Target Data cleared. Exercise Caution.
+GID00055658	<!>WARNING: No Targeting Data<!>
+GID00055659	<!>Please Exercise Caution<!>
+GID00055660	Activate Turret System
+GID00055661	Booting...
+GID00055662	Deactivate Turret System
+GID00055663	Powering Down...
+GID00055664	System Information
+GID00055665	Loading LOG file...
+GID00055666	System Information
+GID00055667	Loading LOG file...
+GID00055668	System Information
+GID00055669	Loading LOG file...
+GID00055670	System Information
+GID00055671	Loading LOG file...
+GID00055672	System Information
+GID00055673	Loading LOG file...
+GID00055674	I don't know what's happening. The sirens went off twenty minutes ago and I hear something like thunder in the distance. We're not allowed to leave the building and I can't see what's happening in the street. I'm scared... I think this might be it. Everything that we've been building up for. This might be the last thing I ever write, so to whoever finds it, if I don't make it tell my family that I love them.
+GID00055676	Elise Walton
+GID00055677	CPA
+GID00055678	GAO, Dept. of Research Subsidies
+GID00055680	Sunset Sarsaparilla Custodial Control
+GID00055681	Worker MHDY133 - Area: Hallways
+GID00055682	Current Status: Unavailable
+GID00055683	Worker MHDY134 - Area: Offices
+GID00055684	Current Status: Unavailable
+GID00055685	Worker MHDY135 - Area: Bottling, Shipping
+GID00055686	Current Status: Standby
+GID00055688	Activate Worker MHDY135
+GID00055689	Commencing minor garbage collection...
+GID00055690	Activate Worker MHDY135
+GID00055691	Canceled, logs show cleaning done recently
+GID00055692	Welcome, Guest.
+GID00055694	Vault 11 Election Guide
+GID00055695	Message Loading...
+GID00055696	Notice of Postponement
+GID00055697	Message Loading...
+GID00055698	Overseer Order 745
+GID00055699	Message Loading...
+GID00055700	*** East Pump Station ***
+GID00055702	Lake Las Vegas Status
+GID00055703	Operational
+GID00055704	East Station Status
+GID00055705	Operational
+GID00055706	West Station Status
+GID00055707	Offline
+GID00055708	Flight Control Update Accessed
+GID00055710	Modify Update Settings
+GID00055711	Settings Updated
+GID00055713	(Swamp) Look Around
+GID00055714	You examine your surroundings...
+GID00055715	Talk to the wizard
+GID00055716	You acknowledge the wizard...
+GID00055717	Talk to the wizard
+GID00055718	You acknowledge the wizard...
+GID00055719	Talk to the wizard
+GID00055720	You acknowledge the wizard...
+GID00055721	Talk to the wizard
+GID00055722	You acknowledge the wizard...
+GID00055723	Go East
+GID00055724	You walk to the east...
+GID00055725	Inventory
+GID00055726	System Online
+GID00055728	Open Access Panel
+GID00055729	Opening Access Panel...
+GID00055730	Close Access Panel
+GID00055731	Closing Access Panel...
+GID00055732	Maintenance Power Shutdown.
+GID00055733	Shut Down Power to Creature Cages (Y/N)?
+GID00055735	Yes.
+GID00055736	... Shutting Down Power to Creature Cages.
+GID00055737	No.
+GID00055738	... Returning to Mainframe.
+GID00055739	.......................
+GID00055740	.PROJECT ZHU-RONG .
+GID00055741	.PROTOTYPE LAB REPORTS.
+GID00055742	.......................
+GID00055744	Lab Report: Prototype ZRIN-363
+GID00055745	Loading...
+GID00055746	Lab Report: Prototype ZRIN-375
+GID00055747	Loading...
+GID00055748	Lab Report: Prototype ZRIN-401
+GID00055749	Loading...
+GID00055750	Lab Report: Prototype ZRIN-418
+GID00055751	Loading...
+GID00055752	Hello Billy boy!
+GID00055754	Compose Automated Blast Message
+GID00055755	System Offline...
+GID00055756	>\ Welcome, Overseer
+GID00055758	WARNING
+GID00055759	Seal external ventilation
+GID00055760	Closing external vents...
+GID00055761	Reroute control of the vault
+GID00055762	Transfering control to backup terminal...
+GID00055763	ERROR 0x0AABFF00
+GID00055764	"Primary power source unavailable"
+GID00055765	"Check all cords and plugs for connection"
+GID00055767	ERROR 0xF141A013
+GID00055768	"No Data Storage Detected."
+GID00055769	"Check Tape Drive Connection."
+GID00055771	SoftLock Solutions, Inc
+GID00055772	"Your Security is Our Security"
+GID00055773	>\ Welcome, USER
+GID00055775	Disengage Lock
+GID00055776	Clearance granted, Unlocking...
+GID00055777	Vincent Vanmiller
+GID00055778	Maintenance Chief
+GID00055780	Water Leak
+GID00055781	Opening Message...
+GID00055782	Dinner?
+GID00055783	Opening Message...
+GID00055784	Re: Dinner?
+GID00055785	Opening Message...
+GID00055786	Thank You!
+GID00055787	Opening Message...
+GID00055788	>\ Welcome, USER
+GID00055790	Warning: Flooding
+GID00055791	Warning: Flooding
+GID00055792	Warning: Reactor
+GID00055793	Log
+GID00055794	System
+GID00055795	SoftLock Solutions, Inc
+GID00055796	"Your Security is Our Security"
+GID00055797	>\ Welcome, USER
+GID00055799	Disengage Lock
+GID00055800	Clearance granted, Unlocking...
+GID00055801	Private Server Access
+GID00055802	Piers Isley
+GID00055804	RobCo Visit
+GID00055805	Re: RobCo Visit
+GID00055806	Re: RobCo Visit
+GID00055807	Information
+GID00055808	Feel Free to Browse our Collection
+GID00055810	Constitution of the U.S.A.
+GID00055811	Emancipation Proclamation
+GID00055812	Gettysburg Address
+GID00055813	Monroe Doctrine
+GID00055814	U.S. Declaration of War on Germany
+GID00055815	U.S. Declaration of War on China
+GID00055817	SoftLock Solutions, Inc
+GID00055818	"Your Security is Our Security"
+GID00055819	>\ Welcome, USER
+GID00055821	Disengage Lock
+GID00055822	Clearance granted, Unlocking...
+GID00055823	>\ Welcome, USER
+GID00055825	Warning: Flooding
+GID00055826	Warning: Flooding
+GID00055827	Warning: Reactor
+GID00055828	Log
+GID00055829	System
+GID00055830	Sunset Sarsaparilla Company Intranet
+GID00055831	Automated Messages System
+GID00055832	HDY117 reports an actuator failure!
+GID00055833	PRO496 reports minor structural damage!
+GID00055834	HDY291 reports a line malfunction!
+GID00055835	HDY074 reports oil maintenance needed soon!
+GID00055836	HDY019 reports a line malfunction!
+GID00055837	HDY019 & 291 report all is OK!
+GID00055838	HDY019 & 291 report inactivity!
+GID00055839	HDY074 reports inactivity!
+GID00055840	HDY074, 019, & 291 report inactivity!
+GID00055842	Go to page 3
+GID00055843	Loading...
+GID00055844	Vault 22 Interlab Network, Vault-Tec Data Backup System
+GID00055845	Current data integrity: 31%
+GID00055847	Download research data
+GID00055848	Downloading...
+GID00055849	If you aren't Big Sal, keep your grubby fucking fingers to yourself!
+GID00055851	Disengage Lock
+GID00055852	Clearance granted, Unlocking...
+GID00055853	L.O.B. Enterprises Chief Executive Terminal
+GID00055855	Memo: Responding to Federal Raids
+GID00055856	Memo: Weapon Practice Tonight
+GID00055857	Memo: Emergency Procedures
+GID00055858	Memo: Weapon Practice Tonight?
+GID00055859	>\ Welcome, USER
+GID00055861	Warning: Flooding
+GID00055862	Warning: Flooding
+GID00055863	Warning: Reactor
+GID00055864	Log
+GID00055865	>\ Welcome, USER
+GID00055867	A Message From The Overseer
+GID00055868	Log Entry 56
+GID00055869	Log Entry 74
+GID00055871	Experiment 27CE
+GID00055872	Experiment PP216
+GID00055873	DC Metro Office of Urban Planning
+GID00055874	Human Resources Management System
+GID00055875	You are logged in as Emily Weise
+GID00055876	Please make your selection:
+GID00055878	Submit time sheet.
+GID00055879	Request tax information.
+GID00055880	Review personal information.
+GID00055881	Contact technical support.
+GID00055882	About the system.
+GID00055883	Vault 22 Interlab Network, Oxygen Lab System
+GID00055884	Warning: System security has been compromised!
+GID00055886	Vault 22 Expedition, entry 3
+GID00055887	Loading...
+GID00055888	Vault 22 Expedition, entry 4
+GID00055889	Loading...
+GID00055890	Vault 22 Expedition, entry 5
+GID00055891	Loading...
+GID00055892	Open Entrance Door
+GID00055893	Door opened.
+GID00055894	DC Metro Office of Urban Planning
+GID00055895	Project Management System
+GID00055896	Capital Beltway Reconstruction Project
+GID00055897	You are logged in as Project Leader
+GID00055898	Please make your selection:
+GID00055900	Project Overview
+GID00055901	Project Mission Statement
+GID00055902	Project Status
+GID00055903	About the system
+GID00055904	Reboot system
+GID00055905	(Mountainside)
+GID00055906	Grelok is here, spewing heresies.
+GID00055908	VICTORY!
+GID00055909	Thanks for playing!
+GID00055910	(Mountainside) Look Around
+GID00055911	You examine your surroundings...
+GID00055912	(Mountainside) Look Around
+GID00055913	You examine your surroundings...
+GID00055914	Use Sword Grelok
+GID00055915	Your puny weapons are useless on Grelok.
+GID00055916	Use Magical Sword Grelok
+GID00055917	Investigate glinting object
+GID00055918	You take a rough gemstone from the rocks.
+GID00055919	Go South
+GID00055920	You retreat to the south....
+GID00055921	Inventory
+GID00055922	Welcome to Vault 21
+GID00055923	Please Select from the Following Menu Options:
+GID00055925	Services
+GID00055926	Vault 21 Guest Services
+GID00055927	History of Vault 21
+GID00055928	A World of Its Own!
+GID00055929	Mail Messaging
+GID00055930	Your Mail Away from Home!
+GID00055932	(Entry: Edgar)
+GID00055933	Loading Entry...
+GID00055934	(Entry: Rochelle)
+GID00055935	Loading Entry...
+GID00055936	(Entry: Tyrone)
+GID00055937	Loading Entry...
+GID00055938	(Entry: Doc J)
+GID00055939	Loading Entry...
+GID00055940	(Entry: Tyler)
+GID00055941	Loading Entry...
+GID00055942	(Entry: Tyler)
+GID00055943	Loading Entry...
+GID00055944	(Entry: Jim)
+GID00055945	Loading Entry...
+GID00055946	(Entry: Edgar)
+GID00055947	Loading Entry...
+GID00055948	(Entry: Jim)
+GID00055949	Loading Entry...
+GID00055954	Vault 101 Access Terminal
+GID00055956	H&H Tools, Inc.
+GID00055957	"Building the things you need to build a better tomorrow!"
+GID00055958	Employee access terminal
+GID00055960	HR E-mail 05/14/2020
+GID00055961	Accessing
+GID00055962	HR E-mail 07/25/2022
+GID00055963	Accessing
+GID00055964	HR E-mail 11/08/2023
+GID00055965	Accessing
+GID00055966	Crimson Caravan Company
+GID00055967	Internal Memorandum Network
+GID00055968	Current User: dhostetler
+GID00055970	Memorandum 05/17/80
+GID00055971	Accessing...
+GID00055972	Memorandum 06/02/80
+GID00055973	Accessing...
+GID00055974	Memorandum 06/03/80
+GID00055975	Accessing...
+GID00055976	Hidden Valley Datastore
+GID00055977	> Access Restrictions confirmed.
+GID00055978	>Select a topic you wish to peruse:
+GID00055980	Bunker Information
+GID00055981	Accessing...
+GID00055982	Elder Dismissal Incidents
+GID00055983	Accessing...
+GID00055984	Chain That Binds
+GID00055985	Accessing...
+GID00055986	>\ Welcome, USER
+GID00055988	A Message From The Overseer
+GID00055989	Log #45
+GID00055990	Log #46
+GID00055991	H&H Tools, Inc.
+GID00055992	"Building the things you need to build a better tomorrow!"
+GID00055993	Employee access terminal
+GID00055995	Journal Entry 05/14/2061
+GID00055996	Accessing
+GID00055997	Journal Entry 01/19/2062
+GID00055998	Accessing
+GID00055999	Journal Entry 06/19/2077
+GID00056000	Accessing
+GID00056001	Lucky 38 Executive Override.
+GID00056002	Starting...
+GID00056003	-RobCo Trespasser Management System-
+GID00056004	====================================
+GID00056006	Re-configure Targeting Parameters
+GID00056007	Target Data cleared. Exercise Caution.
+GID00056008	<!>WARNING: No Targeting Data<!>
+GID00056009	<!>Please Exercise Caution<!>
+GID00056010	Activate Turret System
+GID00056011	Booting...
+GID00056012	Deactivate Turret System
+GID00056013	Powering Down...
+GID00056014	System Information
+GID00056015	Loading LOG file...
+GID00056016	System Information
+GID00056017	Loading LOG file...
+GID00056018	System Information
+GID00056019	Loading LOG file...
+GID00056020	System Information
+GID00056021	Loading LOG file...
+GID00056022	System Information
+GID00056023	Loading LOG file...
+GID00056025	Informant Report
+GID00056026	Freeside Report
+GID00056027	Farm Report
+GID00056028	Fiend Report
+GID00056029	ERROR 0x00B636C6
+GID00056030	"No Input Device Recognized."
+GID00056031	"Reconnect Keyboard."
+GID00056034	Vault 22 Interlab Network, Atmospheric Effects Subsystem
+GID00056035	Warning: System diagnostic shows that memory has been corrupted. Retrieving uncorrupted files only.
+GID00056037	Noise complaint
+GID00056038	Accessing mail server...
+GID00056039	McMurry's Neon Sign Designs
+GID00056040	Factory Foreman Station
+GID00056042	Shipping Invoice #0812
+GID00056043	Shipping Invoice #1542
+GID00056044	Accident Report Log
+GID00056045	Security Disabled, doors unlocked
+GID00056047	Disengage Lock
+GID00056048	Clearance granted, Unlocking...
+GID00056049	LOB Enterprises Employee Terminal
+GID00056050	Welcome Mr. Johnson
+GID00056051	Please refrain from making inappropriate comments and actions towards the female employees.
+GID00056052	As is company policy, this reminder will remain on screen for as long as Human Resources deems necessary.
+GID00056054	All Personnel: Emergency Protocols
+GID00056055	Memo: Sexual Harassment Charge
+GID00056056	Memo: Responding to Federal Raids
+GID00056057	Welcome.
+GID00056059	Reset Mainframe Connection
+GID00056060	Connection reset. Handshaking ...complete.
+GID00056061	Prison Break
+GID00056062	Message loading...
+GID00056063	High Roller
+GID00056064	Message loading...
+GID00056065	Testing...
+GID00056066	Message loading...
+GID00056067	Sunset Sarsaparilla Company Intranet
+GID00056068	To: Nathan Stanley, Director of PR
+GID00056069	Subject: RE: What contest?
+GID00056070	Body: Stanley, are you out of your mind? Have you seen the latest sales figures? We're up 300% since these rumors started and you're asking if I want you to make it stop? Please stop by my office so we can further discuss the issue.
+GID00056072	H&H Tools, Inc.
+GID00056073	"Building the things you need to build a better tomorrow!"
+GID00056074	Employee access terminal
+GID00056076	HR E-mail 05/14/2020
+GID00056077	Accessing
+GID00056078	E-mail from Alan Dalton
+GID00056079	Accessing
+GID00056080	HR E-mail 07/25/2022
+GID00056081	Accessing
+GID00056082	HR E-mail 11/08/2023
+GID00056083	Accessing
+GID00056084	>\ Welcome, USER
+GID00056086	A Message From The Overseer
+GID00056087	Log #479
+GID00056088	Log #480
+GID00056089	Log #481
+GID00056090	Log #482
+GID00056091	Log #483
+GID00056092	Log #484
+GID00056093	DCTA Metro Map
+GID00056094	------------------------------------
+GID00056096	View/Download Metro Map
+GID00056097	Metro Map Downloaded...
+GID00056098	Cerulean Robotics R&D
+GID00056099	V 0.6.0.3
+GID00056100	Fully Integrated Security
+GID00056101	Technology Officer
+GID00056102	------------------------------------
+GID00056103	Data Entry Terminal
+GID00056105	Run Diagnostic Routine
+GID00056106	...All Systems Nominal...
+GID00056107	Upload Programming Routine
+GID00056108	Please Select Routine
+GID00056109	>\ Welcome, USER
+GID00056111	A Message From The Overseer
+GID00056112	My Journal: Entry 74
+GID00056113	Sunset Sarsaparilla Company Intranet
+GID00056114	From: Nathan Stanley, Director of PR
+GID00056115	Subject: What contest?
+GID00056116	Body: Sir, the rumors of some sort of contest are quickly growing out of control. We're getting flooded with calls and messages asking if it's true we're redeeming bottle caps for prizes. Do you want me to make an official statement denouncing this rumor?
+GID00056118	>\ Welcome, USER
+GID00056120	SoftLock Solutions, Inc
+GID00056121	"Your Security is Our Security"
+GID00056122	Current Administrator: None
+GID00056123	>\ Welcome, Scrambler.
+GID00056125	Reset administrator password.
+GID00056126	Password reset.
+GID00056127	Reset turret targeting data.
+GID00056128	Warning: Turret target priorities reset!
+GID00056129	Activate lockdown protocol.
+GID00056130	Lockdown protocol in effect.
+GID00056131	-RobCo Trespasser Management System-
+GID00056132	====================================
+GID00056134	Re-configure Targeting Parameters
+GID00056135	Target Data cleared. Exercise Caution.
+GID00056136	<!>WARNING: No Targeting Data<!>
+GID00056137	<!>Please Exercise Caution<!>
+GID00056138	Activate Turret System
+GID00056139	Booting...
+GID00056140	Deactivate Turret System
+GID00056141	Powering Down...
+GID00056142	System Information
+GID00056143	Loading LOG file...
+GID00056144	System Information
+GID00056145	Loading LOG file...
+GID00056146	System Information
+GID00056147	Loading LOG file...
+GID00056148	System Information
+GID00056149	Loading LOG file...
+GID00056150	System Information
+GID00056151	Loading LOG file...
+GID00056152	H&H Tools, Inc.
+GID00056153	"Building the things you need to build a better tomorrow!"
+GID00056154	Employee access terminal
+GID00056156	HR E-mail 05/14/2020
+GID00056157	Accessing
+GID00056158	E-mail from Dobson O'Gill
+GID00056159	Accessing
+GID00056160	HR E-mail 07/25/2022
+GID00056161	Accessing
+GID00056162	HR E-mail 11/08/2023
+GID00056163	Accessing
+GID00056164	Welcome.
+GID00056166	Reset Mainframe Connection
+GID00056167	Connection reset. Handshaking ...complete.
+GID00056168	Specifications.
+GID00056169	Message loading...
+GID00056170	>\ Welcome, USER
+GID00056172	Activate Reactor
+GID00056173	Starting...
+GID00056174	Inactive Reactor
+GID00056175	Hidden Valley Network
+GID00056176	Welcome, Paladin Ramos.
+GID00056177	Displaying last three files accessed.
+GID00056179	Read Journal 651
+GID00056180	Loading document...
+GID00056181	Read Journal 652
+GID00056182	Loading document...
+GID00056183	Read Journal 653
+GID00056184	Loading document...
+GID00056185	Read Journal 653
+GID00056186	Loading document...
+GID00056187	Read Journal 653
+GID00056188	Loading document...
+GID00056189	NCRA RECORDOTRON Squad Readiness Report Database
+GID00056190	v3.75
+GID00056192	Squad CG554-2 "Misfits"
+GID00056193	Accessing
+GID00056194	Ranger Detachment Alpha
+GID00056195	Accessing
+GID00056196	Ranger Detachment Bravo
+GID00056197	Accessing
+GID00056198	Ranger Detachment Charlie
+GID00056199	Accessing
+GID00056201	Rusty Sword
+GID00056202	Your weapon. Rusty, but trusty.
+GID00056203	Drinking Flask
+GID00056204	A very small flask to carry water.
+GID00056205	Drinking Flask
+GID00056206	Your flask if full of blessed water.
+GID00056207	Zombie Head
+GID00056208	The smell may make you unpopular...
+GID00056209	Refined Gemstone
+GID00056210	A brilliant, faceted gemstone
+GID00056211	Magical Shard
+GID00056212	The gem shard pulses with magical light...
+GID00056213	Magic Sword
+GID00056214	An enchanted weapon to defeat Grelok
+GID00056215	Brass Key
+GID00056216	Key given to you by the priest
+GID00056217	Raw Gemstone
+GID00056218	This gemstone may be valuable...
+GID00056219	Select Routine to Upload
+GID00056220	-------------------------------
+GID00056222	[Science] <Program Sexbot Routine>
+GID00056223	...Routine Accepted...
+GID00056224	Upload Ralph's Sexbot Routine
+GID00056225	...Routine Accepted...
+GID00056226	ERROR 0xBA53FFFA
+GID00056227	"Malicious Programs Detected."
+GID00056228	"Virus Detected. Shutting Down."
+GID00056231	Security Recording: Vault Entrance
+GID00056232	Downloading... complete.
+GID00056233	Hello Nara
+GID00056235	Reign of Grelok (beta v.632)
+GID00056237	(Plains) Look Around
+GID00056238	You examine your surroundings...
+GID00056239	Go North
+GID00056240	You venture to the north...
+GID00056241	Go South
+GID00056242	You walk to the south...
+GID00056243	Go East
+GID00056244	You walk to the east...
+GID00056245	Go West
+GID00056246	You walk to the west...
+GID00056247	Inventory
+GID00056248	Load Submenu
+GID00056249	Game Over
+GID00056250	Please play again!
+GID00056252	Initial Inventory Report
+GID00056253	Loading...
+GID00056254	No Clue What These Are
+GID00056255	Loading...
+GID00056256	Great. Just Great.
+GID00056257	Loading...
+GID00056259	Freddie Gomez
+GID00056260	Stanley
+GID00056261	Amata
+GID00056262	Remember: Medical files are confidential!
+GID00056264	Patient Files
+GID00056265	Experiments
+GID00056266	ERROR 0xFFFFF710
+GID00056267	"Processor Corru;xsfkleg,,g364[735}3__."
+GID00056270	Access Duty Roster
+GID00056271	Duty Roster Accessed
+GID00056272	RobCo Service Terminal
+GID00056273	V 6.0.3.2.1.a
+GID00056274	------------------------------------
+GID00056275	For More Top Of The Line
+GID00056276	RobCo Products See
+GID00056277	Your Local Showroom.
+GID00056279	Run Maintenance Routine
+GID00056280	...Loading Sequence
+GID00056281	Run Maintenance Routine
+GID00056282	<ERROR> Maintenance In Progress
+GID00056284	Control Tower Access Log
+GID00056285	Loading...
+GID00056286	Sunset Sarsaparilla Company Intranet
+GID00056287	To: Margie Walker, Truckers' Union Rep
+GID00056288	Subject: Worse news
+GID00056289	Body: We've got trouble. That hush-hush experimental robot I told you about the other day? The damn thing is single-handedly running all of our distribution in the Vegas area now. Your boys aren't on temporary leave. It's permanent. Damn, the president wants to see me in his office. I'll finish this later.
+GID00056291	ERROR 0xF141A013
+GID00056292	"No Data Storage Detected."
+GID00056293	"Check Tape Drive Connection."
+GID00056295	SoftLock Solutions, Inc
+GID00056296	"Your Security is Our Security"
+GID00056297	>\ Welcome, USER
+GID00056299	Disengage Lock
+GID00056300	Clearance granted, Unlocking...
+GID00056301	Welcome to PoseidoNet.
+GID00056303	ARCHIMEDES Testing
+GID00056304	Message Loading...
+GID00056305	Results
+GID00056306	Message Loading...
+GID00056307	Upcoming Visit
+GID00056308	Message Loading...
+GID00056309	"Can I Tell Him?"
+GID00056310	Message Loading...
+GID00056311	SoftLock Solutions, Inc
+GID00056312	"Your Security is Our Security"
+GID00056313	>\ Welcome, Mr. House
+GID00056315	Cancel security alert.
+GID00056316	Turrets reverting to standby mode.
+GID00056317	LOB Enterprises Front Desk
+GID00056318	Welcome Ms. Warring
+GID00056319	Please remember to always ask for I.D. and greet visitors with a smile.
+GID00056321	All Personnel: Emergency Protocols
+GID00056322	Email: Weapon Practice Tonight?
+GID00056323	Sent Item: MAN THE DOORS!!
+GID00056324	All Personnel: Caps in Emails
+GID00056325	ERROR 0x03C663A1
+GID00056326	"Network connection not found"
+GID00056327	"Dummy terminal inactive"
+GID00056329	Hidden Valley Datastore
+GID00056330	> Let the record show that I have stood witness to the dismissal of David James from the post of Elder today, March 17th, 2265. Brother James was charged with destroying an unknown device recovered from a recent expedition. The purpose and function of the device remain unknown, and Brother James has thus far proven unwilling to discuss the matter with anyone.
+GID00056332	Vault 22 Interlab Network, Guess What Trivia Game
+GID00056333	Warning: System security has been compromised! Current data integrity is unknown.
+GID00056335	Vault 22 Expedition, entry 8
+GID00056336	Loading...
+GID00056337	Vault 22 Expedition, entry 9
+GID00056338	Loading...
+GID00056339	It is a lovely day for science! What shall we test today, MOIRA?
+GID00056341	Do brahmin heads learn independently?
+GID00056342	More study of brahmin language required.
+GID00056343	Can explosives be used to expand town?
+GID00056344	Lucas Simms requests all testing cease.
+GID00056345	Can Mole-Rats be domesticated?
+GID00056346	Yes, if defanged, declawed, & lobotomized.
+GID00056347	How to prevent raider attacks?
+GID00056348	Raiders refuse to sit for interviews.
+GID00056349	What do Super-Mutants eat?
+GID00056350	Research assistants.
+GID00056351	What happened to China?
+GID00056352	Reports uncertain. China may be fictional.
+GID00056353	Can centaurs talk?
+GID00056354	Abundance of tongues suggests so.
+GID00056355	What is the purpose of being?
+GID00056356	To perform science.
+GID00056357	Daniel Raati
+GID00056358	Headmaster
+GID00056360	RobCo Service Terminal
+GID00056361	V 6.0.1
+GID00056362	------------------------------------
+GID00056363	NCR Army Supply Database.
+GID00056364	McCarran Branch.
+GID00056366	Download Weapons Manifest
+GID00056367	Processing request... complete!
+GID00056368	Sunset Sarsaparilla Company Intranet
+GID00056369	Local Saved Messages
+GID00056371	What contest?
+GID00056372	Loading message...
+GID00056373	How's your new toy?
+GID00056374	Loading message...
+GID00056375	>\ Welcome, USER
+GID00056377	138.u84d.983.we.r
+GID00056378	[data corrupted]
+GID00056379	gi.d3.8o20
+GID00056380	md.45.7ld2
+GID00056381	Hidden Valley Network
+GID00056382	Welcome, Schuler.
+GID00056383	Displaying last three files accessed.
+GID00056385	Journal Entry 01
+GID00056386	Loading document...
+GID00056387	Journal Entry 260
+GID00056388	Loading document...
+GID00056389	Journal Entry 261
+GID00056390	Loading document...
+GID00056391	>\ Welcome, Mr. House.
+GID00056393	Open Antechamber.
+GID00056394	Starting...
+GID00056395	Open Antechamber.
+GID00056396	Starting...
+GID00056397	Public Server Access
+GID00056399	Public Kitchen
+GID00056400	Welcome to RobCo!
+GID00056401	Visitor Policy
+GID00056402	Public Server Access
+GID00056404	Public Kitchen
+GID00056405	Welcome to RobCo!
+GID00056406	AG%(V$*
+GID00056407	DECODING!
+GID00056408	Private Server Access
+GID00056409	Public Server Access
+GID00056411	Public Kitchen
+GID00056412	Welcome to RobCo!
+GID00056413	Martin's Retirement
+GID00056414	Public Server Access
+GID00056416	Public Kitchen
+GID00056417	Welcome to RobCo!
+GID00056418	Cake
+GID00056419	Sunset Sarsaparilla Company Intranet
+GID00056420	Automated Messages System
+GID00056421	HDY074 reports a servo failure!
+GID00056422	HDY074 reports all systems OK!
+GID00056423	HDY019 & 291 report a line malfunction!
+GID00056424	HDY117 reports oil maintenance needed soon!
+GID00056425	PRO802 reports a weapon malfunction!
+GID00056426	HDY019 & 291 report all is OK!
+GID00056427	HDY117 reports all systems OK!
+GID00056428	PRO802 reports weapon OK!
+GID00056429	HDY074 reports a line malfunction!
+GID00056431	Go to page 2
+GID00056432	Loading...
+GID00056433	H&H Tools, Inc.
+GID00056434	"Building the things you need to build a better tomorrow!"
+GID00056435	Employee access terminal
+GID00056437	HR E-mail 05/14/2020
+GID00056438	Accessing
+GID00056439	E-Mail from Jack Maynard
+GID00056440	Accessing
+GID00056441	E-Mail from Jenny DeSoto
+GID00056442	Accessing
+GID00056443	E-Mail from Alan Dalton
+GID00056444	Accessing
+GID00056445	HR E-mail 07/25/2022
+GID00056446	Accessing
+GID00056447	HR E-mail 11/08/2023
+GID00056448	Accessing
+GID00056449	Camp Searchlight Turret Defense Terminal South Sector
+GID00056451	Activate Turret Defense System
+GID00056452	Turret Defense Activated
+GID00056453	Journal-It Software   2072 PagSoft
+GID00056454	Ryan Brigg's Journal
+GID00056456	Recent Journal Entries
+GID00056457	Archived Journal Entries
+GID00056458	ERROR 0xBA53FFFA
+GID00056459	"Malicious Programs Detected."
+GID00056460	"Virus Detected. Shutting Down."
+GID00056462	Hidden Valley Network
+GID00056463	Turret Control System
+GID00056465	Disable Terminals
+GID00056466	Disabling...
+GID00056467	Change targeting parameters
+GID00056468	Changing...
+GID00056469	Please remember to change your passwords daily!
+GID00056471	Generator Security Diagnostic
+GID00056472	Activate Generator Diagnostics
+GID00056473	Attempting to Activate Remote Diagnostics
+GID00056474	Public Server Access
+GID00056476	Public Kitchen
+GID00056477	Welcome to RobCo!
+GID00056478	REPCONN Badge Processing
+GID00056480	Print Executive Security Badge
+GID00056481	Executive Security Badge Printed
+GID00056482	Inter-office Correspondence #3262725
+GID00056483	Opening Message...
+GID00056484	SECRET JOURNAL ACCESS
+GID00056485	STAY OUT YOU RED MENACE
+GID00056487	Journal Entry 04/15/2077
+GID00056488	Accessing
+GID00056489	SECRET JOURNAL ACCESS
+GID00056490	STAY OUT YOU RED MENACE
+GID00056492	Journal Entry 12/27/2074
+GID00056493	Accessing
+GID00056494	DeepFreeze Kitchen Storage Corp.
+GID00056495	"Cleanliness is next to godliness. Both are below freshness."
+GID00056496	>\ Welcome, USER
+GID00056498	Disengage Lock
+GID00056499	Clearance granted, Unlocking...
+GID00056500	Engage Lock
+GID00056501	Clearance granted, locking...
+GID00056502	SECRET JOURNAL ACCESS
+GID00056503	STAY OUT YOU RED MENACE
+GID00056505	Journal Entry 04/06/2068
+GID00056506	Accessing
+GID00056507	SECRET JOURNAL ACCESS
+GID00056508	STAY OUT YOU RED MENACE
+GID00056510	Journal Entry 11/08/2063
+GID00056511	Accessing
+GID00056512	SECRET JOURNAL ACCESS
+GID00056513	STAY OUT YOU RED MENACE
+GID00056515	Journal Entry 07/12/2062
+GID00056516	Accessing
+GID00056517	Hidden Valley Network
+GID00056518	Welcome, user.
+GID00056520	Access Datastore
+GID00056521	Accessing...
+GID00056522	Access Datastore
+GID00056523	Accessing...
+GID00056524	Access Datastore
+GID00056525	Accessing...
+GID00056526	Access Datastore
+GID00056527	Accessing...
+GID00056528	Check isolation
+GID00056529	Isolation confirmed.
+GID00056530	Check partition
+GID00056531	Partition confirmed.
+GID00056532	Access Datastore
+GID00056533	Accessing...
+GID00056534	Check isolation
+GID00056535	Isolation confirmed.
+GID00056536	Check partition
+GID00056537	Partition confirmed.
+GID00056538	Access Datastore
+GID00056539	Accessing...
+GID00056540	Check isolation
+GID00056541	Isolation confirmed.
+GID00056542	Check partition
+GID00056543	Partition confirmed.
+GID00056544	Hello, Daring! May the twilight of your life be filled with the same wonder and adventure as your youth.
+GID00056546	Mirelurks
+GID00056547	Feral Ghouls
+GID00056548	Radscorpions
+GID00056550	Robobrains
+GID00056551	DeepFreeze Kitchen Storage Corp.
+GID00056552	"Cleanliness is next to godliness. Both are below freshness."
+GID00056553	>\ Welcome, USER
+GID00056555	Engage Lock
+GID00056556	Clearance granted, Locking...
+GID00056557	Disengage Lock
+GID00056558	Clearance granted, Unlocking...
+GID00056559	-RobCo Trespasser Management System-
+GID00056560	====================================
+GID00056562	Re-configure Targeting Parameters
+GID00056563	Target Data cleared. Exercise Caution.
+GID00056564	<!>WARNING: No Targeting Data<!>
+GID00056565	<!>Please Exercise Caution<!>
+GID00056566	Activate Turret System
+GID00056567	Booting...
+GID00056568	Deactivate Turret System
+GID00056569	Powering Down...
+GID00056570	System Information
+GID00056571	Loading LOG file...
+GID00056572	System Information
+GID00056573	Loading LOG file...
+GID00056574	System Information
+GID00056575	Loading LOG file...
+GID00056576	System Information
+GID00056577	Loading LOG file...
+GID00056578	System Information
+GID00056579	Loading LOG file...
+GID00056580	New California Republic Camp Searchlight Communications Terminal #4
+GID00056582	Communications Status
+GID00056583	All Communications Offline
+GID00056584	Communications Entry #842
+GID00056585	Communications Entry #923
+GID00056586	Communications Entry #937
+GID00056587	>\ Welcome, Guest.
+GID00056589	Upgrade Suite?
+GID00056590	Starting...
+GID00056591	Welcome back, Miss Red.
+GID00056593	The Thorn's Mainframe Control
+GID00056594	... Accessing Data.
+GID00056595	The Thorn's Ledger.
+GID00056596	... Accessing Data.
+GID00056597	Miss Red's Messages.
+GID00056598	... Messages Can't Be Read.
+GID00056599	Sheldon Weintraub's Mail
+GID00056601	Messages
+GID00056602	... Mail Loaded Successfully.
+GID00056603	Sent Mail
+GID00056604	... Mail Loaded Successfully.
+GID00056605	NCRA Troop Dispositionator ME
+GID00056606	v8.87
+GID00056608	Delete Misfits Combat Patrol Mission
+GID00056609	Mission orders deleted
+GID00056610	>\ Welcome, USER
+GID00056612	Activate Pump Station
+GID00056613	Clearance granted, activating pump station
+GID00056614	SoftLock Solutions, Inc
+GID00056615	"Your Security is Our Security"
+GID00056616	>\ Welcome, USER
+GID00056618	Disengage Lock
+GID00056619	Clearance granted, Unlocking...
+GID00056620	>\ Welcome, USER
+GID00056622	A Message From The Overseer
+GID00056623	Journal Entry #209
+GID00056624	Journal #210
+GID00056626	Security System Login
+GID00056627	Welcome, Mr. Humbert....
+GID00056628	Saved Memo - Attn: Security Captain
+GID00056629	Loading...
+GID00056630	Company Policies
+GID00056631	Loading partial archive...
+GID00056632	-***------- FIELD OPERATIONS
+GID00056633	*-*-*------ ENCLAVE
+GID00056634	-***-------
+GID00056635	-----------
+GID00056636	----------- GOD BLESS AMERICA
+GID00056638	Field Entry: "Mirelurk"
+GID00056639	Field Entry: "Mirelurk"
+GID00056640	Field Entry: Great American Cockroach
+GID00056641	Field Entry: "Radroach"
+GID00056642	-***------- FIELD OPERATIONS
+GID00056643	*-*-*------ ENCLAVE
+GID00056644	-***-------
+GID00056645	-----------
+GID00056646	----------- GOD BLESS AMERICA
+GID00056648	Field Entry: Bloatfly
+GID00056649	Field Entry: "Bloat Fly"
+GID00056650	Field Entry: Brahmin
+GID00056651	Field Entry: "Brahmin"
+GID00056652	Field Entry: Giant Ant
+GID00056653	Field Entry: "Giant Ant"
+GID00056654	Journal-It Software   2072 PagSoft
+GID00056655	USER: NO ENTRY
+GID00056657	Log Entry #006
+GID00056658	Loading Entry...
+GID00056659	Log Entry #005
+GID00056660	Loading Entry...
+GID00056661	Log Entry #004
+GID00056662	Loading Entry...
+GID00056663	Log Entry #003
+GID00056664	Loading Entry...
+GID00056665	Log Entry #002
+GID00056666	Loading Entry...
+GID00056667	Log Entry #001
+GID00056668	Loading Entry...
+GID00056669	disconnect user: NO ENTRY
+GID00056670	disconnecting user: NO ENTRY
+GID00056671	Chief Fire Officer Terminal
+GID00056673	Chief Fire Officer Report No. F1-218
+GID00056675	Strip Security Note
+GID00056676	MP Shift Reports
+GID00056677	Trooper Behavior Report
+GID00056678	Welcome to PoseidoNet.
+GID00056680	Reset Mainframe Connection
+GID00056681	Connection reset. Waiting for mainframe...
+GID00056682	Reset Mainframe Connection
+GID00056683	Connection reset. Handshaking ...complete.
+GID00056684	Welcome to PoseidoNet.
+GID00056686	Reset Mainframe Connection
+GID00056687	Connection reset. Waiting for mainframe...
+GID00056688	Reset Mainframe Connection
+GID00056689	Connection reset. Handshaking ...complete.
+GID00056690	ARCHIMEDES Testing
+GID00056691	Loading Message...
+GID00056692	Upcoming Visit
+GID00056693	Loading Message...
+GID00056694	Welcome to PoseidoNet.
+GID00056696	Reset Mainframe Connection
+GID00056697	Connection reset. Waiting for mainframe...
+GID00056698	Reset Mainframe Connection
+GID00056699	Connection reset. Handshaking ...complete.
+GID00056700	ARCHIMEDES Testing
+GID00056701	Message loading...
+GID00056702	Upcoming Visit
+GID00056703	Message loading...
+GID00056704	National Catastrophe Relief Auxiliary
+GID00056705	Response Unit MD-478
+GID00056706	Nancy Kroydon, Presiding Officer
+GID00056708	Log Entry #008
+GID00056709	Loading Entry...
+GID00056710	Log Entry #007
+GID00056711	Loading Entry...
+GID00056712	Log Entry #006
+GID00056713	Loading Entry...
+GID00056714	Log Entry #005
+GID00056715	Loading Entry...
+GID00056716	Log Entry #004
+GID00056717	Loading Entry...
+GID00056718	Log Entry #003
+GID00056719	Loading Entry...
+GID00056720	Log Entry #002
+GID00056721	Loading Entry...
+GID00056722	Log Entry #001
+GID00056723	Loading Entry...
+GID00056724	disconnect user: N Kroydon
+GID00056725	disconnecting user: N Kroydon
+GID00056726	>\ Welcome, Mr. House.
+GID00056728	Unseal LS Chamber.
+GID00056729	Starting...
+GID00056730	Sterilize LS Chamber.
+GID00056731	Starting...
+GID00056732	Disable Cerebral Interface.
+GID00056733	Starting...
+GID00056734	l;fkajsdlkfjasdlkfjasdklfjadkslfjasdf
+GID00056735	as;dlkfjasd;lkfjasdlkfjadklsfjasdlkfja
+GID00056736	ouitypioufyhin mrewtw.etj;aljga0oij
+GID00056737	kjnhiubvyp;oihjernthjouyshgoha'ijf
+GID00056739	Reload DataStore
+GID00056740	uoityhnbvm,oaqirjtamf
+GID00056742	Examination of the Post-Necrotic Human
+GID00056743	Neurology of Luminous Necrotic Post-Humans
+GID00056744	Study Of Ferocious Post-Necrotic Dystrophy
+GID00056745	New Vegas Steel
+GID00056746	Factory Automation Test in Progress
+GID00056747	Current Test Time: 204 years
+GID00056749	Lucky 38 Executive Override.
+GID00056750	Starting...
+GID00056751	Good day Mr. Steeple
+GID00056753	Inter-office Correspondence #3262091
+GID00056754	Opening Message...
+GID00056755	Inter-office Correspondence #3262099
+GID00056756	Opening Message...
+GID00056757	Inter-office Correspondence #3262105
+GID00056758	Opening Message...
+GID00056759	Inter-office Correspondence #3458503
+GID00056760	Opening Message...
+GID00056761	Disable Robots
+GID00056762	Disabling Security Robots
+GID00056763	Welcome, Officer.
+GID00056765	Deposition
+GID00056766	Message loading...
+GID00056767	Vault 11 Election Guide
+GID00056768	Message Loading...
+GID00056769	Notice of Postponement
+GID00056770	Message Loading...
+GID00056771	Overseer Order 745
+GID00056772	Message Loading...
+GID00056773	Sunset Sarsaparilla Custodial Control
+GID00056774	Mail System
+GID00056775	You have the following messages:
+GID00056777	Water Leak
+GID00056778	Loading message...
+GID00056779	Great Job
+GID00056780	Loading message...
+GID00056781	Vault 22 Interlab Network, Maintenance Help System
+GID00056782	Warning: System diagnostic shows that memory has been corrupted. Retrieving uncorrupted files only.
+GID00056784	Ticket 1 - Strange noises
+GID00056785	Loading...
+GID00056786	Ticket 2 - Gas leak?
+GID00056787	Loading...
+GID00056788	Sarah Weintraub's Mail
+GID00056790	Messages
+GID00056791	... Mail Loaded Successfully.
+GID00056792	Sent Mail
+GID00056793	... Mail Loaded Successfully.
+GID00056794	Trent Meyer
+GID00056796	Parts
+GID00056797	Opening Message...
+GID00056798	ERROR 0x07F6BAAC
+GID00056799	"Bad Data. Cannot Read."
+GID00056801	ERROR 0x357C5001
+GID00056802	"Bad Sectors Found In Boot Block."
+GID00056803	"Terminal Error."
+GID00056805	REPCONN Security Terminal
+GID00056807	Add user Facial Data To Database
+GID00056808	Facial data added for first floor access.
+GID00056809	Inter-office Correspondence #345759
+GID00056810	Opening Message...
+GID00056811	Inter-office Correspondence #345776
+GID00056812	Opening Message...
+GID00056813	REPCON
+GID00056815	Add user Facial Data To Security Database
+GID00056816	Facial data added for second floor access.
+GID00056817	Camp Searchlight Turret Defense Terminal West Sector
+GID00056819	Activate Turret Defense System
+GID00056820	Turret Defense Activated
+GID00056822	Nightkin Test Data
+GID00056823	Mark II Prototype
+GID00056824	Keene
+GID00056825	Hotel Service Information:
+GID00056827	Diner Menu
+GID00056828	Enjoy Our Hearty Meals!
+GID00056829	Gift Catalogue
+GID00056830	A Piece of the Past for Your Future
+GID00056831	Convenience
+GID00056832	Your Satisfaction Guaranteed!
+GID00056833	-RobCo Trespasser Management System-
+GID00056834	====================================
+GID00056836	Re-configure Targeting Parameters
+GID00056837	Target Data cleared. Exercise Caution.
+GID00056838	<!>WARNING: No Targeting Data<!>
+GID00056839	<!>Please Exercise Caution<!>
+GID00056840	Activate Turret System
+GID00056841	Booting...
+GID00056842	Deactivate Turret System
+GID00056843	Powering Down...
+GID00056844	System Information
+GID00056845	Loading LOG file...
+GID00056846	System Information
+GID00056847	Loading LOG file...
+GID00056848	System Information
+GID00056849	Loading LOG file...
+GID00056850	System Information
+GID00056851	Loading LOG file...
+GID00056852	System Information
+GID00056853	Loading LOG file...
+GID00056855	View Security Feed
+GID00056856	ERROR // No Source detected...
+GID00056857	Bring Security Turrets Online
+GID00056858	Turret Sentries active...
+GID00056859	Saved Feed Still: 8:14am
+GID00056860	Loading Image...
+GID00056861	Saved Feed Still: 8:21am
+GID00056862	Loading Image...
+GID00056864	(Chapel) Look Around
+GID00056865	You examine your surroundings...
+GID00056866	(Chapel) Look Around
+GID00056867	You examine your surroundings...
+GID00056868	(Chapel) Look Around
+GID00056869	You examine your surroundings...
+GID00056870	Use sword zombie
+GID00056871	Your blow knocks the zombie into a grave.
+GID00056872	Examine chapel
+GID00056873	You step into the empty chapel...
+GID00056874	Examine grave
+GID00056875	You peer into the open grave...
+GID00056876	Examine grave
+GID00056877	You peer into the open grave...
+GID00056878	Examine grave
+GID00056879	You peer into the open grave...
+GID00056880	Go West
+GID00056881	You walk to the west...
+GID00056882	Inventory
+GID00056883	Hidden Valley Network
+GID00056884	Turret Control System
+GID00056886	Set allowed targets
+GID00056887	Setting...
+GID00056896	>\ Warning! Microbial Infection Risk. Proceed?
+GID00056898	Yes. 
+GID00056899	Starting...
+GID00056900	SoftLock Solutions, Inc
+GID00056901	"Your Security is Our Security"
+GID00056902	>\ Welcome, USER
+GID00056904	Disengage Lock
+GID00056905	Clearance granted, Unlocking...
+GID00056906	ERROR 0x03C663A1
+GID00056907	"Network connection not found"
+GID00056909	DEPARTMENT OF THE ARMY
+GID00056910	PEACEKEEPING AND RECOVERY
+GID00056911	FIELD OPERATIONS SECTOR, 27P
+GID00056913	Inventory: Weapons
+GID00056914	Loading Database...
+GID00056915	Transient Census
+GID00056916	Loading Database...
+GID00056917	Sunset Sarsaparilla Company Intranet
+GID00056918	Mail System
+GID00056920	-RobCo Trespasser Management System-
+GID00056921	====================================
+GID00056923	Re-configure Targeting Parameters
+GID00056924	Target Data cleared. Exercise Caution.
+GID00056925	<!>WARNING: No Targeting Data<!>
+GID00056926	<!>Please Exercise Caution<!>
+GID00056927	Activate Turret System
+GID00056928	Booting...
+GID00056929	Deactivate Turret System
+GID00056930	Powering Down...
+GID00056931	System Information
+GID00056932	Loading LOG file...
+GID00056933	System Information
+GID00056934	Loading LOG file...
+GID00056935	System Information
+GID00056936	Loading LOG file...
+GID00056937	System Information
+GID00056938	Loading LOG file...
+GID00056939	System Information
+GID00056940	Loading LOG file...
+GID00056941	Messages for Sarah Weintraub
+GID00056943	New Message from Sheldon Weintraub.
+GID00056944	... Mail Loaded Successfully.
+GID00056945	Our Influential Friends.
+GID00056946	... Mail Loaded Successfully.
+GID00056947	Hidden Valley Datastore
+GID00056948	> Search for "Elder+dismissal" in topic History returned the following results.
+GID00056949	> Choose a result:
+GID00056951	Incident #1
+GID00056952	Incident #2
+GID00056953	Incident #3
+GID00056954	Incident #4
+GID00056955	Welcome, Overseer.
+GID00056957	Overseer Order 745
+GID00056958	Message Loading...
+GID00056959	Open Sacrificial Chamber
+GID00056960	Opening...
+GID00056961	Close Sacrificial Chamber
+GID00056962	Closing...
+GID00056963	Vault 22 Interlab Network, Main Entrance Security Station
+GID00056964	Warning: System integrity compromised! Unauthorized login deteczhglkhjslkjhzoohglk;lkjhg
+GID00056966	Vault 22 Expedition, entry 1
+GID00056967	Loading...
+GID00056968	Vault 22 Expedition, entry 2
+GID00056969	Loading...
+GID00056970	ERROR 0x00B636C6
+GID00056971	"No Input Device Recognized."
+GID00056972	"Reconnect Keyboard."
+GID00056974	New California Republic Camp Searchlight Storage Database
+GID00056976	Current Inventory
+GID00056977	Current Inventory Status Unknown
+GID00056978	Log Entry #1836
+GID00056979	Log Entry #2257
+GID00056980	Access Safe
+GID00056981	Safe Unlocked
+GID00056982	System Online
+GID00056984	ERROR 0x03C663A1
+GID00056985	"Network connection not found"
+GID00056986	"Dummy terminal inactive"
+GID00056988	Sunset Sarsaparilla Custodial Control
+GID00056989	Main Menu
+GID00056991	Check mail
+GID00056992	Loading mail system...
+GID00056993	Check maintenance system
+GID00056994	Loading maintenance system...
+GID00056995	Check maintenance system
+GID00056996	Loading maintenance system...
+GID00056997	SoftLock Solutions, Inc
+GID00056998	"Your Security is Our Security"
+GID00056999	>\ Welcome, USER
+GID00057001	Storage Room Terminal
+GID00057002	Re: Retirement
+GID00057004	>\ Welcome, USER
+GID00057006	Open armory door
+GID00057007	Clearance granted, disengaging lock...
+GID00057008	Hidden Valley Datastore
+GID00057009	> Be it known that from this day, the 7th of October, 2259, Kenneth Jones shall no longer bear the title of Elder. Brother Jones has willfully gone against the Chain That Binds and has been forced to step down. Head Paladin Lindquist succeeds him as Elder.
+GID00057011	Vault 22 Interlab Network, Food Production Subsystem
+GID00057012	Warning: System diagnostic shows that memory has been corrupted. Retrieving uncorrupted files only.
+GID00057014	Status Report 9228
+GID00057015	Loading...
+GID00057016	Status Report 9253
+GID00057017	Loading...
+GID00057018	Status Report 9312
+GID00057019	Loading...
+GID00057020	LOB Enterprises Employee Terminal
+GID00057021	Welcome Ms. McAndrews
+GID00057023	Sent: Hostile Workplace
+GID00057024	Memo: Responding to Federal Raids
+GID00057025	Re: Weapon Practice Tonight
+GID00057026	Memo: Caps in Emails
+GID00057027	Sunset Sarsaparilla Company Intranet
+GID00057028	Welcome, Mr. Brody!
+GID00057030	Check automated messages
+GID00057031	Loading automated messaging system...
+GID00057032	Hidden Valley Network
+GID00057033	Are you sure you would like to initiate the self-destruct sequence?
+GID00057035	Yes.
+GID00057036	Confirming...
+GID00057037	No.
+GID00057038	Confirming...
+GID00057039	-=LOB Enterprises=-
+GID00057040	Welcome, EMP_ID_MISSING.
+GID00057042	Memo to All Personnel: Emergency Protocols
+GID00057043	>\ Welcome, USER
+GID00057045	SOS
+GID00057046	Log
+GID00057047	Open Reactor Door
+GID00057048	Clearance granted, disengaging lock...
+GID00057049	Close exterior vents
+GID00057050	Reroute vault control
+GID00057051	>\ Warning! Unauthorized user! Proceed?
+GID00057053	Yes.
+GID00057054	Starting...
+GID00057055	>\ Warning! Unauthorized user! Proceed?
+GID00057057	Yes.
+GID00057058	Starting...
+GID00057059	Hidden Valley Network
+GID00057060	Turret Control System
+GID00057061	Choose allowed targets. Only stored entries may be chosen:
+GID00057063	Registered Brotherhood Personnel
+GID00057064	Resetting targeting parameters...
+GID00057065	All unregistered personnel
+GID00057066	Resetting targeting parameters...
+GID00057067	>\ Welcome, Mr. House.
+GID00057069	Security Override.
+GID00057070	Starting...
+GID00057071	>\ Welcome, Mr. House.
+GID00057073	Unlock Control Room elevator.
+GID00057074	Starting...
+GID00057075	Unlock Control Room elevator.
+GID00057076	Starting...
+GID00057077	Journal-It Software   2072 PagSoft
+GID00057078	USER: suk me hahaha
+GID00057080	Log Entry #003
+GID00057081	Loading Entry...
+GID00057082	Log Entry #002
+GID00057083	Loading Entry...
+GID00057084	Log Entry #001
+GID00057085	Loading Entry...
+GID00057086	disconnect user: SUK ME HAHAHA
+GID00057087	Hidden Valley Network
+GID00057088	By order of Elder McNamara, engaging the bunker's self-destruct sequence requires the assent of the Head Scribe, Head Paladin, and Elder of the chapter.
+GID00057089	Each of these Brothers has been given a keycard to be produced in case of emergency. When all three keycards are inserted below, the password to the self-destruct terminal to the right will be generated.
+GID00057090	Please report a lost or stolen keycard immediately.
+GID00057092	Generate self-destruct password
+GID00057093	Generating...
+GID00057094	Generate self-destruct password
+GID00057095	Please insert all three keycards below.
+GID00057096	Hermes Communications, Inc.
+GID00057097	Black Mountain Submatrix
+GID00057098	System Online
+GID00057100	Marcus made me type this
+GID00057101	Opening file...
+GID00057102	It's a radio station!
+GID00057103	Opening file...
+GID00057104	On the air!
+GID00057105	Opening file...
+GID00057106	The elite!
+GID00057107	Opening file...
+GID00057108	Alone at last!
+GID00057109	Opening file...
+GID00057110	Safe!
+GID00057111	Opening file...
+GID00057112	Lucky!
+GID00057113	Opening file...
+GID00057114	Sunset Sarsaparilla Custodial Control
+GID00057115	Mail System
+GID00057116	From: Kenneth Aguilar, President
+GID00057117	Subject: Great Job
+GID00057118	Body: I wanted to personally congratulate you on the success of the new automated janitorial system. In particular, #135 has proven very popular with the staff. I can't tell you how many complaints I used to hear about stray bottle caps getting into the machinery. Oh, and we should have a meeting soon concerning the rest of your staff. How's Tuesday?
+GID00057122	The Strip - Omerta Activity
+GID00057123	Embassy Report
+GID00057124	Captain Pappas' Report
+GID00057125	Liza's Personal Notes
+GID00057126	Welcome, Mr. House.
+GID00057128	Status Log
+GID00057129	Turret Status
+GID00057130	Turrets: Active
+GID00057131	Protectron Status
+GID00057132	Protectrons: Active
+GID00057133	Sentrybot Status
+GID00057134	Sentrybots: Standby
+GID00057135	Welcome, Mr. Gottlieb.
+GID00057137	Security Recording
+GID00057138	Downloading... complete.
+GID00057139	Vault 11 Election Guide
+GID00057140	Message Loading...
+GID00057141	Notice of Postponement
+GID00057142	Message Loading...
+GID00057143	Overseer Order 745
+GID00057144	Message Loading...
+GID00057145	H&H Tools, Inc.
+GID00057146	"Building the things you need to build a better tomorrow!"
+GID00057147	Employee access terminal
+GID00057149	HR E-mail 05/14/2020
+GID00057150	Accessing
+GID00057151	HR E-mail 07/25/2022
+GID00057152	Accessing
+GID00057153	HR E-mail 11/08/2023
+GID00057154	Accessing
+GID00057155	Access Hidden Network Drive
+GID00057156	Accessing
+GID00057157	H&H Tools, Inc.
+GID00057158	"Building the things you need to build a better tomorrow!"
+GID00057159	Employee access terminal
+GID00057161	HR E-mail 05/14/2020
+GID00057162	Accessing
+GID00057163	HR E-mail 07/25/2022
+GID00057164	Accessing
+GID00057165	HR E-mail 11/08/2023
+GID00057166	Accessing
+GID00057167	Access Hidden Network Drive
+GID00057168	Accessing
+GID00057169	H&H Tools, Inc.
+GID00057170	"Building the things you need to build a better tomorrow!"
+GID00057171	Employee access terminal
+GID00057173	HR E-mail 05/14/2020
+GID00057174	Accessing
+GID00057175	HR E-mail 07/25/2022
+GID00057176	Accessing
+GID00057177	HR E-mail 11/08/2023
+GID00057178	Accessing
+GID00057179	Access Hidden Network Drive
+GID00057180	Accessing
+GID00057181	Journal-It Software   2072 PagSoft
+GID00057182	Isabella Proud's Journal
+GID00057184	Day 45
+GID00057185	Day 51
+GID00057186	Day 53
+GID00057187	Day 58
+GID00057188	Day 63
+GID00057189	Day 67
+GID00057190	Day 68
+GID00057191	Day 75
+GID00057192	disconnect user: ISABELLA PROUD
+GID00057193	disconnecting user: ISABELLA PROUD
+GID00057194	H&H Tools, Inc.
+GID00057195	"Building the things you need to build a better tomorrow!"
+GID00057196	Employee access terminal
+GID00057198	HR E-mail 05/14/2020
+GID00057199	Accessing
+GID00057200	HR E-mail 07/25/2022
+GID00057201	Accessing
+GID00057202	HR E-mail 11/08/2023
+GID00057203	Accessing
+GID00057204	Access Hidden Network Drive
+GID00057205	Accessing
+GID00057206	H&H Tools, Inc.
+GID00057207	"Building the things you need to build a better tomorrow!"
+GID00057208	Employee access terminal
+GID00057210	HR E-mail 05/14/2020
+GID00057211	Accessing
+GID00057212	HR E-mail 07/25/2022
+GID00057213	Accessing
+GID00057214	HR E-mail 11/08/2023
+GID00057215	Accessing
+GID00057216	Access Hidden Network Drive
+GID00057217	Accessing
+GID00057218	Sunset Sarsaparilla Company Intranet
+GID00057219	Annual Sales Report
+GID00057220	Our performance in the east continues to improve, thanks to the new "Build Mass with Sass" campaign. The Northeast continues to be a tough nut to crack, and continued slow growth is expected. Things are shaping up in the North- and Midwest, and the leaders of those teams are to be commended. As usual, performance in the Southwest is strong. Overall, this has been a banner year for Sunset Sarsaparilla, and you should all be proud of yourselves.
+GID00057222	Sunset Sarsaparilla Company Intranet
+GID00057223	Welcome, Miss Paige! The president has no new messages since the last time you logged in.
+GID00057225	Check saved inbox messages
+GID00057226	Loading messages...
+GID00057227	Check saved sent messages
+GID00057228	Loading messages...
+GID00057230	New Canaan Branch Proposal
+GID00057231	Re: Henry Jamison
+GID00057232	Gun Runner Tariff
+GID00057233	War Effort
+GID00057235	Access warden's log.
+GID00057236	Welcome back, Warden.
+GID00057237	>\ Welcome, USER
+GID00057239	A Message From The Overseer
+GID00057240	Journal Entry # 86
+GID00057241	Hidden Valley Network
+GID00057242	Welcome to the Hidden Valley Self-Destruct System.
+GID00057244	Begin bunker self-destruct sequence
+GID00057245	Abort self-destruct sequence
+GID00057246	Note: Need to implement this - Taggart
+GID00057248	Hoover Dam Security Report
+GID00057249	Accessing...
+GID00057250	Security Duty Roster
+GID00057251	Accessing...
+GID00057252	Engineering Report
+GID00057253	Accessing...
+GID00057254	Flight Control Update
+GID00057255	Accessing...
+GID00057256	>\ Welcome, USER
+GID00057258	Disengage Lock to Overseer
+GID00057259	Clearance granted, Unlocking...
+GID00057260	Select output configuration.
+GID00057262	1) McCarran and Las Vegas Strip
+GID00057263	Configuration saved.
+GID00057264	2) Fremont and Westside
+GID00057265	Configuration saved.
+GID00057266	3) Full Region
+GID00057267	Insufficient capacity. Brownouts likely.
+GID00057268	4) ARCHIMEDES II
+GID00057269	Configuration saved.
+GID00057270	5) Full Region (Emergency Output Level)
+GID00057271	Warning: System Overload imminent.
+GID00057272	Vault Security and Control Center
+GID00057273	Please Select from the Following Menu Options:
+GID00057275	Vault Security
+GID00057276	Vault Security
+GID00057277	Vault Life Support
+GID00057278	Vault Life Support Systems
+GID00057279	Vault Access Control
+GID00057280	Vault Access Control
+GID00057288	>\ Welcome, USER
+GID00057290	Warning: Flooding
+GID00057291	Warning: Reactor
+GID00057292	Overseer's Journal
+GID00057293	System
+GID00057294	System Online
+GID00057296	Lucky 38 Executive Override.
+GID00057297	Starting...
+GID00057298	Welcome, Veronica.
+GID00057300	Download Research Notes
+GID00057301	Downloading... completed.
+GID00057302	Hidden Valley Datastore
+GID00057303	Bunker Information
+GID00057304	>Select a topic you wish to peruse:
+GID00057306	Project Goals: Hidden Valley
+GID00057307	Accessing...
+GID00057308	Systems Overview
+GID00057309	Accessing...
+GID00088703	A message will be delivered to all current companions, wherever they happen to be, that they are to return home.
+GID00088704	Are you sure you wish to do this?
+GID00088706	No.
+GID00088707	Yes.
+GID00088708	Notification sent...
+GID00088709	Welcome, Courier.
+GID00088711	Dismiss all companions.
+GID00088712	Accessing confirmation menu...

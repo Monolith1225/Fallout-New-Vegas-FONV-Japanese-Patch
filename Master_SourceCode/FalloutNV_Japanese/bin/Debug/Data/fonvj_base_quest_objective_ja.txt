@@ -1,0 +1,1032 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_base_quest_objective_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00053739	施設内でグールの発生源を見つける。
+GID00053740	REPCONNのグールのリーダーJason Brightに会う。
+GID00053741	展望台へむかい、発射シーケンスを完了させる。
+GID00053742	ロケットの修理についてChris Haversamと話す。
+GID00053743	(オプション) ロケットが墜落するよう破壊工作をする。
+GID00053744	ロケット用の原子力燃料を探す。
+GID00053745	ロケットの推力制御装置を直すための部品を見つける。
+GID00053746	地下にいるNightkinを排除する。
+GID00053747	(オプション) 近くの部屋でNightkinが探しているステルス・ボーイの出荷情報を捜す。
+GID00053748	ロケット施設に戻り、Chris Haversamに燃料を渡す。
+GID00053749	ロケット施設に戻り、Chris Haversamに部品を渡す。
+GID00053750	Jason Brightに、Nightkinは去ったと報告する。
+GID00053751	Chris Haversamにシュガーボムを3つ持っていく。
+GID00053752	(オプション) nightkinが監禁しているHarlandの友人を発見する。
+GID00053753	ロケットの発射準備をするようChris Haversamに話す。
+GID00053754	(オプション) Harlandの所へ戻り、彼に残念な知らせを伝える。
+GID00053755	上の階に向かい、インターコムの声の主と会う。
+GID00053756	Novacの西にあるREPCONN facilityへ向かいグールの活動についての噂の調査を行う。
+GID00053757	(オプション) "demons"のリーダーを見つけて彼と話す。
+GID00053758	REPCONN地階に向かい、次に起こることについてJason Brightに話しかける。
+GID00053759	(オプション) DavisonにREPCONN facilityにはStealth Boyが無いことを知らせに戻る。
+GID00053760	(オプション) 自分を襲った者の情報をGoodspringsのサロン周辺で聞き込みを行う。
+GID00053761	自分を殺そうとした者たちを探す。
+GID00053762	PrimmのMojave Expressの管理者に、自分の配達業務について尋ねる。
+GID00053763	Nipton経由でNovacへ向かい、自分を襲った者について聞き込みを行う。
+GID00053764	Boulder CityでGreat Khanを捕まえる。
+GID00053765	Platinum Chipを探す。
+GID00053766	(オプション) GoodspringsのVictorと助けた時の事について話す。
+GID00053767	Manny VargasからKhanの行先を聞く。
+GID00053768	Primmの保安官を見つけ、自分を襲った者の行き先を尋ねる。
+GID00053769	自分を襲った者の手がかりを得るためにBeagleの死体からBeagleの日記を入手する。
+GID00053770	Mannyの身体を調べ、自分を襲った者の手掛かりを探す。
+GID00053771	Beagleの日記を聞いて自分を襲った者の行き先の手がかりを得る。
+GID00053772	Chavezを始末する。
+GID00053773	不審な商人を追跡し、排除する。
+GID00053774	NCRが刑務所のために何を計画しているのか -もし分かれば- Primmの住人から聞きだす。
+GID00053775	EddieにChavezを始末したと伝える。
+GID00053776	Eddieの所へ戻る。
+GID00053777	NCRの攻撃計画に関する情報を、Eddieに報告する。
+GID00053778	Sergeant Leeと合流する。
+GID00053779	Eddieを殺す。
+GID00053780	Eddieの所へ戻る。
+GID00053781	(オプション) Eddieを裏切ってHayes中尉に協力、刑務所を取り返す。
+GID00053782	BooneとBitter Springsへ移動する。
+GID00053783	Bison Steve内のPowder Gangerに捕まっているPrimmの保安官代理を救出する。
+GID00053784	Beagleを救出した。今後の警備について彼と話す。
+GID00053785	BeagleはPrimmに新たな保安官が必要だと考えている。有力候補としてNCRCFの元保安官を提案しているが、NCRの管轄下に入ることも候補として考えている。
+GID00053786	Beagleが死に、NashはPrimmに新たな保安官が必要と考えている。NCRの支配下に入るか、NCR刑務所の元保安官を雇う選択もある。
+GID00053787	NCR刑務所の元保安官MeyersはNCRの許可があればPrimmの保安官を引き受けてもよいとしている。
+GID00053788	Beagleは死んでしまったので、今後のPrimmについて話ができる者を探す。
+GID00053789	追加人員があれば、HayesとNCRはPrimmを守るだろう。
+GID00053790	Meyersの元へ戻り、NCRは彼が保安官の職を引き継ぐことを許可したと伝える。
+GID00053791	Major KnightはPrimmへの追加人員を約束した。HayesとNCRによるPrimmの保護について話す。
+GID00053792	(オプション) Primm SlimがPrimmの保安官になるよう再プログラムする。
+GID00053793	HELIOS Oneのメインフレームと西のリフレクターコントロールパネルを接続する。
+GID00053794	HELIOS Oneのメインフレームと東のリフレクターコントロールパネルを接続する。
+GID00053795	補助発電機を使ってHELIOS Oneのメインフレームの動力を回復させる。
+GID00053796	HELIOS Oneのメインフレームを使って電力を送る場所を決める。
+GID00053797	タワーの観察デッキのコンソールでリフレクターを再設定する。
+GID00053798	HELIOS Oneの中に居る変なサングラスをつけた人物と会話する。
+GID00053799	Fantasticと話す。
+GID00053800	Ignacioと話す。
+GID00053801	オプション: ARCHIMEDESセキュリティシステムを起動し、近くのNCR兵を一掃する。
+GID00053802	chem shipmentの入ったスーツケースを探す。
+GID00053803	オフィスの空のスーツケースについて、Chomps Lewisに確認する。
+GID00053804	Tyroneにchem shipmentの在り処を尋ねる。
+GID00053805	chem shipmentと共にMelissaに戻る。
+GID00053806	(オプション) Hayes中尉にGreat Khanの密輸計画を知らせる。
+GID00053807	Hayes中尉にGreat Khanの密輸計画を知らせる。
+GID00053808	Crimson Caravanの請求書をCamp McCarranのHildern博士に届ける。
+GID00053809	Alice McLaffertyからさらなる仕事を得る事ができるようだ。
+GID00053810	Cassと取引交渉をして、CassidyのキャラバンをCrimson Caravan Companyに参加させる。
+GID00053811	Alice McLaffertyに戻り、請求書を渡したことを伝える。
+GID00053812	CassidyのキャラバンがCrimson Caravan Companyに参加したことをAlice McLaffertyに知らせる。
+GID00053813	Henry JamisonにCrimson Caravan Companyを辞めてもらうように説得する。
+GID00053814	Alice McLaffertyにHenry Jamisonの件が終了したことを知らせる。
+GID00053815	(オプション) Gun Runnersの工場から機密設計図を入手する。
+GID00053816	Gun Runnersの設計図をAlice McLaffertyに持ち帰る。
+GID00053817	Cassが死んでいることをAlice McLaffertyに伝える。
+GID00053818	Captain Curtisと話す。
+GID00053819	Camp McCarranに怪しげな事がないか聞き回る。 
+GID00053820	Camp McCarran管制塔への深夜の不法侵入を調査する。
+GID00053821	McCarranモノレールが駅を離れる前に爆弾を見つけ排除する。
+GID00053822	Colonel Hsuに報告する。
+GID00053823	Camp McCarranターミナルビルディングのチケットカウンターにあるゴミ箱から爆薬と爆弾の材料を拾う。
+GID00053824	McCarranモノレールの後部壁面の通風口に爆薬を埋め込む。
+GID00053825	列車を降りて、出発するのを見届ける。
+GID00053826	核分裂バッテリー、コンダクター、ワンダーグルー、アブラクシオクリーナーの箱、そして設計図をPrivate Crenshawの小型ロッカーに仕込む。
+GID00053827	Colonel Hsuに報告し、Private Crenshawを罠に嵌める。
+GID00053828	Captain Curtisの所へ戻る。
+GID00053829	Private Crenshawを殺す。
+GID00053830	Colonel Hsuへスパイの発見に手を貸すことを伝える。
+GID00053831	Camp McCarranターミナルビルディングのチケットカウンターにあるゴミ箱から爆発物を取り除く。
+GID00053832	Captain CurtisにColonel Hsuが拒否した事を伝える。
+GID00053833	無線機を盗聴する。
+GID00053834	Camp McCarranでCaptain Curtisの作戦の援護が出来るか確かめに行く。
+GID00053835	Sunset Sarsaparilla Headquartersを探し出し、Festusと話す。
+GID00053836	景品と交換するのに十分なSunset Sarsaparilla Star Capsを持ってFestusの所に戻る!
+GID00053837	現実の景品を受け取るためにSunset Sarsaparilla景品物置へと向かう。
+GID00053838	水不足についてRomanowski中尉に聞く。
+GID00053839	East Pump Stationの端末を調べ、水不足の原因を調べる。
+GID00053840	East Pump Stationから得た情報をRomanowski中尉に伝える。
+GID00053841	西貯水槽の水泥棒を捕まえる。
+GID00053842	水不足の事をWrenchと話す。
+GID00053843	Angeloの質屋からWrench's Super Tool Kitを買い戻し、水不足ついて聞く。
+GID00053844	水不足についてAndersonに聞く。
+GID00053845	水の消えた謎を解決するため、The White Washを完了。
+GID00053846	Vault 22に入り、発見した調査データをダウンロードする。
+GID00053847	調査データを携え、Camp McCarranのDr. Hildernの所に戻る。
+GID00053848	(オプション) Vault 22で行方不明になった研究者のKeelyを捜す。
+GID00053849	2階のベースキャンプでKeelyと合流する。
+GID00053850	Keelyがガスを送った場所を見つけて引火させる。
+GID00053851	Camp McCarranに戻りKeelyの無事をDr. Williamsに話す。
+GID00053852	戻ってKeelyに胞子を一掃できたことを知らせる。
+GID00053853	行方不明のCorporal Whiteの事をDazzleと話す。
+GID00053854	Trent BascomからCorporal Whiteについて知っている事を全て吐き出させる。
+GID00053855	White伍長の事をRomanowski中尉に話す。
+GID00053856	Corporal Whiteの行方についてTom Andersonに尋ねる。
+GID00053857	Corporal Whiteを見かけたかも知れない人をWestsideで見つける。
+GID00053858	Hectorの後を追い、彼が何処から水を入手しているのかを突き止める。
+GID00053859	Corporal Whiteの失踪についてAndersonに問いただす。
+GID00053860	Andersonとの"ビジネス"協定を終わらせるためにEtienneと話す。
+GID00053861	White伍長の件をBoyd中尉に話す。
+GID00053862	Andersonを殺す。
+GID00053863	(オプション) McCarran連絡路にあるWhite伍長のロッカーを調べる。
+GID00053864	流れ者たちに対処する。
+GID00053865	ならず者の集団を始末する。
+GID00053866	Mrs. Hostetlerと話す。
+GID00053867	Alice Hostetlerの新しい友人についての情報を探す。
+GID00053868	AliceとAndyの手掛かりを探す。
+GID00053869	下水溝のチンピラの件をCrandanに話す。
+GID00053870	Crandanに流れ者について報告する。
+GID00053871	Alice HostetlerとAndyを、Grayという建物で探す。
+GID00053872	Crimson Caravanの資金を盗むAndyの計画をMrs. Hostetlerに話す。
+GID00053873	(オプション) Hostetler家からCrimson Caravanの金を盗むAndyの計画を助ける。
+GID00053874	Aliceは母を殺しかけたが、両親と暮らす道を選んだ。
+GID00053875	AliceはNew Vegasから逃亡する道を選んだ。
+GID00053876	Aliceは母を襲った後、死んだ。
+GID00053877	Aliceは母を襲い、2人とも死んだ。
+GID00053878	Aliceは母を殺しかけたが、New Vegasを去っていった。
+GID00053879	Crimson Caravanの資金を手に入れる。
+GID00053880	Hostetler夫人は娘Aliceを失ったが、取引の目的を果たすことを望んだ。
+GID00053881	Hostetler夫人は取引の目的を果たすことを望み、Aliceを取り戻した。
+GID00053882	Crimson Caravanの金はなかった。
+GID00053883	Mrs. Hostetlerと話す。
+GID00053884	Hostetler夫人はAliceの死に衝撃をうけ、もはや役に立たない。
+GID00053885	Hostetler夫人はAliceの逃亡に衝撃をうけ、もはや役に立たない。
+GID00053886	Crandonは死んだ。あなたはこれ以上彼を助けることはできない。
+GID00053887	Violetを殺し、可能なら頭部を無傷で回収する。
+GID00053888	Cook-Cookを殺し、可能なら頭部を無傷で回収する。
+GID00053889	Driver Nephiを殺し、可能なら頭部を無傷で回収する。
+GID00053890	Dhatri少佐にVioletの頭を渡し、報酬をもらう。
+GID00053891	(オプション) Driver Nephiを殺すためGorobets中尉とFirst Reconの狙撃手達に協力を求める。
+GID00053892	Dhatri少佐にCook-Cookの頭を渡し、報酬をもらう。
+GID00053893	Dhatri少佐にDriver Nephiの頭を渡し、報酬をもらう。
+GID00053894	賞金/依頼の件でDhatri少佐に会う。。
+GID00053895	(オプション) Cook-Cookのお気に入りバラモン、Queenieを殺して彼を凶暴化させ、仲間と同士討ちさせる。
+GID00053896	(オプション) Cook-CookについてLittle Busterと話す。
+GID00053897	Westsideに行き、行方不明のNCR避難民の事をSaint Jamesと話す。
+GID00053898	Casa Madrid ApartmentsのDermotの部屋から証拠品を探す。
+GID00053899	Casa Madrid ApartmentsのSaint Jamesの部屋から証拠品を探す。
+GID00053900	(オプション) DermotかSaint Jamesに証拠を突きつける。
+GID00053901	(オプション) Saint JamesとDermotを殺す。
+GID00053902	Captain Parkerに行方不明の難民に起こった事を話す。
+GID00053903	Nellisの周辺に居るBoomersを助ける。
+GID00053904	Pearlの所へ戻る。
+GID00053905	LoyalにB-29浮上計画について聞く
+GID00053906	Lake MeadのB-29にバラストを設置する。
+GID00053907	(オプション) JackにLake Meadの底まで辿りつくのに必要な呼吸装置のことを聞く。
+GID00053908	(オプション) 呼吸装置の制作に必要な圧力鍋をJackに渡す。
+GID00053909	湖岸で起爆装置を作動させ、機体を浮上させる。
+GID00053910	Loyalに引き揚げ成功を報告する。
+GID00053911	Pearlに任務完了を報告する。
+GID00053912	射撃技術を指導する。
+GID00053913	状況報告書を偽造する。
+GID00053914	投擲技術を指導する。
+GID00053915	部隊の能力向上について話す。
+GID00053916	McCredie軍曹に能力向上を報告。
+GID00053917	Red Rock CanyonでJackから薬物を受け取る。
+GID00053918	Razzに薬物を返す。
+GID00053919	協力を頼む。
+GID00053920	Magに更なる向上を提案する。
+GID00053921	Magsと部隊の状況について話す。
+GID00053922	Poindexterの所へ戻り、書き換えた成績について話す。
+GID00053923	O'Hanrahanの所へ戻る。
+GID00053924	Magsに分隊を尊重し、仲間と協力するよう説得する。
+GID00053925	Razzに分隊を尊重し、仲間と協力するよう説得する。
+GID00053926	Poindexterに分隊を尊重し、仲間と協力するよう説得する。
+GID00053927	Vit-o-matic Vigor Testerへ歩いていく。
+GID00053928	Vit-o-matic Vigor Testerを使用する。
+GID00053929	Doc Mitchellのリビングルームのソファに座る。
+GID00053930	Doc Mitchellについて行き、出口に向かう。
+GID00053931	Sunny SmilesにPowder Gangersと戦う事について話す。
+GID00053932	(オプション) Trudyの援助を得る。
+GID00053933	(オプション) Chetに店の物資を戦いの為に提供するように説得する。
+GID00053934	(オプション) Easy Peteからダイナマイトを入手する。
+GID00053935	Ringoの元に戻り、Powder Gangersと戦う準備ができた事を知らせる。
+GID00053936	Powder Gangersを撃破する。
+GID00053937	Ringoの元に戻り、Sunny Smilesが共にPowder Gangersと戦う事を承諾したと知らせる。
+GID00053938	RingoがPowder Gangersを始末するのに協力する。
+GID00053939	(オプション) Doc Mitchellから追加の医療品を手に入れる。
+GID00053940	Sunnyと合流する。
+GID00053941	Sunset Sarsaparilla Prize Vaultへ行き、賞品を集める。
+GID00053942	(オプション) アリ退治の助けになりそうなものをLoyalが持っているようだ。
+GID00053943	二つのアレイジェネレーターを再起動し、主電源のブレーカーをリセットする。
+GID00053944	(オプション) Loyalのsonic generatorをアリ塚に設置する。
+GID00053945	発電室のアリをすべて排除する。
+GID00053946	Raquelに発電機が再び稼動した事を知らせる。
+GID00053947	(オプション) sonic emitterを起動する。
+GID00053948	Prospector Saloonの外に並べたsarsaparillaの空き瓶を三つ撃つ。
+GID00053949	Sunny Smilesについて行き、Prospector Saloonの後ろに向かう。
+GID00053950	Sunnyについて行く。
+GID00053951	井戸のGecko達を排除する。
+GID00053952	Sunny Smilesと話す。
+GID00053953	他の井戸のGecko達を排除する。
+GID00053954	Sunnyと報酬について話す。
+GID00053955	Trudyに会うためProspector Saloonへ向かう。
+GID00053956	Prospector SaloonのSunny Smilesと話す。
+GID00053957	Ranger Station Alphaへ向かい、セキュリティプロトコルを更新する。
+GID00053958	Ranger Station Bravoへ向かい、セキュリティプロトコルを更新する。
+GID00053959	Ranger Station Charlieへ向かい、セキュリティプロトコルを更新する。
+GID00053960	Ranger Station Deltaへ向かい、セキュリティプロトコルを更新する。
+GID00053961	Ranger Station Echoへ向かい、セキュリティプロトコルを更新する。
+GID00053962	Ranger Station Foxtrotへ向かい、セキュリティプロトコルを更新する。
+GID00053963	Alpha Stationのアップデートは完了した。
+GID00053964	Bravo Stationのアップデートは完了した。
+GID00053965	Charlie Stationのアップデートは完了した。
+GID00053966	Delta Stationのアップデートは完了した。
+GID00053967	Echo Stationのアップデートは完了した。
+GID00053968	Foxtrot Stationのアップデートは完了した。
+GID00053969	Ranger Stationsへ向かい、無線のセキュリティシステムを更新する。
+GID00053970	Alpha Stationの死傷者データに隠された真実を見つけた。
+GID00053971	Bravo Stationに不必要な供給品が送られたことを突き止めた。
+GID00053972	Charlie Stationにおける医療品の状況を確認した。
+GID00053973	目撃者と話し、Caesarのスーパーミュータントの噂が間違っていることを証明した。
+GID00053974	Echo Stationで敵を発見したという、矛盾した報告について調べた。
+GID00053975	レンジャーのChief Hanlonと話す。
+GID00053976	Reyes軍曹のおかしな情報リストを追求していく。
+GID00053977	Hanlonについての知らせをReyes軍曹に知らせる。
+GID00053978	Reyes軍曹に報告する。
+GID00053979	調教されたDeathclawの噂の真相を探し出す。
+GID00053980	Reyes軍曹に報告する。
+GID00053981	Ted Gundersonの失踪に関連する情報をUltra-Luxeで聞いて回る。
+GID00053982	Ultra-LuxeにいるMortimerに捜査官についてたずねる。
+GID00053983	Ultra-Luxeの捜査官の部屋に入る。
+GID00053984	午後4時にUltra-Luxeのスチームサウナ室で捜査官の接触する。
+GID00053985	Gourmandの会員専用セクションへアクセスする方法を見つける。
+GID00053986	(オプション) White Glove Societyに参加するための後見人を見つける。
+GID00053987	(オプション) Heck Gundersonに彼の息子が陥った状況について警告する。
+GID00053988	Tedがまだ生きているのならば、彼を父の元へ帰す。
+GID00053989	Heck Gundersonと話す。
+GID00053990	Gourmandの下に居る、Ted Gundersonと話す。
+GID00053991	Stripの北にあるCarlyle St. Clairの家で彼と話す。
+GID00053992	White Glove SocietyのメインコースにTed Gundersonの代わりになるものを確保する。
+GID00053993	(オプション) Philippeを追い払い、彼のレシピを使って晩餐会用の人肉料理を作る。
+GID00053994	(オプション) White Glove Societyの晩餐会でワインに薬を入れる。
+GID00053995	(オプション) インターコムを使い、給仕長を呼ぶ。
+GID00053996	(オプション) Tedを、Mortimerの晩餐会のスピーチの最後に彼を晒し者にするために、メンバーのみの区画へ連れて行く。
+GID00053997	Ultra-LuxeのMortimerの下へ戻る。
+GID00053998	彼の父親を陥れるためにTedの死体を掻き集める。
+GID00053999	Ultra-LuxeのpenthouseスイートにあるHeck Gundersonのベッドと流しの周りにサンプルをばら撒く。
+GID00054000	Stripからsecuritronを向かわせてHeck Gundersonのスイートを調べる。
+GID00054001	Ted Gundersonを殺す。
+GID00054002	Carlyleの体を彼の家のそばのゴミ箱へ放りこむ。
+GID00054003	TedをUltra-LuxeのTop Shelf barの彼の父親のもとへ帰らせる。
+GID00054004	(オプション) Tedの代わりにあなたの人間のコンパニオンの一人をUltra-Luxeの台所の冷凍庫に閉じ込める。
+GID00054005	捜査官を調べ、手がかりを探す。
+GID00054006	Orrisという名前のFreeside東ゲート付近にいる用心棒を雇う。
+GID00054007	南ゲートまでOrrisに先導させる間、怪しい行動がないか見張る。
+GID00054008	Old Mormon Fortに行き負傷した地元民に襲撃した者の事について聞く。
+GID00054009	聞き出したことをKingに伝える。
+GID00054010	Freesideの不法居住者キャンプの一つに向かいNCR兵士が入り込んでいる理由を探す。
+GID00054011	(オプション) Julie FarkasにFollowersが何か情報を持っていないか尋ねる。
+GID00054012	KingにNCRの補給所のことを伝える。
+GID00054013	Orrisに関する情報をKingに伝える。
+GID00054014	Orrisはもう死んだとKingに伝える。
+GID00054015	Freeside北西で食料と水が無料で毎晩配布されているという噂を調査する。
+GID00054016	補給ビルに行き、Pacerに助力する。
+GID00054017	なぜNCR兵士がFreesideにいるのかについての手がかりを不法居住者キャンプの周りで聞き込む。
+GID00054018	Orrisが去った事をKingに報告するために戻る。
+GID00054019	(オプション) Major Elizabeth Kieranと話し、彼女が援助を渋るのであればJulie Farkasについて言及する。
+GID00054020	Freeside北西にある駅にいるNCR兵を全員殺害する。
+GID00054021	Kingのところに戻り、FreesideのNCR兵は始末したと伝える。
+GID00054022	(オプション) NCRが以前Freesideにおける配給物資について話し合うため、使者を送っていたことをKingに知らせる。
+GID00054023	Freeside北西にある駅に向かい、NCRと交渉を試みる。
+GID00054024	Kingのところに戻り、NCRとの問題は沈静化したと知らせる。
+GID00054025	Kingのところに戻り、Orrisについて何も分からなかったと報告する。
+GID00054026	再びOrrisを雇い、疑わしき行動を見張る。
+GID00054027	Jacob Hoffを見つける。
+GID00054028	Bill Ronteのアルコール中毒からの回復を手助けする。
+GID00054029	Bill Ronteを見つける。
+GID00054030	JacobのためにFixerを集める。
+GID00054031	Jacob Hoffの薬物依存からの回復を手助けする。
+GID00054032	クスリの売人と話をつける。
+GID00054033	BillのためにFixer、Rad-Awayを2つずつ、Whiskeyを1つ用意する。
+GID00054034	Julie Farkasのもとに戻る。
+GID00054035	(オプション) JacobのためにFixer,Psycho,Buffoutをそれぞれ1つずつ集める。
+GID00054036	(オプション) Billのために2つのFixer、1つのWhiskeyを集める。
+GID00054037	本物のghoulのcowboyをスカウトする。
+GID00054038	上品な話し手をスカウトする。
+GID00054039	Sexbotを探し出す。
+GID00054040	James Garretに報告しに戻る。
+GID00054041	James GarretにFistoがWranglerで働きに来ると伝える。
+GID00054042	James GarretにSantiagoがWranglerで働きに来ると伝える。
+GID00054043	James GarretにBeatrixがWranglerで働きに来ると伝える。
+GID00054044	James GarretにOld BenがWranglerで働きに来ると伝える。
+GID00054045	上品な話し手は死んだ。
+GID00054046	cowboyのghoulは死んだ。
+GID00054047	Sexbotが破壊された。
+GID00054048	McCafferyの帽子を返し、報酬を受け取った。
+GID00054049	FreesideのGrecksから138capsを集金する。
+GID00054050	FreesideのSantiagoから212capsを集金する。
+GID00054051	Caleb McCafferyを殺す。
+GID00054052	Lady Janeを見つけ250capsを集金する。
+GID00054053	Lady Janeのcaravanを見つけ、そこからcapsを回収する。
+GID00054054	600capsをもってFrancineへ戻る。
+GID00054055	388capsをもってFrancineへ戻る。
+GID00054056	McCafferyの帽子と共にFrancineのもとへ戻る。
+GID00054057	Boulder CityにいるGreat KhansのリーダーのJessupに会う。
+GID00054058	NCRと協力し、Boulder City廃墟に隠れているGreat Khansを全員殺害する。
+GID00054059	(オプション) NCRの兵士ににわいろを渡し、Great Khansを逃がす。
+GID00054060	Monroe中尉のもとへ戻り、Great Khansへの対処を成し遂げたと伝える。
+GID00054061	Great Khanの元で人質となっているNCRの兵士を解放する。
+GID00054062	JessupにGreat Khansの行動の自由が約束されたと伝える。
+GID00054063	NCRの人質を解放するよう交渉する。
+GID00054064	Great Khansを手助けし、Boulder City廃墟に存在するすべてのNCR兵士を殺害する。
+GID00054065	Monroe中尉と話す。
+GID00054066	MickのためGomorrahにいるCachinoと話す。カジノにいる誰かが彼とどうやって接触すればいいのか知っている。
+GID00054067	Omertaの怪しげな活動についてCachinoと話す。恐らくGomorrahにいる誰かが彼の見つけ方を知っているだろう。
+GID00054068	Cachinoの振る舞いについての証拠を見つけるため、彼の部屋か彼自身を調べる。恐らく誰かが部屋のカギを持っている。
+GID00054069	Cachinoの日誌を証拠として持っていき口を割らせる。
+GID00054070	(オプション) MickとRalphになぜOmertasが銃を買わなくなったのか知らせる。
+GID00054071	(オプション) Mick and RalphのOmertaとの取引再開を手伝う。
+GID00054072	Omertasは予算に余裕があり、再び武器を買うことができる、とMick and Ralphに知らせる。
+GID00054073	Cachinoの日誌を彼に売りつけボスを引きずり降ろすのを手伝う。もしくは、それをボスに見せて彼らの味方になる。
+GID00054074	不可解な銃の出荷についてTroikeと話す。
+GID00054075	Clandenがファミリーのためにどんな仕事をするのか調べる。
+GID00054076	Troikeの話はしっくりこない。Big Salと話すか、彼を無罪にする証拠を探す。
+GID00054077	Troikeは、Big Salの契約から逃れられるようを話をつけてもらいたがっている
+GID00054078	Big SalがTroikeをゆすっているという証拠を見せつける。
+GID00054079	Big SalはTroikeを契約から解放するのに同意した。Troikeのもとに戻り、良いニュースを知らせる。
+GID00054080	Troikeのテルミットを使って収納庫の武器を破壊する。
+GID00054081	Troikeが銃を破壊するのに今、十分な時間になった。Cachinoのもとへ戻り、彼に知らせる。
+GID00054082	Cachinoに銃が破壊されたことを知らせる。
+GID00054083	Clandenの面倒を見たので、これ以上Omertasを手助けできないだろう。Cachinoに知らせに戻る。
+GID00054084	CachinoとOmertaのボスたちに会いに行って、始末する。
+GID00054085	Cachinoは会議の間にOmertaのボスたちを始末することに賛同してくれた。準備ができたらCachinoのところへ行く。
+GID00054086	ドアの護衛はBig SalかNeroにCachinoの日誌について話すよう提案した。
+GID00054087	CachinoとBig Salとの商談に出席する。
+GID00054088	CachinoとNeroとの商談に出席する。
+GID00054089	Troikeに何か手助けできるかたずねる。
+GID00054090	Clandenに何か助けが必要なことがないか調べる。
+GID00054091	Clandenに塩素を持ってくる。Ultra-Luxeにある近くのプールを調べるか、それを提供する者を見つける。
+GID00054092	Fiendsから盗まれた武器類を取り戻す。
+GID00054093	ボスたちにClandenとTroikeの両方が彼らの求めるすべてを持っていると知らせる
+GID00054094	Clandenのタンスから見つかったテープをCachinoに見せるか、Clandenを彼らに突きつける。
+GID00054095	(オプション) Clandenを殺す。
+GID00054096	(オプション) テープを使用しClandenにファミリーを裏切るよう説得する。
+GID00054097	(オプション) ClandenのテープをNCRに突き出し、殺人を告発する。
+GID00054098	Troikeは銃を破壊してくれている。時間を与えるためにカジノから出る。
+GID00054099	Omertasは敵となりもはや支援を受け付けない。生き残ったボスたちは隠れてしまった。
+GID00054100	Omertaの活動についてGomorrahの受付と話す。
+GID00054101	Cachinoは死んだ。次に何をすべきかボスと話す。
+GID00054102	Carlitosは深夜から未明にかけてFreesideでJoanaと落ち合う計画だ。Joanaに詳細を説明する。
+GID00054103	(オプション) Carlitosは脱出を試みる前に援護を得ることを提案した。彼に借りがある2人の傭兵を探し出す。
+GID00054104	Gomorrahで、Carlitosに代わってJoanaに話す。
+GID00054105	Joanaは、今のところGomorrahにとどまることに決めた。彼女の決意をCarlitosに話す。
+GID00054106	JoanaはGomorrahを脱出することに決めた。彼女の決意をCarlitosに話す。
+GID00054107	JoanaはCarlitosの計画に賛同した。彼女を脱出に連れ出す準備ができたらもう一度彼女と話す。
+GID00054108	脱出の間の護衛をより確実にするために、二人の熟練傭兵を守る。 
+GID00054109	CachinoにJoanaの脱出の意思を話すことに決めた。彼はCarlitosとの合流地点に傭兵を送ってもらいたいたがっている。
+GID00054110	JoanaがGomorrahから逃げるのを手伝う為にCarlitosを探す。
+GID00054111	Joanaを安全にCarlitosのもとへ送り届けた。待ち伏せしていたOmertasは去った。
+GID00054112	Joanaは変装しGomorrahのロビーで待っているだろう。そこへ行きその女性をFreesideへ案内する。
+GID00054113	Joanaは自由になりCarlitosと再会した。彼女は不吉なOmertasの作戦の噂についてを話した。
+GID00054114	Joanaは死んだ。あなたはもはや彼女を連れ戻すためにCarlitosを助けることはできない
+GID00054115	Carlitosは死に、二度とJoanaの元へは帰ってこない。
+GID00054116	JoanaはGomorrahから脱走しようと一人で出て行った。
+GID00054117	Joanaは死んだ。もはや彼女を助けられない。
+GID00054118	Carlitosは死んだ。もはや彼を助けられない。
+GID00054119	Freesideまで逃亡するJoanaと女性たちを助ける。
+GID00054120	Michael AngeloはNew Vegasのあちこちにある有名な看板の写真をほしがっている。
+GID00054121	Bison Steveの看板の写真を撮る。
+GID00054122	Novacの恐竜の温度計の写真を撮る。
+GID00054123	Sunset Sarsaparilla本社のボトル看板の写真を撮る。
+GID00054124	HELIOS Oneの看板の写真を撮る。
+GID00054125	McCarran Airfieldの看板の写真を撮る。
+GID00054126	報酬を受け取る為にMichael Angeloの元へ戻る。
+GID00054127	Michael Angeloは死んだ。もはや彼を助けられない。
+GID00054128	The Tops casinoでBennyと対峙する。
+GID00054129	プレジデンシャル・スイートに行く。
+GID00054130	待ち伏せから生き残る。
+GID00054131	Bennyのスイートルームを調べる。
+GID00054132	Bennyの部屋を調べる。
+GID00054133	Bennyを殺す。
+GID00054134	Stripであなたを撃った男を捜す。
+GID00054135	Bennyを暗殺する。
+GID00054136	Platinum Chipを取り戻す。
+GID00054137	[オプション] Yes-Manにチップを届ける。
+GID00054138	スイートルームへBennyとついていき、話をする。
+GID00054139	Fortification HillのCaesar's camp でBenny とPlatinum Chipを探す。
+GID00054140	Fortification HillでBennyの居場所を突き止める。
+GID00054141	the Topsのエンターテイナーを見つける。(あと4人)
+GID00054142	TopsでTommy Toriniと話す。
+GID00054143	the Topsのエンターテイナー を見つける。(あと1人)
+GID00054144	the Topsのエンターテイナー を見つける。(あと2人)
+GID00054145	the Topsのエンターテイナー を見つける。(あと3人)
+GID00054146	TopsでTommy Toriniと話す。
+GID00054147	TopsでTommy Toriniと話す。
+GID00054148	TopsでTommy Toriniと話す。
+GID00054149	クエスト完了
+GID00054150	Hadrianの契約を破棄するよう、James Garretを説得する。
+GID00054151	Hadrian に契約が破棄されたことを伝える。
+GID00054152	Boomersを説得し、戦いに参加させる。
+GID00054153	Boomersが協力するとCrocker大使に伝える。
+GID00054154	Boomersは協力しないとCrocker大使に伝える。
+GID00054155	Boomersは協力する。
+GID00054156	Boomersは協力しない。
+GID00054157	JacobstownのDr. Henryの下へRexを連れて行き、治療法を教わる。
+GID00054158	Old Lady's Gibsonの犬のうちからRex用の新しい脳を手に入れる。
+GID00054159	(オプション) Caesar's Legionの優秀な犬の脳をさがす。
+GID00054160	(オプション) Fiendsの優秀な犬の脳をさがす。
+GID00054161	Jacobstownへ戻り、Rexの脳の移植を行う。
+GID00054162	Rexを助けるため何をすればよいか、Julie Farkasと話す。
+GID00054163	the Kingの下へ戻り、Rexの治療の可能性について伝える。
+GID00054164	Sarah Weintraub はVault 関連品の補充する必要があり、それらについて十分に支払う用意がある。
+GID00054165	Followers of the Apocalypseのため、Lucky 38のデータネットワークへのアクセスポイントを盗聴する。
+GID00054166	New Vegas stripのEmily Ortalの下へ戻り、タワーが盗聴されていることを伝える。
+GID00054167	Lucky 38のネットワーク暗号化を3つの実行コンソールから無効にする。
+GID00054168	Raidersを殺す。
+GID00054169	Heck GundersonがUltra-Luxeへ訪れた目的を探し出す。
+GID00054170	Heck Gundersonは行方不明の息子を捜している。Walter Phebusにそう伝える。
+GID00054171	Walter Phebusのため、Ted Gundersonを処理する。
+GID00054172	Walter Phebusのため、Heck Gundersonを処理する。
+GID00054173	Walter Phebusのため、HeckとTed Gundersonの二人を処理する。
+GID00054174	Tedは死んだ。Walterにそう伝える。
+GID00054175	Heck Gundersonは死んだ。Walterにそう伝える。
+GID00054176	HeckとTed Gundersonの処理は済んだ。Walterにそう伝える。
+GID00054177	Walterは復讐の意志を捨て、Ethelと牧場へ帰ることができる。
+GID00054178	(オプション) Ethel Phebusは彼の夫、WalterにHeck Gundersonについて忘れ、牧場へ戻ってほしいと思っている。
+GID00054179	Walterは死んだ。あなたはもう彼やEthelを助けられない。
+GID00054180	Ethelは死んだ。あなたはもう彼女やWalterを助けられない。
+GID00054181	Heck Gundersonの訃報を聞き、Walterは喜んでいる。彼はEthelと家へ帰ることを決めた。
+GID00054182	Ethel の思いに反して、Heck Gunderson の訃報を聞き、Walter は喜んでいる。彼はEthel と家へ帰ることを決めた。
+GID00054183	Gunderson親子は始末されたと聞き、Walter は喜んでいる。彼はEthel と家へ帰ることを決めた。
+GID00054184	Tedの死には嘆いているものの、Heck Gundersonの苦悩を聞きWalterは喜んでいる。彼はEthelと家へ帰ることを決めた。
+GID00054185	Walter Phebusを助ける準備ができたら彼と話す。
+GID00054186	Walter PhebusにHeck Gundersonの死について話す。
+GID00054187	Tedは死んだ。Heck Gundersonを処理する。
+GID00054188	Heckは死んだ。Ted Gundersonを処理する。
+GID00054189	Techatticup mineからNCRの人質を救出する。
+GID00054190	Private Renoldsに報告する。
+GID00054191	NCRの人質たちは死んだ。
+GID00054192	(オプション) NCR以外の手に見せかけ、Pacerを殺す。またはthe KingにNCRとの和解するよう説得する。
+GID00054193	(オプション) Van Graff familyの手に見せかけ、Pacerを殺す。
+GID00054194	(オプション) 彼のJetにPsychoを混ぜ、Pacerを殺す。
+GID00054195	Crocker大使の下へ戻り、Pacerの死を伝える。
+GID00054196	(オプション) the Kingに気に入られるため、彼の要望をこなす。
+GID00054197	Crocker大使の下へ戻り、the Kingが和解することに合意したと伝える。
+GID00054198	Crocker大使の下へ戻り、the KingはFreesideの暴力を抑制しないことを伝える。
+GID00054199	Freesideの状況に関して更なる指示を受けるためにHoover DamのColonel Mooreと話す。
+GID00054200	(オプション) Freesideの状況に関して更なる指示を受けるためにCamp McCarranのColonel Hsuと話す。
+GID00054201	Kingのモノマネ学校へ行き、the Kingに最後通達を届け、NCR戦士の小隊のもとに戻る。
+GID00054202	Kingのモノマネ学校へ行き、the Kingに、敵対行為を停止し正式なNCRのサポートを得る事を提案する。
+GID00054203	Crocker大使のもとへ戻り、the Kingが最後通達に同意し、敵対行為を停止するであろう事を報告する。
+GID00054204	Crocker大使のもとへ戻り、the Kingsが壊滅したことを報告する。
+GID00054205	Crocker大使のもとへ戻り、the KingsがHsu大佐のNCRのサポートの誓約に同意したことを報告する。
+GID00054206	Crocker大使のもとへ戻り、the Kingsが壊滅したことを報告する。
+GID00054207	NCR戦士がthe Kingsを制圧するのに協力する。
+GID00054208	Pacerがthe KingとNCRの取引を台無しにするのを止める。
+GID00054209	クエストRestoring Hope完了
+GID00054210	HELIOS Oneへ行きForlorn Hopeへの物資がどうなったかを聞く。
+GID00054211	Major Polatliと話す。
+GID00054212	物資をQuartermaster Mayesに返す。
+GID00054213	Quartermaster Mayesと話す。
+GID00054214	Dr. Richardsと会う。
+GID00054215	Dr. Richardsの患者の診察を手伝う。
+GID00054216	Major Polatliのもとに戻る。
+GID00054217	Nelsonで勝利したことをPolatliに伝える。
+GID00054218	Cooper軍曹と会う。
+GID00054219	NelsonにいるLegionを打ち負かす。
+GID00054220	Forlorn Hopeへの物資のGPSマーカをたどる。
+GID00054221	Dr. Richardsのもとに戻る。
+GID00054222	Forlorn Hopeで起こった医療物資紛失の手がかりを探す
+GID00054223	Dr. Richardsに見つけたことを報告する
+GID00054224	Dr. RichardsにStone一等兵が物資を盗んでいたことを伝えた。
+GID00054225	Dr. Richardsのもとへ戻る。
+GID00054226	Camp Forlorn Hope医療センターを夜のあいだ張り込む。
+GID00054227	NCRは彼らの備品を補充するためにHolotagを探している。
+GID00054228	適切な手術道具を調達する。
+GID00054229	Caesarの脳外科手術を行い腫瘍を取り除くか、もしくは彼を殺す。
+GID00054230	(オプション) Caesarを手術中に殺す。
+GID00054231	外に出てSimonと話す。
+GID00054232	もう片方側のSilver Rushの入口に立つ。
+GID00054233	Silver Rushの入口を護衛する。
+GID00054234	Gloriaに報告する。
+GID00054235	荷物を指定された場所の男に届ける。
+GID00054236	荷物が配達されたことをGloriaに報告する。
+GID00054237	次の任務を受けるため、Jean-Baptisteに話す。
+GID00054238	Rose of Sharon Cassidyを見つけ、ついてこさせる。
+GID00054239	Cassidyの娘をJean-Baptisteの元へ連れて行く
+GID00054240	次の任務を受けるためにGloria Van Graffに報告する
+GID00054241	残りのLegion兵を殺す
+GID00054242	(オプション) Rose of Sharon Cassidyの現在地を知っていると思われるAlice McLaffertyを訪ねる
+GID00054243	すべてのLegion兵が死んだことをGloria Van Graffに報告する
+GID00054244	FreesideのSilver Rushへと戻り、Cassidyの娘が死んだ事をJean-Baptisteに告げる
+GID00054245	手術ツール一式を手に入れる
+GID00054246	Caesarの脳外科手術を行い腫瘍を取り除くか、もしくは彼を殺す
+GID00054247	(オプション) 手術中にCaesarを殺す。これは自然に見えるかもしれない...
+GID00054248	手術を行うにはドクターバッグも必要
+GID00054249	CaesarのAuto-Docのために機能診断スキャンモジュールを手に入れる
+GID00054250	Caesar's Auto-Docに代わりの診断スキャンモジュールをインストールする
+GID00054251	Auto-Docを使ってCaesarを治療する
+GID00054252	(オプション) Auto-Docを使ってCaesarを殺す
+GID00054253	(オプション) Arcade GannonをCaesarの個人的な医者として隷属させる
+GID00054254	Camp Forlorn Hopeの全てのNCR士官を殺害する
+GID00054255	Dead Seaへ戻り、あなたの勝利を彼に知らせる
+GID00054256	Legionの榴弾砲のため、Boomersから点火装置を入手する
+GID00054257	Legionの榴弾砲に代わりの点火装置をインストールする
+GID00054258	榴弾砲が修理されたことをルーシャスに知らせる
+GID00054259	Boomersの作業場から点火装置を回収する
+GID00054260	Legion Earsには需要がある。士気を上げさせる為にこれをSextonへと持って行く
+GID00054261	Martina Groesbeckを見つける
+GID00054262	Martinaを殺すために送られたOmerta thugsを排除する
+GID00054263	Vulpesの元へ戻ってMartinaの安全を彼に知らせる
+GID00054264	Vulpesの元へ戻ってMartinaの死を彼に知らせる
+GID00054265	NCRの人質を殺す
+GID00054266	NCRチェックポイントのMiloの元に戻る
+GID00054267	Boomersの信頼を得て、Legionとの同盟を実現する
+GID00054268	MortimerがWhite Glove Societyをカニバリズムに立ち戻らせるのを手伝う
+GID00054269	White Glove SocietyのMarjorieの元にLegionからの同盟依頼を届ける
+GID00054270	Brotherhood of Steelのバンカーを破壊する
+GID00054271	(オプション) Boomersの指導部を抹殺する
+GID00054272	Boomersが対NCR同盟に同意したとCaesarに伝える
+GID00054273	Boomersを殲滅したとCaesarに伝える
+GID00054274	White Glove SocietyはLegionをサポートしない事をCaesarに伝える
+GID00054275	White Glove SocietyがLegionの同盟となった事をCaesarに伝える
+GID00054276	White Glove SocietyのMortimerの元にLegionからの同盟依頼を届ける
+GID00054277	Brotherhood of Steelの脅威が無くなった事をCaesarに伝える
+GID00054278	NCRに対抗するためにBrotherhood of Steelの援助が得られた事をCaesarに伝える
+GID00054279	Cottonwood Coveへと向かい、Fort行きのいかだに乗る
+GID00054280	Caesarと話す
+GID00054281	Marjorieがスタンスを変えてCaesarに加わるよう説得する
+GID00054282	weather station地下にあるMr. Houseのバンカーを破壊する
+GID00054283	Caesarのもとへ戻る
+GID00054284	Mr. Houseを殺す
+GID00054285	Mr. Houseを無力化したとCaesarに報告する
+GID00054286	President Kimballを暗殺し、Caesarへ報告する
+GID00054287	あなたの成果を伝えるため、Caesarのもとへ行く
+GID00054288	Caesarに失敗を伝える
+GID00054289	Hoover Damの決戦を開始するとLegatus Laniusに伝える
+GID00054290	President Kimballが暗殺されたとLucius に報告する
+GID00054291	あなたの成果をLuciusに伝える
+GID00054292	Luciusに失敗を報告する
+GID00054293	Caesarの最初の仕事を受ける
+GID00054294	Bennyを始末する
+GID00054295	Caesarと次の仕事について話す
+GID00054296	密談のためCaesarと会う
+GID00054297	一旦、回復した後、Caesarから次の仕事を受ける
+GID00054298	(オプション) Mr. Houseのテクノロジーを破壊せずにVaultを爆破してCaesarをあざむく
+GID00054299	CaesarにPresident Kimballの訪問がキャンセルされたと伝える
+GID00054300	LuciusにPresident Kimballの訪問がキャンセルされたと伝える
+GID00054301	Lucky 38のVIPキーカードを手に入れる
+GID00054302	追放が完了した
+GID00054303	捕虜を救出する
+GID00054304	レンジャーGrantへ報告する
+GID00054305	President Kimballを警護する
+GID00054306	あなたの発見をレンジャーGrantへ報告する
+GID00054307	大統領は助かった。レンジャーGrantへ報告に戻る
+GID00054308	大統領が殺された。レンジャーGrantへ報告に戻る
+GID00054309	展望台でレンジャーGrantに会う
+GID00054310	(オプション) エリアを調査し手がかりを見つける
+GID00054311	狙撃手の位置に気を配る
+GID00054312	President Kimballを殺す
+GID00054313	Cato Hostiliusと集合する
+GID00054314	準備ができたらCatoに報告する
+GID00054315	Bitter SpringsにいるGilles大尉の悩みを解決する
+GID00054316	Bitter Springsへ送る兵士を再選任するようCamp Golfへ要求する
+GID00054317	campに送る物資を見つける
+GID00054318	Gilles大尉と報酬について話す
+GID00054319	Bitter Springsへ送る兵士を再選任するようCamp McCarranへ要求する
+GID00054320	Bitter Springsへ送る兵士を再選任するようCamp Forlorn Hopeへ要求する
+GID00054321	Gilles大尉へ物資を届ける
+GID00054322	医療用の物資を見つけたことについてMarkland中尉と話す
+GID00054323	Bitter Springsへの攻撃源を調べる
+GID00054324	Oscar VelascoについてGilles大尉と話す
+GID00054325	(オプション) Mike Lawsonはステーションへの侵入を食い止めるため、タービンを通ってくるLegion兵士を洗い流すよう提案した
+GID00054326	Legionがフーバーダムを攻撃している。ダムを守るためLegate's campを破壊する。
+GID00054327	(オプション) 排気弁を動かし、タービンを通ってくるLegion兵士を洗い流す
+GID00054328	ダムの水がタービンの中に送られた。Legionはもうタービンを使って発電施設に来ることができない
+GID00054329	戦いに勝った。General Oliverのもとへ戻る
+GID00054330	Legion軍の動きについての戦略情報を見つける
+GID00054331	[オプション] Astor先任下士官に古い戦略情報を与える
+GID00054332	戦略情報を携えてAstor先任下士官のもとへ戻る
+GID00054333	NCRバグを植え込む
+GID00054334	Legionの襲撃の戦略情報を見つける
+GID00054335	Cottonwood CoveのLegion兵士を殺す
+GID00054336	[オプション] Cottonwood Coveをふさぐ方法を見つける
+GID00054337	Astor先任下士官のもとへ戻る
+GID00054338	[オプション] Aurelius of PhoenixにNCRの計画を教える
+GID00054339	Cottonwood Coveの清掃に興味があればFirst Sergeant Astorに戻る
+GID00054340	3体のVaultの電源を管理するSecuritronを破壊する
+GID00054341	CaesarにSecuritronの軍団はもはや脅威ではないと伝える。
+GID00054342	Red LucyはGiant Mantisの卵を欲しがっている。Vault 22のような繁殖地で集めるのが早いだろう。
+GID00054343	Giant Mantisの卵を持ってRed Lucyの元へ戻る。
+GID00054344	Red LucyはRadscorpionの卵を欲しがっている。彼女はGoodsprings北の山岳部を探すよう薦めている。
+GID00054345	Radscorpionの卵を持ってRed Lucyの元へ戻る。
+GID00054346	Red LucyはFire Geckoの卵を欲しがっている。彼女はIreteba Peaks付近を捜すよう薦めている。
+GID00054347	Fire Geckoの卵を持ってRed Lucyの元へ戻る。
+GID00054348	The ThornのエリートハンターはNight Stalkerの卵を探している。Red LucyはBittersprings近くの洞窟を探すよう薦めている。
+GID00054349	Night Stalkerの卵を持ってRed Lucyの元へ戻る。
+GID00054350	The ThornのエリートハンターはCazadorの卵を探している。Red  LucyはRed Rocks周辺を探すよう薦めている。
+GID00054351	Cazadorの卵を持ってRed Lucyの元へ戻る。
+GID00054352	Red Lucyはハンターに最も危険な仕事を与えた。彼女はThe ThornのためにDeathclawの卵を欲しがっている。
+GID00054353	Deathclawの卵を持ってRed Lucyの元へ戻る。
+GID00054354	あなたはThe Thorn史上、最も偉大なハンターです。
+GID00054355	Red Lucyは死んだ。彼女を手伝うことはもうできない。
+GID00054356	Booneと共にBitter Springsへ行く。
+GID00054357	Booneと共にCoyote Tail Ridgeへ行く。
+GID00054358	BooneにCoyote Tail Ridgeで夜を明かすことを話す。
+GID00054359	Booneと話す。
+GID00054360	Bitter Springs難民キャンプへ行き、Legionを追い払う。
+GID00054361	Booneと話す。
+GID00054362	Legionの残虐さの話を広める
+GID00054363	NiptonでのVulpesの攻撃をNCRに伝える
+GID00054364	Frank Weathersの家族を見つける。
+GID00054365	Weathersの家族を奴隷から解放する
+GID00054366	Frank Weathersのもとへ戻る
+GID00054367	[オプション] Weathersの家族を奴隷から「解放」する
+GID00054368	Hoover DamでMoore大佐と会い、さらなる課題を受ける
+GID00054369	Red Rock CanyonのGreat Khansを訪れ、援助を得るか、壊滅させる
+GID00054370	Moore大佐のもとへ行き、Great KhansがLegionとの戦いに手を貸してくれると知らせる
+GID00054371	Moore大佐へGreat Khansを壊滅させたと伝える
+GID00054372	Omertasを調査し、やつらの計画がNCRにはむかうものだったら抑止する
+GID00054373	Moore大佐のもとへ戻り、Omertasの計画が失敗したと報告する
+GID00054374	Moore大佐のもとへ戻り、Mooreの計画についてうその報告をする
+GID00054375	NCRの脅威となるMr. Houseを消し去る
+GID00054376	Moore大佐へMr. Houseはもはや脅威ではないと伝える
+GID00054377	この領域でBrotherhood of Steelの支部組織を見つけ、始末する
+GID00054378	Moore大佐のもとへ戻りBrotherhood of Steelの支部組織を破壊したと伝える
+GID00054379	Moore大佐へBrotherhoodがCaesar's Legionとの戦いで手を貸してくれると報告する
+GID00054380	レンジャーGrantとPresident Kimball滞在中の警護について話し合う
+GID00054381	Moore大佐へPresident Kimballが無事に帰ったと報告する
+GID00054382	Moore大佐へPresident Kimballが死んだと報告する
+GID00054383	Moore大佐と話す
+GID00054384	Omertasの手がかりを尋ねるため、StripのNCR大使館にいるLiza O'Malleyと話をする。
+GID00054385	Lucky 38のVIPキーカードを手に入れる
+GID00054386	ダムを横切り西側発電施設を目指す
+GID00054387	敵の指揮官、General Oliverを見つける
+GID00054388	Legateのもとへ戻り、General Oliverを殺したと伝える
+GID00054389	Legateのもとへ戻り、General Oliverを追っ払ったと伝える
+GID00054390	General Oliverと守護兵を殺す
+GID00054391	(オプション) ダム西側に陣取る狙撃兵を排除する
+GID00054392	(オプション) 取水塔の中で待っているLegionの増援を開放する
+GID00054393	Markland中尉にBitter Springsの医療状況を改善する方法について話す
+GID00054394	Markland中尉のために心理療法の本を探す
+GID00054395	Markland中尉に心理療法の本を渡す。
+GID00054396	Markland中尉のために小児医療の本を探す
+GID00054397	小児医療の本をMarkland中尉に持っていく。
+GID00054398	ドクターバッグをMarkland 中尉に持っていく。
+GID00054399	<This Quest Not Yet Implemented>
+GID00054400	硫黄への接近を断ち切る方法を見つける
+GID00054401	Samuel Cookeに報告する
+GID00054402	Red Rock CanyonでPapa Khanと話す
+GID00054403	Philip Lemに報告する
+GID00054404	vaultの地下洞窟にいるfire geckoを駆除する
+GID00054405	Samuel Cookeに報告する
+GID00054406	Philip Lemに報告する
+GID00054407	Doctor Henryの実験への参加についてLilyと話す
+GID00054408	(オプション) LilyにNightstalkerの突然変異についての調査の手伝いを頼む
+GID00054409	Doctor HenryにLilyの実験を続行するよう伝える
+GID00054410	敵対的なナイトキンを殺す
+GID00054411	Doctor Henryと話す
+GID00054412	Nightstalkerのステルス変異の原因を探す
+GID00054413	あなたがNightstalkerの突然変異の潜在的な原因を発見した事をDoctor Henryに伝える。
+GID00054414	Keeneに状況の打開を試みることを伝える
+GID00054415	Doctor Henryの実験が完了するまで待つ
+GID00054416	LilyがマークIIのプロトタイプを着用すべきか否かを決定しDoctor Henryに知らせる
+GID00054417	Lilyを生き残らせる
+GID00054418	Camp Searchlight内のグールNCR隊員からドッグタグを集め、Astor先任下士官の所へ持っていく
+GID00054419	見つけたグールのドッグタグすべてをAstor先任下士官のところへ持って行く
+GID00054420	Niptonの住民に失われた対放射能スーツについて聞く
+GID00054421	スーツを持ってLoganのもとへ戻る
+GID00054422	Loganとともに警察署を探索する
+GID00054423	Loganとともに消防署を探索する
+GID00054424	近くの洞穴でスーツを見つける
+GID00054425	Papa KhanとCaesarとの同盟について話す
+GID00054426	RegisとPapa Khanの説得について語る
+GID00054427	JackとDianeを説得し、反Caesarにする
+GID00054428	Melissaを説得し反Caesarにする
+GID00054429	Regisを説得し反Caesarにする
+GID00054430	Papa Khanと同盟破棄について話す
+GID00054431	オプション:Papa Khanの前でKarlに不名誉をもたらす方法を見つける
+GID00054432	見つからないようにPapa Khanを暗殺する
+GID00054433	RegisとKhansの忠誠について語る
+GID00054434	Papa KhanにKarlの計画の証拠を持ってくる
+GID00054435	CaesarがGreat Khansを抹殺しようとする証拠を見つける
+GID00054436	Legionの奴隷帳簿をRegisのところへ持っていく
+GID00054437	Legionがドラッグの運び屋を迫害している事のDianeの証拠を見つける
+GID00054438	Followers of the ApocalypseとGreat Khansについて話す
+GID00054439	NCRについてRegisと話す。
+GID00054440	Great Khans/NCR同盟についてColonel Mooreと話す
+GID00054441	Red Rock CanyonにいるGreat Khan達を全滅させる。
+GID00054442	Great Khanの歴史についてEzekielと話す。
+GID00054443	Papa Khanに歴史の本を持って帰る。
+GID00054444	Red Rock Canyonへ戻り、Papa Khanと話す。
+GID00054445	JackとDianeの行方不明のドラッグの運び屋を見つける。
+GID00054446	Motor Runner へドラッグを届ける。
+GID00054447	Crimson Caravan のDon Hostetler へドラッグを届ける。
+GID00054448	Dianeの下へ戻り、Andersについて話す。
+GID00054449	Dianeの下へ戻り、謝礼を受け取る。
+GID00054450	Dianeの下へ戻り、謝礼を受け取る。
+GID00054451	JackとGreat KhansのChemの運営の供給について話す。
+GID00054452	JackにChemのレシピを教える。
+GID00054453	Jerry the Punkが儀式をやり遂げるのを手伝うためにいくつかの鎮痛剤を見つける
+GID00054454	Jerry the Punkの所へ戻る。
+GID00054455	ApocalypseのFollowersとJerry the Punkに彼らの秩序に参加させることについて話す
+GID00054456	JerryにFollowersが彼を新参者として受け入れるであろうことを話す
+GID00054457	Lucky 38でMr. Houseと話す
+GID00054458	Mr. HouseにPlatinum Chipを届ける
+GID00054459	Fortification Hillにある秘密のバンカーに入るためにPlatinum Chipを使用する
+GID00054460	Mr. Houseの秘密のSecuritron部隊をアップグレードする
+GID00054461	更なる指示をもらうため、Mr. Houseに報告しに戻る
+GID00054462	Mr. Houseに協力するようBoomersを説得する
+GID00054463	(オプション) Boomersの指導部を抹殺する
+GID00054464	Boomersの協力を得たとMr. Houseに伝える
+GID00054465	Boomersを殲滅したとMr. Houseに伝える
+GID00054466	Omertasを調査し、彼らがMr. Houseの利益に敵対する計画であれば止める
+GID00054467	Omertaの脅迫は無力化されたことをMr. Houseに告げる
+GID00054468	Brotherhood of Steelを見つけ、排除する
+GID00054469	(オプション) Bratherhoodと平和的解決の合意を得たことをMr. Houseに告げる
+GID00054470	Brotherhoodのバンカーを破壊したとMr. Houseに伝える
+GID00054471	フーバーダムへ行き、President Kimballが訪問している間彼を守る
+GID00054472	President Kimballが暗殺から生き残ったとMr. Houseに伝える
+GID00054473	President Kimballが死んだとMr. Houseに伝える
+GID00054474	Hoover Damへ行きCaesar's Legionを打ち破る
+GID00054475	Mr. HouseへPlatinum Chipを持って行く
+GID00054476	Fortに居るBennyからPlatinum Chipを取り戻す
+GID00054477	Lucky 38の地下室へ行く
+GID00054478	アップグレードされたSecuritronを視察する
+GID00054479	Mr. Houseのもとへ戻る
+GID00054480	hidden bunkerに入る
+GID00054481	Ivanpah Lakeへの路上にいる生物を排除する
+GID00054482	Mojave OutpostのRanger Jacksonの所へ戻る
+GID00054483	Ranger Ghost の頼みで Nipton Town Hall を偵察する
+GID00054484	Mojave Outpost の Ranger Ghost の所へ戻る
+GID00054485	クエスト完了
+GID00054486	VeronicaとHidden Valleyに居るBrotherhood of Steelのエルダーと話す
+GID00054487	VeronicaとBrotherhoodの誤った優先事項の証拠を携えてBrotherhood of Steelのエルダーのもとに戻る
+GID00054488	VeronicaとFreesideの質屋とVault 21ギフトショップを訪ねる。
+GID00054489	だれが距離測量機を買ったのかのMick and Ralph近くのFreesideで調べる
+GID00054490	距離測量機がどうなったか周りに尋ねる
+GID00054491	距離測量機を回収する
+GID00054492	距離測量機をHidden Valleyのエルダーへ持っていく
+GID00054493	HELIOS Oneで距離測量機を使う方法を見つける
+GID00054494	OSIの所長と彼の研究プロジェクトについて話す
+GID00054495	Vault22から実験データを復旧する
+GID00054496	Hidden Valleyのelderへデータを持ち帰る
+GID00054497	Veronicaと共に通信用ターミナルのFather Elijahの記録にアクセスする
+GID00054498	Nellis空軍基地でパルスガンについての情報を探る
+GID00054499	pulse gunがまだVault 34に存在するなら取り戻す
+GID00054500	pulse gunをHidden Valleyのエルダーの元に持って行く
+GID00054501	残りの選択肢をVeronicaと話し合う
+GID00054502	Followers of the Apocalypse outpostに連絡するためにVeronicaを連れて行く
+GID00054503	Dr. SchillerがいるときにFollowers of the Apocalypse outpostへ戻る
+GID00054504	Veronicaと話す
+GID00054505	Tops13階にあるあなたのプライベート・スイートルームを訪れる
+GID00054506	Lucky 38でMr. Houseと話す
+GID00054507	Mr. HouseへPlatinum Chipを持ってくる
+GID00054508	FortでPlatinum Chipを直す。
+GID00054509	Mr. HouseにPlatinum Chipを届ける
+GID00054510	Lucky 38の地下へ行く
+GID00054511	Mr. Houseの強化されたSecuritronsを観察する
+GID00054512	Mr. Houseのもとに戻る
+GID00054513	(Optional) Mr. Houseのために働きたいなら彼ともう一度話す。
+GID00054514	Platinum Chipを使いFortification Hillにあるバンカーを開ける。
+GID00054515	秘密の地下壕へ入る。
+GID00054516	Mr. Houseの隠しSecuritron軍団をアップグレードする。
+GID00054517	Mr. Houseへ報告に戻り、さらなる指示を求める。
+GID00054518	(オプション) 心変わりをし、Mr. Houseの隠しSecuritron軍団をアップグレードする。
+GID00054519	Mr. Houseに協力するようBoomersを説得する
+GID00054520	(オプション) Boomersの指導部を抹殺する
+GID00054521	Boomersの協力を得たとMr. Houseに伝える
+GID00054522	Boomersを殲滅したとMr. Houseに伝える
+GID00054523	Omertasを調査し、彼らの計画がMr. Houseの関心に反対するものならば、阻止する。
+GID00054524	Omertasを無力化したとMr. Houseに報告する。
+GID00054525	(オプション) Omertasの裏切りをMr. Houseに報告する。
+GID00054526	Omertasが敵対的だとMr. Houseに報告する。
+GID00054527	Brotherhood of Steelの地下壕を破壊し、奴らを消し去る。
+GID00054528	(オプション) Brotherhoodとの交渉により平和的解決に至ったとMr. Houseへ報告する。
+GID00054529	Mr. Houseに、Brotherhoodのバンカーを破壊したと報告する。
+GID00054530	Hoover Damへ向かい、President Kimballの滞在中、護衛する
+GID00054531	Mr. HouseにPresident Kimballが暗殺者の襲撃から生還したと報告する
+GID00054532	Mr. HouseにPresident Kimballが死んだと報告する
+GID00054533	Mr. HouseにPresident Kimballの訪問がキャンセルされたと報告する
+GID00054534	Hoover Damでの戦闘準備ができ次第、Mr. Houseの元へ行く。
+GID00054535	Jacobstownにいやがらせをする傭兵のリーダーと話す
+GID00054536	傭兵と平和的に話し合いをつける。
+GID00054537	(オプション) 傭兵を始末する。
+GID00054538	Marcusの元へ戻る
+GID00054539	(オプション) Marcusに傭兵を解雇するための金を要求する。
+GID00054540	傭兵を殺害する。
+GID00054541	ボトルキャッププレス機を止める。
+GID00054542	Alice McLaffertyの元へ戻ってボトルキャッププレス機が動かなくなったことを知らせる
+GID00054543	無線セキュリティアップグレードコードを各 Ranger Station に届ける
+GID00054544	Reyes軍曹に無線セキュリティアップグレードが完了したことを報告する
+GID00054545	Ranger Station Alphaをアップグレードする
+GID00054546	Ranger Station Bravoをアップグレードする
+GID00054547	Ranger Station Charlieをアップグレードする
+GID00054548	ほかに何が必要かReyes軍曹に尋ねる
+GID00054549	Camp Golfからの報告についてReyes軍曹の疑いを確かめる
+GID00054550	Ranger Station Alphaで多数の死傷者が発生したという報告についてRanger Lineholmに尋ねる
+GID00054551	Ranger Station DeltaでSuper Mutant Legionaryの攻撃があったという報告について調べる
+GID00054552	Reyes軍曹 の疑いどおり各報告は間違っていたということを報告する
+GID00054553	Chief HanlonにあなたとReyes軍曹が発見したことを報告する
+GID00054554	Ranger Station FoxtrotでDeathclawの攻撃があったという報告を調査する
+GID00054555	Ranger Station Deltaをアップグレードする
+GID00054556	Ranger Station Echoをアップグレードする
+GID00054557	Ranger Station Foxtrotをアップグレードする
+GID00054558	事務所でChief Hanlonと話す
+GID00054559	Chief Hanlonを拘留するレンジャーを見つける。
+GID00054560	Chief Hanlonを始末する
+GID00054561	(オプション) Booneの妻を誘拐した奴についてNovacで聞いてまわる
+GID00054562	(オプション) Dino Dee-lite lobbyで犯罪者の証拠を探す
+GID00054563	Dinky the Dinosaurの前に誰かを送る。Booneへのこいつが犯人だという合図にベレー帽を被る
+GID00054564	Booneの元へ戻る
+GID00054565	Vault 74の監督官のオフィスを調べる
+GID00054566	Hoover Damの制御室へ行き、オーバーライド・チップをインストールする
+GID00054567	Securitron Armyに電力を供給するために、東の発電装置を起動させる
+GID00054568	ダムの発電機を破壊する
+GID00054569	Damの東口から出る
+GID00054570	Legateのキャンプに向かいLegateとCaesar's Legionを始末する
+GID00054571	General OliverとNCRを始末する
+GID00054572	Yes Manに勝利を伝える
+GID00054573	Hoover Damの制御室に行き、オーバーライド・チップをインストールする
+GID00054574	Securitron Armyに電力を供給するために、東の発電装置を起動させる
+GID00054575	Damの東口から出る
+GID00054576	Legateのキャンプに向かいLegateとCaesar's Legionを始末する
+GID00054577	General OliverとNCRを始末する
+GID00054578	Mr Houseに勝利を伝える
+GID00054579	ED-Eの事をHidden ValleyでKnight Lorenzoと話す
+GID00054580	Knight Lorenzoが、あなたにBrotherhood of SteelにED-Eを調べさせることについて話していたパトロール隊員を見つける
+GID00054581	ED-EにはEnclaveに関するログデータが記録されているようだ。いくつかのキーワードに反応して、データが読み出される
+GID00054582	Followers of the ApocalypseのところにED-Eを連れて行き、記録されているログにアクセスする
+GID00054583	Lorenzoが言っていたパトロール隊員は死んでいた。おそらく死体から何か役に立つものを見つけられるだろう
+GID00054584	Brotherhoodの死体から、パスワードが見つかった。おそらくED-EをLorenzoのところへ持って行くのに役に立つだろう
+GID00054585	Lorenzo はED-Eのデータを調べたがっている。 彼はそれに取り組んでいる間に、ED-Eのarmorをアップグレードさせると申し出でた。
+GID00054586	ED-Eのアップグレードが完了した。
+GID00054587	LorenzoはED-Eを調べ装甲をアップデートしている。数日中に仕上がるだろう。
+GID00054588	April MartimerとFollowersはED-Eのデータにアクセスしたがっている。彼女はそれに取り組んでいる間に、その武器をアップグレードすることを約束した
+GID00054589	AprilはED-Eを預かり、データへのアクセスとその武器のアップグレードに数日かけて取り組むだろう
+GID00054590	(オプション) NovacのGibson スクラップ置き場へED-Eを連れて行く
+GID00054591	Mr. Houseを殺すか無力化する
+GID00054592	Yes ManのAIをLucky 38のメインフレームにインストールする
+GID00054593	Lucky 38でYes Manと会う
+GID00054594	FortでBennyからPlatinum Chipを取り戻す
+GID00054595	BennyからPlatinum Chipを取り戻す
+GID00054596	Platinum ChipをMr. Houseに届け、防衛システムを強化する
+GID00054597	Lucky 38の基地へ行く
+GID00054598	アップグレードされたSecuritronsを観察する
+GID00054599	Yes Manのところへ戻る
+GID00054600	Lucky 38のVIPキーカードを手に入れる
+GID00054601	Nellis空軍基地に行く
+GID00054602	Red Rock Canyonへ行ってGreat Khansと会う
+GID00054603	Omertasと奴らのカジノGomorrahを探る
+GID00054604	Ultra-LuxeカジノでWhite Glove Societyを訪問する
+GID00054605	Brotherhood of Steelと接触する
+GID00054606	Boomersが協力を約束したとYes Manに伝える
+GID00054607	Boomersの指導部を抹殺したとYes Manに伝える
+GID00054608	(オプション) Boomersの指導部を抹殺し、脅威を除去する
+GID00054609	(オプション) Boomersは無視できるとYes Manに伝える
+GID00054610	(オプション) ゴモラへ行ったがOmertasは無視してよさそうだとYes Manに伝える
+GID00054611	Omertasはもはや脅威ではないと、Yes Manに伝える
+GID00054612	the Stripを攻撃するというOmertasの計画に賛成したことをYes Manに伝える
+GID00054613	Omertasが敵意を持っているとYes Manに伝える
+GID00054614	(オプション) Great Khansを無視する予定だとYes Manに伝える
+GID00054615	Great KhansをNCRへ協力させたとYes Manに伝える
+GID00054616	Great Khansを始末したとYes Manに報告する
+GID00054617	Great KhansにMojaveを去らせたとYes Manに報告する
+GID00054618	Great Khansがフーバーダムに玉砕攻撃をしかけるつもりだとYes Manに報告する
+GID00054619	(オプション) Yes ManにWhite Glove Societyを無視することに決めたと報告する
+GID00054620	White Glove Societyのリーダーを殺したと報告する
+GID00054621	White Glove Societyの食人問題を解決したとYes Manに伝える
+GID00054622	White Glove Societyは「大丈夫だ。問題ない」とYes Manに報告する
+GID00054623	White Glove SocietyをCaesar's Legionに協力させたと報告する
+GID00054624	(オプション) Brotherhood of Steelとは親しい間柄なので彼らをの事は放っておきたいとYes Manに告げる
+GID00054625	NCRの手助けをするようにBrotherhood of Steelを説得したとYes Manに報告する
+GID00054626	Brotherhood of Steelのバンカーを破壊したことをYes Manに伝える
+GID00054627	(オプション) Hidden ValleyにあるBrotherhoodのバンカーへ戻る
+GID00054628	White Glove Societyについて学ぶために彼らのリーダーの一人と話す
+GID00054629	(オプション) White Glove Societyについてさらに知るためにMarjorieと話す
+GID00054630	(オプション) White Glove Societyについてさらに知るためにMortimerと話す
+GID00054631	(オプション) Brotherhood of Steelのバンカーを破壊する
+GID00054632	Arcadeと共に、Remnantsを最後の戦いに集結するように説得する
+GID00054633	Doctor HenryにRemnants 再結集に来るように求める
+GID00054634	Daisy WhitmanにRemnants 再結集に来るように求める
+GID00054635	Cannibal JohnsonにRemnants 再結集に来るように求める
+GID00054636	Orion MorenoにRemnants 再結集に来るように求める
+GID00054637	Judah KregerにRemnants 再結集に来るように求める
+GID00054638	Remnants バンカーへのアクセスを得る
+GID00054639	RemnantsにLegionまたはNCRとの戦いを支援してくれるように頼む。
+GID00054640	Orion Morenoに留まるよう説得する。
+GID00054641	Daisy WhitmanからPower Armor trainingを習得する。
+GID00054642	Orion MorenoからPower Armor trainingを習得する。
+GID00054643	door override keycardを回収するためにOrion Morenoを殺害する。
+GID00054644	Orion Morenoに起こった事をJudah Kregerに話す。
+GID00054645	彼らが来るべき戦いの計画を立てるようにRemnants司令室を去る。
+GID00054646	(オプション) El Dorado変電所が作動するまで、Hoover Damを公式訪問中のPresident Kimballを護衛する
+GID00054647	El Dorado変電所に行きオーバーライド・チップをインストールする。
+GID00054648	El Dorado変電所の外でSecuritronと落ち合い援護する。
+GID00054649	Yes Manへ報告に戻る。
+GID00054650	Hoover Damへ行く。
+GID00054651	(オプション) Followers of the Apocalypseが独立したVegasを支えるように説得する。
+GID00054652	President Kimballの来訪はキャンセルされた。El Dorado変電所に行きオーバーライド・チップをインストールする。
+GID00054653	El Dorado変電所に行きオーバーライドモジュールをインストールする。
+GID00054654	El Dorado変電所の外でSecuritronと落ち合い援護する。
+GID00054655	Mr. Houseへ報告に戻る。
+GID00054656	East Pump Stationを調査する。
+GID00054657	放射物汚染の原因を探す。
+GID00054658	小作農場を助けるためにVault 34の原子炉を停止させる。
+GID00054659	(オプション) 原子炉をそのまま残し、Vault 34の身動きの取れない住民達を助け、小作農場の運命を決する。
+GID00054660	Jackの恋のお相手を探す。
+GID00054661	Janetが興味を持っていることをJackに伝える。
+GID00054662	JanetがNellisに入る許可を貰えるかPearlに尋ねる。
+GID00054663	Boomersの服をJanetに届ける
+GID00054664	McLaffertyが支払いに同意したことをJanetに知らせる。
+GID00054665	Janetに代わってAlice McLaffertyと話す。
+GID00054666	McLaffertyが支払いを拒否したとJanetに知らせる。
+GID00054667	Jackの元へ戻る。
+GID00054668	Nellisへ戻りJanetと会う。
+GID00054669	Janetは死んだ。
+GID00054670	Black Mountainで行方不明になっているBrotherhoodの哨戒隊を探し、彼らの任務のホロテープを回収する。
+GID00054671	REPCONN HQで行方不明になっているBrotherhoodの哨戒隊を探し、彼らの任務のホロテープを回収する。
+GID00054672	Nellis AFBで行方不明になっているBrotherhoodの哨戒隊を探し、彼らの任務のホロテープを回収する。
+GID00054673	三つの巡回任務ホロテープを持ってElder McNamaraの元に戻る。
+GID00054674	NCR Correctional Facility付近のBrotherhoodの偵察者に会い、彼の報告を受け取る。
+GID00054675	Nipton付近のBrotherhoodの偵察者に会い、彼の報告を受け取る。
+GID00054676	Camp Forlorn Hope付近のBrotherhoodの偵察者に会い、彼の報告を受け取る。
+GID00054677	三つの偵察者の報告を持ってElder McNamaraの元に戻る。
+GID00054678	差動圧力コントローラーをVault周辺で捜す。
+GID00054679	空気浄化システムは大丈夫だという知らせを持ってElder McNamaraの元に戻る。
+GID00054680	Elder McNamaraと司令室で話す。
+GID00054681	(オプション) Hardinに代わってSenior Paladin Ramosと話す。
+GID00054682	(オプション) BrotherhoodのデータストアへのアクセスについてSenior Scribe Ibsenと話す。
+GID00054683	(オプション) Head Paladin Hardinのために、Elder McNamaraを地位から失脚させる方法を探す。
+GID00054684	(オプション) Brotherhoodの履歴ファイルから、過去にElderが役職を解任させられた資料を閲覧する。
+GID00054685	Elder McNamaraと話す。
+GID00054686	Hidden ValleyのバンカーでキャンプしてるNCR Rangerを対処する。
+GID00054687	Elder McNamaraの元へ戻ってrangerは適切に対処したと知らせる。
+GID00054688	障害のある空気浄化システムについてSenior Knight Lorenzoと話す。
+GID00054689	部品とともにSenior Knight Lorenzoの元へ戻る。
+GID00054690	逆流パルスクリーナーをVault周辺で捜す。
+GID00054691	いくつかの HEPAカートリッジをVault周辺で捜す。
+GID00054692	(オプション) 失われた巡回任務のディスクとともにHardinの元に戻る。
+GID00054693	(オプション) 見つけたChain That Bindsについての情報とともにHardinの元に戻る。
+GID00054694	(オプション) Chain That BindsについてPaladin Ramosに尋ねる。
+GID00054695	(オプション) Chain That Bindsの更なる情報のためにデータストアを確認する。
+GID00054696	Broc FlowerとXander Rootを探す。
+GID00054697	Broc FlowerとXander RootをキャンプファイアーにいるSunnyに持っていく。
+GID00054698	キャンプファイアーを使いHealing Powderを作る。
+GID00054699	Prospector Saloonに行き、Trudyと会う。
+GID00054700	彼女のキャラバンの墓に二人で敬意を払う
+GID00054701	CassとGriffin Wares caravanの残骸を調査する
+GID00054702	Cassと一緒にDurable Dunnの行方不明のキャラバンを突き止める
+GID00054703	Crimson Caravanへの攻撃の背後にある理由を調査する
+GID00054704	FreesideにあるSilver RushのVan Graffが有罪である証拠を探る
+GID00054705	Crimson Caravan Camp に居るAlice McLaffertyを見つけ出し"決済"させる
+GID00054706	FreesideのSilver RushでGloria Van Graffを探し、そのクソ女とイイ中になる
+GID00054707	Mojave前哨基地のJacksonにキャラバン襲撃事件の証拠を持っていく。
+GID00054708	ケリをつけた
+GID00054709	NCRへ証拠を渡した
+GID00054710	CassはMojave Outpostでやけ酒を飲んでいる。彼女のアドバイス? Crimson Caravanのために働きに行け
+GID00054711	キャラバンでの仕事を探しているのなら、Crimson Caravanで仕事を尋ねる
+GID00054712	Cassの所へ戻り、Cassidy Caravansの看板を下ろさせる事が出来るかどうか会いに行く
+GID00054713	Cassが旅立てる自由を与えるため、Mojave Outpost HQのJacksonの代わりに道を綺麗にする
+GID00054714	(オプション) Cassや他の誰にも知られること無くJacksonを障害と見なし"取り除く"
+GID00054715	Corporal Betsyのトラウマの治療を勧める事について彼女と話す
+GID00054716	Betsyのために助力を求めるようFirst Reconの他のメンバーと相談する。
+GID00054717	New Vegas Medical ClinicのDoctor UsanagiにGorobetsのメッセージを届ける。
+GID00054718	Betsy伍長が治療を受けることをGorobets中尉に伝える
+GID00054719	10 of Spadesと話す。
+GID00054720	Corporal Sterlingと話す。
+GID00054721	Sergeant Bitter-Rootと話す。
+GID00054722	Corporal BetsyにFirst Reconの他のメンバーも彼女に助けが必要なことに同意しているのを伝える。
+GID00054723	Ringoを殺害する。
+GID00054724	(オプション) Chetから補給品を巻き上げる。
+GID00054725	(オプション) Powder GangersのためにDoc Mitchellの予備医療用品を得る。
+GID00054726	Goodsprings民兵を打ち倒す。
+GID00054727	Goodspringsを支配する用意が出来たことをJoe Cobbに知らせよう
+GID00054728	Joe CobbにRingoが死んだことを伝える。
+GID00054729	Joe Cobbと共にGoodspringsに対する襲撃計画を立てる。
+GID00054730	Joe Cobbに予備医療用品を渡す。
+GID00054731	壊れたsolar array panelsを修理する。
+GID00054732	arrayの予備パーツを探す。
+GID00054733	[オプション] solar arrayの効率を改善する。
+GID00054734	Loyalにarrayを修理したことを伝える。
+GID00054735	NCRの補給品貯蔵所を探す。
+GID00054736	Van Graffsとその仲間を殺す。
+GID00054737	Elder Hardinの元へ戻ってVan Graffsを根絶したことを伝える。
+GID00054738	LegionのDropboxを探す。
+GID00054739	LegionのDropboxを探す
+GID00054740	Black Mountain へ行き、そこにある端末に リモート・シグナル・トランスミッター をインストールする。
+GID00054741	装置がインストールされたことを McNamara に報告する
+GID00054742	Mr. House は死んだ。彼の大きな夢は二度と実現しない
+GID00054743	Lucky 38 のメインフレームコンピューターから Mr. House との通信は完全に断たれた
+GID00054744	Tops にある Benny の部屋を探し手がかりを見つける
+GID00054745	Vegasを占領する方法についてYes Manと話す。
+GID00054746	Black Mountainのsummitに向かい、Tabithaの恐怖政治を終わらせろ。
+GID00054747	(オプション) Black Mountainのsummitの近隣の村でNeilと会う。
+GID00054748	NCRレンジャーの目を逃れたものはほとんどいない。あなたがCaesar's Legionと協働を続けるなら、NCRはあなたをテロリストとみなすだろう。
+GID00054749	NCRはあなたがテロリストであると宣言した。NCRの司法権が及ぶ場所では、あなたは見つかり次第撃たれるだろう。
+GID00054750	NCRには強力な情報提供者の組織網がある。あなたがMr. Houseと共に動き続ければ、NCRはあなたの助けを受け入れなくなるだろう。
+GID00054751	NCRには強力な情報提供者の組織網がある。あなたがYes Manと共に動き続ければ、NCRはあなたの助けを受け入れなくなるだろう。
+GID00054752	NCRには強力な情報提供者の組織網がある。あなたがMr. HouseかYes Manと共に動き続ければ、NCRはあなたの助けを受け入れなくなるだろう。
+GID00054753	NCRはあなたと利害が対立していることを知った。彼らはもうあなたの助けを受け入れないだろう。
+GID00054754	Legionにはスパイがいたる所にいる。Legionに不利益な働きを続ければ、あなたは敵とみなされマークされるだろう。
+GID00054755	Legionの敵を支援したため、あなたは永遠にLegionの敵であると宣言された。多くのものがあなたの命を狙いに来るだろう。
+GID00054756	(オプション) Fortification HillにあるLegionのFortの地下に埋められている、Mr. Houseの秘密のバンカーを見つけ出す。
+GID00054757	(オプション) 後で自分の目的に使用するため、Securitron軍団をアップグレードする。
+GID00054758	(オプション) バンカーの装置をショートさせ、Securitron軍団を破壊する。
+GID00054759	バンカーを調べる。
+GID00054760	Mr. Houseのセキュリティロックが切れるまでに、Lucky 38から逃げる。
+GID00054761	Lucky 38から逃げるか、Caesarが指示した通りにMr. Houseを殺せ。
+GID00054762	Lucky 38から逃げるか、Colonel Mooreが指示した通りにMr. Houseを無力化する。
+GID00054763	Lucky 38から逃げるか、Yes Manが指示した通りにMr. Houseを無力化する。
+GID00054764	Lucky 38から逃げるか、Mr. Houseを無力化する。
+GID00054765	24時間のセキュリティ封鎖が終了した後、Platinum ChipをMr. Houseに届ける。
+GID00054766	もしMr. Houseにまだ協力するなら、24時間のセキュリティ封鎖が終了した後、彼の下へ戻る。

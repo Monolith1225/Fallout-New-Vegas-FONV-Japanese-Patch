@@ -1,0 +1,754 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc03_topic_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00093429	Have you made any electronic components?
+GID00093430	I'd like to process some plants.
+GID00093431	I have some seditious material for you to process.
+GID00093432	Can you turn those lights on for me?
+GID00093433	It's not often I meet a light switch with brains and beauty. I think I'm going to like it here.
+GID00093434	Can you turn those lights on for me?
+GID00093435	A light switch that turns me on? I must be dreaming.
+GID00093436	I've got some toasters for you.
+GID00093437	I found my brain, now you and I are going to settle things.
+GID00093438	I've recovered all the technological information.
+GID00093439	Surrender, Mobius, I don't want to fight you.
+GID00093440	I've defeated your Giant Robo-Scorpion, you're next.
+GID00093441	Are you... my brain?
+GID00093442	Come on, let's go. We're getting out of here.
+GID00093443	So... what do you say, brain? Join me for some more wild adventures?
+GID00093444	If the Think Tank won't hold up their bargain, we'll make them. Let's go.
+GID00093445	Don't you want to be reunited? I thought you'd be happy to get back into my head!
+GID00093446	Here, take whatever you want.
+GID00093447	Sorry, I don't have any.
+GID00093448	What function do you serve?
+GID00093449	What are you, some kind of novelty talking light switch?
+GID00093450	I'll handle the brains. You stay here - you'll be more useful outside my head.
+GID00093451	Fine, you can stay here. Not like I need this hassle.
+GID00093452	Maybe I have been a little unfair. If you want to stay here, I'll let you.
+GID00093453	I saw another light switch in the other room. Do you control that one too?
+GID00093454	The more you speak... something's... technical about the way you're squawking at me.
+GID00093455	Wait, after listening a bit - that's RobCo termlink protocol you're broadcasting, right?
+GID00093456	There's a... pattern to your speech or something.
+GID00093457	You're emitting characters in patterns of 8, bracketed, with tone adjustment at the end.
+GID00093458	Calm down. I don't plan on hacking your voice module this time.
+GID00093459	Good to see you, too, 8. Any new discoveries today?
+GID00093460	Blindly operate on any poor animals recently?
+GID00093461	Helped any animals discover their genetic potential recently?
+GID00093462	I encountered your "pet" in X-8.
+GID00093463	I encountered your "pet" in X-8 and had to kill it.
+GID00093464	It seems to me you have more... biological needs than your counterparts.
+GID00093465	It seems to me you have more... biological needs than your counterparts.
+GID00093466	You seem... to... be looking at me a lot.
+GID00093467	I can't help but notice your... fascination with the human body.
+GID00093468	What did you just say?
+GID00093469	My seed? I think you've got your biology mixed up.
+GID00093470	My brain told me the Think Tank needs to be stopped. Can you help?
+GID00093471	I need my brain back.
+GID00093472	I have a real teddy bear, if you want it.
+GID00093473	Do you know how I can stop the Think Tank?
+GID00093474	Can I have a Mentat?
+GID00093475	A good hit with a hammer might fix your monitor.
+GID00093476	I can't fix your monitor, but if you're getting ghost reception, I can fix that.
+GID00093477	I heard you and 8 were attacked by previous visitors.
+GID00093478	Who are you?
+GID00093479	Your voice module got damaged, I heard. In an attack.
+GID00093480	Uh... if you're speaking that code stuff, I can hack you, right?
+GID00093481	If that's RobCo termlink protocol, doesn't that mean it can be hacked?
+GID00093482	Is this Gabe's bowl? Your dog from X-8, Gabe?
+GID00093483	Does this dog bowl look familiar?
+GID00093484	<Display middle finger.>
+GID00093485	<Hold up one finger, point at self. Point at them, hold up five fingers.>
+GID00093486	So... "O," got any amazing discoveries to share?
+GID00093487	I want to talk to you about your name.
+GID00093488	So... "Zero," got any amazing discoveries to share?
+GID00093489	Your damaged voice module... can you tell me about the attack?
+GID00093490	Who are you - what do you do here?
+GID00093491	Dr. Mobius' message - can you replay it?
+GID00093492	I want to know more about Mobius and the Forbidden Zone.
+GID00093493	I have other questions for you.
+GID00093494	<Blink slowly with a blank expression.>
+GID00093495	<Wave hands and nod.>
+GID00093496	Tell me about this "Radar Fence" around the Crater.
+GID00093497	Why does Klein want these particular technologies?
+GID00093498	Listen, I want to know how I got here... and how I get home.
+GID00093499	If you lobotomized the Think Tank, why terrorize them?
+GID00093500	I don't understand why you sent the threats - and the Robo-Scorpion army - against the Think Tank.
+GID00093501	Wait... sounds like you built the Robo-Scorpions, issued threats to keep the Think Tank occupied.
+GID00093502	Can you tell me about the Big Empty?
+GID00093503	Can you tell me about the Big Em... uh, Big Mountain?
+GID00093504	Who are you? What do you do here?
+GID00093505	Why did you steal my brain?
+GID00093506	Why did you remove my brain? And... how?
+GID00093507	I'm seconds away from smashing your monitors.
+GID00093508	I was curious about some things.
+GID00093509	I heard one of the previous visitors to the Dome spoke to you, asked you some questions.
+GID00093510	I was interested in hearing more about the... science... the others... do. Here.
+GID00093511	I'd be honored if I could hear any knowledge the Think Tank had to share on the sciences.
+GID00093512	I found a backup copy of your... pencil processor.
+GID00093513	I wanted to know more about the Think Tank.
+GID00093514	You all seem knowledgeable in your fields. No doubt there's much you can share with me.
+GID00093515	Go wait by the entrance. Good dog.
+GID00093516	You seem like the one in charge. You are...?
+GID00093517	I'm okay. Talk to you later.
+GID00093518	Nice. This should be enough.
+GID00093519	So these will work in the Sonic Emitter?
+GID00093520	Uh... these have been sterilized, too, right?
+GID00093521	I'd rather have a good old-fashioned gun.
+GID00093522	This sonic gun looks like an energy projectile. Got anything that spits lead?
+GID00093523	I could use some more... energy... stuff.
+GID00093524	Energy Cells have a high expenditure rate. Some extra reserve cells could offset that.
+GID00093525	So genius, what now?
+GID00093526	Do these technologies have the information you need?
+GID00093527	All right, glad that you received the schematics.
+GID00093528	Your answer isn't filling me with confidence.
+GID00093529	Something wrong?
+GID00093530	"Yes..." what?
+GID00093531	Do you even know what these technologies do?
+GID00093532	Why did you have me get them if you don't know how they would help?
+GID00093533	I'm going to advance my boot into your voice module if you don't give me some solid data.
+GID00093534	Maybe the new frequency for the Sonic Emitter can blast open the Forbidden Zone door lock, or...?
+GID00093535	Maybe the frequency in the Sonic Emitter's a sonic key of sorts? Like an electronic lockpick?
+GID00093536	Think the X-13 sneaky suit can slip in and get to Mobius?
+GID00093537	Would the suit's dampening abilities allow me to sneak into the Forbidden Zone?
+GID00093538	The antenna looks like it could break things beyond repair. Maybe it could break in?
+GID00093539	The antenna, any chance it was damaged, or broke the X-2 array once removed?
+GID00093540	I'll let you think it over, then.
+GID00093541	These devices all seem very scientific. Very.
+GID00093542	Look, the antenna focuses brainwave patterns, right?
+GID00093543	And the suit's a cardiac regulator, and the sonic frequency is a spinal vibrator?
+GID00093544	Yes?
+GID00093545	...I'm waiting for you to draw a conclusion.
+GID00093546	Do you remember what other biological effects the other items had?
+GID00093547	You may have noticed the pacification field is down. Guess what happens now?
+GID00093548	Do you think I killed Mobius?
+GID00093549	Mobius and I talked it over, reached an understanding.
+GID00093550	I can't let you dissect the Mojave. Or let you leave.
+GID00093551	Mobius and I... we... formed an alliance. Sort of.
+GID00093552	<Lie> You think I am the Lobotomite...? No, for my skull houses the BRAIN OF MOBIUS!
+GID00093553	There's plenty of medical ways to pull off that... stunt.
+GID00093554	COUNTLESS brain extraction surgeries exist... but only one IMPLANTATION one - from MOBIUS!
+GID00093555	Science provided a way, Klein.
+GID00093556	Nothing is unpossible for SCIENCE! Mesons, lasers, atoms, brainwaves... all are at MY command!
+GID00093557	<Lie> Do you think I killed Mobius? No, he lives.
+GID00093558	He offers a deal - stay here, stay put, and he'll let you live.
+GID00093559	Are you willing to risk it?
+GID00093560	You FOOLS had best listen. Or MOBIUS will bring his army here, to sting you STUPID.
+GID00093561	You can still do that... here, quietly, for me.
+GID00093562	I can bring the Mojave, this world to you. You'll be safe, and you'll still be able to experiment.
+GID00093564	Is this gun all? Uh, can't have enough guns, really.
+GID00093565	Um, this gun looks really hungry. I'd like to make sure it gets fed lots of bullets.
+GID00093566	I'm listening, let's hear it.
+GID00093567	Just spit it out before you bore me to death.
+GID00093568	So just plug it into the circular map-thing in the Sink upstairs?
+GID00093569	All right, having a store available would be helpful... it has a store connection right?
+GID00093570	Just one of these chips, huh? Guess they're rare.
+GID00093571	This chip looks like it was mass-produced. Are there other chips?
+GID00093572	So I just go back upstairs and to the main circular console?
+GID00093573	I have some questions about this "brain extraction" you all performed.
+GID00093574	You said before that Mobius might have my brain?
+GID00093575	Why would Mobius want my brain?
+GID00093577	So I go after him, then?
+GID00093578	Then there's no time to waste.
+GID00093579	That's actually not the conclusion I would have drawn.
+GID00093580	Don't these items seem more... biologically-focused than that, though?
+GID00093581	These technologies seem more useful... medically, somehow.
+GID00093582	The cardiac, spinal, and brainwave aspects of this tech... couldn't they heal me?
+GID00093583	What was the plan you had?
+GID00093584	Well, I don't want to keep them out of trouble, I want to kill them.
+GID00093585	Any tactics I could use to attack the Think Tank?
+GID00093586	Everything you've told me doesn't add up... your plan, even your name, "Mobius."
+GID00093587	Sounds like you forgot your master plan - surprised you remember your own name.
+GID00093588	So... you reprogrammed yourself?
+GID00093589	You reprogrammed their names as part of recursion loop? What, to trap their processors?
+GID00093590	Why did you trap them?
+GID00093591	So all this insanity is because of you?
+GID00093592	A recursion loop is designed to prevent the flow of information. So...
+GID00093593	So that's why they have all those stupid names?
+GID00093594	Klein... Mobius... O's a circle... 8's an infinity symbol... they're all loops, I get it.
+GID00093595	Keep going, I want to hear the rest of this.
+GID00093596	Anything I could do to stop them that doesn't require violence?
+GID00093597	I'd really, really like to kill them.
+GID00093598	Any suggestions for how to make them change their minds?
+GID00093599	I'd like to make the effort.
+GID00093600	Scare them? How?
+GID00093602	That's kind of an asshole thing to do to your friends.
+GID00093603	"Ouro-bor-ous?" What the hell does that mean?
+GID00093604	Minor detail, but a snake devouring its own tail is "Ouro-borus," not "Ouro-borous."
+GID00093605	But there must have been other signs of a larger world.
+GID00093606	There were other visitors, though. Why am I different?
+GID00093607	Are you blaming me for this?
+GID00093608	Huh? What are you talking about?
+GID00093609	The bullet that went into my brain? Doc Mitchell tried to patch me up, but...
+GID00093610	What, some kind of medical condition?
+GID00093611	A cranial injury. From the attack outside Goodsprings.
+GID00093612	So you set your threats on a loop to keep them occupied?
+GID00093613	Do you know anything about the other visitors?
+GID00093614	What do you mean?
+GID00093615	I don't understand why they wanted me to gather the technologies.
+GID00093616	Klein said they had the idea to get the three technologies after your broadcast. Coincidence?
+GID00093617	What is the purpose of the technologies?
+GID00093618	But the Think Tank downloaded the schematics, not the items. They can rebuild them.
+GID00093619	Was there any other data transmitted in your threat broadcast?
+GID00093620	If you don't get to the point, I'm going to start shooting.
+GID00093621	The only "wrinkle" is the one that bullet made going into my brainpan.
+GID00093624	I see. Well, I have questions for you.
+GID00093658	Is there any way to remove the pacification field in here?
+GID00093659	Why did you say "three minus one" subjects before?
+GID00093660	But how am I still talking and walking around?
+GID00093661	This makes no sense. How is this even possible?
+GID00093662	I feel strange in here, peaceful, but on edge.
+GID00093663	Is there any way to shut it off?
+GID00093664	You don't seem to have a grasp on your own research.
+GID00093665	Why have you leveled this place?
+GID00093666	All right... when did you create Cazadores?
+GID00093667	So Nightstalkers were created for what purpose, then?
+GID00093668	Give me a single, concrete fact. One. Fact.
+GID00093669	I saw the expanse from the balcony - you've made a mess of this landscape.
+GID00093670	This crater looks like it's been tag-teamed by giant fuckbots.
+GID00093671	Test cities?
+GID00093672	What was this explosion?
+GID00093673	That fence doesn't make much sense to me.
+GID00093674	So I get my brain back, I can leave.
+GID00093675	Wait a minute - that means you're trapped here?
+GID00093676	Don't you want to leave here?
+GID00093677	But there's a whole world beyond this place.
+GID00093678	Evidence to the contrary?
+GID00093679	Doesn't that prove you're wrong?
+GID00093714	What's your purpose here?
+GID00093715	Do you play music?
+GID00093716	You seem pretty laid-back for an engine of destruction.
+GID00093717	Can you do anything like that for me?
+GID00093718	I'd like to talk about something else.
+GID00093719	What were the results?
+GID00093720	Is that anything like what the other light switch is working on?
+GID00093721	I had some more questions.
+GID00093722	And what did you find out?
+GID00093723	I had other questions.
+GID00093724	Sounds like there's some bad blood between you. Or, um, circuits.
+GID00093725	I don't know, smart lights could be useful.
+GID00093726	Okay then. Forget I said anything.
+GID00093727	Calm down, I don't have a thing for the light switch.
+GID00093728	What can I say, she and I just... click.
+GID00093729	That sounds like what the other light switch was working on.
+GID00093730	I found a holotape to upgrade you.
+GID00093731	I need my equipment repaired.
+GID00093733	If there's nothing more, I need to stop Mobius.
+GID00093734	So I can't leave?
+GID00093735	There's a perimeter?
+GID00093736	That sounds suspiciously like I can't leave.
+GID00093737	Why can't you go out there and shut them down?
+GID00093738	Uh... thanks.
+GID00093739	This thing is pretty cool. It's got a little soundwave thing on the back!
+GID00093740	What were you saying about force field disruption?
+GID00093741	Oh, I'll be sure not to tamper with anything, I promise.
+GID00093742	I'll go get these technological wonders and see how much damage I can do.
+GID00093744	If you have the gun already, I don't understand what you need.
+GID00093745	If there's a weapon you can give me, hand it over, I'll put it to good use.
+GID00093746	For the love of... Please. Stop. Fighting.
+GID00093747	Wait... so this gun you gave me can disable Force Fields?
+GID00093748	This can only work on fields here in the crater?
+GID00093749	I could care less about all of this. Can I go?
+GID00093756	Why are you such a dick?
+GID00093757	Listen, you're my brain, so you'd better be more respectful!
+GID00093758	Actually, yes. I would love a cookie.
+GID00093759	Why does my brain sound so... masculine?
+GID00093760	How the hell did Mobius get hold of my brain?
+GID00093761	Cool! I can talk to my own brain! Can my heart and spine talk, too?
+GID00093762	Of course you're responsible! You're my brain!
+GID00093763	Oh come on, that stuff's fun!
+GID00093764	I didn't realize it caused you so much distress.
+GID00093765	We'll revisit this topic later.
+GID00093766	I could smash this tank you're in. How about that?
+GID00093767	Once you're back in my head, I'll watch television. Lots. And lots. Of television.
+GID00093768	Fine, never mind.
+GID00093769	Don't tempt me, brain.
+GID00093770	I would. And I'd follow it up with an alcohol-and-ant-nectar cocktail every night.
+GID00093771	Maybe not, but it got your attention, didn't it?
+GID00093772	Never mind. I want to talk about something else.
+GID00093773	I don't recall giving you a choice. Let's go.
+GID00093774	What's it going to take to convince you?
+GID00093775	Come on, we have a duty to the Wasteland, we have to get out of here!
+GID00093776	I'm not spending the rest of my life here when there's a whole world to loot.
+GID00093777	Hold that thought, we'll come back to it.
+GID00093778	Why? They promised to put us back together once I did what they wanted.
+GID00093779	Then let's go make them share. Come on, brain, it's stomping time!
+GID00093780	How did he manage that?
+GID00093781	Hmm. Let me think about this.
+GID00093782	That seems like a pretty unlikely coincidence.
+GID00093783	Well, that answers that. On to something else.
+GID00093784	You talk a lot of science, brain, but you don't make a lot of sense.
+GID00093785	Well, you don't have a mouth, but you can talk. Explain that, smarty-pants!
+GID00093786	Uh, brain? You seem... awful smart all of a sudden.
+GID00093787	All this smart-talk is hurting my head. Please stop it.
+GID00093788	What about my spine?
+GID00093789	But you're the source of most of those glands. Unless you're arguing that my thyroid is to blame.
+GID00093790	That doesn't seem quite right...
+GID00093791	Admit it. You're just as glandular as I am.
+GID00093792	What's so bad about letting the brains get out? They don't seem that terrible.
+GID00093793	You're part of me. I know you don't want to let that happen any more than I do.
+GID00093794	Come on! We have to stop them! And stuff!
+GID00093795	That's going to be a problem. Until they fix me, I can't leave Big Mountain either.
+GID00093796	Are you really saying you'd let the Think Tank outwit us?
+GID00093797	I'm going to give them a demonstration of the physics behind small, fast-moving chunks of lead.
+GID00093798	I'm going to introduce them to a world of pain. Bullet pain.
+GID00093799	I'm going to show them what's really the brightest thing in the room.
+GID00093800	We've got lasers, right? I thought we'd use lasers.
+GID00093801	Ever had a squirrel brain omelet? That, but on a bigger scale. And with bombs.
+GID00093802	I think bombs? Yeah, maybe bombs.
+GID00093803	The brains have forgotten the little things. Things like sharp blades and heavy chunks of steel.
+GID00093804	I thought since they like lasers so much, I'd surprise them. With a club or something.
+GID00093805	I'm going to show them even a video screen can get a black eye.
+GID00093806	I sort of thought I'd just start punching things and see where that gets me.
+GID00093807	Let's just say violence is the last resort of the civilized man, and I'm feeling mighty uncivilized.
+GID00093808	There's no need to be sarcastic. Meeting your own brain is a slightly odd event.
+GID00093809	Yes. Because running around a crater full of bizarre science experiments, hygiene is a top priority.
+GID00093810	I've been busy.
+GID00093811	What about you? That tank isn't exactly looking springtime fresh.
+GID00093812	But what about the good things? What about a cool breeze on your cheek, the smell of food... love?
+GID00093813	But what about the good things? What about crushing those who oppose you, the smell of fire... loot?
+GID00093814	I can see your point. What can I do to make this a fair compromise?
+GID00093815	Too bad. I've got arms, you don't. You're coming with me.
+GID00093816	Come on, you're my brain and I'm your body. This is meant to be, baby!
+GID00093817	Come on, you're my brain and I'm your body. This is meant to be, baby!
+GID00093818	I promise I'll take better care of myself.
+GID00093819	<Lie> I promise I'll take better care of myself.
+GID00093820	Come on, you're my brain and I'm your body. This is meant to be, baby!
+GID00093821	Come on, you're my brain and I'm your body. This is meant to be, baby!
+GID00093822	Isn't it just as true that you only feel this way because you're lacking those hormones?
+GID00093823	You can't really believe that.
+GID00093824	So, we're at an impasse. You can't feel what I feel, and I can't think the way you think.
+GID00093825	Yeah, bet you didn't think of that, huh?
+GID00093826	Look what happened to the Think Tank. Do you want to end up like them after a few hundred years?
+GID00093827	I think we have to trust each other and acknowledge that we aren't complete if we're separated.
+GID00093828	Well... maybe we could keep going like this. What do you think?
+GID00093829	I don't know. I have to think about this some more.
+GID00093830	So, what, you'd rather just stay here? Never leaving that tank of... whatever that stuff is?
+GID00093831	Well, if you like being stuck in there so much, maybe I'll just leave you.
+GID00093832	What would happen to me if I left you here?
+GID00093833	Why did you never say anything about how you felt before?
+GID00093834	And if I put you back?
+GID00093835	Then surely you've taken into account the corrosive effects of long-term exposure to biogel.
+GID00093836	You really think you're smarter than the Think Tank and Dr. Mobius combined?
+GID00093837	I suppose I'll go back to the Think Tank and get them to let me out. They promised to do that much.
+GID00093838	Maybe I'll explore the Big Mountain more before I go back to the Think Tank.
+GID00093839	Okay, then. I'm going.
+GID00093840	I will!
+GID00093841	I've changed my mind. I want you back in my skull after all.
+GID00093842	I've thought it over, and I want you back in my head. We're both stronger together.
+GID00093843	Great!
+GID00093844	This is ridiculous. I can't leave my brain here to rot.
+GID00093845	Well... so long, then. I'm going back to the Think Tank. They promised to let me out.
+GID00093846	I'm sure. In you go.
+GID00093847	On second thought, never mind.
+GID00093848	I think I need to think about it some more.
+GID00093858	I found that upgrade disk you were looking for.
+GID00093859	I found you some upgrade disks.
+GID00093860	I lost my Sonic Emitter. Can you make me a new one?
+GID00093861	I found a holotape to upgrade you. <REMOVE>
+GID00093862	I found a holotape to upgrade you.
+GID00093863	Guess I better get walking, then.
+GID00093864	Doesn't sound like my style. Maybe I'll do a little exploring.
+GID00093865	Then can you help me get this done as quickly as possible? Sounds like a lot of walking.
+GID00093866	Pylons? What pylons?
+GID00093867	Uh... great. I don't want to hear anymore about that.
+GID00093868	Can you please hurry? I've got a schedule.
+GID00093869	Forget this. Where's the exit?
+GID00093870	The faster I can get through this, the better.
+GID00093871	Trust me, I want to get this over with as quickly as possible.
+GID00093872	What if I take my time, explore the crater?
+GID00093873	Can you tell me more about these pylons?
+GID00093874	This whole place sounds dangerous. These devices sound dangerous.
+GID00093875	Is that better?
+GID00093876	Uh... thanks.
+GID00093877	I'll save it for later.
+GID00093878	I don't know, I'm tripping pretty hard right now.
+GID00093879	I'll save it, don't want to mix it with alcohol if I can help it.
+GID00093880	What minions?
+GID00093881	I'll trash them like I did your giant piece of junk downstairs.
+GID00093882	Whichever way you want to be killed is fine with me.
+GID00093883	You aren't exactly what I was expecting.
+GID00093884	Exactly. I want my brain so I can leave.
+GID00093885	Why is that a problem?
+GID00093886	But I want to leave.
+GID00093887	Can you tell me about your Robo-Scorpions?
+GID00093888	You don't seem aggressive. Why broadcast threats to the Think Tank?
+GID00093890	Hi there, puppy.
+GID00093891	Come with me, girl.
+GID00093892	Why the hell are you just standing there?
+GID00093893	So move.
+GID00093894	I made you. You stick with me. Got it?
+GID00093895	What are you doing, dog?
+GID00093896	Go wait somewhere else.
+GID00093897	Okay. Heel.
+GID00093898	Goodbye.
+GID00093900	I found a backup file for your corroded module.
+GID00093901	I want to recalibrate the Sonic Emitter.
+GID00093910	I think you mean "impossible."
+GID00093911	I wanted to talk to you.
+GID00093912	What, my Pip-Boy?
+GID00093913	Some problem with RobCo?
+GID00093914	Agenda? I don't have any agenda, not with RobCo, anyway.
+GID00093915	Calm down. Just wanted to ask some questions.
+GID00093916	What do you do here?
+GID00093917	Do you have another name?
+GID00093918	Tell me about Mobius and these monsters of his.
+GID00093919	Can you tell me about this facility?
+GID00093920	A Giant Robot Scorpion?
+GID00093921	I found a backup copy of your... pencil processor.
+GID00093922	I found a soundwave file for you.
+GID00093924	You said something about needing technologies to stop Mobius?
+GID00093925	First, you scoop out my brain, now you want me to save you?!
+GID00093926	No, I'm not going to help you.
+GID00093927	Why me? Can't you do it?
+GID00093928	I'll help. What do you need me to do?
+GID00093929	"No?" Why not?
+GID00093930	Forget this, I'm not going to help you.
+GID00093931	I can say "no," and I'll do it again. I'm leaving.
+GID00093932	What makes you so sure Mobius has my brain?
+GID00093933	How the hell am I even talking to you right now?
+GID00093934	That does it, forget this. I'm not helping you until I get my brain back.
+GID00093935	What are these technologies?
+GID00093936	I'll head out, then, and be back with these... things.
+GID00093937	I had other questions.
+GID00093938	That doesn't sound impressive - breaking machines, that is.
+GID00093939	Tell me what happened.
+GID00093940	Who were the others?
+GID00093941	Why is that?
+GID00093942	Animal? Did you just call me an animal?
+GID00093943	Do you always get this dramatic?
+GID00093944	Calm down. I just had some questions.
+GID00093945	You are responsible for Cazadores?
+GID00093946	Nightstalkers? Those crazy coyote-snake... things?
+GID00093947	Contained at Big Mountain? Those things are all over the Mojave!
+GID00093948	What makes you think they haven't escaped?
+GID00093949	I don't think they're sterile, they breed, all right.
+GID00093950	I had other questions.
+GID00093951	No, that's all right, trust me.
+GID00093952	Go ahead, you might make me more fertile or impregnate me.
+GID00093953	How are you all speaking through that one voice box?
+GID00093954	I... was at a theater, then... I was here. What is this place?
+GID00093955	Are you the ones who performed this surgery on me?
+GID00093956	What are you talking about?
+GID00093957	I wake up here, all cut apart, and I want some answers.
+GID00093958	Lobotomite?
+GID00093959	Yes. I'm guessing that crashed satellite was yours?
+GID00093960	Who are you all, and what is this place?
+GID00093961	Why do I feel... passive? I should be angry - real angry, and I'm not.
+GID00093962	Who is Dr. Mobius?
+GID00093963	Why do I have this strange... passive sensation in here?
+GID00093964	What is this place?
+GID00093965	I'd like to know about the Forbidden Zone.
+GID00093966	Why the anti-aggression programming?
+GID00093967	But I like to fight.
+GID00093968	Who were these visitors?
+GID00093969	I've heard this place called the "Big Empty."
+GID00093971	Talking about things bothering you, well, might help or something.
+GID00093972	Are you sure? I'm a good listener. Got the ears for it.
+GID00093973	I don't get it. What, they thought your letter was a number?
+GID00093974	If they kept confusing the letter with a number, your name is Dr. 0... Dr. Zero?
+GID00093975	I don't know. "O" sounds more impressive.
+GID00093976	That's... not much of an improvement.
+GID00093977	All right, so you want me to call you Zero, or...?
+GID00093978	Well, Zero and "O" do look a lot alike, there's no way to tell a difference.
+GID00093979	If you wanted to differentiate the "0" and "O," just put a slash through the zero.
+GID00093980	"Zero." Draw a slash through it.
+GID00093981	It's standard termlink code to distinguish the two.
+GID00093982	Are you seriously confused by this, or are you messing with me?
+GID00093983	And that's what makes you truly a zero.
+GID00093984	So is that what you want to be?
+GID00093985	Or you may want to stick with "O." As in, the "Oh!" of discovery.
+GID00093986	Well, there's power in zero. It reduces anything multiplied against it - to zero.
+GID00093987	Maybe you should dispense with the names and focus on the accomplishments.
+GID00093988	I have no idea how you incompetents survived this long.
+GID00093989	Well, there's power in zero. It reduces anything multiplied against it - to zero.
+GID00093991	It looks like junk.
+GID00093992	This scrap metal is supposed to be something?
+GID00093993	It certainly is... interesting. Whatever it once was.
+GID00093994	What did you and Klein say before about the Central Intelligence Unit barter functions?
+GID00093995	I'm going to need something to debug the Central Intelligence barter routines.
+GID00093996	I need more of those worthless caps to test the CIU barter functions upstairs.
+GID00093997	Well, you don't need to worry about Mr. House anymore.
+GID00093998	I don't think I'll worry you by telling you what House and his robots have been up to since.
+GID00093999	Heh-heh, nice pun on the header file ref.
+GID00094000	Well, the code's got some problems, I'm not arguing that.
+GID00094001	Uh... I just realized I'm understanding you.
+GID00094002	Well, all life is patterns, you just got to let the unconscious process them.
+GID00094003	Not to brag, but I was always more perceptive than everyone else.
+GID00094004	So your broadcast pattern is RobCo termlink, but not by choice.
+GID00094005	No, no, I understand it's hard to learn a new language.
+GID00094006	I agree. If someone would take the time, you're more than just sound effects in a tank.
+GID00094007	Um, about when I first arrived. Tell me you didn't sonjaculate into the... my... Sonic Emitter.
+GID00094008	How did you fire up the Sonic Emitter when I arrived again?
+GID00094009	Well, there had to be some other way to fire it up. Can we at least talk it over next time?
+GID00094010	Nothing to be embarrassed about, it's just that it's best to keep that stuff private, you know?
+GID00094011	I usually just take a fusion cell and oscillate its charge, vibrates for like, an hour.
+GID00094012	Usually, I can find some Cram lying around. Put some duct tape around the lid, good to go.
+GID00094013	The less said about it, the better. Let's move on and forget about it.
+GID00094014	If that's termlink code, don't worry, I'm not going to take advantage of your exposed code.
+GID00094015	It'll only take a second to violate your rights and make your voice mine.
+GID00094016	Not a problem. I know what it's like to be experimented on.
+GID00094017	All right, all right, quit your grinning, you idiot.
+GID00094018	Look, don't make me regret this.
+GID00094019	All right. Let's see what you have. I'll take these Energy Cells...
+GID00094020	And some Microfusion Cells...
+GID00094021	Now, unlock your room, I want what's in there.
+GID00094022	And lastly, if I ever need you to blindly agree with me, you will. Understood?
+GID00094023	I know it won't work on attack protocols. Still, I may need someone on my side in a debate.
+GID00094024	You don't really have a choice. And thanks for the gear.
+GID00094025	I didn't catch that. Maybe part of the damage?
+GID00094026	Not... sure. What you meant.
+GID00094027	This is a waste of time, forget it.
+GID00094028	So one of the visitors didn't damage it - he reprogrammed it.
+GID00094029	And that took control of the trains? Before you all shut it down.
+GID00094030	No wonder you're all skittish.
+GID00094031	Like, uh, I would ever hurt you.
+GID00094032	I know what it means to be attacked without warning, trust me, 8.
+GID00094033	Now that we know each other better, can you tell me about the Sonic Emitter?
+GID00094034	Really? Huh.
+GID00094035	All right, all right. Don't get all sympathetic and mushy.
+GID00094036	Fine, fine. Can we move on?
+GID00094037	Um... all right.
+GID00094038	You didn't sound too convinced there.
+GID00094039	Yeah, I understood that part already.
+GID00094040	Well "projecto" is kind of evident. "Emitter" works better.
+GID00094041	Higgs' Village? Can you point it out on my Pip-Boy?
+GID00094042	No, I've been there. Higgs Village, right? Your house is there?
+GID00094043	That sounds interesting. Sure, directions would be nice.
+GID00094044	Well, I didn't rob your place, but it's this big hangar in the middle of the Crater, so...
+GID00094045	So your house is there?
+GID00094046	Well, what - you want me to rob your place?
+GID00094047	So there's an emitter code in your house in Higgs?
+GID00094048	Oh, two codes. One for the jukebox, and one for the opera. Nice. I'll keep an eye out.
+GID00094049	You know... sonjaculate.
+GID00094050	Wait, how many? One... or...?
+GID00094051	Fan of the opera, huh? All right - the jukebox is installed in the Sink, got it.
+GID00094052	No, I got it all down, thanks.
+GID00094053	I may have already picked up both, I grab almost anything that's not nailed down.
+GID00094054	I got the Emitter fully upgraded.
+GID00094055	I'm happy, too. Can't let this thing gather dust.
+GID00094056	It's a little slow to fire, but the force field disabling frequency is handy.
+GID00094057	Too bad the force field disruption only works here.
+GID00094058	Are you okay? You look... really happy.
+GID00094059	You're kind of creeping me out.
+GID00094060	Something wrong? Your monitors are getting all fuzzy.
+GID00094061	You should be proud. It's a nice device.
+GID00094062	All right, all right, don't get too pleased to see it working at full capacity.
+GID00094063	Please don't make me spell it out.
+GID00094064	Oh... hey, thanks. Don't want it to run out, you're right.
+GID00094065	Great. More energy cells. Just what I need.
+GID00094066	I mean, literally, got anything to help pass the time?
+GID00094067	Um... maybe it's like a memory or something?
+GID00094068	Sounds like Gabe really loved you.
+GID00094069	Well, it seems to me it belongs to a friend of yours.
+GID00094071	It sounds to me like you hurt someone who loved you very much.
+GID00094072	It's nothing to be ashamed of. Gabe knew his place - as a specimen.
+GID00094073	Hope you think on what you've done.
+GID00094074	<Close eyelids, breathe deeply, then stretch languidly.>
+GID00094075	<Turn and cough roughly, then slowly scratch nose.>
+GID00094076	<Run your hands along the sides of your face, then exhale rapidly.>
+GID00094077	Why don't you just give in? There's nothing wrong with looking at the human body.
+GID00094078	You all are a bunch of hypocrites. Claiming superiority, but you miss being human, admit it.
+GID00094079	I could come back any time and just breathe, if you want.
+GID00094080	I'll tell the others if you don't make it worth my while.
+GID00094081	I'm actually here for a... breather.
+GID00094082	A looping gesture of extortion, maybe. Hand over the goods.
+GID00094083	Well, I thought you liked them. You keep referring to them.
+GID00094084	Are you sure your words aren't jumbled?
+GID00094085	You are totally confusing me right now.
+GID00094086	Um... so you confuse toy bears with... humans?
+GID00094087	Oh, I get it - you like "playing" with humans, do you? Watching them move? Blink?
+GID00094088	You know, we've been down this road already. Moving on.
+GID00094089	Mugs? Why do you want mugs?
+GID00094090	Who are you?
+GID00094091	You seem really obsessed with mugs.
+GID00094092	What do you do with the mugs?
+GID00094093	Let's change the subject.
+GID00094094	Can you do anything else?
+GID00094095	I'm ready, let's do it.
+GID00094096	I'm feeling a little unwell in the head. Can you perform a psychiatric evaluation on me?
+GID00094097	On second thought, not now.
+GID00094098	So you make blank books? What's the point of that?
+GID00094099	But those books are our last legacy of the time before! You can't destroy them!
+GID00094100	Blank books, huh? Yeah, I think I can find a use for those.
+GID00094101	I had some other questions.
+GID00094102	Can you do anything besides processing books?
+GID00094103	I'd enjoy that.
+GID00094104	Why wait? I can talk about theorems right now.
+GID00094105	Maybe. I'll let you know.
+GID00094106	Only the sexy ones.
+GID00094107	Never. I'm all yours, baby.
+GID00094108	You're right. I do.
+GID00094109	"Sir?" You are aware that I'm a woman, right?
+GID00094110	Are you some kind of Artificial Intelligence?
+GID00094111	What services do you provide?
+GID00094112	Why are there so many personality modules?
+GID00094113	You mean there are other... personality modules here?
+GID00094114	Why is that?
+GID00094115	So I can access their functions without loading the personality holotapes?
+GID00094116	Never mind, let me ask you something else.
+GID00094117	I'd like to buy some things.
+GID00094118	Switch on the Sink's personality matrices.
+GID00094119	Switch off the Sink's personality matrices.
+GID00094120	I have some personality holotapes to install.
+GID00094121	I don't need anything else. Goodbye.
+GID00094122	Tremble? You're a toaster. How fearsome can you be?
+GID00094123	I'm almost afraid to ask what your function is.
+GID00094124	Well, I for one am quaking in my boots.
+GID00094125	Why all the rage?
+GID00094126	I'd like to change the subject.
+GID00094127	So you murder toasters?
+GID00094128	What else do you do?
+GID00094129	About that Superheated Saturnite Power Fist...
+GID00094130	You mean like this one?
+GID00094131	I'll keep an eye out for any Saturnite Power Fists then.
+GID00094132	You know the world already burned in nuclear fire, right?
+GID00094133	Give it up. I have more important things to ask you about.
+GID00094134	Yes. A couple centuries ago, in fact.
+GID00094135	<Lie> No, I'm just kidding. Keep living the dream.
+GID00094136	But I hurt all over!
+GID00094137	That doesn't explain the laser-sutures on my chest... and on my spine.
+GID00094138	Why am I all cut up? I feel like some kid was playing with my insides.
+GID00094139	How much surgery did you do on me? I feel like a badly-put-together jigsaw puzzle.
+GID00094140	You removed my brain?
+GID00094141	Lobtomizing? You lobotomized me?
+GID00094142	Is that why I feel so odd - and heavy?
+GID00094143	He... er, I, offer a DEAL. Stay HERE. Stay PUT, and he'll... I'll let you LIVE.
+GID00094144	If you don't tell me what I need to find, I can't help you, all right?
+GID00094146	Um... before I go "reclaim" this tech, are you sure your plan will work?
+GID00094147	What exactly is the plan? You're losing me in the generalities, I need specifics.
+GID00094148	Did you say "barter?"
+GID00094149	I can trade with the Sink Intelligence? Then I'll need something to activate that function, won't I?
+GID00094150	I have some questions for you first.
+GID00094151	You said... "surge" code? You mean like computer stuff in the Doc?
+GID00094152	What's this Auto-Doc surgery code you mentioned?
+GID00094153	So the Comp-Doc does... what Mobius would do if he was here, chopping me up?
+GID00094154	Mobius set up the Auto-Doc medical routines, so you think he's responsible for the post-organ-dump?
+GID00094155	My brain would know?
+GID00094156	What do you mean?
+GID00094157	Come on. Brains can't talk... well, most brains.
+GID00094158	Wait... the metal scorpions can sting you stupid?
+GID00094159	These mechanical Robo-Scorpions "consume" intelligence? Are you certain of your findings?
+GID00094160	I don't understand how poisons can dumbify you.
+GID00094161	Robo-Scorpions drain intelligence from living creatures - how? Chems?
+GID00094162	Sounds to me like your math is wrong - and the odds aren't good.
+GID00094163	It's not a democracy, it's a research facility. And over half your colleagues dispute your findings.
+GID00094164	I do. Here's the deal. I'm not going to surrender - you are.
+GID00094165	Maybe you should confer with your colleagues first.
+GID00094166	I will PERMIT you to do this. For ME.
+GID00094167	You took out my brain, heart, and spine?
+GID00094168	If you ripped out my brain, where the hell is it?
+GID00094169	You extracted my brain... but what do you mean, "misplaced" it?
+GID00094170	Um... excuse me, do you have any more?
+GID00094171	This amount clearly represents a deficiency in the amount of caps needed.
+GID00094172	Still feels a little light. Might need a little more.
+GID00094173	I'd hate to come back and ask for more. A little extra would guarantee you're not disturbed.
+GID00094174	The ton of things sounds good.
+GID00094175	Hold on, let's be logical about this. I don't need a ton, just as much as I can carry in trade.
+GID00094176	So if I don't get my brain back in my head, I can't leave, ever?
+GID00094177	Fine, you've got a deal.
+GID00094182	You're Doctor O, correct?
+GID00094183	Uh... what was that?
+GID00094184	Can you speak? Do you understand me?
+GID00094185	I have no idea what you're saying right now.
+GID00094186	Did something happen with your voice module?
+GID00094187	Blasting me with static-y clicks isn't helpful.
+GID00094188	That... uh... is too bad. Or good. Or something.
+GID00094189	Can I ask you some questions?
+GID00094190	Do you know anything about Dr. Mobius or the Forbidden Zone?
+GID00094191	Is... that a yes? Or a no? Or... a yes-no?
+GID00094192	You better not be cussing me out right now.
+GID00094193	I'm pretty sure you can understand me, and I want some answers.
+GID00094194	Can you tell me about these technologies Klein wants?
+GID00094195	Tell me about the Big Empty.
+GID00094196	Tell me about the Big Empty... uh, Big Mountain, that is.
+GID00094197	All right, all right... just calm down. Didn't mean to alarm you.
+GID00094198	You're going to pop a monitor shaft if you keep that up.
+GID00094199	I got it already, those two names give you nightmares.
+GID00094200	You sound a little down.
+GID00094201	Are you all right? Kind of ran out of steam in the middle there.
+GID00094202	If you just said, "this place seems like a scientific loony bin," I agree.
+GID00094203	No need to get indignant, was just asking a question.
+GID00094204	Whoa, easy there... whatever you are. Brain. Jar. Thing.
+GID00094205	Would you rather I called it the Big Shithole?
+GID00094206	You sound agitated. Or you're percolating. Or something.
+GID00094207	I swear your brain... tank... thing just sparked.
+GID00094208	Knew asking you would be useless.
+GID00094209	Um... good to meet you... uh... double... circle... a... dash... whoever.
+GID00094210	Sounds important. I think.
+GID00094211	Maybe I should have asked who you used to be.
+GID00094212	I have no idea what you just said. Moreso than usual.
+GID00094213	Like I said, technical. Very technical.
+GID00094214	Forget I brought it up. Until I bring it up again.
+GID00094215	Um... yes, definitely a pattern.
+GID00094216	We'll just move on, I need time to figure this out.
+GID00094217	You really make me want to kick that voice box of yours.
+GID00094218	I'm just full of surprises.
+GID00094219	Well, I've hacked enough RobCo terminals to know.
+GID00094220	Can't get away from their code, even with voice modules, huh?
+GID00094221	Well, I just heard the rhythm in the sequence is all.
+GID00094222	I have an ear for it, I suppose.
+GID00094223	I know, I probably should put it to use counting cards.
+GID00094224	Trust me, I'll get the technologies, all right?
+GID00094225	No, haven't dealt with Mobius yet.
+GID00094226	I'll talk to Klein in a second, quit pressuring me.
+GID00094227	You're welcome, 8. It was my pleasure.
+GID00094228	Enough. I had questions.
+GID00094229	The quick Scribe jumped over the lazy Paladin?
+GID00094230	"Looping gesture of greeting?"
+GID00094231	What recursive behavior patterns are you talking about?
+GID00094232	Can you tell me about Dr. Mobius?
+GID00094233	Not exactly. I have questions I need answers to.
+GID00094234	Not right now. I have questions instead.
+GID00094235	What's "formography?"
+GID00094236	211 doctorates? How is that even possible?
+GID00094237	"First head chief researcher?" Lot of titles.
+GID00094238	I don't understand how the tech Klein wants will help.
+GID00094239	Can you tell me about the Big Empty?
+GID00094240	Can you tell me about the Big Empty... uh, Big Mountain?
+GID00094241	Previous test subjects?
+GID00094242	This used to be a mountain?
+GID00094243	Questions? Like what?
+GID00094244	I'm sometimes called a "Courier."
+GID00094245	There was another Courier?
+GID00094246	I had other questions.
+GID00094247	What was the question?
+GID00094248	What happened with the visitors?
+GID00094249	I'd like to engage your services.
+GID00094250	Can you do anything beyond healing me?
+GID00094251	I command you to open your port and receive my seed!
+GID00094252	What does that mean?
+GID00094253	Tell me again about what you do.
+GID00094254	So if I bring you samples of dried plant life, you can clone them and grow them in these planters?
+GID00094255	What's Salient Green?
+GID00094256	Eradicate sedition?
+GID00094257	You seem kind of worried about dirt. What's wrong?
+GID00094258	I'd just like a drink, thanks.
+GID00094259	I just came over to fill some of these empty bottles.
+GID00094293	I'm not handing my brain over... there's some things we should discuss.
+GID00094294	I think you're past due for your lobotomy, Klein.
+GID00094316	I found a holotape to upgrade you.
+GID00094337	Got anything for me? Let's see.
+GID00094338	Um... got anything to help me "pass" the "time?"
+GID00094339	It's me again. I wanted to ask some questions.
+GID00094340	I wanted to ask you some @@[?-*##*-?]@@? questions.
+GID00094341	Not to cut your speech off - is there something coming in on the big monitor?
+GID00094342	I don't give a shit what you have to say. Tell me why you hauled me here. Now.
+GID00094343	I think I'm going to kill you after all.
+GID00094344	Enough. I'm here to kill you.
+GID00094345	Got to go.
+GID00094346	I don't need anything right now.
+GID00094347	I have to go now.
+GID00094348	Nothing right now. Goodbye.
+GID00094349	I'll talk to you later.
+GID00094350	I have to go. We'll talk later.
+GID00094351	I have to go now.
+GID00094352	I have to go now.
+GID00094353	This is too weird. I'll be back later.
+GID00094354	Goodbye.
+GID00094355	That's all for now. Goodbye.
+GID00094356	Time for me to go. Goodbye.
+GID00094357	We've spoken enough.
+GID00094358	Never mind, we've spoken enough.
+GID00094359	I'll be going now.
+GID00094360	I think we've spoken long enough.

@@ -1,0 +1,36 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc04_quest_objective_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00097096	Travel to the Canyon Wreckage near Primm and enter the Divide.
+GID00097097	Find the Laser Detonator.
+GID00097098	Escape the Tunnelers' cave and reach the High Road.
+GID00097099	Make your way through the Lonesome Road to the collapsed overpass tunnel.
+GID00097100	Use the Laser Detonator on the warhead.
+GID00097101	Traverse the Divide.
+GID00097102	Make your way to the roof of the collapsed office building and reach the Divide.
+GID00097103	Use the caves to bypass the collapsed building.
+GID00097104	Travel to Ulysses' Temple.
+GID00097105	Activate the Ashton Missile Silo lift and head for the Divide.
+GID00097106	Survive the elevator ride to Ashton Missile Silo.
+GID00097107	Get through the Cave of the Abaddon and continue to the Temple.
+GID00097108	Cancel the missile launch.
+GID00097109	Run for the Canyon Wreckage.
+GID00097110	Optional: Deliver Ulysses' last message.
+GID00097111	Deal with Ulysses.
+GID00097112	Track down Ulysses in his Temple.
+GID00097113	Optional: Rescue ED-E.
+GID00097114	Optional: Disable Ulysses' Eyebots.
+GID00097115	Fight off the Marked Men.
+GID00097116	Navigate Hopeville Missile Silo to reach the Lonesome Road.
+GID00097117	Find something to break the encryption on the blast door terminal.
+GID00097118	Use ED-E to break the encryption on the blast door terminal.
+GID00097119	Use ED-E to unlock the mainframe.
+GID00097120	Find the security codes for the missile silo network.
+GID00097121	Optional: Have ED-E access the Commissary for you.
+GID00097122	Turn the silo's power back on.
+GID00097123	Activate the mainframe to unlock the silo's exterior doors.
+GID00097124	Activate the console to gain access to Ashton Missile Silo.
+GID00097125	Reach Ashton Silo Control Station at the end of the High Road.
+GID00097126	Run for the Canyon Wreckage.
+GID00097127	Optional: Deliver Ulysses' last message.

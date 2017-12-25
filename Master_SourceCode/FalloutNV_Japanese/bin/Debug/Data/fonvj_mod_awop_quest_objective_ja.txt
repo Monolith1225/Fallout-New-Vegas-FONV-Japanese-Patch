@@ -1,0 +1,48 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_awop_quest_objective_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00103415	3匹の巨大なゲッコーを探して殺す
+GID00103416	フランキーの下に戻る
+GID00103417	Berthaを探して殺す
+GID00103418	フランキーに報告し、鍵をもらう
+GID00103419	Undergroundに入る
+GID00103420	かなり大きい化物を何匹も殺しました。おそらく、あなたは自分の功績を自慢しなければならないのでは?
+GID00103421	あなたの冒険は世界に点在しており、誰かがあなたに与えるものを持っています。
+GID00103422	Smokeyを狩る
+GID00103423	Labalを狩る
+GID00103424	Firetoothを狩る
+GID00103425	Undergroundの居住者に尋ねて回り、スパイを見つけ出す
+GID00103426	Hoff大佐に報告しに行く
+GID00103427	チームを組み立てて、準備が出来たら Iapicca 伍長と話す。
+GID00103428	テック・レイダーの司令官を全員殺して軍司令部を取り戻す。
+GID00103429	司令官と彼のオフィサーは全員死んだ。Iapicca伍長に報告しに行く。
+GID00103430	あなたはUnderground東部を取り戻した。Undergroundの市民たちはあなたに報酬を用意している。
+GID00103431	名前の書いたツールキットを見つけました ― Riazanov。それは後で役に立つかもしれません。
+GID00103432	Riazanovのツールキットを探す
+GID00103433	ツールキットをRiazanovに返す
+GID00103434	The Immortalの小屋を探す
+GID00103435	Roachの失われた音楽ディスクを探す
+GID00103436	「Pulse」を探す
+GID00103437	「A Question Of Time」を探す
+GID00103438	「Do What We Do」を探す
+GID00103439	Roachの下に戻る
+GID00103440	Roachのなくした音楽ディスクを探す
+GID00103441	「Recharger」を探す
+GID00103442	「Substance C」を探す
+GID00103443	「More Noize」を探す
+GID00103444	Roachの下に戻る
+GID00103445	Roachのなくした音楽ディスクを探す
+GID00103446	「Bring The Pain」を探す
+GID00103447	「Them」を探す
+GID00103448	「Far From You」を探す
+GID00103449	Roachの下に戻る
+GID00103450	Blazeを探し出して殺す
+GID00103451	McMillan軍曹の下に戻る
+GID00103452	あなたの行為はあなたに新しい報酬をもたらしたようだ ― 報酬を回収する
+GID00103453	Underground西部にいる敵のボスを一掃する
+GID00103454	Megalurkを殺す
+GID00103455	Beckettを殺す
+GID00103456	Gregorを殺す
+GID00103457	Lockjawを殺す
+GID00103458	McMillan軍曹の下に戻る

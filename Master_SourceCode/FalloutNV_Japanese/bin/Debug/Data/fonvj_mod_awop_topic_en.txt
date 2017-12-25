@@ -1,0 +1,504 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_awop_topic_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00103655	I think I already found a box with your name on it..., Riazanov right?
+GID00103656	I'm hurt. I need help, Doc.
+GID00103657	I think I might be addicted to something.
+GID00103658	I think I found your box
+GID00103659	Nevermind, I have to go.
+GID00103660	Hey, who are you?
+GID00103661	Nevermind, I have to go.
+GID00103662	Anything I can do to help?
+GID00103663	Nevermind, I have to go.
+GID00103664	Who are you?
+GID00103665	Nevermind, I have to go.
+GID00103666	Have you got any free rooms down here?
+GID00103667	Can you repair some of my gear?
+GID00103668	I found Baxter in the sewer. He'd turned feral so I killed him.
+GID00103669	Any ideas where I should search for Baxter?
+GID00103670	Is there anything I can do to help you?
+GID00103671	Any info you can share with me?
+GID00103672	Is there anything else I can do to help?
+GID00103673	Frost is dead.
+GID00103674	I'm just an explorer.
+GID00103675	What can I do to help?
+GID00103676	I can't help you, this is not my battle.
+GID00103677	I'll get him.
+GID00103678	I am here to assist you.
+GID00103679	What's going on here?
+GID00103680	What happens now?
+GID00103681	Nevermind, I have to go...
+GID00103682	Those are some unique looking ingredients you have there. Any tips?
+GID00103683	Those are some unique looking ingredients you have there. Any tips?
+GID00103684	I don't like the look of this food. Got anything better?
+GID00103685	I'm just a courier.
+GID00103686	You're a drug dealer?
+GID00103687	I'm an explorer seeking adventure.
+GID00103688	How can I help you?
+GID00103689	I can't help you, it's not my fight.
+GID00103691	On behalf of Ceasar prepare to die.
+GID00103692	Why should I help you?
+GID00103693	Nope, I think I'm just going to kill you and take the key.
+GID00103694	OK, I'll help.
+GID00103695	What happened here?
+GID00103697	Actually I just came here to see if you had any jobs for me to do?
+GID00103698	Tell me more about Baculus.
+GID00103699	Armed Guards? Basement meetings? I'd like to know what's going on here...
+GID00103700	I came to find you. I hear you are a legend around here.
+GID00103701	I go where I please.
+GID00103702	I go where I please.
+GID00103703	I'm used to going wherever I please.
+GID00103704	Nope, this is not my fight.
+GID00103705	Nope, this is not my fight.
+GID00103706	Yeah, I'll help out.
+GID00103707	You can see me as an impartial observer for now.
+GID00103708	You can see me as an impartial observer for now.
+GID00103709	You can see me as an impartial observer for now.
+GID00103710	Why not just kill Baculus?
+GID00103711	Baculus is dead.
+GID00103712	I found Baculus's Psycho stash.
+GID00103713	What are you going to do now?
+GID00103714	Nevermind I have to go...
+GID00103715	I know you're an alien from another dimension.
+GID00103716	Nevermind, I have to go...
+GID00103717	I found a shack with lots of info about you on it.
+GID00103718	Sure, I'll keep my mouth shut if you give me something good.
+GID00103719	Hello, is your name Mlix?
+GID00103720	OK sure, I'll keep your secret.
+GID00103721	Wanna join up with me?
+GID00103722	I'll take the 12.7mm Ammo please.
+GID00103723	I'll take the 12 Gauge Shotgun Ammo please.
+GID00103724	I'll take the .308 Ammo please.
+GID00103725	I'll take the 5.56mm Ammo please.
+GID00103726	Tell me again what I should look out for.
+GID00103727	I'll take the Grenade Box please.
+GID00103728	Where did you get all this ammo from?
+GID00103729	I have some Ghoul ears for you.
+GID00103730	Any jobs I can do for you?
+GID00103731	OK, I'll see what I can do.
+GID00103732	I found this note explaining what happened in the Shipping Tunnels.
+GID00103733	I think I'll have the drugs.
+GID00103734	I'll go for the food thanks.
+GID00103735	I'll take the Tri-Beam.
+GID00103736	Let me see what you have for sale...
+GID00103737	What's your story?
+GID00103738	Nevermind, I have to go...
+GID00103739	I notice you are using a modified lightwieght chassis on your Sentry Bots.
+GID00103740	I notice you are using a modified lightwieght chassis on your Sentry Bots.
+GID00103741	How are your Sentry Bots better than those in the Wastes?
+GID00103742	You seem to be turning blue if you don't mind me saying.
+GID00103743	You must have been to a lot of places. Can you give me any info on the locations in the area?
+GID00103744	Any more locations nearby?
+GID00103745	Any more locations nearby?
+GID00103746	Any more locations nearby?
+GID00103747	Any more locations nearby?
+GID00103748	Any more locations nearby?
+GID00103750	Any more locations nearby?
+GID00103751	Can you tell me about some more locations yet?
+GID00103752	He sounds like a terrible boss.
+GID00103753	Show me what you've got.
+GID00103754	Tell me about your bunker.
+GID00103755	You're both dog lovers?
+GID00103756	Tell me about Marshal
+GID00103757	It sounds like you have a problem with authority. Maybe I should tell Baculus.
+GID00103758	It sounds like you have a problem with authority. Maybe I should tell Baculus.
+GID00103759	It sounds like you have a problem with authority. Maybe I should tell your boss.
+GID00103760	Who's in charge around here?
+GID00103761	Nevermind, I have to go...
+GID00103762	Can I see what you have for sale?
+GID00103763	I don't mean you any harm. I just want the keys to the Vault and some info.
+GID00103764	What's with all the locked doors?
+GID00103765	I'm an courier, I arrived through the teleporter.
+GID00103766	None of your business, I'm the one asking questions here.
+GID00103767	I arrived through the teleport over there.
+GID00103768	Can you tell me anything about Mr House?
+GID00103769	House is dead. I don't think you have anything to fear from him anymore.
+GID00103770	No, I don't work for House.
+GID00103771	No.
+GID00103772	Yeah that's right, I work for Mr House and I want some answers.
+GID00103773	I'm sorry about your mother.
+GID00103774	Sure, I won't mention this place to anyone.
+GID00103775	Nah, only joking, I'm not a threat.
+GID00103776	Hey, I was only joking earlier, honest. Take it easy.
+GID00103777	I need some more info.
+GID00103778	I can't promise anything.
+GID00103779	I'm not a threat if that's what you are worried about.
+GID00103780	How about joining up with me? Getting out of this place for a while?
+GID00103781	I think I have all the stuff you wanted.
+GID00103782	Is there anything I can do to help you out?
+GID00103783	Can you repair some of my stuff?
+GID00103784	Tell me about yourself.
+GID00103785	Give me everything of value right now and I'll consider letting you live.
+GID00103786	Do I look like I'm fucking joking?
+GID00103787	Do I look like I'm fucking joking?
+GID00103788	Give me everything now or i'll get very angry.
+GID00103789	You're holding out on me, give me everything or you die.
+GID00103790	You're holding out on me, give me everything or you die.
+GID00103791	Tell me more about your Vault.
+GID00103792	Where are we?
+GID00103793	Who are you?
+GID00103794	Nevermind, I have to go...
+GID00103795	Any chance of a freebie since I did such a great job fighting the Tech Raiders?
+GID00103796	Any chance of a freebie since I did such a great job fighting the Tech Raiders?
+GID00103797	Since the Tech Raiders are all dead now I guess it's gonna be quiet around here...
+GID00103798	Hey there.
+GID00103799	<Allow Mlix to continue>
+GID00103800	No thanks, I think you'll be safer back here.
+GID00103801	OK, you can stick with me.
+GID00103802	OK, you can stick with me, and I already found your shack remember.
+GID00103803	OK, you can stick with me, and I already found your shack.
+GID00103804	Right, OK, you're an Alien. If you say so, but how does that help me?
+GID00103805	That's enough questions for now.
+GID00103806	Can I ask you some questions?
+GID00103807	Why should I bring you along?
+GID00103808	Tell me more about your background.
+GID00103809	So how did you end up here in Vegas?
+GID00103810	You said we, there are others like you?
+GID00103811	Where is this shack located?
+GID00103812	Can you show me the location of your shack on my Pipboy?
+GID00103813	No, sorry, I just can't deal with another companion right now.
+GID00103814	Chill out here for a while.
+GID00103815	Can you repair some things for me?
+GID00103816	I think I have your discs.
+GID00103817	I think I have your discs already.
+GID00103818	Want me to find any more discs?
+GID00103819	Of course, just point me in the right direction.
+GID00103820	I've got the last three discs.
+GID00103821	What's your story?
+GID00103823	Is there anything you can spare to help me out?
+GID00103824	Any more info you can share with me?
+GID00103825	Do you have any other info you can share with me?
+GID00103826	Anything else you can tell me?
+GID00103827	So how did a lone Sergeant get assigned here?
+GID00103828	Do you know anything about The Underground?
+GID00103829	Nevermind, I have to go...
+GID00103830	Show me your inventory...
+GID00103831	Follow Me.
+GID00103832	Follow me but keep your distance.
+GID00103833	Here, use this stimpak.
+GID00103834	Guard this area.
+GID00103835	Wait right here.
+GID00103836	What now?
+GID00103837	Hey, are you OK?
+GID00103838	Here, take this Doctors Bag.
+GID00103839	Here, take this Hydra.
+GID00103841	Those are NCR markings, on behalf of Caesar I will put you out of your misery.
+GID00103842	Tell me more about this place.
+GID00103843	Wanna team up and get some payback?
+GID00103844	Sorry, I don't have the supplies to spare...
+GID00103845	Tell me about your squad.
+GID00103846	What happened to to you?
+GID00103847	Nevermind, I have to go.
+GID00103848	What's your story?
+GID00103849	Can I lead a team to assault the Tech Raiders?
+GID00103850	Can I lead a team to assault the Tech Raiders?
+GID00103851	Can I lead a team to assault the Tech Raiders?
+GID00103852	Can I lead a team to assault the Tech Raiders?
+GID00103853	Can you tell me more about the enemies in the Underground?
+GID00103854	Tell me about the Legion.
+GID00103855	Tell me about the Nightstalkers.
+GID00103856	Tell me about the Robots.
+GID00103857	Tell me about the Tech Raiders
+GID00103858	Could you spare Masseling? I know he's itching for revenge.
+GID00103859	Masseling may be the stongest weapon in your arsenal - we may need him to succed.
+GID00103861	Do you have anyone spare with Energy Weapon experience?
+GID00103862	I don't see many Enegy Weapons about. That could be a tactical flaw.
+GID00103863	I have killed all the Tech Raiders.
+GID00103864	We have beaten the Tech Raiders.
+GID00103865	Do you have any work for me?
+GID00103866	Nevermind, I have to go...
+GID00103867	What's your story?
+GID00103868	Cobb says we are good to go to attack the Tech Raiders.
+GID00103869	Are you up for a Tech Raider assualt?
+GID00103870	Are you up for a Tech Raider Assault?
+GID00103871	Let me see your inventory...
+GID00103872	What now?
+GID00103873	Follow me.
+GID00103875	Well I'm going in now and I could really use some help.
+GID00103876	Trust me, I know my way around firearms and we could do even more damage as a team.
+GID00103877	Here, use this stimpack.
+GID00103878	Yes, I'm sure.
+GID00103879	Wait for me right here.
+GID00103880	Guard this area for me.
+GID00103881	Nevermind, I have to go...
+GID00103882	Can you share any more info with me?
+GID00103883	Can you sapre a few supplies?
+GID00103884	What is this place?
+GID00103885	Who are you?
+GID00103886	Any info you can give to help me out?
+GID00103887	What is The Underground?
+GID00103888	Nevermind, I have to go...
+GID00103889	What next?
+GID00103890	Follow me, stay close...
+GID00103891	Follow me but keep your distance.
+GID00103892	Stay here and guard this area.
+GID00103893	Cobb says you're with me for the Tech Raider Assault.
+GID00103894	Here, use this stimpack.
+GID00103895	Wait right here.
+GID00103896	What are you gonna do now?
+GID00103897	Show me your inventory.
+GID00103898	Follow Me.
+GID00103899	Follow me from a distance.
+GID00103900	Guard this area.
+GID00103901	Wait right here.
+GID00103902	You can either take your chances with me or the Deathclaws...
+GID00103903	You can either take your chances with me or the Deathclaws...
+GID00103904	You can either take your chances with me or the Deathclaws...
+GID00103905	I'm here to get you out of this place.
+GID00103906	It matters not for you. Time to die NCR scum.
+GID00103907	So are you coming with me?
+GID00103908	Come with me, I'll get you out of here.
+GID00103909	Come with me. What else are you gonna do? Keep hiding here till they sniff you out?
+GID00103910	Come with me. What else are you gonna do? Keep hiding here till they sniff you out?
+GID00103911	Come with me. What else are you gonna do? Keep hiding here till they sniff you out?
+GID00103912	Here, use this stimpack.
+GID00103913	Get a move on you snivelling wreck before I kill you myself.
+GID00103914	Get a move on you snivelling wreck before I kill you myself.
+GID00103915	Get a move on you snivelling wreck before I kill you myself.
+GID00103916	Nevermind, I have to go.
+GID00103917	Well, looks like we won.
+GID00103918	How are you doing?
+GID00103919	Show me your inventory.
+GID00103920	Follow me.
+GID00103921	Follow me but from a distance.
+GID00103922	Guard this area.
+GID00103923	Wait right here.
+GID00103924	I'm here to get you and your sqaud out of this place.
+GID00103925	Just shut up and die NCR bitch.
+GID00103926	You ready to go?
+GID00103927	Here, use this stimpak.
+GID00103928	Nevermind, I have to go...
+GID00103929	Have you seen anyone suspicious about?
+GID00103930	Whats your story?
+GID00103931	Do you know anything about the Underground?
+GID00103932	Nevermind, I have to go...
+GID00103934	Show me what you have for sale.
+GID00103935	Who are you?
+GID00103937	I hadn't planned on it.
+GID00103938	Can you fix something for me?
+GID00103939	What's your story?
+GID00103940	Tell me about this place.
+GID00103941	If you're with those thugs you have to die.
+GID00103942	Nevermind, I have to go...
+GID00103943	Show me your inventory.
+GID00103944	What now?
+GID00103945	Follow Me.
+GID00103946	Follow me but keep your distance.
+GID00103947	We're taking on the Tech Raiders. Cobb sent me to recruit you.
+GID00103948	We're taking on the Tech Raiders. Cobb sent me to recruit you.
+GID00103949	Here, use this stimpack.
+GID00103950	Guard this area.
+GID00103951	Wait right here.
+GID00103952	We're taking on the Tech Raiders. Cobb sent me to recruit you.
+GID00103953	Nevermind. I have to go.
+GID00103955	Do you know if there are any free houses around here?
+GID00103956	I have the caps for the House.
+GID00103957	What have you got?
+GID00103958	What's your story?
+GID00103959	Is the food on the bar for free?
+GID00103960	Nevermind, I have to go...
+GID00103961	What happened to the HQ?
+GID00103962	Have you seen anyone acting suspicious recently?
+GID00103963	What's your story?
+GID00103964	Nevermind, I have to go...
+GID00103965	What's your story?
+GID00103966	Nevermind I have to go.
+GID00103967	Have you seen anyone acting suspiciously lately?
+GID00103968	What's your story?
+GID00103969	Nevermind, I have to go...
+GID00103970	I got that Tech Raider spy. It was Smorgan.
+GID00103971	What's on the menu?
+GID00103972	Have you seen anyone suspicious about?
+GID00103973	What's your story?
+GID00103974	Nevermind, I have to go.
+GID00103975	Have you seen anyone suspicious recently?
+GID00103976	What's your story?
+GID00103977	Goodbye.
+GID00103978	Nevermind, I have to go.
+GID00103979	Can you repair some of my things?
+GID00103980	Can I see what you have for sale?
+GID00103981	So, what is your story?
+GID00103982	What's wrong with the other guy?
+GID00103983	What's your story?
+GID00103984	I think I have everything for the Heavy Incinerator.
+GID00103985	I think I have everything for the Hyper-Sledge.
+GID00103986	Can you build a Heavy Incinerator M for me please?
+GID00103987	Do you have any weapons spare?
+GID00103988	Can you build a Hyper-Sledge M for me please?
+GID00103989	Nevermind, I have to go.
+GID00103990	Have you seen anyone acting suspicious lately?
+GID00103991	What's your story?
+GID00103992	Any idea where Riazanov's Tool kit might be?
+GID00103993	Nevermind, I have to go...
+GID00103994	Nevermind, I have to go.
+GID00103995	Can you repair some things for me?
+GID00103996	Can I see what you have for sale?
+GID00103997	Who are you?
+GID00103998	Have you seen anyone suspicious lately?
+GID00103999	What's your story?
+GID00104000	Nevermind, I have to go...
+GID00104001	Sure, I'll help find your spy.
+GID00104002	Are you in charge around here?
+GID00104003	Do you have any more work for me?
+GID00104004	Is there anything I can do to help out around here?
+GID00104005	What's your story?
+GID00104006	I got the bastard. It was Smorgen.
+GID00104007	Nevermind, I have to go...
+GID00104008	Who are the Headbangers?
+GID00104009	What is this place?
+GID00104010	What's your story?
+GID00104011	Nevermind, I have to go...
+GID00104012	Nevermind, I have to go.
+GID00104013	Thank you for sharing your story with me.
+GID00104014	Yeah, I'd like to know more about you.
+GID00104015	What's your story?
+GID00104016	Wow, I had no idea Deathclaws could talk.
+GID00104017	Nevermind, I have to go...
+GID00104018	Yeah, I'm sure I can manage that.
+GID00104019	They're all dead.
+GID00104020	Anything else I can do for you?
+GID00104021	Do you have any spare supplies?
+GID00104022	Have you seen anyone suspicious about?
+GID00104023	What's your story?
+GID00104024	Can I see what you have for sale?
+GID00104025	Nevermind, I have to go...
+GID00104026	Have you seen Riazanov's Toolkit?
+GID00104027	Who are you?
+GID00104028	Nevermind, I have to go.
+GID00104029	Have you seen Riazanov's Toolkit?
+GID00104030	Have you seen anyone suspicious lately?
+GID00104031	What's your story?
+GID00104032	Nevermind, I have to go...
+GID00104033	Do you have any better guns?
+GID00104034	What do you have for sale?
+GID00104035	What's your story?
+GID00104036	Nevermind, I have to go.
+GID00104037	What's your story?
+GID00104038	Is there anything I can do to help out around here?
+GID00104039	Nevermind, I have to go...
+GID00104040	I'd like the blue ones plaese.
+GID00104041	I have the pre-war books for you.
+GID00104042	I think I'd like to try another type of Concentr8.
+GID00104043	Do you have any Concentr8 in stock?
+GID00104044	I'd like the green ones please.
+GID00104045	I have the green books for you.
+GID00104046	I'd like the Purple ones plaese.
+GID00104047	OK, here's your money.
+GID00104048	I'd like the red ones please.
+GID00104049	Here's your red books.
+GID00104050	What have you got for sale?
+GID00104051	What's your story?
+GID00104052	I would like the yellow ones please.
+GID00104053	OK, here's the caps...
+GID00104054	Nevermind, I have to go.
+GID00104055	You seem to be very defensive.
+GID00104056	Eddie says you're up to something.
+GID00104057	Hermsen said he saw someone of your description in his house.
+GID00104058	Iv'e got orders from the Colonel to look for a Tech Radier spy.
+GID00104059	You look nervous, what are you hiding?
+GID00104060	Tell me what you're up to or I'll get the Troopers.
+GID00104061	What are you up to?
+GID00104062	You look nervous, what are you hiding?
+GID00104063	You look nervous, what are you hiding?
+GID00104064	You look nervous, what are you hiding?
+GID00104065	What are you up to?
+GID00104066	Tell me what you're up to or I'll get the Troopers.
+GID00104067	You sound nervous, what are you hiding?
+GID00104068	You sound nervous, what are you hiding?
+GID00104069	Tell me what you're up to or I'll get the Troopers.
+GID00104070	What are you up to?
+GID00104071	You sound nervous, what are you hiding?
+GID00104072	You sound nervous, what are you hiding?
+GID00104073	What are you up to?
+GID00104074	Tell me what you're up to or I'll get the Troopers.
+GID00104075	Have you seen anything suspicious recently?
+GID00104076	What's your story?
+GID00104077	Nevermind, I have to go...
+GID00104078	Have you seen anyone suspicious about recently?
+GID00104079	What's your story?
+GID00104080	Nevermind, I have to go...
+GID00104081	Do you have any concentr8 in stock?
+GID00104082	Have you seen anyone suspicious recently?
+GID00104083	Have you seen Riazanov's box of tools anywhere?
+GID00104084	Have you seen anyone suspicious about?
+GID00104085	Have you seen anyone suspicious about?
+GID00104086	What's your story?
+GID00104087	Nevermind, I have to go...
+GID00104088	Nevermind, I have to go.
+GID00104089	Is there anything I can do to help around here?
+GID00104090	Tell me about your music...
+GID00104091	I'm listening...
+GID00104092	Yeah, I'll help you out.
+GID00104093	I think I have your discs.
+GID00104094	I think I have some discs that belong to you.
+GID00104095	Anything else I can do for you?
+GID00104096	Absolutely, just tell me where.
+GID00104097	I found more of your discs...
+GID00104098	Can I ask you something?
+GID00104099	Do you like all your songs to sound scary?
+GID00104100	Tell me your story.
+GID00104101	You said we, I though only you made the songs?
+GID00104102	Who are you?
+GID00104103	Nevermind, I have to go.
+GID00104104	Do you have any rooms available?
+GID00104105	What do you have for sale?
+GID00104106	What's your story?
+GID00104107	OK, I'm listening.
+GID00104108	Sure, I can spare the time.
+GID00104109	Hello, who are you?
+GID00104110	Haggard.... I know that name, did you used to own a house in Goodsprings?
+GID00104111	That's some serious tech you left behind, are you sure you don't mind?
+GID00104112	So, what is life like down here then?
+GID00104113	What is Roach like?
+GID00104114	What's your story?
+GID00104115	What do you mean?
+GID00104116	Hello, who are you?
+GID00104117	What are you on the lookout for?
+GID00104118	Tell me more about the ferals.
+GID00104119	Who are the Skeleton Crew?
+GID00104120	What happened to the power plant?
+GID00104121	Tell me about the Tech Raiders.
+GID00104122	Is there anything else I can do?
+GID00104123	Is there anything I can do to help?
+GID00104124	Sure, I'd like to help out.
+GID00104125	Yeah, the nutter with a flamethrower, I killed him already.
+GID00104126	What have you got for sale?
+GID00104127	Whats your story?
+GID00104128	Who are you?
+GID00104129	OK, I took care of your monsters.
+GID00104130	Let me see what you have in stock.
+GID00104131	Do you have any jobs for me to do?
+GID00104132	What would I have to do?
+GID00104133	Go on...
+GID00104134	OK, I'm game.
+GID00104135	The geckos are all dead.
+GID00104136	Of couse, just tell me what to do.
+GID00104137	I'm up for it.
+GID00104138	I killed some real big Geckos today.
+GID00104139	Yeah, I can handle a few Radscorps. No problem.
+GID00104140	I've killed so many monsters today, I'm exhausted.
+GID00104141	I'm interested. Sounds like fun.
+GID00104142	Can you heal my radiation?
+GID00104143	No, thanks.
+GID00104144	Do it.
+GID00104145	I don't have 100 caps.
+GID00104146	I need medical supplies.
+GID00104147	I think I'll tough it out.
+GID00104148	Yes, cure me.
+GID00104149	I don't have 50 caps.
+GID00104150	All right, here's your money.
+GID00104151	Actually, I don't have 150 caps.
+GID00104152	Here's your money.
+GID00104153	Actually, I don't have 100 caps.
+GID00104154	That's all I need.
+GID00104155	There was something else I needed...
+GID00104156	Nevermind, I have to go.
+GID00104157	Nevermind, I have to go.
+GID00104158	Can I ask you something?
+GID00104159	Nevermind, I gotta go.
+GID00104160	Blaze is dead.
+GID00104161	All right, fix me.
+GID00104162	Actually, I don't have 75 caps.
+GID00104163	On second thought, I'll be fine.
+GID00104164	Hello.

@@ -1,0 +1,26 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc01_activation_text_override_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00098021	ルーレットで遊ぶ
+GID00098022	ブラックジャックで遊ぶ
+GID00098023	スロットで遊ぶ
+GID00098024	Cloud Residue を収集する
+GID00098025	電力図表を読む
+GID00098026	Father Elijahと話す
+GID00098027	配電盤のドアを開ける
+GID00098028	Vaultへのエレベーターに乗る
+GID00098029	スイッチを切り替える
+GID00098030	Salida del Sol Houseのドア
+GID00098031	Gala Event Control Panelを起動する
+GID00098032	はしごを昇って鐘楼へ出る
+GID00098033	Mojave Wastelandへ旅立つ
+GID00098034	セキュリティーチーフアシスタントの机
+GID00098035	Veraの楽譜を取る
+GID00098036	死体を調べる
+GID00098037	死体を調べる
+GID00098038	死体を調べる
+GID00098039	Veraのドレスを取る
+GID00098040	Turret Electric Generatorを調べる
+GID00098041	はしごを昇ってMojave Wastelandへ出る
+GID00098042	Sierra Madre Casinoへ旅立つ

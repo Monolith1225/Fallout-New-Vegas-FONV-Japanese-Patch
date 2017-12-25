@@ -1,0 +1,66 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc06_description_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00098314	(Gun Runners' Arsenal)[CRLF]Decreases spread.[CRLF]
+GID00098315	(Gun Runners' Arsenal)[CRLF]Increases ammunition capacity (+6).
+GID00098316	(Gun Runners' Arsenal)[CRLF]Silences the weapon.
+GID00098317	(Gun Runners' Arsenal)[CRLF]Increases ammunition capacity (+2).
+GID00098318	(Gun Runners' Arsenal)[CRLF]Increases projectile velocity (+100%).
+GID00098319	(Gun Runners' Arsenal)[CRLF]Increases rate of fire.
+GID00098320	(Gun Runners' Arsenal)[CRLF]Decreases weight (-7).
+GID00098321	(Gun Runners' Arsenal)[CRLF]Increases rate of fire.
+GID00098322	(Gun Runners' Arsenal)[CRLF]Reduces weapon noise.
+GID00098323	(Gun Runners' Arsenal)[CRLF]Increases ammunition capacity (+6).
+GID00098324	(Gun Runners' Arsenal)[CRLF]Increases condition (+33%).
+GID00098325	(Gun Runners' Arsenal)[CRLF]Increases rate of fire.
+GID00098326	(Gun Runners' Arsenal)[CRLF]Increases attack speed.
+GID00098327	(Gun Runners' Arsenal)[CRLF]Increases condition (+50%).
+GID00098328	(Gun Runners' Arsenal)[CRLF]Increases damage (+6).
+GID00098329	(Gun Runners' Arsenal)[CRLF]Decreases weight (-8).
+GID00098330	(Gun Runners' Arsenal)[CRLF]Increases damage (+15).
+GID00098331	(Gun Runners' Arsenal)[CRLF]Increases condition (+50%).
+GID00098332	(Gun Runners' Arsenal)[CRLF]Decreases spread.
+GID00098333	(Gun Runners' Arsenal)[CRLF]Increases ammunition capacity (+1).
+GID00098334	(Gun Runners' Arsenal)[CRLF]Increases damage (+5).
+GID00098335	(Gun Runners' Arsenal)[CRLF]Increases attack speed.
+GID00098336	(Gun Runners' Arsenal)[CRLF]Increases condition (+50%).
+GID00098337	(Gun Runners' Arsenal)[CRLF]Adds usable iron sights.
+GID00098338	(Gun Runners' Arsenal)[CRLF]Increases damage (+3).
+GID00098339	(Gun Runners' Arsenal)[CRLF]Replenishes ammunition (1/4 shots).
+GID00098340	(Gun Runners' Arsenal)[CRLF]Increases ammunition capacity (+32).
+GID00098341	(Gun Runners' Arsenal)[CRLF]Adds short-range scope.
+GID00098342	(Gun Runners' Arsenal)[CRLF]Decreases spread.
+GID00098343	(Gun Runners' Arsenal)[CRLF]Increases damage (+7).
+GID00098344	(Gun Runners' Arsenal)[CRLF]Increases speed of plasma projectile.
+GID00098345	(Gun Runners' Arsenal)[CRLF]Replenishes ammunition (1/4 shots).
+GID00098346	(Gun Runners' Arsenal)[CRLF]Increases condition (+100%).
+GID00098347	(Gun Runners' Arsenal)[CRLF]Increases damage (+8).
+GID00098348	(Gun Runners' Arsenal)[CRLF]Increases attack speed.
+GID00098349	(Gun Runners' Arsenal)[CRLF]Increases damage (+10).
+GID00098350	(Gun Runners' Arsenal)[CRLF]Increases condition (+50%).
+GID00098351	(Gun Runners' Arsenal)[CRLF]Increases damage (+9).
+GID00098352	(Gun Runners' Arsenal)[CRLF]Increases condition (+200%).
+GID00098353	(Gun Runners' Arsenal)[CRLF]Increases ammunition capacity (+24).
+GID00098354	Your intimate knowledge of gadgets and explosives have combined to make you... the Mad Bomber! At Workbenches, you have special Explosives recipes unlocked for use.
+GID00098355	Do damage with Gun Runners' Arsenal (GRA) Weapons.
+GID00098356	Kill Chairmen, White Gloves, or Omertas with any submachine gun, light machine gun, or minigun.
+GID00098357	Kill Caesar with a Knife or Combat Knife.
+GID00098358	Kill adult Mojave Wasteland Deathclaws with .22 Pistols, Switchblades, Boxing Tape, Recharger Rifles, or Dynamite.
+GID00098359	Kill Benny with his own gun, Maria.
+GID00098360	Kill Fiends, Vipers, or Jackals with Tire Irons, Baseball Bats, Lead Pipes, Machetes, .44 Magnum Revolvers, or Sawed-Off Shotguns.
+GID00098361	Kill Animals with any Fat Man or Fat Mines.
+GID00098362	Kill Abominations with Katanas, Dynamite, Machetes, Throwing Spears, Throwing Knives, and Throwing Hatchets.
+GID00098363	Cripple Right Arms with Shotguns.
+GID00098364	Cause damage with unique Mojave Wasteland weapons.
+GID00098365	Kill any named Legion members with Hunting Revolvers, Ranger Sequoias, Brush Guns, Service Rifles, Hunting Rifles, or Cowboy Repeaters.
+GID00098366	Kill any named NCR Ranger or commissioned officer (Lieutenant, Captain, Major, Colonel, General) with Machetes, Rippers, Chainsaws, Throwing Spears, or Ballistic Fists.
+GID00098367	Kill Mr. House with a 9 Iron or Nephi's Golf Driver.
+GID00098368	Kill Feral Ghouls with Maria, Gehenna, and Holy Frag Grenades.
+GID00098369	Kill Mojave Wasteland Cazadores with Tin Grenades, Long Fuse Dynamite, and Time Bombs.
+GID00098370	Kill Mojave Wasteland Mr. Gutsys and Sentry Bots with Brass Knuckles, Spiked Knuckles, Tire Irons, and Lead Pipes.
+GID00098371	Kill Super Mutants with 5.56mm Pistols, Plasma Defenders, Plasma Grenades, Power Fists, Rippers, or the Bozar.
+GID00098372	Kill Robots with 5.56mm Pistols.
+GID00098373	Kill President Kimball with any One-Handed Pistol.
+GID00098374	Cripple Caesar's head with Throwing Spears.
+GID00098375	Kill members of NCR or Legion hit squads with weapons affected by the Cowboy perk.

@@ -1,0 +1,11 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc04_ammo_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00094363	フレシェット弾
+GID00094364	ミサイル
+GID00094365	ヒール
+GID00094366	ロケット榴弾
+GID00094367	ロケット
+GID00094368	釘
+GID00094369	火炎ロケット弾

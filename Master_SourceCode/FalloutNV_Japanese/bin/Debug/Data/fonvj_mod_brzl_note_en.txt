@@ -1,0 +1,124 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_brzl_note_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00110086	Connection Active... display Text, Port 16 Vault 43 Error: 404 - Server Terminated.
+GID00110088	Automated Signal From Vault-Tec. Nuclear Launch Detected - Initiate Directive Order 001.
+GID00110089	Wasteland Scout Mission Report 214 - DR KYOTO
+GID00110090	This mission takes place in the ruins of Los Angeles.
+GID00110094	She asked why I left her in the ruins of L.A... I said I'd forgotten to care.
+GID00110095	I hope she's dead.
+GID00110096	Connection Active... display Text, Port 11 Vault 76 Error: 404 - Server Terminated.
+GID00110098	Connection Active... display Text, Port 16 Vault 122 Error: 404 - Server Terminated.
+GID00110099	This is Acting Sergeant Elias, reporting back from scouting mission 0. Most of our party was lost on day 3, as we scouted the ruins of the Big Bear Bridge. We encountered a band of heavily armed men who surrounded and disarmed us with flash grenades. At some point between my being rendered unconscious and reawakening, Officer Jakes and Sgt. Danvers commenced fire on the hostile assailants, but were quickly dispatched. Officer Trakes and I managed to escape to the tree line, but Trakes was gunned down as we crossed the river. I was grazed in the left shoulder and left for dead. They stripped me of my uniform and weapons and left me on the shore. A woman from a colony of slaves awoke me some hours later, and escorted me to the Vault door. We brought her into custody and I enjoyed an extended stay in our infirmary.
+GID00110100	Pvt. Daniel Adams United States Air Force
+GID00110101	October, 23 , 2077 14:22
+GID00110102	------------------------------------------------------------------------------------
+GID00110103	The damn door's locked, the fallout shelter HAS to be on the other side.
+GID00110108	just have our key. . Me , Persoe and Williams are headed over there now.
+GID00110109	I don't know what the hell is going on out there, but I'm not going to be
+GID00110112	END LOG 14:25
+GID00110113	ERROR! DISCONNECTED FROM AFB NETWORK !!
+GID00110114	ERROR POWER OUTAGE>>> RESERVE POWER ACTIVE!
+GID00110115	Connection Active... display Text, Port 16 Vault 82 Error: 404 - Server Terminated.
+GID00110116	A exhausting instruction manual, concerning the maintenance. repair and fitting of various types of power armor.
+GID00110125	Connection Active... display Text, Port 16 Vault 19 Error: 404 - Server Terminated.
+GID00110127	The doors of the Old Robotics Lab are open.
+GID00110130	Wasteland Scout Mission Report 112 - DR KYOTO
+GID00110132	I, Dr. Kyoto, left Vault 18 3 weeks ago, and only now return home. I was accompanied by Dr. Rossman, Sgt. Norman, and Yetti Hale.
+GID00110134	Following this message will be images we recorded on the trip.
+GID00110136	June ,3rd 2077
+GID00110137	Surgical Log 1
+GID00110147	animal testing for an answer.
+GID00110148	Dr. Richard White,
+GID00110156	Wasteland Scout Mission Report 289 - Dr. Rossman
+GID00110169	Connection Active... display Text, Port 16 Vault 118 Error: 404 - Server Terminated.
+GID00110170	Connection Active... display Text, Port 16 Vault 119 Error: 404 - Server Terminated.
+GID00110171	Connection Active... display Text, Port 42 Vault 8 Error: 404 - Server Terminated.
+GID00110172	Wasteland Scout Mission Report 176 - SGT. DALE NORMAN
+GID00110186	I'm sure it will come back to haunt us, and not just in the form of poor Jamie's nightmares.
+GID00110187	Scouting report no 169: There have been rumors about Brotherhood of Steel scouts passing the area. It was said that they've established a camp nearby, searching for pre-war locations in this area. Stories tell us the Brotherhood is very advanced, and very aggressive when acquiring hi-tech equipment, resorting to force when they deem it necessary. More information is required on the BoS subject as they might pose substantial threat to the Vault safety.
+GID00110189	Hello, future Roboto handler. I am Dr. Kyoto, a scientist and Wasteland Scout in Vault 18. If you are reading this, then the fever I contracted in the wasteland proved fatal, and my canine friend, B-6-RK, still lies in pieces in the Robotics Lab.
+GID00110190	We were on a routine mission, studying the native peoples of this region, when a strange man approached us. He shook my hand, and on his glove was a green ooze. I retracted immediately. He just chuckled, and left. Not long after, we were attacked on the way back to the Vault, while I grew ill. B-6-RK dragged me to safety, but destroyed herself further in the process.
+GID00110191	I built B-6-RK because there were no animals in the vault. I wanted a friend to make the children happy. As they grew up, I wanted them to have a protector, and by salvaging old parts traded for in Union City, I created her.
+GID00110192	If you have the knowledge, please repair her. Enabling these three commands after she is repaired, should restart her operating system. This strange virus may kill me, but my work will live on through her. Thank you.
+GID00110195	You are standing in a vast, featureless Cityscape. Skyscrapers stretch to the north, where clouds gather around an ominous citadel spire called Cyberdynamics Industries. An alleyway leads to an Old Robotics Lab to the east. The road south leads into a bustling Downtown. Hovercars drive into a Car Garage to the west, where a thin Hacker named Hooligan stands like a glowing specter of electronic lights amid of crowd of grey cloaked citizens in the dark.
+GID00110197	Connection Active... display Text, Port 16 Vault 16 Error: 404 - Server Terminated.
+GID00110199	Connection Active... display Text, Port 16 Vault 81 Error: 404 - Server Terminated.
+GID00110200	Connection Active... display Text, Port 16 Vault 88 Error: 404 - Server Terminated.
+GID00110210	Connection Active... display Text, Port 16 Vault 3 Error: 404 - Server Terminated.
+GID00110226	Optimal at 100 TB/sec.
+GID00110227	Primary connection to:
+GID00110228	Computer lab - zero packet loss.
+GID00110229	Secondary connection to:
+GID00110230	Andrew Skolls terminal - zero packet loss.
+GID00110240	You stand at the end of an alleyway, facing a grimy Old Robotics Lab. The brick walls are dirty; a neon sign is swinging in the mist. The great steel doors are locked. The owner is nowhere to be found. A small cemetery of broken droids lies in the shadow of the city towers around you in the pouring rain. The main road is westward, heading to the great, featureless Cityscape.
+GID00110243	Connection Active... display Text, Port 16 Vault 65 Error: 404 - Server Terminated.
+GID00110244	You stand at the end of an alleyway, facing a grimy Old Robotics Lab. The brick walls are dirty; a neon sign is swinging in the mist. The great steel doors are locked. The owner is nowhere to be found. A small cemetery of broken droids lies in the shadow of the city towers around you in the pouring rain. The main road is westward, heading to the great, featureless Cityscape.
+GID00110247	Connection Active... display Text, Port 16 Vault 120 Error: 404 - Server Terminated.
+GID00110248	You are in the towering citadel of Cyberdynamic Industries, a corporation that produces nano devices and self replicating machines. Stormclouds coil above the skyscraper, pelting you and the hexagonal flagstones with a torrential downpour. Beyond the main door, is World City, a wide metropolis that stretches across the southern horizon, and beyond to encompas the globe.
+GID00110251	This is Dorothy, the secretary at the Ft. Daggerpoint Army Station Office. Lately, I've noticed a large amount of shipments heading for the base. I mean lierally everything is getting shipped out! Planes from the hangars, guns from the armory, everything!
+GID00110268	...
+GID00110271	My God. It actually happened. We all thought it was a drill, but we went anyway. And now, here we are. I ordered the Vault door to stay open for 5 minutes longer than was defined in my directives. I still had MPs trapped outside. I saved them all and a few more than was called for. Now these two angry looking Vault-Tec reps are starting to edge in closer. I have a feeling that they have a plan for how to dispose of my body already, and I'm pretty much powerless to do anything about it. Well, this isn't how I saw my evening going.
+GID00110272	8.7.2077 - Congratulations on your successful launch of Vault 18 and it's soon to be completed segments! We're sorry to note that the Terrarium and several sections of excavated caverns never met their completion before the world was lit ablaze by atomic flame, but we assure you that the factory protectrons and excavating droids will have them ready in no time. We hope you and your daughter enjoy your stay with Vault-Tec, "for a better tomorrow!"
+GID00110273	-------------------------------------------------------------------
+GID00110275	Langley, Virginia
+GID00110276	-------------------------------------
+GID00110285	---------------
+GID00110286	Pacer
+GID00110287	Wasteland Scout Mission Report 215 - CAPTAIN YETTI
+GID00110288	This mission takes place in the San Bernardino Valley and surrounding areas.
+GID00110289	With an extremely heavy heart, I have to report that Dr. Miyaki Kyoto is dead.
+GID00110290	You know, when I was first told by the then-Overseer (and then younger) Hoss, that the Wasteland Scouts were being reinstated, I didn't believe it. Ten years later, and I can't believe the missions we've survived to tell about in these reports.
+GID00110291	Miyaki was one of the outcasts in the vault. She was an intelligent, sweet, and shy girl. One of the youngest at a time before the Wasteland Tribes were adopted by the Vault, and the only female to ignore the reproduction laws. But all that changed when she joined the Scouts.
+GID00110292	Dr. Rossman insisted Miyaki join the team, despite the objections of Sgt. Norman. Norman thought she'd be a liability in the field, but Rossman knew better. He knew we needed her science skills, and her ability to put together broken strings of information from old newspapers and terminals led to some of our greatest discoveries.
+GID00110293	But, three days ago, a strange man in Oaxaca approached her as she was convincing the locals to give her an old, Pre-War laser weapon they worshiped as a god. According to her report, he shook her hand, leaving a green residue, and laughed as he walked away. After that, she fell ill, and her robot companion dragged her to the safety of the vault, despite her objections. The little robot dog is now in storage upstairs, in pieces.
+GID00110294	Norman and I were out of commission in a Prospector encampment, where we were subjected to a device known as a Mesmetron. We were convinced to give up the location of the Vault under the effects of the device, then were sent to be interrogated further in Union City. Kyoto had escaped capture earlier that day, when we discovered that the Prospectors were planning to invade Vault 18.
+GID00110295	Fortunately for Kyoto's brave efforts, she was able to inform Dr. Rossman of our capture and the location where she believed were were held. Then she isolated herself in the entrance cave where she tirelessly worked on restoring and reprogramming the weapon, which calls a shot from an old satellite in orbit at the target location.
+GID00110296	Dr. Rossman used the device to destroy the prospector advance, and free us. Dr. Kyoto died trying to save our lives, and succeeded. Her body was found to contain a lethal and highly contagious virus, and she insured none of us would catch it by immolating herself after leaving a note in the Robotics lab.
+GID00110297	She will be sorely missed. We love you, Miyaki.
+GID00110298	The Weapons Dealer regards you gruffly, and is about to dismiss you when you produce the Atomizer Core from your bag. He sets his pulse pistol aside and twirls his moustache.
+GID00110299	"Holy shit, that's it!" He says, admiring the faceted device, "We lost one of these in Cyberdynamics before Replicator Sam ruined our plans to destroy the machines in their infancy! What would you be needin', then?"
+GID00110300	Following your careful instructions, the Weapons Dealer re-forges your Pulse Pistol with the Atomizer at the center of its power core. It glows blue and begins to power up.
+GID00110301	"Go forth, and do great deeds! Free of charge... for now. Hahaha!"
+GID00110302	Connection Active... display Text, Port 16 Vault 121 Error: 404 - Server Terminated.
+GID00110315	From: Coach John Bragg - "I want everyone to meet me early in the Gym before the Game for a quick Pep Talk, 18:30. This one is going to be a little different. Don't be late."
+GID00110317	Tier 4 Network throughput:
+GID00110318	Optimal at 100 TB/sec.
+GID00110319	Primary connection to:
+GID00110321	Well, that's it. My official and professional opinions is now: "If it's a bucket, then fuck it." I'll leave it here for parts and student research. I think Shawn Starr said he has a "useful" application for its hard drive...
+GID00110323	October ,23rd 2077 08:00
+GID00110324	Surgical Log 2
+GID00110341	Dr. Richard White,
+GID00110354	(Alpha Droid Systems Rebooting....)
+GID00110377	Connection Active... display Text, Port 16 Vault 52 Error: 404 - Server Terminated.
+GID00110379	A-List
+GID00110380	Vault Population - 35/300
+GID00110381	1. &pcname; Star
+GID00110382	2. Terra May
+GID00110383	3. Erin Sun
+GID00110384	4. Jack Tavers
+GID00110385	5. John Diesel Anderson
+GID00110386	...etc...
+GID00110387	B-List
+GID00110388	Vault Population - 15/300
+GID00110389	1. Jenifer Hale
+GID00110390	2. Jamie Campbell
+GID00110391	3. Sarah Carter
+GID00110392	4. Melissa Tavers
+GID00110393	5. Mandy Starr
+GID00110394	...etc...
+GID00110395	C-List
+GID00110396	Vault Population - 4/300
+GID00110397	1. Dr. Kevin Rossman
+GID00110398	2. Ben "Kurtz"
+GID00110399	3. Amy Hale
+GID00110400	4. Kaiti Hale
+GID00110401	D-List
+GID00110402	Vault Population - 246/300
+GID00110403	1. Overseer Albert Christianson
+GID00110404	2. Aaron Ginn
+GID00110405	3. Eric Campbell
+GID00110406	4. Sgt. Dale Norman
+GID00110407	5. Joe Tavers
+GID00110408	...etc...

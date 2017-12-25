@@ -1,0 +1,539 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc04_topic_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00097278	What was that sound you played? Some kind of memory glitch?
+GID00097279	It could be one of those robo-viruses. You might be contagious - stay away from other computers.
+GID00097280	Probably just some old data floating around in your memory. Nothing to worry about.
+GID00097281	That's an impressive multitool suite you've got. I bet I could make all sorts of stuff with that.
+GID00097282	You look like a toolbox. Can you help me make stuff?
+GID00097283	Hey, is that an ArmCo Portable Reloading Bench built into you? That'll be handy.
+GID00097284	Do you do anything with bullets? Like, maybe help people make them?
+GID00097285	ED-E? What are you doing here?
+GID00097286	What's an Eyebot doing here?
+GID00097287	Can you repair my weapon?
+GID00097288	If you switched to the 3/8 wrench and the smaller drill, those weapon repairs would be easier.
+GID00097289	Wow, you're way better at fixing weapons than me!
+GID00097290	If you drop the power output by .24, you'll be able to make more energy ammo with no quality loss.
+GID00097291	Wow, you're way better at fixing weapons than me!
+GID00097292	I need some Microfusion Cells. Can you make some?
+GID00097294	I'm running low on Small Energy Cells. Can you make me more?
+GID00097295	You know, if you strip out the plasma relays on those energy cells, you could make flamer fuel.
+GID00097296	Could you maybe make some energy cells that catch fire instead?
+GID00097297	Remove the safety catches on those Microfusion Cells and you could turn them into satchel charges.
+GID00097298	I want something that goes boom. Can you do that?
+GID00097299	Can you make me some flamer fuel instead of energy cells?
+GID00097300	I don't need energy cells right now - I'd like some satchel charges, ED-E.
+GID00097301	I'd like to make some ammo. Can you help me?
+GID00097302	Let me access your multitools. I want to make something.
+GID00097303	I'd like you to replay one of those audio logs.
+GID00097304	Look, we don't need to fight about this - we can talk this out, right?
+GID00097305	You brought me here to talk. If you wanted to kill me, you'd have waited until I came for the Chip.
+GID00097306	What are you doing here?
+GID00097307	Can you tell me again what you're doing here?
+GID00097308	Dry Wells is destroyed - that was your birthplace?
+GID00097309	The Long 15 is no more. The main supply line into NCR is cut.
+GID00097310	Caesar is dead, I killed him.
+GID00097311	Caesar is dead, died on the operating table.
+GID00097312	Was hoping you could help me shape something.
+GID00097313	Is this where you're making camp?
+GID00097314	Any recipes you can teach?
+GID00097315	Any more recipes.. or histories... you can teach?
+GID00097316	Any more recipes you can teach?
+GID00097317	I got your final message.
+GID00097318	I reached Vegas, and I dealt with House.
+GID00097319	Wait here.
+GID00097320	<Follow Protocol::Wait>
+GID00097321	Find anything in the dust of Hopeville?
+GID00097322	Have you been to Hopeville since the Ashton missile hit?
+GID00097323	It sounds like you know me, but I've never met you.
+GID00097324	We've never spoken before - I'd remember your voice.
+GID00097325	Any recipes you can teach?
+GID00097326	I have some materials I've gathered, if you wanted to take a look.
+GID00097327	Let's get going.
+GID00097328	<Follow Protocol::Reinitiate>
+GID00097329	No, it wasn't your boot-up sequence, it was a recording. Something about someone called RALPHIE.
+GID00097330	Yes, I'm sure I heard it. Did something knock your memory modules loose?
+GID00097331	Okay, if you don't want to tell me, just say so.
+GID00097332	I think I could use your help getting out of here. Can you come with me?
+GID00097333	That's a recording from your development - are you saying you can override electronic security?
+GID00097334	Was that the voice of your creator? What happened to him?
+GID00097335	That's fascinating. Let's keep going.
+GID00097336	Only panels with a dish-shaped receiver? The console in the main room had one of those, I think.
+GID00097337	Well, it might be enough to get us through this silo.
+GID00097338	Well, I'm sure he's fine. Wherever he is.
+GID00097339	Maybe you'll see him again someday.
+GID00097340	All right, let's keep moving.
+GID00097341	It sounds like Dr. Whitley really cared about you.
+GID00097342	Dr. Grant sounds like a war crime waiting to happen.
+GID00097343	That's a terrible story, ED-E, but we should get moving.
+GID00097344	Who the hell is "General Winters?" The recording mentioned a Colonel Autumn.
+GID00097345	RALPHIE who? You're still not making sense, ED-E.
+GID00097346	You don't have to tell me. I would have beat the crap out of her.
+GID00097347	Wow, do you kiss your mother with that mouth?
+GID00097348	Sounds like Dr. Whitley was a bit of a rogue element.
+GID00097349	Do you record everything that's said around you?
+GID00097350	I guess Whitley found a way to keep you from being scrapped. Let's keep going.
+GID00097351	So you're trying to get all the way to Navarro? Isn't that in NCR territory?
+GID00097352	Oh... right. Navarro. That... sure is far? From where you started?
+GID00097353	Whitley turned you loose all on your own? That must have been scary.
+GID00097354	Come on, we need to keep going.
+GID00097355	What was that?
+GID00097356	That sounded bad.
+GID00097357	No time to talk - I don't like the look of this place, we should keep moving.
+GID00097358	Thanks, ED-E. Let's keep going.
+GID00097359	Where did this happen?
+GID00097360	Sounds like that kid was pretty fond of you. Why did you leave?
+GID00097361	Come on, ED-E, let's go.
+GID00097362	Are you... are you saying you can stop this missile?
+GID00097363	No, ED-E, I won't let you sacrifice yourself like this. There has to be another way!
+GID00097364	Better you than me. Let's do this.
+GID00097365	Yeah, I'm beginning to see where you get it from.
+GID00097366	He should have obeyed orders. Without respect for the chain of command, the whole unit falls apart.
+GID00097367	I think I would have liked him.
+GID00097368	Let's get going.
+GID00097369	Really? Well, I'd better be careful what I say to you, huh?
+GID00097370	No, ED-E, I don't want to hear your recordings of "human mating calls." That's just... wrong.
+GID00097371	Yes, ED-E, I'm sure you didn't make the entire trip in one go. It's still impressive.
+GID00097372	I'm amazed you didn't break down somewhere along the way.
+GID00097373	It sounds like it wasn't easy for him, either.
+GID00097374	I bet Whitley would be proud of you for making it this far.
+GID00097375	Raiders, huh? Amateurs. I'd have tracked you down and salvaged you for scrap.
+GID00097376	You're lucky you got away from them. They would have sold you for scrap in a heartbeat.
+GID00097377	No wonder you didn't make it all the way to Navarro.
+GID00097378	Sounds like they blew out your primary stabilizing jets. I can't believe you kept going after that.
+GID00097379	That bullet probably did something bad.
+GID00097380	You gave that up to continue Whitley's mission?
+GID00097381	Was it worth it? You still haven't made it to Navarro yet.
+GID00097382	Illinois? So that's where you got that plate. The other you, I mean.
+GID00097383	Illin-what? Come on, you're making that name up.
+GID00097384	What's a Chicago?
+GID00097385	But the log said that this kind of encryption would kill you!
+GID00097386	It looks like I can still choose the missile's actual target. Maybe we can work with that.
+GID00097387	Are you sure this is the only way to stop the missile from launching?
+GID00097388	If... if you're really sure you want this, okay. Go ahead and stop the missile. And... goodbye.
+GID00097389	I don't care! I'll just change the missile's target myself. I never liked the NCR anyways.
+GID00097390	Forget it. The Legion has this coming.
+GID00097391	Slow down, slow down - what do you mean you're not the ED-E I know?
+GID00097392	You're a copy? Made by the military bases in the Divide? Weird.
+GID00097393	This silo must have some pretty advanced engineering facilities to remote-scan you and build copies.
+GID00097394	So you're some kind of... robot clone?
+GID00097395	There are more robots like you? With the same memory and everything? Interesting....
+GID00097396	Never mind.
+GID00097397	Whitley was really protective of his Eyebots, huh?
+GID00097398	I can't believe they'd approve that. I've met enough robots to know they're more than just machines.
+GID00097399	Let's press on. We've got a lot of ground to cover.
+GID00097400	He sounds more like a father than an inventor in these logs.
+GID00097401	He must have tried to change things. He doesn't seem like the type to let that slide.
+GID00097402	I can see why you left that place, then.
+GID00097403	I hope those bastards got what was coming to them.
+GID00097404	< Storage Node. Do not translate. >
+GID00097405	Great. Maybe you'll actually be useful to me, then.
+GID00097406	Suddenly a lot of things make more sense.
+GID00097407	Is that what you're doing? Trying to find your way home?
+GID00097408	Come on, ED-E. We've got to fly far and fly fast if we want to get to the end of the Divide.
+GID00097409	Come on, ED-E. Time to move on.
+GID00097410	Yes, ED-E, I'm sure RALPHIE the Robot would be very proud of you.
+GID00097411	I'll do whatever I can to help you get home - after we deal with things here.
+GID00097412	Don't worry, I won't let any mean old generals get you.
+GID00097413	Sometimes I feel the same way. Why do you think I became a courier?
+GID00097414	What the hell happened? You just ran off on me.
+GID00097415	Are you okay?
+GID00097416	Must have been an override function piggybacked on that broadcast. That's what pulled you here.
+GID00097417	You just heard that signal and flew off. Are you catching the robot crazies or something?
+GID00097418	Come on. We're ending this. Right now.
+GID00097419	Okay, well, don't do it again. Come on, let's go.
+GID00097420	You're at the mercy of your programming, I get it. It's not your fault. Now, are you ready to go?
+GID00097421	Whatever he's planning, Ulysses obviously wants you there. Come on - I'd hate to disappoint him.
+GID00097422	What happened? You just took off like you finally found home.
+GID00097423	Of course I came after you. I wasn't going to leave you behind.
+GID00097424	An override frequency? So, what, Ulysses just... called you here?
+GID00097425	But why would he do that? It wasn't to lure me here, Ulysses already knew I was coming.
+GID00097426	Play the log about your ability to crack encrypted systems.
+GID00097427	How about the one where Dr. Whitley yelled at Dr. Grant?
+GID00097428	Let's hear the log where Whitley talks about Colonel Autumn's plans.
+GID00097429	Play me Whitley's phone call with Colonel Autumn.
+GID00097430	I want to hear the recording of when Whitley sent you on your journey.
+GID00097431	Let's hear the one where you were attacked by raiders.
+GID00097432	I liked the one where the little kid found you.
+GID00097433	Play me the trailer for RALPHIE the Robot's Incredible Odyssey.
+GID00097434	Yeah, he's probably dead. Guess that means I own you now.
+GID00097435	You'd better level with me, trashcan, or I might stuff you back in that pod.
+GID00097436	Fine, whatever. Listen, robot: I own you now. Follow me and try to make yourself useful.
+GID00097437	Big deal. You're a glorified computer, why bother switching you off to improve you?
+GID00097438	If you ask me, Whitley got too invested. It's just robot research, not having a kid.
+GID00097439	Spill any of my secrets, and I'll spill your electronic guts. Just so we're clear.
+GID00097440	How long ago was this? And you still haven't made it? So much for upgraded navigational systems.
+GID00097441	Boo hoo, poor little robot lost his daddy. Stop moping, trash can.
+GID00097442	Heh heh. Robot skeet shooting. Sounds fun.
+GID00097443	That's what all this was about? Some old pre-War kids' show?
+GID00097444	Sounds like a big damn waste of time to me.
+GID00097445	Run off on me like that again and I'll recycle you into tin cans. I own you, robot.
+GID00097446	You think I'd leave valuable property like you behind? No way. You might be worth some caps one day.
+GID00097451	Whatever. I only rescued you for the fire support anyways.
+GID00097452	Whatever, trashcan. I really don't give a shit about your problems.
+GID00097453	That was a .308 round. Probably hand-loaded - that would have destroyed most robots your size.
+GID00097454	I thought all robots were bulletproof.
+GID00097455	Nah, I think I'll just go ahead and trigger the launch. I never liked either of those places.
+GID00097456	Maybe you better tell me who you are, and what you want.
+GID00097457	How are you speaking through ED-E?
+GID00097458	Last I heard, Legion didn't use machines as mouthpieces to hide from their enemy.
+GID00097459	There's something left down there? Town looks like it was bombed.
+GID00097460	The damage here looks like it was caused by underground detonations - on a scale I've never seen.
+GID00097461	What is this place?
+GID00097462	Are those the bodies I saw in the silo? The soldiers that look like they'd been flayed?
+GID00097463	I don't care what you have to say. I only want to know where you are.
+GID00097464	Those... troops, NCR or Legion, the ones in the silo were already dead.
+GID00097465	Enough talking. You went to a lot of trouble to lure me here, so let's get on with this.
+GID00097466	You think I'm coming after you? Think again.
+GID00097467	What were the creatures in the underpass?
+GID00097468	I'm not planning to go into the Divide after you.
+GID00097469	Fine. I'll find this trigger - then I'll come find you.
+GID00097470	Those Marked Men in Hopeville - some had strange masks and blades I'd never seen before.
+GID00097471	[Legion] Those Legionnaires in Hopeville wore Legion armor - and strange masks and blades.
+GID00097472	Some of the flayed Hopeville soldiers looked like NCR... but fought beside others in Legion armor.
+GID00097473	[NCR] Those soldiers in Hopeville... were once NCR, I'm sure of it. Why were they with the Legion?
+GID00097474	If this is the High Road... where does it lead?
+GID00097475	What did you mean, "slower death for the Mojave?"
+GID00097476	When you say, "slower death for the Mojave," you mean they're spreading out from the Divide.
+GID00097477	I've never seen creatures like that before now.
+GID00097478	So... what, they weren't that important then?
+GID00097479	You wouldn't have recorded those messages if they didn't matter to you.
+GID00097480	I was never a Legion agent.
+GID00097481	I haven't listened to them all. If there's time, I will.
+GID00097482	If you saw this happen, then how did you survive?
+GID00097483	I'm not interested in talking - only getting through this.
+GID00097484	This canyon is miles long - maybe longer. Where can I find you?
+GID00097485	What happened here?
+GID00097486	Enough of this. Tell me where you are.
+GID00097487	Forget this. What do you want?
+GID00097488	Inhabitants? It doesn't look like anyone's alive down there.
+GID00097489	[NCR] Those bodies in the silo were NCR soldiers... some special forces.
+GID00097490	[Legion] The dead in the silo, some were Legion Frumentarii, scouts. Assassins.
+GID00097491	You were supposed to carry the Chip?
+GID00097492	So you refused to deliver the Chip - what, to set me up to die?
+GID00097493	If you wanted me dead, why did you wait?
+GID00097494	Whatever happened at the Divide, there weren't any survivors.
+GID00097495	What are you talking about?
+GID00097496	I've never seen corpses mutilated like that.
+GID00097497	But... even radiation isn't enough to cause those wounds.
+GID00097498	They look like they were skinned... then got right back up.
+GID00097499	The rads in this place seem like they would do more damage to them.
+GID00097500	If they've become ghouls, the radiation would strengthen them. Heal their wounds - not the scars.
+GID00097501	Why would they want to stay here if this place is killing them?
+GID00097502	Radiation may keep them alive in areas so physically punishing, it would kill others - even ghouls.
+GID00097503	What's here? This place looks wrecked.
+GID00097504	Area looks like it was hit with earthquakes... or underground detonations.
+GID00097505	You better hope you've got enough ammo when I kick down your door.
+GID00097506	The Divide won't stop me from reaching you, trust me.
+GID00097507	Other Marked Men had NCR gear - and they weren't carrying masks or blades.
+GID00097508	So you're the one who sent the radio message - Ulysses.
+GID00097509	Ulysses... that sounds like a Legion name... a Legion hero?
+GID00097510	"Ulysses." Not the myth. You're honoring history, not stories.
+GID00097511	So... this is about fighting? Or...?
+GID00097512	You chose Ulysses because of the "two flags" reference - is that tied to the war in the Mojave?
+GID00097513	Wait... so you swore not to kill me? Why?
+GID00097514	You're not making any sense.
+GID00097515	Forget your name. Back to the job you refused.
+GID00097516	"Brothers?" So - you're Legion, too.
+GID00097517	A woman in the Legion surprise you?
+GID00097518	Is that why you're not Legion anymore, then?
+GID00097519	What burrows below? You mean those creatures in the underpass?
+GID00097520	Is New Vegas's power a threat to you?
+GID00097521	If you're afraid of Vegas and of Mr. House - you should be.
+GID00097522	You have a lot of hate for NCR. That kind of hate isn't new in the Mojave.
+GID00097523	You've got a better way?
+GID00097524	At least they're trying to help the Mojave.
+GID00097525	I'm not interested in your politics.
+GID00097526	We're too far from Vegas to argue perspective on it.
+GID00097527	As obsessed as you are about history, the future's what I prefer.
+GID00097528	Don't be quick to discount Vegas. There's more strength there than may seem.
+GID00097529	What do you have against Vegas?
+GID00097530	House's plans for the future run longer than that.
+GID00097531	What did you mean before, "it's a dance?"
+GID00097532	Vegas is one of the safest places in the Mojave, and that gives me hope.
+GID00097533	Tribes? You mean the Vegas families?
+GID00097534	House is more pragmatic than you might think.
+GID00097535	I doubt you've ever met House.
+GID00097536	Forget this. Keep your opinions about Vegas, I'll keep mine.
+GID00097537	The Mojave is behind us. I want to know what's ahead.
+GID00097538	Wait... there's more I wanted to talk about. About... all this.
+GID00097539	If we share history, then before going forward, I want to know the past.
+GID00097540	I'm not interested in talking, I only want to know where to head next.
+GID00097541	[Legion] You've been to Denver? That's Legion territory.
+GID00097542	Denver? What's that?
+GID00097543	"Denver hounds?" Denver's far to the East - Legion territory.
+GID00097544	Are you saying... they were here before all this destruction?
+GID00097545	Radiation from the War might have created them. Then detonations, quakes, caused them to surface?
+GID00097546	I've never been here before, at least not from this road.
+GID00097547	You keep saying that, as if you know where I was born - you don't.
+GID00097549	"The why of it?" You're the one who needs to answer that - why are you doing this?
+GID00097550	I've walked a lot of hard roads, Mojave and before. Doesn't mean anything.
+GID00097551	I had nothing to do with this.
+GID00097552	You're crazy. Your head's messed up worse than the Divide.
+GID00097553	Whatever you believe happened, you have it wrong.
+GID00097554	You're still making assumptions about all this.
+GID00097555	There is no other supply line to the Mojave beyond the Long 15.
+GID00097556	Maybe you should tell me what happened.
+GID00097557	You've been to Denver? That's Legion territory.
+GID00097558	Whatever they were carrying, they were fighting side by side with the ones in Legion armor.
+GID00097559	You said I brought it from the West?
+GID00097560	This package... I don't recall it.
+GID00097561	I've been West, it's possible, but...
+GID00097562	I'm not to blame for Ashton, the Chip, or the Divide.
+GID00097563	I'm not responsible for this, there's no way I could have known.
+GID00097564	You can't be sure it was me.
+GID00097565	I don't understand how a package could have done this.
+GID00097566	I had no idea the silo was active until the missile was in the air toward Hopeville.
+GID00097567	I didn't intend to set off that missile over the Divide.
+GID00097568	I've had enough of this - whatever your game, I'm done.
+GID00097569	So you're saying I walked this road once from another direction - from West to East. To home.
+GID00097570	There's nothing to keep me from walking out of here and letting you rot.
+GID00097571	You wanted me to come to the Divide, I'm here. Now what?
+GID00097572	On the High Road, you mentioned NCR and Legion fought here... before and after the Divide?
+GID00097573	I'm not done talking to you yet, there's more I want to know.
+GID00097574	That's what made the Legion come to the Divide.
+GID00097575	So you are part of the Legion. One of their scouts? Assassins?
+GID00097576	This is the first I've heard of Legion coming this far West of the Colorado.
+GID00097577	So what happened?
+GID00097578	I'm not interested in the history of this, we're done talking.
+GID00097579	You were planning to attack the NCR here, then.
+GID00097580	So the Legion doesn't know what happened here?
+GID00097581	How were you planning to attack the Divide?
+GID00097582	I found some recordings from you on the road.
+GID00097583	So... what, they weren't that important then?
+GID00097584	You wouldn't have recorded those messages if they didn't matter to you.
+GID00097585	In the logs... you mentioned a tribe called the Twisted Hairs - your tribe?
+GID00097586	The logs of the Big Empty mentioned you'd spoken to history.
+GID00097587	I found some recordings from you in Hopeville.
+GID00097588	When we first spoke in Hopeville, you mentioned you'd sworn not to kill me. Why?
+GID00097589	I found more recordings from you on the road.
+GID00097590	I... think they tell me... where you were. Things you did.
+GID00097591	No, there's a pattern. The more I hear, the more I understand your history.
+GID00097592	You're going after the Long 15? That's more miles than Legion can hold.
+GID00097593	I found some recordings from you on the road.
+GID00097594	I want to talk more about your recordings I found here in the Divide.
+GID00097595	So... what, they weren't that important then?
+GID00097596	You wouldn't have recorded those messages if they didn't matter to you.
+GID00097597	I... think they tell me... where you were. Things you did.
+GID00097598	I've been collecting them. Listen to you talk about history enough, maybe I'll understand.
+GID00097599	Before I go any farther, I deserve some answers.
+GID00097600	There's more I need to know.
+GID00097601	I want to know more about this package I delivered.
+GID00097602	What's our history? How do you know me?
+GID00097603	I don't understand why you didn't kill me in Primm.
+GID00097604	[Legion] You didn't kill me in Primm because you still thought I was Legion.
+GID00097605	You said you made a promise not to kill me. Why?
+GID00097606	But what was it?
+GID00097607	Something wrong? You sound... mad... at my robot.
+GID00097608	You have a lot of hate for the robot with me. I can hear it in your voice.
+GID00097609	What do you mean, "when it woke?"
+GID00097610	What do you mean?
+GID00097611	[NCR] NCR would have needed this supply line open to reinforce the Mojave - and Hoover Dam.
+GID00097612	[Legion] The Legion would want to cut this road off if it had been a supply line to Hoover Dam.
+GID00097613	Why did NCR want to keep the route open?
+GID00097614	So you blame me for this? An accident?
+GID00097615	This place was important to the Legion?
+GID00097616	So you're angry because I accidentally brought an explosive to the Divide?
+GID00097617	This is revenge for nearly killing you, then.
+GID00097618	This package... you said it had markings? What was it?
+GID00097619	Why would I have brought it here?
+GID00097620	Where is the package now?
+GID00097621	[Legion] I didn't side with the Legion until the Mojave.
+GID00097622	[Legion] I'll see that you answer for it.
+GID00097623	I'm no traitor, and when I walk, I don't hide my presence.
+GID00097624	What happened here was an accident. Any anger you have, let it go.
+GID00097625	Then you learned the wrong message.
+GID00097626	You want the robot? Why?
+GID00097627	What's so important about him?
+GID00097628	This road leads nowhere. There's nothing in the Divide.
+GID00097629	What makes you think this leads home?
+GID00097630	What? ED-E?
+GID00097631	ED-E's not going anywhere.
+GID00097632	If you think you can take it from me, try.
+GID00097633	You mentioned "casting off my disguise?" What do you mean?
+GID00097634	You're not taking ED-E from me.
+GID00097635	The Divide explosion... what, did I kill your family? Your wife - children?
+GID00097636	You said "brothers" before. So - you're Legion, too.
+GID00097637	When you speak of the dead - you mean the Marked Men? The Legion and NCR?
+GID00097638	[NCR] The dead? You mean the Republic troops who were here?
+GID00097639	[Legion] The dead? You mean your brothers in the Legion - our brothers.
+GID00097640	Sounds like the idea of a woman in the Legion surprises you.
+GID00097641	Then what? Did the Divide explosion kill your family? Your wife - children?
+GID00097642	If you're Legion, are you angry because I destroyed the Divide supply line instead of you?
+GID00097643	[Legion] Killing NCR, cutting off their supply line at the Divide serves Legion, as do we all.
+GID00097644	If you blame me for what happened here at the Divide - why do you care?
+GID00097645	You think I'm responsible for this. My question is what your tie to this place is.
+GID00097646	I'm glad this place burned... obviously, it meant something to you, which makes it even better.
+GID00097647	So you believed in this place. What it once was.
+GID00097648	If you cared about the Divide, then I'm sorry for what happened here.
+GID00097649	All things come to an end. If you put faith in something outside yourself, tough.
+GID00097650	And that's why you want me dead.
+GID00097651	So this is revenge, then. For destroying the Divide.
+GID00097652	If this is why you're angry, you've seen nothing yet.
+GID00097653	I don't understand. What message?
+GID00097654	Keep talking like that, I'll see you dead.
+GID00097655	At least I don't hide behind a machine like a coward.
+GID00097656	[Legion] Legion doesn't kill Legion. Caesar's orders?
+GID00097657	[Legion] You said you'd sworn not to kill me. If you're Legion, why are we at odds?
+GID00097658	[Legion] If I destroyed the NCR in this place, why do you care?
+GID00097659	[Legion] Are you angry that this explosion undermined the Legion's plans? It was an accident.
+GID00097660	[Legion] Seeing this place. It meant more to you than the Legion?
+GID00097661	[Legion] So... when you called me traitor in Hopeville, that title belongs to you.
+GID00097662	[Legion] Legion does not kill Legion - but you're not that anymore. I'm going to kill you.
+GID00097663	The Divide couldn't stop me, the Mojave couldn't kill me - you don't have much chance.
+GID00097664	I still don't understand - why are you doing this?
+GID00097665	What about the Marked Men?
+GID00097667	Forget this. I'm going to teach you what crossing the wrong Courier means.
+GID00097668	I wanted to hear more about Hoover Dam.
+GID00097669	I'll let your words answer it, from the tapes you left along the road to the Divide.
+GID00097670	"Who are you, who do not know your history?"
+GID00097671	The Divide's irradiated... are you sure you want to stay here?
+GID00097672	I had other questions.
+GID00097673	What's the Courier's Mile? Is that where the Ashton missile hit?
+GID00097674	If you meant to kill me, you should have done it long ago.
+GID00097675	[Legion] Being Frumentarii kept you from killing me in the past. You have no such defense now.
+GID00097676	So... you think dropping bombs on the Mojave is going to solve things?
+GID00097677	I need to know why you're doing this - not for my sake, for history's sake.
+GID00097678	Your tapes prove you've walked the Mojave, yet learned the wrong lessons.
+GID00097679	I believe destroying the symbol is never the answer. Changing it - that's something else.
+GID00097680	I don't think that's what's important here.
+GID00097681	I'm not talking about NCR or the Legion, I'm talking about our history.
+GID00097682	The Legion doesn't abide traitors. What made you turn from the East?
+GID00097683	Forget this. If you want an ending to things, let's do this.
+GID00097684	I don't care what happens to NCR, but I can't allow you to harm the Legion.
+GID00097685	Is this how it must end between us? You followed the East once, you can do so again.
+GID00097686	I know one person can break a nation. Legion tests nations, strengthens them - let it do so.
+GID00097687	You've wasted enough of my time. Get ready to die.
+GID00097688	I've heard enough. You're a Legion traitor, and now you'll die.
+GID00097689	What's the history of it?
+GID00097690	Can you share the recipe with me?
+GID00097691	Sounds useful. Have any to spare?
+GID00097693	Are you angry at all?
+GID00097695	I could care less about history - and even less about Caesar.
+GID00097696	You don't sound happy.
+GID00097697	Thought you might be glad House was dealt with.
+GID00097698	If Vegas falls apart, seems like more history will be lost.
+GID00097701	Who is Legate Lanius?
+GID00097702	Enough. Whatever waits at Hoover Dam, I'm ready.
+GID00097703	Enough. Whatever waits at Hoover Dam, I'm ready.
+GID00097704	What can you tell me about him?
+GID00097705	He's just one general. I can handle him.
+GID00097706	Well, if I were a slave or a dog, I'd be scared.
+GID00097707	Why is he coming West?
+GID00097708	Any idea on how to beat him?
+GID00097709	He must have a weakness.
+GID00097710	He crosses me, I'll break him.
+GID00097711	Other Legates?
+GID00097712	Other Legates? You mean Graham.
+GID00097713	What do you mean?
+GID00097715	I'll remember that.
+GID00097716	I'll remember that.
+GID00097717	We'll leave it to history, then.
+GID00097718	We'll leave it to history, then.
+GID00097719	In the logs of the White Legs, you mentioned your tribe, and its past.
+GID00097720	I don't have anything beyond words to change your mind. If you won't listen, it's over.
+GID00097721	You might not believe in nations. I do.
+GID00097722	[NCR] Even if you have no faith in the NCR, I do. My actions have proven it.
+GID00097723	[Legion] The Legion is stronger than you know. If you would judge them, hear me first.
+GID00097724	[Vegas] Even if you have no faith in Vegas, I do... and my actions have proven it.
+GID00097725	[NCR] You might not believe in nations. I do.
+GID00097726	[Legion] You might not believe in nations. I do.
+GID00097727	[Vegas] You might not believe in nations. I do.
+GID00097728	[Rep] You might not believe in nations. I do.
+GID00097729	Nothing more to say, I've already won. Everything you hate about me, you've become.
+GID00097730	If you blame me for the Divide, then let me answer for it, not others.
+GID00097731	What happened at the Divide, what I did, was an accident. What you're doing - it's madness.
+GID00097732	So, what - you intend to bomb the Mojave?
+GID00097733	This is between you and me, not anyone else.
+GID00097734	"You can go home again, Courier." Not a message for me, for you.
+GID00097736	You can't destroy the West, even with all the missiles here.
+GID00097737	Do you think I care if you fire missiles at NCR? Go ahead.
+GID00097738	Because it should be given a chance? Its people don't deserve what's about to happen.
+GID00097739	One can build a community, make it stronger. You saw it at the Divide, even blamed me for it.
+GID00097740	When all seemed lost, you asked it even though you feared the answer.
+GID00097741	Well, I just said all that because I'm betting you have some way to stop all this.
+GID00097742	I believe that one person can make... or break... a nation. You already know this.
+GID00097743	Even if the missiles launch, and I die here - if I can convince you, that's enough for me.
+GID00097744	The Divide? What do you mean?
+GID00097745	We've already handled everything it can throw at us.
+GID00097746	There still might be a way out of this - I just need time.
+GID00097747	Vegas earned its right to survive, its people don't deserve what's about to happen.
+GID00097748	You told me once I gave life to the Divide. I can do it again, and give life to Vegas.
+GID00097749	It was all you could say to prevent from being killed. That's what I'm hoping for here.
+GID00097750	If you bomb the West and East... is this how things should end?
+GID00097751	There is no honor in murder from a distance, NCR or Legion. You know this from the Divide.
+GID00097752	You were trapped, needed to escape, and needed the distraction. It was the key.
+GID00097753	The question reminded the ones you spoke to of their purpose, why they cared.
+GID00097754	Do you really think these missiles can kill everyone?
+GID00097755	If you believe the destruction of the Divide was just, then I cannot stop you.
+GID00097756	You said in the logs yourself that technology's a dead road. These missiles will solve nothing.
+GID00097758	By your standards? Or history's?
+GID00097759	It hasn't proven itself wrong. That's why the Legion and NCR conflict must continue. To test it.
+GID00097760	Any symbol deserves a chance to defend itself, by words or acts - not... this.
+GID00097761	But your tribe was New Canaan.
+GID00097762	The White Legs might as well have been your people.
+GID00097763	I'm talking about the past, in the respect they showed you.
+GID00097764	You're wrong, and you led them to destroy your tribe at New Canaan.
+GID00097766	In the death of that history, another was born, and you grew to respect the White Legs.
+GID00097767	But the Twisted Hairs survived, even after Caesar.
+GID00097768	So you carry two symbols then - the mark of America and the Twisted Hairs, neither dead.
+GID00097769	It's proof that killing a symbol is going to be harder than you thought.
+GID00097771	Maybe there's something similar to be said about that Old World flag on your back.
+GID00097772	If one Courier built a community, seems to me you can do the same.
+GID00097773	You're planning to kill a nation from a distance, just like NCR - just like you accused me of.
+GID00097774	Moral ground? What I did by accident, you're doing with purpose.
+GID00097776	If my words won't change your mind, what about the messages in the Eyebot?
+GID00097777	The Divide survived in you. If it felt like something fighting for, you can rebuild it.
+GID00097778	Look, just the fact we're talking should mean you don't want to do this.
+GID00097783	It has history inside it. The logs of what's left of "America."
+GID00097784	Its logs tell of a place where America survived... may still exist. And it's falling apart.
+GID00097785	The Eyebot was a courier, sent to the West, to make contact with the remnants of America.
+GID00097786	The package I brought was from Navarro, the Divide scanned ED-E's logs from the Mojave.
+GID00097787	You interrupted its journey West, trapped it. If any part of America survived, it's cut off now.
+GID00097788	I believe the missiles can't be stopped. If you believe me, though, we might get through this.
+GID00097789	The symbol you wear is dead, and you helped kill it. The question is - what will you do to fix it?
+GID00097842	<Stealth Protocol::Initiate>
+GID00097845	I want you to attack enemies the moment you see them.
+GID00097846	<Aggression Level::Aggressive>
+GID00097847	I want you not to attack enemies unless I've already engaged them.
+GID00097848	<Aggression Level::Passive>
+GID00097849	On second thought, stick with me for a little longer.
+GID00097850	Yes, I'm sure.
+GID00097854	I think we should travel together.
+GID00097855	Let's talk about your tactics.
+GID00097856	<Tactics Interface::Open>
+GID00097857	I want you to change your combat style.
+GID00097858	<Combat Interface::Open>
+GID00097859	Let's talk about something else.
+GID00097860	<Tactics Interface::Close>
+GID00097861	That's all. Let's get going.
+GID00097862	<Control Interface::Close>
+GID00097863	Switch to a melee weapon.
+GID00097864	<Weapon Type::Melee>
+GID00097865	I want you to use ranged weapons.
+GID00097866	<Weapon Type::Ranged>
+GID00097867	Let's talk about how close you're following me.
+GID00097868	<Follow Distance Protocol::Open>
+GID00097869	Stick close to me.
+GID00097870	Stay close to me.
+GID00097871	<Follow Distance::Close>
+GID00097872	Your distance is good. Let's talk about something else.
+GID00097873	<Follow Distance Protocol::Close>
+GID00097874	All right, you're good. Let's get out of here.
+GID00097875	<Control Interface::Close>
+GID00097876	Keep your distance. Try to flank them.
+GID00097877	<Follow Distance::Far>
+GID00097878	Enough about tactics.
+GID00097879	<Tactics Interface::Close>
+GID00097901	Let's trade equipment.
+GID00097902	<Storage::Open>
+GID00097903	It's time for us to part ways.
+GID00097904	I'm heading back to the Mojave to settle some things.
+GID00097905	I'm heading back to the Mojave to settle some things.
+GID00097906	Goodbye.
+GID00097907	Nothing more to say. I'll be going.
+GID00097909	PLAYER FIRE WEAPON
+GID00097910	PLAYER IN IRON SITES
+GID00097911	PLAYER LAY MINE
+GID00097912	PLAYER THROW GRENADE

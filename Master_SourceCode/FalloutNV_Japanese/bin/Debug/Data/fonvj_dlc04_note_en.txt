@@ -1,0 +1,76 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc04_note_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00097019	Dear diary,
+GID00097020	I think we did it! We finally convinced the Death Merchants to hear our beautiful Mother Earth's cries! I just had a personal meeting with the base commander, who said they would be taking a long, hard look at our demands and preparing something special for us. I can't wait to see what it is - I bet it's a full nuclear disarmament!
+GID00097021	Initial recon of the Divide has met with heavy resistance. These ghouls - the troopers have started calling them "Marked Men" - are smarter than the typical ferals we're used to. Yesterday we found some old Pre-War cages they've used to capture Deathclaws - God knows what they were planning to do with them, but one of the things must have escaped, judging from the carnage. I've ordered double watches until we find it.
+GID00097022	Eyebot Maintenance Bay Status:
+GID00097023	Pod 1 - INACTIVE/Unoccupied. Power diverted to Eyebot synthesis pod in main launch chamber.
+GID00097024	Pod 2 - ACTIVE/Unoccupied
+GID00097025	Pod 3 - INACTIVE/Unoccupied. Power diverted to Eyebot synthesis pod in main launch chamber.
+GID00097026	Swear to God, if I lose one more night of sleep over these noises I am going to strangle somebody. "Knocking pipes" my ass - do these slumlords think it's easy running the safety protocols for an entire ICBM launch complex on two hours sleep? It's a goddamn miracle nobody's started World War III over a low-flying titmouse.
+GID00097027	3rd Platoon, Cazador Company, 4th Ranger Battalion Action Report: Staff Sergeant Balmoral reporting. We've reached the area local tribes call "the Divide," but so far, I don't think this will be a suitable route for bringing troops to Hoover Dam. The terrain is a nightmare, we've seen evidence of hostile indigenous life, and the Geiger counters are ticking like grandfather clocks on Turbo.
+GID00097028	Full report when the advance scouts come back at 2300, but as of now I'm recommending we abandon this mission.
+GID00097029	Attention all base personnel:
+GID00097030	This is just a reminder that all base commissary terminals draw from the same central depository. Please do not waste your time or the technicians' by running from commissary to commissary. You won't get any more whiskey than you did from the first one.
+GID00097031	-SSGT Lansky
+GID00097032	"Minor and nothing to worry about." If that last quake wasn't a 5.0 at least, I'm Dean Domino. That's it, I'm requesting a transfer before the whole plaudsfg099io8u8ioi yti xciokghpt8i9io
+GID00097033	Attention all base personnel:
+GID00097034	We will soon play host to one of the greatest American patriots of our day, General Wellesley himself. For those of you whose family trees don't fork, the General is chief liaison officer to the Big MT Research Facility. He and his team are paying us a visit to collect our "guests" and take them someplace where they can do some good for their country beyond stinking of patchouli and shooting the LSD.
+GID00097035	Commander Devlin
+GID00097037	|MINUTEMAN XI - CONSTANTINE
+GID00097038	|LAUNCH PROTOCOL 10.77
+GID00097039	|SECURITY CLEARANCE ALPHA
+GID00097041	|EAM CLEARANCE: G 5 S S 1 8
+GID00097042	|* * >> USAF DEFCON
+GID00097043	|* * >> EXEC:'BAGMAN'
+GID00097045	|AUTH CODE: 0000000000
+GID00097047	|RESPONSE SCENARIO MX-CN91
+GID00097048	|ICBM RESPONSE/NUCLEAR
+GID00097049	|BASE COMMAND EYES ONLY
+GID00097051	If you find this, my name is James Rubinek. I'm a trader from the Hub - thought I'd found a new route to markets east. Guess now I know why no routes go through this Godforsaken place. Leg's broken, can't get out, and even if I could there's those crazed ghouls and those digging things waiting for me.
+GID00097052	Please, get this note to my ex-wife, Anna. Tell her what happened. Tell her how I died. And I guess you can tell that cheating bitch I hope she's happy with that limp-dick Rory Spencer.
+GID00097053	- Level One: Security Measures INACTIVE - Perimeter breach contained.
+GID00097054	- Level Two: Security Measures ACTIVE - Operations area secured.
+GID00097055	- Level Three: Security Measures INACTIVE - System failure. Please contact technical support
+GID00097056	Somebody from the Political Office should keep an eye on those guys down at the water treatment plant. That's the third request for extra funds I've had to deny this month - do they think we're made of money? I swear, it's like they want the Communists to win....
+GID00097057	Attention all base personnel:
+GID00097058	The automated Commissary system has been locked down until further notice. It turns out that the "counterfeit-proof" pay chits we've been issuing to you are exactly the same size and shape as ordinary bottlecaps. Until we can correct the problem, you'll have to make your purchases the old-fashioned way.
+GID00097059	-SSGT Lansky
+GID00097060	You have found a Flash Bang grenade! Flash Bangs are special grenades that:
+GID00097061	- Deal Fatigue damage.
+GID00097062	- Reduce enemy weapon skills.
+GID00097063	- Have a chance to Frenzy Tunnelers.
+GID00097064	Jesus, this place is a hellhole. I heard it was bad from some of the guys coming back, but... Jesus. Henriksen bought it when one of those unexploded warheads went off, and Jenkins... those things got him. I don't know what they were exactly - ghouls, maybe, but nasty fuckers. LT thinks they were drawn by the explosion that killed Henriksen. I think we're all gonna die here.
+GID00097065	At 0600 hours, Bravo Team will conduct sweep-and-clear operations in advance of the main force. Early intelligence suggests the tunnels are only sparsely populated by small, subterranean semi-humanoids, which are easily cowed by bright light and loud noises. Bravo Team has been issued flashbang grenades for this purpose, and is expected to meet minimal resistance.
+GID00097066	General,
+GID00097067	We found a seized shipment of Chinese "Red Victory" model grenade launchers and thought you might like to have one for yourself. They're quicker to reload then our "Great Bears," but they don't pack quite the same punch. Still, it'll be nice to give those bastards a taste of their own medicine if it comes to that, right?
+GID00097068	Main Power: Offline.
+GID00097069	Emergency Power: Standby.
+GID00097070	Maintenance Report:
+GID00097071	- Level One: Non-Operational - Security measures INACTIVE.
+GID00097072	- Level Two: Non-Operational - Security measures INACTIVE.
+GID00097073	- Level Three: Non-Operational - Security measures INACTIVE.
+GID00097074	Main Power: On-line.
+GID00097075	Emergency Power: Standby.
+GID00097076	Maintenance Report:
+GID00097077	- Level One: Operational on main power - Security measures INACTIVE.
+GID00097078	- Level Two: Operational on main power - Security measures ACTIVE.
+GID00097079	- Level Three: Operational on main power - Security measures INACTIVE.
+GID00097080	Eyebot Maintenance Bay Status:
+GID00097081	Pod 1 - INACTIVE/Unoccupied. Power diverted to Eyebot synthesis pod in main launch chamber.
+GID00097082	Pod 2 - ACTIVE/Occupied. Estimated Eyebot damage: 0% Please contact an administrator to remove this Eyebot from its pod.
+GID00097083	Pod 3 - INACTIVE/Unoccupied. Power diverted to Eyebot synthesis pod in main launch chamber.
+GID00097084	Attention All Base Personnel:
+GID00097085	DO NOT engage the protestors outside the construction zone. I know, I know, the presence of those freedom-loving no-goodniks fills my brain with the WHITE-HOT RAGE OF CAPITALIST JUSTICE, but the Political Office has something planned for them, and you mooks better not screw it up.
+GID00097086	Commander Devlin
+GID00097087	Fantastic. Now there's earthquakes. Earthquakes! Sure, Commander Devlin says they're minor ones and nothing to worry about, but come on. EARTHQUAKES. Did no one think to check fault lines before they built a massive UNDERGROUND MISSILE COMPLEX?
+GID00097088	Your tax dollars at work, folks. Swear to God, when my term's up I'm moving to Canada.
+GID00097089	3rd Platoon, Cazador Company, 4th Ranger Battalion Action Report, addendum: Staff Sergeant Balmoral reporting again. Looks like we aren't the only ones that had the idea to check this place out. Our advance scouts encountered heavy Legion activity in the area. The troopers are gearing up to hit them tonight - hopefully before they know we're here.
+GID00097090	Listen here you pinko Commie-eyed puke, I got your lily-livered defeatest e-mails. I ignored them because they made me THROW UP IN MY MOUTH! Do you understand we're fighting a war here?! Against the REDS? And the only thing standing between you and hot atomic Armageddon is ME and my base full of GIANT NUCLEAR MISSILES? Answer me this, Specialist Buttinski: if the American people are overrun by Kremlin Joe and his Chicom cronies, what good will clean drinking water be?
+GID00097091	Commander Devlin
+GID00097092	Commander Devlin,
+GID00097093	I apologize for e-mailing you again, but I still haven't received a response to my previous seven e-mails. Once again, we DESPERATELY need more funding to improve safety protocols at the water treatment plant. Current protocols are absolutely appalling, and I don't even want to think about the consequences of a failure on the local water supply.
+GID00097094	Specialist Alan Rothchild
+GID00097095	This hand written note contains the recipe for Bitter Drink. (The recipe is now unlocked for the campfire crafting station.)

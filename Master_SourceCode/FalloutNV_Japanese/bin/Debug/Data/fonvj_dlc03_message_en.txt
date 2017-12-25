@@ -1,0 +1,258 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc03_message_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00090989	The Hazmat Suit Containment Unit requires a security code to disable the force field.
+GID00090991	Leave.
+GID00090992	The Barber module of the Auto-Doc now available.
+GID00090994	A strange feeling of pacifism comes over you, and you find you cannot draw your weapon for some reason.
+GID00090996	The Cosmetic Surgery module of the Auto-Doc is now available.
+GID00090998	Select desired recalibration setting for Sonic Emitter.
+GID00091001	"The Opera Singer"
+GID00091002	"Gabriel's Bark"
+GID00091003	"Revelation"
+GID00091004	"Robo-Scorpion"
+GID00091005	"Tarantula"
+GID00091006	This is your original heart. Your new heart seems to be working just fine, however.
+GID00091007	Thanks to the information imparted by your own brain (oddly enough), you're now able to put your original heart back in place by using the Sink's Auto-Doc.
+GID00091010	Do Nothing.
+GID00091011	Process Seed into Planter.
+GID00091012	Convert Plant Matter into Salient Green.
+GID00091013	You have gained the Heartless perk.
+GID00091015	You lack the necessary items. (1 Vodka, 1 Mutant Cave Fungus, 1 Salient Green)
+GID00091017	Do Nothing.
+GID00091018	Perform surgery to install cybernetic implants?
+GID00091020	Do Nothing.
+GID00091021	Install Implant C-13: +10% Cazador damage. (8,000 caps)
+GID00091022	Install Implant M-5: Increased speed while crouched. (10,000 caps)
+GID00091023	Install Implant Y-3: Drinking radiation removed. (12,000 caps)
+GID00091024	Install Implant Y-7: Bonus HP/AP from food. (20,000 caps)
+GID00091025	Leaving radiation Atomic! Perk weakened.
+GID00091027	Insert holotape to restore advanced functions.
+GID00091029	You don't have any Appliances to destroy or Saturnite Fists to super heat!
+GID00091031	Insert holotape to restore advanced functions.
+GID00091033	This snow globe has been added to the collection at the Lucky 38.
+GID00091035	Old World Blues has been loaded. Your level cap has been raised by 5.
+GID00091037	The crashed satellite seems to be the source of the strange transmission you received.
+GID00091038	Old World Blues is recommended for experienced Couriers (Level [%]+).
+GID00091039	You have a premonition that while you'll be unable to return to the Mojave until you solve the mysteries of the Big Empty, you WILL be able to take anything you can carry with you, and you WILL be able to return to the Big Empty any time after completing Old World Blues.
+GID00091040	If you are up to the challenge (and you have all you want to carry with you), examine the satellite a little closer... the atomic wonders of Science! await.
+GID00091042	Leave it alone.
+GID00091043	Take a closer look at the satellite.
+GID00091044	Select organ to replace (associated perks will also be replaced).
+GID00091046	Do Nothing.
+GID00091047	Insert your Brain back into your skull.
+GID00091048	Place your Heart back in your chest.
+GID00091049	Re-attach your Spine.
+GID00091050	Replace your Brain with the synthetic version.
+GID00091051	Swap your Heart for the synthetic version.
+GID00091052	Switch your Spine for the synthetic version.
+GID00091053	Upgrade holotape received... upgrading 'Secondary Materials Mulching' functionality. (Pencils and Clipboards are processed into Lead, Spare Parts, and Duct Tape.)
+GID00091055	Implant C-13 surgically installed (+10%% Cazador damage).
+GID00091057	Implant M-5 is now available for surgical installation.
+GID00091059	You have gained the Spineless perk.
+GID00091061	DNAvenger Perk Rank Increased
+GID00091062	Further study of the abominations created at the Big MT has granted you an additional damage bonus (+10%%) against Cazadores.
+GID00091064	This is your heart. Apparently, cranial surgery complications required its removal, and until your brain is returned, your heart can't be trusted to keep beating in your body. Your new heart seems to be working just fine, however.
+GID00091066	You don't have any Coffee Mugs or Dishes for Muggy and Muggy doesn't have any Electronic Components for you!
+GID00091068	Remove your spine?
+GID00091070	Yes
+GID00091071	No
+GID00091072	Personality files detected. Installing...
+GID00091074	You have lost the Heartless perk.
+GID00091076	Backup holotape received, installing files... unlocking advanced functions...
+GID00091079	Do Nothing.
+GID00091080	Fill Empty Bottles.
+GID00091081	Drink.
+GID00091082	To activate this terminal, please equip the Stealth Suit Mk II.
+GID00091084	Sonic Emitter EM Pulse Wave Unlocked! The Sonic Emitter can disable force fields.
+GID00091086	Upgrade holotape received... adding K9000 weapon mod "Mentat Chow" to vendor inventory.
+GID00091088	The Sonic Emitter is required to enter this test.
+GID00091090	Voice module disabled at Sink Central Intelligence Unit.
+GID00091092	You don't have any empty bottles to fill!
+GID00091094	Spineless "Perk"
+GID00091095	Due to complications with the procedure, your spine has been replaced as well: Your torso can no longer be crippled and your Strength (STR) and Damage Threshold (DT) have been increased (+1).
+GID00091097	You have gained the Reinforced Spine perk.
+GID00091099	Test failed. You have been detected.
+GID00091101	You feel strangely heavier. A quick inspection of your body reveals faint surgical scars around your head, chest, and back...
+GID00091103	Based on the other tanks in the room, you can safely assume this where your brain would be floating. It's currently missing from both the tank and its proper place in your head, but you seem to be doing just fine without it.
+GID00091105	Personality files damaged or missing. Insert backup holotape to restore files.
+GID00091107	Your brain used to float here.
+GID00091109	Upgrade holotape received... adding K9000 weapon mod "Resla Roil" to vendor inventory.
+GID00091111	You don't have any materials to process!
+GID00091113	Sonic Emitter - Revelation now available in the vendor interface.
+GID00091115	Perimeter Warning!
+GID00091117	You have lost the Cardiac Arrest perk.
+GID00091119	Stealth Suit Mk II v1.4 Downloaded! (+ Sneak Speed)
+GID00091121	The device won't function while you're in an interior.
+GID00091123	Test failed. You left the test area.
+GID00091125	Implant Y-3 removed ingested radiation.
+GID00091127	Personality files damaged or missing. Insert backup holotape to restore files.
+GID00091129	Test Completed!
+GID00091130	Your reward stipend has been placed in the Reward Safe next to the Test Terminal. Congratulations!
+GID00091132	Upgrade holotape received... adding LAER weapon mod "Auxiliary Recharger Clip" to vendor inventory.
+GID00091134	You don't have any Coffee Mugs or Dishes for Muggy!
+GID00091136	DNAvenger Perk Granted
+GID00091137	Studying the abominations created at the Big MT has granted you a damage bonus (+10%%) against Cazadores.
+GID00091139	Are you sure you wish to teleport to the Mojave?
+GID00091141	Never mind. Stay where I am.
+GID00091142	Take me to the Mojave.
+GID00091143	Implant GRX depleted until 2400 hours
+GID00091145	You've gotten a fragmented signal on your Pip-Boy - a coded transmission of some sort with a sad, jazzy undercurrent that makes your head hurt. As far as you can tell, it appears to be an invitation to the Midnight Science-Fiction Feature! at the Mojave Drive-In (please arrive early to catch the trailers).
+GID00091147	Heartless "Perk"
+GID00091148	The scars on your chest seem to confirm what the Think Tank is saying... you cannot be poisoned, and filters in your artificial blood pump will regulate bleeding and healing, allowing all healing items (chems) to function at a higher level (+25%%). Robots are now confused by you and 50%% less likely to score a critical hit.
+GID00091150	This Laser Tripwire Emitter is armed.
+GID00091151	(Repair [%] or higher required) or
+GID00091152	(Science [%] or higher required)
+GID00091154	Leave it alone.
+GID00091155	Disarm the Laser Tripwire Emitter.
+GID00091156	Hack the Laser Tripwire Emitter's IFF Circuit.
+GID00091157	Advanced functions file damaged. Insert backup holotape to restore file.
+GID00091159	Replace your spine?
+GID00091161	Yes
+GID00091162	No
+GID00091163	Implant C-13 is now available for surgical installation.
+GID00091165	Soundfile "Robo-Scorpion" available for the Sonic Emitter.
+GID00091167	You don't have the caps for that procedure.
+GID00091169	You have found a recalibration file for the Sonic Emitter. Take it to the Jukebox in the Sink to recalibrate the Sonic Emitter for new effects.
+GID00091171	Soundfile "Opera Singer" available for the Sonic Emitter.
+GID00091173	Replace your brain?
+GID00091175	Yes
+GID00091176	No
+GID00091177	Advanced functions file damaged. Insert backup holotape to restore file.
+GID00091179	Here is your spine. Without a brain stem to snap it on to, here it floats. Your back doesn't feel any different from the spine's removal - if anything, whatever was placed in there makes you feel stronger.
+GID00091181	Remove your brain?
+GID00091183	Yes
+GID00091184	No
+GID00091185	You don't have enough caps to buy that item.
+GID00091187	Cardiac Arrest "Perk"
+GID00091188	Your heart is back in your body, but some advanced technologies remain: You are less resistant to poison (50%%) and robots are only somewhat confused by you (25%% less likely to score a critical hit) now. But on the bright side, healing items (chems) are twice as effective! (+50%%)
+GID00091190	You can't use this while you're crouched.
+GID00091192	Dr. Klein awaits. Make sure you're prepared to finish this once and for all.
+GID00091194	Soundfile "Gabriel's Bark" available for the Sonic Emitter.
+GID00091196	Stealth Suit Mk II v1.3 Downloaded! (+1 AGL)
+GID00091198	Test failed. You touched a tripwire.
+GID00091200	Give me one of your Sonic Emitters to recalibrate.
+GID00091202	Do Nothing.
+GID00091203	"The Opera Singer"
+GID00091204	"Gabriel's Bark"
+GID00091205	"Revelation"
+GID00091206	"Robo-Scorpion"
+GID00091207	"Tarantula"
+GID00091208	Remove your heart?
+GID00091210	Yes
+GID00091211	No
+GID00091212	The Laser Tripwire Emitter is currently off.
+GID00091214	You have gained the Brainless perk.
+GID00091216	Restoring Jukebox backup files... restarting Jukebox...
+GID00091218	You don't have any items to process!
+GID00091220	Upgrade holotape received... upgrading 'Water Purification' functionality (any empty bottle converted to a bottle of Purified Water).
+GID00091222	This option doesn't seem to be available right now. Some sort of control override must be in place.
+GID00091224	Replace your heart?
+GID00091226	Yes
+GID00091227	No
+GID00091228	You have obtained the Aural Stealth Suit! Not only can it be upgraded through testing in X-13, it also has Med-X and Stimpak reserves for all your pain-dampening needs! (Med-X and Stimpaks not included.)
+GID00091230	Upgrade holotape received... adding LAER weapon mod "Prismatic Lens" to vendor inventory.
+GID00091232	Soundfile "Tarantula" available for the Sonic Emitter.
+GID00091234	Big Brained "Perk"
+GID00091235	Your brain is back in your body, but some of the advanced technologies remain: Your head still cannot be crippled, but you are only 10%% more resistant to addiction now. Surprisingly your damage threshold has improved by 10%% (minimum +1 DT).
+GID00091237	Reinforced Spine "Perk"
+GID00091238	Your spine is back in your body, but some advance technologies remain: Your torso can now be crippled again, but your Strength (STR) and Damage Threshold (DT) bonuses have doubled! (+2)
+GID00091240	Test failed. A robot was destroyed.
+GID00091242	The schematics for the X-2 Antenna have been uploaded to the Think Tank.
+GID00091244	This ancient Nuka-Cola machine has been modified to accept bottlecaps as payment. It seems to be automatically restocked every few days.
+GID00091246	Leave it alone.
+GID00091247	Nuka-Cola: 20 caps.
+GID00091248	Nuka-Cola Quantum: 30 caps.
+GID00091249	Nuka-Cola Quartz: 40 caps.
+GID00091250	Nuka-Cola Victory: 75 caps.
+GID00091251	Attached to the still is a note with the following ingredients; 1 Vodka, 1 Mutant Cave Fungus, 1 Salient Green.
+GID00091253	Do Nothing.
+GID00091254	Make Battle Brew. (1 Bottle)
+GID00091255	Make 6-Pack of Battle Brew. (6 Bottles)
+GID00091256	Make a Case of Battle Brew. (12 Bottles)
+GID00091257	Implant M-5 surgically installed (increased crouch speed).
+GID00091259	Your original spine used to float here.
+GID00091261	Here is your original spine. You seem to be doing just fine with the replacement spine, fortunately.
+GID00091262	Thanks to the information imparted by your own brain (oddly enough), you're now able to put your original spine back in place by using the Sink's Auto-Doc.
+GID00091264	Nothing happens since the midnight showing at the Mojave Drive-in hasn't started yet.
+GID00091266	You have gained the Cardiac Arrest perk.
+GID00091269	Do Nothing.
+GID00091270	Process Coffee Mugs and Dishes.
+GID00091271	Collect Electronic Components.
+GID00091273	Do Nothing.
+GID00091274	Process Toasters and Appliances.
+GID00091275	Super heat Saturnite Fist.
+GID00091276	Enemy frenzied!
+GID00091278	The device only works when you're in the exteriors of the Mojave Wasteland or Big MT. Certain locations in the Mojave will still prevent teleportation, however.
+GID00091280	You have lost the Brainless perk.
+GID00091282	Atomic! Perk energized by radiation.
+GID00091284	Backup holotape received, installing files... unlocking advanced functions...
+GID00091286	You can't investigate the satellite while you're in combat.
+GID00091288	The Cosmetic Surgery module of the Auto-Doc is currently missing and must be requisitioned.
+GID00091290	You use up the set's supply of chemicals to create a chem.
+GID00091292	Soundwave transducer restricted to Sonic Emitter recalibration.
+GID00091294	Are you sure you wish to teleport to The Sink?
+GID00091296	Never mind. Stay where I am.
+GID00091297	Take me to The Sink.
+GID00091298	Upgrade holotape received... upgrading 'Parts Production' functionality (supply of Energy Cells, Microfusion Cells, and Scrap Electronics available once per day).
+GID00091300	Jukebox files damaged. Insert backup holotape to restore files.
+GID00091302	Upgrade holotape received... upgrading to 'Smart Lights' functionality... (+2 INT, +5 Repair, +5 Science for 12 hours after initial exposure)
+GID00091304	Stealth Suit Mk II v1.1 Downloaded! (+10 Sneak)
+GID00091306	The Giant Robo-Scorpion's power system has recovered from the power surge that disabled it!
+GID00091308	Implant Y-3 is now available for surgical installation.
+GID00091310	Test failed. You have been spotted by a patrol.
+GID00091312	You have lost the Reinforced Spine perk.
+GID00091314	Your original heart used to be floating in here.
+GID00091316	You have gained the Big Brained perk.
+GID00091318	You've acquired the Big Mountain Transportalponder! It's capable of transporting you - and you alone - between the Mojave Wasteland and Big MT.
+GID00091319	To return to the Mojave (or go back to Big MT from the Mojave), simply equip the Transportalponder! as you would any weapon, pull the trigger, and away you'll go. Note that it won't work in interiors or in combat situations, and is totally incapable of harming your enemies.
+GID00091321	You have lost the Spineless perk.
+GID00091323	You have successfully hacked the emitter.
+GID00091325	Implant Y-7 surgically installed (bonus HP/AP from food).
+GID00091327	Implant Y-7 is now available for surgical installation.
+GID00091329	Place Sonic Emitter on soundwave transducer for recalibration.
+GID00091331	Do Nothing.
+GID00091332	"The Opera Singer"
+GID00091333	"Gabriel's Bark"
+GID00091334	"Revelation"
+GID00091335	"Robo-Scorpion"
+GID00091336	"Tarantula"
+GID00091337	Brainless "Perk"
+GID00091338	Your brain has been replaced with advanced technologies: Your head can no longer be crippled and is resistant to chem addiction (+25%% resistance) and shock from bodily damage (+5%% Damage Threshold, minimum +1).
+GID00091340	Your brain floats here. You seem to be doing just fine without it.
+GID00091342	Stealth Suit Mk II v1.2 Downloaded! (+1 PER)
+GID00091344	The schematics for the Stealth Suit Mk II have been uploaded to the Think Tank.
+GID00091346	This prototype Auto-Doc is capable of performing a thorough physical exam and curing the patient of all common ailments - radiation sickness, lacerations, broken bones, even chemical addictions. In addition, it can also give haircuts and perform cosmetic surgery.
+GID00091348	Do Nothing.
+GID00091349	Basic Physical Exam.
+GID00091350	Initiate Cosmetic Surgery.
+GID00091351	Get a Haircut.
+GID00091352	Swap Body Parts.
+GID00091353	Install Implants.
+GID00091354	DNAgent Perk Granted
+GID00091355	Your study of the abominations created at the Big MT has granted you a damage bonus (+10%%) against Nightstalkers.
+GID00091357	Enemy struck by acid
+GID00091359	The Gabriel's Bark audio frequency sample has been uploaded to the Think Tank.
+GID00091361	The Barber module of the Auto-Doc is currently missing and must be requisitioned.
+GID00091363	You are now completely healthy.
+GID00091366	Do Nothing.
+GID00091367	Process Books.
+GID00091368	Process Pencils.
+GID00091369	Process Clipboards.
+GID00091370	Implant Y-3 surgically installed (removes drinking radiation).
+GID00091372	You must dismiss any followers before the teleporter device will function.
+GID00091374	Upgrade holotape received... upgrading to 'Mood Lighting' functionality. (+2 CHA, +5 Barter, +5 Speech for 12 hours after initial exposure)
+GID00091376	The Auto-Doc's Psychiatric Evaluation will allow you to re-define the Traits you selected when you created your character. You may only do this once - are you sure you want to proceed?
+GID00091378	No, thanks, I'll wait.
+GID00091379	Yes, twist my psyche into new and exciting shapes!
+GID00091380	The device won't function while you're still in combat.
+GID00091383	Lights On
+GID00091384	Lights On
+GID00091385	Lights On
+GID00091386	Lights Off
+GID00091387	Standard Lighting
+GID00091388	Smart Lights (+2 INT, +5 Repair, +5 Science for 12 hours after initial exposure)
+GID00091389	Mood Lighting (+2 CHA, +5 Barter, +5 Speech for 12 hours after initial exposure)
+GID00091390	New soundfile available for the Sonic Emitter.
+GID00091392	You have lost the Big Brained perk.

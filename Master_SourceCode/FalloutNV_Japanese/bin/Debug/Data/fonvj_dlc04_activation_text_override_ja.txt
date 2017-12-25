@@ -1,0 +1,40 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc04_activation_text_override_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00097914	核弾頭を調べる
+GID00097915	核弾頭を調べる
+GID00097916	ポスターを調べる
+GID00097917	Blood-Napを取る
+GID00097918	バラストを遠隔操作で起動する
+GID00097919	Hopeville Missile Siloへ行く
+GID00097920	The Divideへ行く
+GID00097921	トンネルに入る
+GID00097922	the Templeへのエレベーター
+GID00097923	the Ashton Missile Silo行きのリフトを稼働させる
+GID00097924	Cottonwood Cove行きのボートに乗る
+GID00097925	Hopeville Siloの電源を回復させる
+GID00097926	Dry Wells行きのボートに乗る
+GID00097927	Courier's Mileへ行く
+GID00097928	the Lonesome Roadへ行く
+GID00097929	Red Glareを拾う
+GID00097930	The High Road行きのリフトに乗る
+GID00097931	Ashton Missile Silo行きのリフトに乗る
+GID00097932	死んだMarked Manを調べる
+GID00097933	死んだMarked Manを調べる
+GID00097934	死んだMarked Manを調べる
+GID00097935	死んだMarked Manを調べる
+GID00097936	死んだMarked Manを調べる
+GID00097937	死んだMarked Manを調べる
+GID00097938	死んだMarked Manを調べる
+GID00097939	死んだMarked Manを調べる
+GID00097940	死んだMarked Manを調べる
+GID00097941	レバーを引く
+GID00097942	Laser Detonatorを拾う
+GID00097943	Ashton Siloを開く
+GID00097944	Mojave Wastelandに出る
+GID00097945	The Divideへ行く
+GID00097946	崩壊した陸橋トンネルに入る
+GID00097947	メンテナンスエリアへのエレベータ
+GID00097948	崩壊した陸橋トンネルから出る
+GID00097949	The High Roadへ入る

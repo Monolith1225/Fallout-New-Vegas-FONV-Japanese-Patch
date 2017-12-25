@@ -1,0 +1,41 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc03_body_part_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00088744	Mouth Monitor
+GID00088745	Brain
+GID00088746	Eye Monitors
+GID00088747	Chassis
+GID00088748	Weapon
+GID00088749	Eye Monitors
+GID00088750	Right Legs
+GID00088751	Right Legs
+GID00088752	Right Legs
+GID00088753	Right Legs
+GID00088754	Left Legs
+GID00088755	Left Legs
+GID00088756	Left Legs
+GID00088757	Left Legs
+GID00088758	Right Claw
+GID00088759	Left Claw
+GID00088760	Stinger
+GID00088761	Body
+GID00088762	Right Legs
+GID00088763	Right Legs
+GID00088764	Right Legs
+GID00088765	Right Legs
+GID00088766	Left Legs
+GID00088767	Left Legs
+GID00088768	Left Legs
+GID00088769	Left Legs
+GID00088770	Right Claw
+GID00088771	Left Claw
+GID00088772	Stinger
+GID00088773	Body
+GID00088774	Invulnerable Hologram
+GID00088775	Torso
+GID00088776	Right Legs
+GID00088777	Right Legs
+GID00088778	Left Legs
+GID00088779	Left Legs
+GID00088780	Head

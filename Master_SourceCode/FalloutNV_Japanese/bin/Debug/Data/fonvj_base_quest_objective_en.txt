@@ -1,0 +1,1032 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_base_quest_objective_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00053739	Enter the facility and discover the source of the ghouls.
+GID00053740	Speak with Jason Bright, the leader of the REPCONN ghouls.
+GID00053741	Head up to the viewing platform and complete the launch sequence.
+GID00053742	Speak to Chris Haversam about fixing the rockets.
+GID00053743	(Optional) Sabotage the rockets so that they crash on launch.
+GID00053744	Find atomic fuel for the rockets.
+GID00053745	Find parts to fix the rockets' thrust controllers.
+GID00053746	Get rid of the Nightkin in the basement.
+GID00053747	(Optional) Search the nearby room for the Stealth Boy shipment the Nightkin are looking for.
+GID00053748	Return to the Rocket Facility and give the fuel to Chris Haversam.
+GID00053749	Return to the Rocket Facility and give the parts to Chris Haversam.
+GID00053750	Report to Jason Bright that the Nightkin are gone.
+GID00053751	Bring 3 Sugar Bombs to Chris Haversam.
+GID00053752	(Optional) Find Harland's friend, who has been imprisoned by the nightkin.
+GID00053753	Talk to Chris Haversam to begin preparations for the rocket launch.
+GID00053754	(Optional) Return to Harland and let him know the bad news.
+GID00053755	Head upstairs to meet with the owner of the voice from the intercom.
+GID00053756	Head to the REPCONN facility west of Novac to investigate rumors of ghoul activity there.
+GID00053757	(Optional) Find the leader of the "demons" and speak with him.
+GID00053758	Head to the REPCONN basement and talk to Jason Bright about what comes next.
+GID00053759	(Optional) Return to Davison with news that the Stealth Boys are not in the REPCONN facility.
+GID00053760	(Optional) Ask around the saloon in Goodsprings for information about your attackers.
+GID00053761	Find the men who tried to kill you.
+GID00053762	Inquire about your delivery assignment with the administrator of the Mojave Express in Primm.
+GID00053763	Head to Novac through Nipton. Ask around Novac about your attackers.
+GID00053764	Intercept the Great Khans at Boulder City.
+GID00053765	Discover the current location of the Platinum Chip.
+GID00053766	(Optional) Talk to Victor in Goodsprings about your rescue.
+GID00053767	Find out from Manny Vargas where the Khans were headed.
+GID00053768	Find Primm's lawman to get information on where your attackers went.
+GID00053769	Get Beagle's Journal from his corpse to get information on your attackers.
+GID00053770	Search Manny's body for clues about your attackers' whereabouts.
+GID00053771	Listen to Beagle's journal to get information on where your attackers have gone.
+GID00053772	Deal with Chavez.
+GID00053773	Track down the suspicious merchant and get rid of him.
+GID00053774	Talk to the locals in Primm and learn what - if anything - the NCR is planning for the correctional facility.
+GID00053775	Tell Eddie that you dealt with Chavez.
+GID00053776	Return to Eddie.
+GID00053777	Report back to Eddie with information on the NCR's planned attack.
+GID00053778	Rendezvous with Sergeant Lee.
+GID00053779	Kill Eddie.
+GID00053780	Return to Eddie.
+GID00053781	(Optional) Betray Eddie by offering Lieutenant Hayes assistance in retaking the prison.
+GID00053782	Travel to Bitter Springs with Boone.
+GID00053783	Primm's Deputy has been captured by Powder Gangers in Bison Steve and needs to be rescued.
+GID00053784	Beagle has been rescued from the Bison Steve. Talk to him about protecting the town.
+GID00053785	Beagle wants a new sheriff for Primm. He suggested an ex-sheriff at NCRCF and the NCR as potential candidates.
+GID00053786	With Beagle dead, Johnson Nash requested help finding a new sheriff. He suggested the NCR or an ex-sheriff at NCRCF.
+GID00053787	Meyers, a former sheriff from NCRCF, is willing to be Sheriff of Primm if he gets a pardon from the NCR.
+GID00053788	Beagle is dead. Find someone to speak to about helping Primm.
+GID00053789	Hayes and the NCR will protect Primm if they get some additional military personnel.
+GID00053790	Return to Meyers and let him know NCR has pardoned him and he can take over as sheriff.
+GID00053791	Major Knight promised additional troops for Primm. Speak to Hayes about NCR protection for Primm.
+GID00053792	(Optional) Reprogram Primm Slim to be sheriff of Primm.
+GID00053793	Connect to the HELIOS One mainframe from the western reflector control terminal.
+GID00053794	Connect to the HELIOS One mainframe from the eastern reflector control terminal.
+GID00053795	Restore power to the HELIOS One mainframe via an auxiliary generator.
+GID00053796	Use the HELIOS One mainframe to send power to a destination of your choosing.
+GID00053797	Initiate reflector retargeting from the console on the tower observation deck.
+GID00053798	Talk to the idiot wearing sunglasses in the back of the HELIOS One plant building.
+GID00053799	Talk to Fantastic.
+GID00053800	Talk to Ignacio.
+GID00053801	OPTIONAL: Arm ARCHIMEDES security system to wipe out all nearby NCR soldiers.
+GID00053802	Search the suitcase at Sloan for the chemical supply shipment.
+GID00053803	Check with Chomps Lewis about the empty suitcase in his office.
+GID00053804	Acquire the chem shipment from Tyrone in Primm.
+GID00053805	Return to Melissa with the chem shipment.
+GID00053806	(Optional) Expose the Great Khan smuggling operation to Lieutenant Hayes.
+GID00053807	Expose the Great Khan smuggling operation to Lieutenant Hayes.
+GID00053808	Deliver the Crimson Caravan invoice to Doctor Hildern at Camp McCarran.
+GID00053809	Alice McLafferty, owner of the Crimson Caravan Company, has additional jobs available.
+GID00053810	Negotiate with Cass to buy out Cassidy Caravans for the Crimson Caravan Company.
+GID00053811	Return to Alice McLafferty and let her know you've delivered the invoice.
+GID00053812	Tell Alice McLafferty that the Crimson Caravan Company now owns Cassidy Caravans.
+GID00053813	Convince Henry Jamison to quit his position at the Crimson Caravan Company.
+GID00053814	Let Alice McLafferty know that Henry Jamison's employment has been terminated.
+GID00053815	(Optional) Acquire the Gun Runners' secret manufacturing specifications from their factory.
+GID00053816	Hand the Gun Runners' manufacturing specifications over to Alice McLafferty.
+GID00053817	Tell Alice McLafferty that Cass is dead.
+GID00053818	Talk to Captain Curtis.
+GID00053819	Ask around about suspicious activity at Camp McCarran.
+GID00053820	Investigate the late-night break-ins at the Camp McCarran control tower.
+GID00053821	Find and defuse the bomb on the McCarran monorail before it leaves the terminal.
+GID00053822	Report to Colonel Hsu.
+GID00053823	Pick up the explosives and bomb ingredients in the trash can by the ticketing counter at the Camp McCarran terminal building.
+GID00053824	Plant an explosive charge in a vent at the back wall of the McCarran monorail car.
+GID00053825	Get off the train and watch it depart.
+GID00053826	Plant a fission battery, conductor, Wonderglue, a box of Abraxo Cleaner, and the plans inside Private Crenshaw's footlocker.
+GID00053827	Report to Colonel Hsu and frame Private Crenshaw.
+GID00053828	Return to Captain Curtis.
+GID00053829	Kill Private Crenshaw.
+GID00053830	Offer to help Colonel Hsu find the spy.
+GID00053831	Pick up the explosives in the in the trash can by the ticketing counter at the Camp McCarran terminal building.
+GID00053832	Report Colonel Hsu's refusal to Captain Curtis.
+GID00053833	Eavesdrop on the radio transmission.
+GID00053834	See if you can assist Captain Curtis in his operation at Camp McCarran.
+GID00053835	Find the Sunset Sarsaparilla Headquarters and speak to Festus.
+GID00053836	Return to Festus with enough Sunset Sarsaparilla Star Caps to earn a prize!
+GID00053837	Head to the Sunset Sarsaparilla prize closet to receive your real prize.
+GID00053838	Speak to Lieutenant Romanowski about the water shortage.
+GID00053839	Check the East Pump Station computer for evidence of a water shortage.
+GID00053840	Return to Lieutenant Romanowski with the information you uncovered from the East Pump Station.
+GID00053841	Catch someone in the act of stealing water from one of the western cisterns.
+GID00053842	Talk to Wrench about the water shortage.
+GID00053843	Buy Wrench's Super Tool Kit back from Angelo's Pawn Shop and find out what he knows about the water shortage.
+GID00053844	Confront Anderson about the water shortage.
+GID00053845	Complete the White Wash to resolve the mystery of the missing water.
+GID00053846	Enter Vault 22 and download the research data found there.
+GID00053847	Return to Dr. Hildern at Camp McCarran with the research data.
+GID00053848	(Optional) Find Keely, a researcher who has gone missing at Vault 22.
+GID00053849	Meet Keely at her base of operations on the second level.
+GID00053850	Find the vents Keely is pumping gas through and somehow ignite the gas.
+GID00053851	Return to Camp McCarran and tell Dr. Williams that Keely is safe.
+GID00053852	Return to Keely and let her know the spores have been purged.
+GID00053853	Talk to Dazzle about the missing Corporal White.
+GID00053854	Find out what Trent Bascom knows about Corporal White.
+GID00053855	Speak with Lieutenant Romanowski about Corporal White.
+GID00053856	Ask Tom Anderson about Corporal White's whereabouts.
+GID00053857	Find someone else in Westside who may have seen Corporal White.
+GID00053858	Follow Hector during the day and find out where he's getting his water.
+GID00053859	Confront Anderson about Corporal White's disappearance.
+GID00053860	Speak with Etienne to complete your "business" arrangement with Anderson.
+GID00053861	Tell Lieutenant Boyd what happened to Corporal White.
+GID00053862	Kill Anderson.
+GID00053863	(Optional) Look through Corporal White's personal effects in his locker in the McCarran Concourse area.
+GID00053864	Deal with the newcomers.
+GID00053865	Deal with the band of troublemakers.
+GID00053866	Talk to Mrs. Hostetler.
+GID00053867	Find information about Alice Hostetler's new friends.
+GID00053868	No sign of either Alice or Andy. Inspect The Gray for clues to their whereabouts.
+GID00053869	Talk to Crandon about the greasers in the sewers.
+GID00053870	Talk to Crandon about the newcomers.
+GID00053871	Look for Alice Hostetler and her friend, Andy, in the building named The Gray.
+GID00053872	Tell Mrs. Hostetler about Andy's plan to steal the Crimson Caravan Money.
+GID00053873	(Optional) Help Andy with his plan to steal the Crimson Caravan money from the Hostetlers.
+GID00053874	Alice almost attacked her mother. She decided to let go and stay with her parents.
+GID00053875	Alice attacked her house. She decided to run away from New Vegas.
+GID00053876	Alice attacked her house. She died after attacking her mother.
+GID00053877	Alice attacked her house. After attacking her mother, both of them died.
+GID00053878	Alice almost attacked her mother, but instead left New Vegas to find her own path.
+GID00053879	Get the Crimson Caravan money.
+GID00053880	Although saddened by Alice's escape, Mrs Hostetler wanted to live up to her end of the deal.
+GID00053881	Mrs Hostetler wanted to live up to her end of the deal, and was relieved that Alice decided to stay with them.
+GID00053882	There was no Crimson Caravan money.
+GID00053883	Talk to Mrs. Hostetler.
+GID00053884	Mrs. Hostetler was devastated after Alice's death. She won't be of help anymore.
+GID00053885	Mrs. Hostetler was devastated after Alice's escape. She won't be of help anymore.
+GID00053886	Crandon died. You can't help him any longer.
+GID00053887	Kill Violet and acquire her head - preferably intact.
+GID00053888	Kill Cook-Cook and acquire his head - preferably intact.
+GID00053889	Kill Driver Nephi and acquire his head - preferably intact.
+GID00053890	Return to Major Dhatri with Violet's head and collect the bounty.
+GID00053891	(Optional) Enlist the help of Lieutenant Gorobets and his First Recon snipers to take down Driver Nephi.
+GID00053892	Return to Major Dhatri wtih Cook-Cook's head and collect the bounty.
+GID00053893	Return to Major Dhatri with Driver Nephi's head and collect the bounty.
+GID00053894	Major Dhatri has bounties available. Speak to him about receiving a mission or turning in a bounty.
+GID00053895	(Optional) Kill Cook-Cook's favorite brahmin, Queenie, to cause him to go berserk and attack friends and foes alike.
+GID00053896	(Optional) Speak with Little Buster about Cook-Cook.
+GID00053897	Travel to Westside and speak with Saint James about the missing NCR refugees.
+GID00053898	Search Dermot's room at the Casa Madrid Apartments for evidence.
+GID00053899	Search Saint James' room at the Casa Madrid Apartments for evidence.
+GID00053900	(Optional) Confront Dermot or Saint James with the evidence you've gathered.
+GID00053901	(Optional) Kill Saint James and Dermot.
+GID00053902	Tell Captain Parker what happened to the missing refugees.
+GID00053903	Help the Boomers around Nellis.
+GID00053904	Return to Pearl.
+GID00053905	Speak to Loyal about the Boomer's plan to raise the bomber from the bottom of Lake Mead.
+GID00053906	Attach the ballast from Loyal to the B-29 at the bottom of Lake Mead
+GID00053907	[Optional] Talk to Jack about getting a rebreather to swim to the bottom of Lake Mead.
+GID00053908	[Optional] Jack needs some parts from a pressure cooker to finish his rebreather.
+GID00053909	Return to the shore near the tow winch and use Loyal's detonator to float the B-29 to the surface.
+GID00053910	Return to Loyal to let him know the B-29 is up from the bottom of the lake.
+GID00053911	Let Pearl know your job is done.
+GID00053912	Help the Misfits improve their shooting skills.
+GID00053913	Fake the Misfits' readiness reports.
+GID00053914	Help the Misfits improve their grenade skills.
+GID00053915	Talk to the Misfits about improving their squad.
+GID00053916	Talk to Sgt. McCredie about the Misfits' improvement.
+GID00053917	Get drugs from Jack at Red Rock Canyon.
+GID00053918	Return the drugs to Razz.
+GID00053919	Convince the Misfits to work together.
+GID00053920	Talk to Mags about further improvements.
+GID00053921	Talk to Mags about the squad's readiness.
+GID00053922	Return to Poindexter and tell him about the altered records.
+GID00053923	Return to O'Hanrahan.
+GID00053924	Convince Mags to respect the squad and work with them.
+GID00053925	Convince Razz to respect the squad and work with them.
+GID00053926	Convince Poindexter to respect the squad and work with them.
+GID00053927	Walk to the Vit-o-matic Vigor Tester.
+GID00053928	Use the Vit-o-matic Vigor Tester.
+GID00053929	Sit down on the couch in Doc Mitchell's living room.
+GID00053930	Follow Doc Mitchell to the exit.
+GID00053931	Talk to Sunny Smiles about fighting the Powder Gangers.
+GID00053932	(Optional) Enlist the help of Trudy.
+GID00053933	(Optional) Convince Chet to open his store's stock to the town.
+GID00053934	(Optional) Acquire Easy Pete's dynamite.
+GID00053935	Return to Ringo when you're ready for the gunfight with the Powder Gangers.
+GID00053936	Defeat the Powder Gangers.
+GID00053937	Return to Ringo and let him know that Sunny Smiles has agreed to help you fight the Powder Gangers.
+GID00053938	Offer to help Ringo deal with the Powder Gangers.
+GID00053939	(Optional) Acquire additional medical supplies from Doc Mitchell.
+GID00053940	Join up with Sunny.
+GID00053941	Go to the Sunset Sarsaparilla Prize Vault to collect your prize.
+GID00053942	(Optional) Loyal may have something to help with the ants.
+GID00053943	Restart the 2 array generators, then reset the main power breaker.
+GID00053944	(Optional) Place Loyal's sonic generator on the ant mound.
+GID00053945	Kill all ants in the generator room.
+GID00053946	Return to Raquel and let her know the generators are running again.
+GID00053947	(Optional) Activate the sonic emitter.
+GID00053948	Shoot 3 sarsaparilla bottles outside the Prospector Saloon.
+GID00053949	Meet Sunny Smiles behind the Prospector Saloon.
+GID00053950	Follow Sunny.
+GID00053951	Kill the Geckos at the well.
+GID00053952	Talk to Sunny Smiles.
+GID00053953	Kill the Geckos at the other wells.
+GID00053954	Talk to Sunny about your reward.
+GID00053955	Go and meet Trudy at the Prospector Saloon.
+GID00053956	Talk to Sunny Smiles in the Prospector Saloon.
+GID00053957	Travel to the Ranger Station Alpha and update security protocols.
+GID00053958	Travel to the Ranger Station Bravo and update security protocols.
+GID00053959	Travel to the Ranger Station Charlie and update security protocols.
+GID00053960	Travel to the Ranger Station Delta and update security protocols.
+GID00053961	Travel to the Ranger Station Echo and update security protocols.
+GID00053962	Travel to the Ranger Station Foxtrot and update security protocols.
+GID00053963	Alpha Station updated.
+GID00053964	Bravo Station updated.
+GID00053965	Charlie Station updated.
+GID00053966	Delta Station updated.
+GID00053967	Echo Station updated.
+GID00053968	Foxtrot Station updated.
+GID00053969	Travel to the Ranger Stations and update the radio security systems.
+GID00053970	Discovered truth behind Alpha Station casualty figures.
+GID00053971	Learned about unecessary supplies being sent to Bravo Station.
+GID00053972	Determined the status of Charlie Stations medical supplies.
+GID00053973	Spoke to eyewitness and disproved rumor of Caesar's Super mutants.
+GID00053974	Investigated the discrepency in Echo Stations enemy sightings.
+GID00053975	Speak with Ranger Chief Hanlon
+GID00053976	Follow up on Sgt. Reyes' list of questionable reports.
+GID00053977	Return to Sgt. Reyes with news of Hanlon.
+GID00053978	Return to Sgt. Reyes.
+GID00053979	Found out truth behind trained Deathclaw rumor.
+GID00053980	Return to Sgt. Reyes.
+GID00053981	Ask around the Ultra-Luxe for information regarding Ted Gunderson's disappearance.
+GID00053982	Inquire with Mortimer at the Ultra-Luxe about the investigator.
+GID00053983	Get into the investigator's room at the Ultra-Luxe.
+GID00053984	Meet with the investigator's contact in the Ultra-Luxe steam room at 4pm.
+GID00053985	Find a way to gain access to the Members Only section of the Gourmand.
+GID00053986	(OPTIONAL) Find a sponsor to help you join the White Glove Society.
+GID00053987	(OPTIONAL) Alert Heck Gunderson to his son's situation.
+GID00053988	Get Ted back to his father if he is still alive.
+GID00053989	Talk to Heck Gunderson.
+GID00053990	Talk to Ted Gunderson, who's being held in a room beneath the Gourmand.
+GID00053991	Talk to Carlyle St. Clair at his residence north of the Strip.
+GID00053992	Secure an acceptable replacement for Ted Gunderson as the White Glove Society's main course.
+GID00053993	(OPTIONAL) Get rid of Philippe and cook for the banquet using his recipe for human flesh.
+GID00053994	(OPTIONAL) Drug the wine at the White Glove Society banquet.
+GID00053995	(OPTIONAL) Use the intercom to call in the head waiter.
+GID00053996	(OPTIONAL) Bring Ted to the Members Only section to expose Mortimer at the end of his banquet speech.
+GID00053997	Return to Mortimer in the Ultra-Luxe.
+GID00053998	Collect samples off of Ted's corpse for use in framing his father.
+GID00053999	Distribute your samples around Heck Gunderson's bed and sink in his Ultra-Luxe penthouse suite.
+GID00054000	Send a securitron from the Strip to investigate Heck Gunderson's suite.
+GID00054001	Kill Ted Gunderson.
+GID00054002	Drag Carlyle's body into the dumpster alongside his house.
+GID00054003	Return Ted to his father at the Ultra-Luxe's Top Shelf bar.
+GID00054004	(OPTIONAL) Lock one of your human companions in the Ultra-Luxe kitchen freezer as a replacement for Ted.
+GID00054005	Search the Investigator for clues.
+GID00054006	Hire a guard named Orris near the northern gate of Freeside.
+GID00054007	Follow Orris to the south gate and watch for any suspicious behavior.
+GID00054008	Go to the Old Mormon Fort and question some injured Locals about their assailants.
+GID00054009	Return to the King with your findings.
+GID00054010	Head to one of the Squatter camps in Freeside and learn why NCR soldiers have been entering the area.
+GID00054011	(Optional) Talk to Julie Farkas and see if the Followers know anything about the situation.
+GID00054012	Return to the King and inform him of the NCR supply drops.
+GID00054013	Return to the King and report what you've learned about Orris.
+GID00054014	Return to the King and report that Orris is dead.
+GID00054015	Investigate rumors of free food and water being handed out nightly in the northwest part of Freeside.
+GID00054016	Head to the supply drop building and see if Pacer needs any help.
+GID00054017	Ask around the Squatter camp to find a lead regarding why NCR soldiers are in Freeside.
+GID00054018	Return to the King and report that Orris is gone.
+GID00054019	(Optional) Talk to Major Elizabeth Kieran, and mention Julie Farkas if she's reluctant to help.
+GID00054020	Kill all of the NCR troops holed up by the train station in northwest Freeside.
+GID00054021	Return to the King and let him know the NCR troops in Freeside are taken care of.
+GID00054022	(Optional) Inform the King that the NCR previously sent an envoy to discuss distributing supplies to Freeside.
+GID00054023	Head to the train station in northwest Freeside and try to negotiate with the NCR.
+GID00054024	Return to the King and let him know the situation with the NCR has been defused.
+GID00054025	Return to the King and report that you've learned nothing about Orris.
+GID00054026	Hire Orris again and watch for suspicious behavior.
+GID00054027	Find Jacob Hoff.
+GID00054028	Help Bill Ronte with his alcoholism.
+GID00054029	Find Bill Ronte.
+GID00054030	Collect ten doses of Fixer for Jacob.
+GID00054031	Help Jacob Hoff kick his addiction to chems.
+GID00054032	Take care of the drug dealer.
+GID00054033	Collect two doses of Fixer, Rad-Away, and a bottle of Whiskey for Bill.
+GID00054034	Return to Julie Farkas.
+GID00054035	Optional - Collect one dose each of Fixer, Psycho, and Buffout for Jacob.
+GID00054036	Optional - Collect two doses of Fixer and a bottle of Whiskey for Bill.
+GID00054037	Recruit a real ghoul cowboy.
+GID00054038	Recruit a suave talker.
+GID00054039	Recruit a sexbot.
+GID00054040	Return to James Garret.
+GID00054041	Tell James Garret Fisto will be joining the Wrangler.
+GID00054042	Tell James Garret Santiago will be joining the Wrangler.
+GID00054043	Tell James Garret Beatrix will be joining the Wrangler.
+GID00054044	Tell James Garret Old Ben will be joining the Wrangler.
+GID00054045	The suitable suave talkers are dead.
+GID00054046	The ghoul cowboy is dead.
+GID00054047	The sexbot was destroyed.
+GID00054048	I turned in McCaffery's hat to Francine and recieved my reward.
+GID00054049	Collect 138 caps from Grecks in Freeside.
+GID00054050	Collect 212 caps from Santiago in Freeside.
+GID00054051	Kill Caleb McCaffery.
+GID00054052	Find and collect 250 caps from Lady Jane.
+GID00054053	Find Lady Jane's caravan and collect caps from the remains.
+GID00054054	Return to Francine with 600 caps.
+GID00054055	Return to Francine with 388 caps.
+GID00054056	Return to Francine with McCaffery's hat.
+GID00054057	Meet with Jessup, leader of the Great Khans in Boulder City.
+GID00054058	Help the NCR kill all the Great Khans holed up in the Boulder City ruins.
+GID00054059	(Optional) Bribe the NCR troopers into letting the Great Khans escape.
+GID00054060	Return to Lieutenant Monroe and inform him that you've worked out a deal with the Great Khans.
+GID00054061	Free the NCR troopers being held hostage by the Great Khans.
+GID00054062	Tell Jessup the Great Khans are free to go.
+GID00054063	Negotiate for the release of the NCR hostages.
+GID00054064	Help the Great Khans kill all the NCR troops in the Boulder City ruins.
+GID00054065	Speak with Lieutenant Monroe.
+GID00054066	Talk to Cachino in Gomorrah for Mick. Someone in the casino should know how to contact him.
+GID00054067	Talk to Cachino about suspicious Omerta activities, perhaps someone else in Gomorrah knows how to find him.
+GID00054068	Check Cachino's room or his person for some proof of his behavior. Perhaps someone has a key to his room.
+GID00054069	Cachino's Journal should have enough proof to get him talking.
+GID00054070	(Optional) Let Mick and Ralp know why the Omertas stopped buying their guns.
+GID00054071	(Optional) Help Mick and Ralph get Omerta business again
+GID00054072	Let Mick and Ralph know the Omertas have room in their budget to buy guns from them again.
+GID00054073	Sell Cachino's journal back to him and help take down the bosses, or show it to the bosses to get on their good side.
+GID00054074	Talk to Troike about mysterious gun shipments
+GID00054075	Find out what kind of work Clanden does for the family.
+GID00054076	Something about Troike's story doesn't sit well. Talk to Big Sal, or look around for some evidence to exonerate him.
+GID00054077	Troike would like help talking Big Sal into letting him out of his contract.
+GID00054078	Show the blackmail proof from Big Sal to Troike.
+GID00054079	Big Sal agreed to let Troike out of his contract. Return to Troike and let him know the good news.
+GID00054080	Use Troike's thermite to destroy the guns in the storage room.
+GID00054081	Troike should have had enough time to destroy the guns by now. Return to Cachino to let him know.
+GID00054082	Return to Cachino and let him know the guns have been destroyed.
+GID00054083	Clanden has been taken care of, and won't be able to help the Omertas anymore. Cachino should be informed.
+GID00054084	Go to Cachino and the Omerta bosses to meet with them and take them out.
+GID00054085	Cachino has agreed to take out the Omerta bosses during our meeting with them. Go to Cachino when you are ready.
+GID00054086	The door guard suggested talking to Big Sal or Nero about Cachino's journal.
+GID00054087	Attend Cachino's business meeting with Big Sal.
+GID00054088	Attend Cachino's business meeting with Nero.
+GID00054089	Talk to Troike to see what kind of help you can give him.
+GID00054090	Check with Clanden to see what kind of help he needs.
+GID00054091	Bring chlorine to Clanden. Check near the pool at the Ultra-Luxe, or find out who supplies them.
+GID00054092	Recover a stolen shipment of weapon parts from the Fiends.
+GID00054093	Let the bosses know that Clanden and Troike both have everything they need
+GID00054094	Show Cachino these tapes from Clanden's safe, or confront Clanden with them.
+GID00054095	(Optional) Kill Clanden
+GID00054096	(Optional) Use the tapes to convince Clanden to betray the family
+GID00054097	(Optional) Turn Clanden's tapes into the NCR so Clanden can be charged with murder.
+GID00054098	Troike is going to destroy the guns for me. I should head out of the casino to give him time.
+GID00054099	The Omertas are an enemy and will no longer accept assistance. The surviving bosses have gone into hiding.
+GID00054100	Talk to the receptionist in Gomorrah about Omerta activities.
+GID00054101	Cachino is dead, speak to the boss about what to do next.
+GID00054102	Carlitos wants to meet Joana in Freeside, between midnight and dawn. Explain the plan to Joana.
+GID00054103	(Optional) Carlitos suggests getting backup before attempting the escape. Find the two guns-for-hire that owe him a favor.
+GID00054104	Talk to Joana, on Carlitos' behalf, at Gomorrah.
+GID00054105	Joana has decided to stay at Gomorrah, for now. Talk to Carlitos about her decision.
+GID00054106	Joana has decided to escape Gomorrah. Talk to Carlitos about her decision.
+GID00054107	Joana agreed to Carlitos' plan. Talk to her once you're ready to escort her during the escape.
+GID00054108	The help of two expert shooters is secured - granting extra protection during the escape.
+GID00054109	I decided to tell Cachino about Joana's intentions to escape. He wants me to turn the hired guns on Carlitos at the meeting.
+GID00054110	Find Carlitos to help Joana escape Gomorrah.
+GID00054111	Joana is safely delivered to Carlitos. The Omertas who set up the ambush are gone.
+GID00054112	Joana will wait, in disguise, at Gomorrah's lobby. Go there and lead the girls to Freeside.
+GID00054113	Joana is free and reunited with Carlitos. She spoke about rumors of a sinister Omertas' operation.
+GID00054114	Joana died. You can no longer help Carlitos to get her back.
+GID00054115	Carlitos died and will never be reunited with Joana.
+GID00054116	Joana was left on her own as she tried to escape Gomorrah.
+GID00054117	Joana is dead. You can no longer help her.
+GID00054118	Carlitos is dead. You can no longer help him.
+GID00054119	Help Joana, and the girls, in their escape to Freeside.
+GID00054120	Michael Angelo wants pictures of famous signs around New Vegas.
+GID00054121	Take a picture of the Bison Steve sign.
+GID00054122	Take a picture of Novac's Dinosaur Thermometer.
+GID00054123	Take a picture of the Sunset Sarsaparilla Headquarter's Bottle sign.
+GID00054124	Take a picture of the HELIOS One sign.
+GID00054125	Take a picture of the McCarran Airfield sign.
+GID00054126	Return to Michael Angelo for your reward.
+GID00054127	Michael Angelo died. You won't be able to help him any longer.
+GID00054128	Confront Benny at The Tops casino.
+GID00054129	Go to the Presidential Suite.
+GID00054130	Survive the Ambush.
+GID00054131	Search Benny's suite.
+GID00054132	Search Benny's Room.
+GID00054133	Kill Benny.
+GID00054134	Search the Strip for the man who shot you.
+GID00054135	Assassinate Benny.
+GID00054136	Recover the Platinum Chip.
+GID00054137	[Optional] Deliver the Chip to Yes-Man.
+GID00054138	Follow Benny to his suite and talk to him.
+GID00054139	Search for Benny and the Platinum Chip at Caesar's camp at Fortification Hill.
+GID00054140	Locate Benny at Fortification Hill.
+GID00054141	Find Entertainers for the Tops (4 remaining).
+GID00054142	Talk to Tommy Torini at the Tops.
+GID00054143	Find Entertainers for the Tops (1 remaining).
+GID00054144	Find Entertainers for the Tops (2 remaining).
+GID00054145	Find Entertainers for the Tops (3 remaining).
+GID00054146	Talk to Tommy Torini at the Tops.
+GID00054147	Talk to Tommy Torini at the Tops.
+GID00054148	Talk to Tommy Torini at the Tops.
+GID00054149	Quest Completed
+GID00054150	Convince James Garret to let Hadrian out of his contract.
+GID00054151	Tell Hadrian you've gotten him out of his contract.
+GID00054152	Convince the Boomers to aid you in the upcoming battle.
+GID00054153	Return to Ambassador Crocker and let him know the Boomers will help you.
+GID00054154	Return to Ambassador Crocker and let him know the Boomers will not help you.
+GID00054155	The Boomers will help.
+GID00054156	The Boomers will not help.
+GID00054157	Take Rex to Doctor Henry in Jacobstown to learn how he can be fixed.
+GID00054158	Acquire a new brain for Rex from one of Old Lady's Gibson's dogs.
+GID00054159	(Optional) Search for an exceptional canine brain among Caesar's Legion.
+GID00054160	(Optional) Search for an exceptional canine brain among the Fiends.
+GID00054161	Return to Jacobstown and have Rex's brain transplant performed.
+GID00054162	Talk to Julie Farkas about what can be done to help Rex.
+GID00054163	Return to the King with the news that Rex can be healed.
+GID00054164	Sarah Weintraub needs to restock her Vault related supplies and will pay well for them.
+GID00054165	Bug an access point to the Lucky 38's data network for the Followers of the Apocalypse.
+GID00054166	Return to Emily Ortal on the New Vegas strip with news that the tower has been bugged.
+GID00054167	Disable the Lucky 38's network encryption from three executive consoles.
+GID00054168	Kill the Raiders.
+GID00054169	Find out the purpose behind Heck Gunderson's visit to the Ultra-Luxe.
+GID00054170	Heck Gunderson is looking for his disappeared son. Talk to Walter Phebus about this.
+GID00054171	Take care of Ted Gunderson for Walter Phebus.
+GID00054172	Take care of Heck Gunderson for Walter Phebus.
+GID00054173	Take care of both Heck, and Ted Gunderson, for Walter Phebus.
+GID00054174	Ted's a goner. Talk to Walter about this.
+GID00054175	Heck Gunderson's dead. Talk to Walter about this.
+GID00054176	Heck, and Ted, Gunderson are taken care of. Talk to Walter about this.
+GID00054177	Walter has let go of his will for revenge, and can now return with Ethel to their ranch.
+GID00054178	(Optional) Ethel Phebus wants her husband, Walter, to forget about Heck Gunderson and return to their ranch.
+GID00054179	Walter's dead. You can't help him, or Ethel, any longer.
+GID00054180	Ethel's dead. You can't help her, or Walter, any longer.
+GID00054181	Walter was happy to hear of Heck Gunderson's demise. He decided to take Ethel back to their home.
+GID00054182	Against Ethel's will, Walter was happy to hear of Heck Gunderson's demise. He decided to take Ethel back to their home.
+GID00054183	The Gundersons are dealt with. Walter was happy to hear the news, and took Ethel back to their home.
+GID00054184	Walter was happy about Heck Gunderson's suffering, although he lamented Ted's death. He decided to take Ethel back to their home.
+GID00054185	Talk to Walter Phebus when you are ready to help him.
+GID00054186	Talk to Walter Phebus about Heck Gunderson's demise.
+GID00054187	Ted's dead. Take care of Heck Gunderson.
+GID00054188	Heck's dead. Take care of Ted Gunderson.
+GID00054189	Rescue the NCR hostages from the Techatticup mine.
+GID00054190	Report back to Private Renolds.
+GID00054191	The NCR Hostages are dead.
+GID00054192	Kill Pacer in a way that implicates someone other than the NCR, or talk the King into ceasing hostilities with the NCR.
+GID00054193	(Optional) Kill Pacer in a way that implicates the Van Graff family.
+GID00054194	(Optional) Kill Pacer by adding Psycho to his Jet.
+GID00054195	Return to Ambassador Crocker with news of Pacer's death.
+GID00054196	(Optional) Perform tasks for the King in order to get on his good side.
+GID00054197	Return to Ambassador Crocker with the news that the King has agreed to cease hostilities.
+GID00054198	Return to Ambassador Crocker with the news that the King will not curb the violence in Freeside.
+GID00054199	Speak with Colonel Moore at Hoover Dam for further instructions regarding the situation in Freeside.
+GID00054200	(Optional) Speak with Colonel Hsu in Camp McCarran for further instruction regarding the situation in Freeside.
+GID00054201	Go to the Kings' School of Impersonation and deliver an ultimatum to the King, backed by a squad of NCR Troopers.
+GID00054202	Go to the Kings' School of Impersonation and offer the King official NCR support if he ceases hostilities.
+GID00054203	Return to Ambassador Crocker and report that the King has agreed to the ultimatum and will cease hostilities.
+GID00054204	Return to Ambassador Crocker and report that the Kings have been wiped out.
+GID00054205	Return to Ambassador Crocker and report that the King has accepted Colonel Hsu's pledge of NCR support.
+GID00054206	Return to Ambassador Crocker and report that the Kings have been wiped out.
+GID00054207	Help the NCR Troopers kill all the Kings.
+GID00054208	Stop Pacer from ruining the deal between the King and the NCR.
+GID00054209	Restoring Hope Completed
+GID00054210	Go to HELIOS One to ask about Forlorn Hope supplies.
+GID00054211	Speak to Major Polatli.
+GID00054212	Return the supplies to Quartermaster Mayes.
+GID00054213	Talk to Quartermaster Mayes.
+GID00054214	Meet with Dr. Richards.
+GID00054215	Help Dr. Richards with his patients.
+GID00054216	Return to Major Polatli.
+GID00054217	Tell Polatli about the victory at Nelson.
+GID00054218	Meet with Sergeant Cooper.
+GID00054219	Defeat the Legion at Nelson.
+GID00054220	Follow the GPS marker to the Forlorn Hope supplies.
+GID00054221	Return to Dr. Richards.
+GID00054222	Search Camp Forlorn Hope for clues about the missing medical supplies.
+GID00054223	Report your findings to Dr. Richards.
+GID00054224	I informed Dr. Richards that Private Stone was stealing supplies.
+GID00054225	Return to Dr. Richards.
+GID00054226	Stake out the Camp Forlorn Hope Medical Center at night.
+GID00054227	The NCR are looking for Holotags to restock their supplies.
+GID00054228	Obtain proper surgical tools.
+GID00054229	Perform brain surgery on Caesar to remove the tumor which is killing him.
+GID00054230	(Optional) Kill Caesar during the procedure.
+GID00054231	Go outside and talk to Simon.
+GID00054232	Take up position on the other side of the Silver Rush entrance.
+GID00054233	Guard the Silver Rush entrance.
+GID00054234	Report back to Gloria.
+GID00054235	Deliver the package to a man at the designated location.
+GID00054236	Report back to Gloria that the package has been delivered.
+GID00054237	Talk to Jean-Baptiste to receive your next assignment.
+GID00054238	Find Rose of Sharon Cassidy and get her to follow you.
+GID00054239	Bring the Cassidy girl to Jean-Baptiste.
+GID00054240	Report to Gloria Van Graff for your next assignment.
+GID00054241	Kill the remaining Legion troops.
+GID00054242	(Optional) Visit Alice McLafferty, who might know where Rose of Sharon Cassidy is currently located.
+GID00054243	Report to Gloria Van Graff that all of the Legion troops are dead.
+GID00054244	Return to the Silver Rush in Freeside and Tell Jean-Baptiste that the Cassidy girl is dead.
+GID00054245	Acquire a set of surgical tools.
+GID00054246	Perform brain surgery on Caesar to remove the tumor which is killing him.
+GID00054247	(Optional) Kill Caesar during the procedure. It might look natural...
+GID00054248	A Doctor's Bag is also necessary to perform the surgery.
+GID00054249	Acquire a functional diagnostic scanning module for Caesar's Auto-Doc.
+GID00054250	Install the replacement diagnostic scanning module into Caesar's Auto-Doc.
+GID00054251	Use the Auto-Doc to cure Caesar.
+GID00054252	(Optional) Use the Auto-Doc to kill Caesar.
+GID00054253	(Optional) Have Arcade Gannon enslaved as Caesar's personal physician.
+GID00054254	Kill all NCR Officers at Camp Forlorn Hope
+GID00054255	Return to Dead Sea and inform him of your victory
+GID00054256	Get a replacement firing mechanism for the Legion's howitzer from the Boomers.
+GID00054257	Install the replacement firing mechanism into the Legion's howitzer.
+GID00054258	Inform Lucius that the howitzer has been repaired.
+GID00054259	Retrieve the firing mechanism from the Boomers' workshop.
+GID00054260	Legion Ears are in demand. Bring them to Sexton to boost morale.
+GID00054261	Find Martina Groesbeck.
+GID00054262	Eliminate the Omerta thugs sent to kill Martina.
+GID00054263	Return to Vulpes and let him know Martina's safe.
+GID00054264	Return to Vulpes and let him that Martina is dead.
+GID00054265	Kill the NCR Hostages.
+GID00054266	Return to Milo at the NCR Checkpoint.
+GID00054267	Earn the trust of the Boomers and forge an alliance between them and the Legion.
+GID00054268	Help Mortimer revert the White Glove Society to cannibalism.
+GID00054269	Bring the Legion's offer of alliance to Marjorie of the White Glove Society.
+GID00054270	Destroy the Brotherhood of Steel's bunker.
+GID00054271	(Optional) Kill the Boomer leadership to neutralize the Boomers as a threat to the Legion.
+GID00054272	Inform Caesar that the Boomers will support the Legion against the NCR.
+GID00054273	Inform Caesar that the Boomers have been neutralized as a threat.
+GID00054274	Inform Caesar that the White Glove Society won't support the Legion.
+GID00054275	Inform Caesar that the White Glove Society is now an ally of the Legion.
+GID00054276	Bring the Legion's offer of alliance to Mortimer of the White Glove Society.
+GID00054277	Tell Caesar that the Brotherhood of Steel threat has been neutralized.
+GID00054278	Tell Caesar that you were able to acquire the Brotherhood of Steel's help against the NCR.
+GID00054279	Travel to Cottonwood Cove and take the barge up the river to the Fort.
+GID00054280	Speak with Caesar.
+GID00054281	Persuade Marjorie to shift her stance and join with Caesar.
+GID00054282	Demolish Mr. House's bunker under the weather station.
+GID00054283	Return to Caesar.
+GID00054284	Kill Mr. House.
+GID00054285	Return to Caesar and report that Mr. House has been neutralized.
+GID00054286	Return to Caesar after President Kimball has been assassinated.
+GID00054287	Return to Caesar to be recognized for your service.
+GID00054288	Return to Caesar to answer for your failure.
+GID00054289	Report to Legatus Lanius to begin the Battle for Hoover Dam.
+GID00054290	Return to Lucius after President Kimball has been assassinated.
+GID00054291	Return to Lucius to be recognized for your service.
+GID00054292	Return to Lucius to answer for your failure.
+GID00054293	Accept Caesar's first task.
+GID00054294	Deal with Benny
+GID00054295	Speak with Caesar about his next task.
+GID00054296	Meet with Caesar for a private conversation.
+GID00054297	Speak with Caesar once he's been cured to find out your next task.
+GID00054298	(Optional) Fool Caesar by setting off an explosion in the Vault without destroying Mr. House's technology.
+GID00054299	Return to Caesar and inform him that President Kimball's visit was cancelled.
+GID00054300	Return to Lucius and inform him that President Kimball's visit was cancelled.
+GID00054301	Obtain a Lucky 38 VIP Keycard.
+GID00054302	Booted Complete.
+GID00054303	Rescue the captives.
+GID00054304	Report to Ranger Grant.
+GID00054305	Protect President Kimball.
+GID00054306	Report your findings to Ranger Grant.
+GID00054307	Kimball saved, report back to Ranger Grant.
+GID00054308	Kimball killed, report back to Ranger Grant.
+GID00054309	Meet Ranger Grant on the Observation Deck.
+GID00054310	(Optional) Investigate the area for clues.
+GID00054311	Keep an eye on sniper locations.
+GID00054312	Kill President Kimball.
+GID00054313	Rendezvous with Cato Hostilius.
+GID00054314	Report to Cato when you are prepared.
+GID00054315	Find relief for Captain Gilles at Bitter Springs.
+GID00054316	Talk to Camp Golf about reassigning soldiers to Bitter Springs.
+GID00054317	Find supplies for the camp.
+GID00054318	Talk to Capt. Gilles for your reward.
+GID00054319	Talk to Camp McCarran about reassigning soldiers to Bitter Springs.
+GID00054320	Talk to Camp Forlorn Hope about reassigning soldiers to Bitter Springs.
+GID00054321	Bring the supplies back to Captain Gilles.
+GID00054322	Talk to Lt. Markland about finding medical supplies for the camp.
+GID00054323	Find the source of the attacks on Bitter Springs.
+GID00054324	Tell Captain Gilles about Oscar Velasco.
+GID00054325	(Optional) Mike Lawson suggested flushing the Legionnaires through the turbines to stop their invasion of the station.
+GID00054326	The Legion is attacking Hoover Dam, the Legate's camp must be destroyed to protect the dam.
+GID00054327	(Optional) Activate the pressure release valve to flush the Legionnaires through the turbines.
+GID00054328	The dam overflow has been diverted into the turbines, the Legion can no longer use them to access the power plant.
+GID00054329	The battle has been won. Return to General Oliver.
+GID00054330	Find general intel on Legion troop movement.
+GID00054331	[Optional] Give First Sergeant Astor the old intel.
+GID00054332	Return to First Sergeant Astor with the intel.
+GID00054333	Plant the NCR bug.
+GID00054334	Find intel on Legion raids.
+GID00054335	Kill all Legionaries in Cottonwood Cove.
+GID00054336	[Optional] Find a way to block off Cottonwood Cove.
+GID00054337	Return to First Sergeant Astor.
+GID00054338	[Optional] Tell Aurelius of Phoenix about NCR plans.
+GID00054339	Return to First Sergeant Astor if interested in clearing Cottonwood Cove.
+GID00054340	Destroy the three Securitron Vault power regulators.
+GID00054341	Tell Caesar the the Securiton army is no longer a threat.
+GID00054342	Red Lucy needs Giant Mantis' eggs. It's faster to gather them at a breeding ground, like Vault 22.
+GID00054343	Return to Red Lucy with the Giant Mantis Eggs
+GID00054344	Red Lucy wants Radscorpion eggs. She suggested searching for them in the mountains north of Goodsprings.
+GID00054345	Return to Red Lucy with the Radscorpion Eggs
+GID00054346	Red Lucy wants Fire Gecko eggs. She suggested searching near the Ireteba Peaks.
+GID00054347	Return to Red Lucy with the Fire Gecko Eggs
+GID00054348	The elite hunters for The Thorn are looking for Night Stalker eggs. Red Lucy suggested to look at a cave near Bittersprings.
+GID00054349	Return to Red Lucy with the Night Stalker Eggs
+GID00054350	The elite hunters of The Thorn are now in search of Cazador eggs. Red Lucy suggested to look for them near Red Rocks.
+GID00054351	Return to Red Lucy with the Cazador Eggs
+GID00054352	Red Lucy has given the most dangerous task a hunter could face. She wants Deathclaw Eggs for the Thorn.
+GID00054353	Return to Red Lucy with the Deathclaw Eggs
+GID00054354	You are the greatest hunter that The Thorn has ever seen.
+GID00054355	Red Lucy is dead. You can no longer help her.
+GID00054356	Travel to Bitter Springs with Boone
+GID00054357	Go with Boone to Coyote Tail Ridge.
+GID00054358	Talk to Boone about staying overnight at Coyote Tail Ridge.
+GID00054359	Talk to Boone.
+GID00054360	Go to the Bitter Springs refugee camp and repel the Legion raid.
+GID00054361	Talk to Boone.
+GID00054362	Spread word of Legion atrocities.
+GID00054363	You told the NCR about Vulpes attack at Nipton.
+GID00054364	Find Frank Weathers' Family.
+GID00054365	Free the Weathers from slavery.
+GID00054366	Return to Frank Weathers.
+GID00054367	[Optional]'Free' the Weathers from slavery.
+GID00054368	See Colonel Moore at Hoover Dam for further assignments.
+GID00054369	Visit the Great Khans in Red Rock Canyon and either enlist their aid or destroy them.
+GID00054370	Return to Colonel Moore with news that the Great Khans will help fight the Legion.
+GID00054371	Return to Colonel Moore with news that the Great Khans have been destroyed.
+GID00054372	Investigate the Omertas, and stop them if their plans oppose the NCR.
+GID00054373	Return to Colonel Moore and report that the Omertas' plans have been foiled.
+GID00054374	Return to Colonel Moore and lie about the Omertas' plans.
+GID00054375	Remove Mr. House as a threat to the NCR.
+GID00054376	Return to Colonel Moore and report that Mr. House is no longer a threat.
+GID00054377	Find the Brotherhood of Steel chapter in this area and deal with them.
+GID00054378	Return to Colonel Moore and report that the Brotherhood of Steel chapter in this area has been destroyed.
+GID00054379	Return to Colonel Moore and report that the Brotherhood will support the NCR against Caesar's Legion.
+GID00054380	Talk to Ranger Grant about protecting President Kimball during his visit.
+GID00054381	Return to Colonel Moore and report that President Kimball has safely left.
+GID00054382	Return to Colonel Moore and report that President Kimball is dead.
+GID00054383	Talk to Colonel Moore.
+GID00054384	Speak to Liza O'Malley at the NCR Embassy on the Strip for a lead on the Omertas.
+GID00054385	Obtain a Lucky 38 VIP Keycard.
+GID00054386	Cross the dam and make your way to the western power plant.
+GID00054387	Find the enemy commander, General Oliver.
+GID00054388	Return to the Legate and tell him that General Oliver has been killed.
+GID00054389	Return to the Legate and tell him that General Oliver has been driven off.
+GID00054390	Kill General Oliver and the soldiers guarding him.
+GID00054391	(Optional) Take out the snipers who've taken up position in the western portion of the dam.
+GID00054392	(Optional) Release the waiting Legion reinforcements inside the intake tower.
+GID00054393	Talk to Lt. Markland about ways to help the medical situation at Bitter Springs.
+GID00054394	Find Lt. Markland a book on psychological treatment.
+GID00054395	Bring the psychology textbook back to Lt. Markland.
+GID00054396	Find a book on pediatric medicine for Lt. Markland.
+GID00054397	Bring the pediatric medicine book back to Lt. Markland.
+GID00054398	Bring Lt. Markland three Doctor's Bags.
+GID00054399	<This Quest Not Yet Implemented>
+GID00054400	Find a way to cut off access to the sulfur.
+GID00054401	Report back to Samuel Cooke.
+GID00054402	Speak with Papa Khan in Red Rock Canyon.
+GID00054403	Report back to Philip Lem.
+GID00054404	Eliminate the fire geckos in the caves under the vault.
+GID00054405	Report back to Samuel Cooke.
+GID00054406	Report back to Phillip Lem.
+GID00054407	Talk to Lily about participating in Doctor Henry's experiment.
+GID00054408	(Optional) Ask Lily to help you investigate the Nightstalker mutations.
+GID00054409	Tell Doctor Henry to proceed with the experiment once Lily is present.
+GID00054410	Kill the hostile Nightkin.
+GID00054411	Speak with Doctor Henry.
+GID00054412	Look for the source of the Nightstalker stealth mutation.
+GID00054413	Tell Doctor Henry you've discovered a potential cause for the Nightstalker mutations.
+GID00054414	Speak with Keene and try to defuse the situation.
+GID00054415	Wait for Doctor Henry to complete the experiment.
+GID00054416	Decide whether or not Lily should continue to wear the Mark II prototype and inform Doctor Henry.
+GID00054417	Keep Lily alive.
+GID00054418	Collect Dog Tags from ghoul NCR troopers within Camp Searchlight and take them to First Sergeant Astor.
+GID00054419	All ghoul dog tags found, return to First Sergeant Astor.
+GID00054420	Speak with someone in Nipton about the missing Radiation Suits.
+GID00054421	Return with the suits to Logan.
+GID00054422	Go with Logan to search the Police Station.
+GID00054423	Go with Logan to search the Fire Station.
+GID00054424	Find suits in a nearby cave.
+GID00054425	Talk to Papa Khan about the alliance with Caesar.
+GID00054426	Talk to Regis about convincing Papa Khan.
+GID00054427	Convince Jack and Diane to speak out against Caesar.
+GID00054428	Convince Melissa to speak out against Caesar.
+GID00054429	Convince Regis to speak out against Caesar.
+GID00054430	Talk to Papa Khan about breaking the alliance.
+GID00054431	OPTIONAL: Find a way to disgrace Karl in front of Papa Khan.
+GID00054432	Assassinate Papa Khan without being detected.
+GID00054433	Talk to Regis about the Khans' allegiance.
+GID00054434	Bring evidence of Karl's plan to Papa Khan.
+GID00054435	Find Regis evidence that Caesar will annihilate the Great Khans.
+GID00054436	Return the Legion slave ledger to Regis.
+GID00054437	Find Diane proof that the Legion persecutes drug runners.
+GID00054438	Talk to the Followers of the Apocalypse about the Great Khans.
+GID00054439	Talk to Regis about the NCR.
+GID00054440	Talk to Colonel Moore about a Great Khans/NCR alliance.
+GID00054441	Wipe out the Great Khans at Red Rock Canyon.
+GID00054442	Talk to Ezekiel about the history of the Great Khans.
+GID00054443	Bring the history book back to Papa Khan.
+GID00054444	Return to Red Rock Canyon and speak to Papa Khan.
+GID00054445	Find Jack and Diane's missing drug runner.
+GID00054446	Deliver drugs to Motor Runner.
+GID00054447	Deliver drugs to Don Hostetler at the Crimson Caravan.
+GID00054448	Return to Diane and tell her about Anders.
+GID00054449	Return to Diane for your payment.
+GID00054450	Return to Diane for your payment.
+GID00054451	Talk to Jack about supplying the Great Khans' chem operation.
+GID00054452	Teach Jack new chem recipes.
+GID00054453	Find Jerry the Punk some painkillers to help him get through his initiation.
+GID00054454	Return to Jerry the Punk.
+GID00054455	Talk to the Followers of the Apocalypse about letting Jerry the Punk join their order.
+GID00054456	Tell Jerry the Followers will accept him as a novice.
+GID00054457	Talk to Mr. House at the Lucky 38.
+GID00054458	Deliver the Platinum Chip to Mr. House.
+GID00054459	Use the Platinum Chip to open the secret bunker at Fortification Hill.
+GID00054460	Upgrade Mr. House's secret Securitron army.
+GID00054461	Report back to Mr. House for further instructions.
+GID00054462	Convince the Boomers to support Mr. House.
+GID00054463	(Optional) Neutralize the Boomers by killing the tribe's leaders.
+GID00054464	Inform Mr. House that the Boomers will support his cause.
+GID00054465	Inform Mr. House that the Boomers have been neutralized.
+GID00054466	Investigate the Omertas and stop them if their plans oppose Mr. House's interests.
+GID00054467	Inform Mr. House that the Omerta threat has been neutralized.
+GID00054468	Find the Brotherhood of Steel and destroy them.
+GID00054469	(Optional) Inform Mr. House that you've negotiated a peaceful solution with the Brotherhood.
+GID00054470	Inform Mr. House that the Brotherhood's bunker has been destroyed.
+GID00054471	Go to Hoover Dam and protect President Kimball during his visit.
+GID00054472	Inform Mr. House that President Kimball survived the assassination attempt.
+GID00054473	Inform Mr. House that President Kimball is dead.
+GID00054474	Go to Hoover Dam and defeat Caesar's Legion.
+GID00054475	Bring the Platinum Chip to Mr. House
+GID00054476	Recover the Platinum Chip from Benny at the Fort.
+GID00054477	Go to the Basement of the Lucky 38.
+GID00054478	Observe Upgrading of Securitrons.
+GID00054479	Return to Mr. House.
+GID00054480	Enter the hidden bunker.
+GID00054481	Clear out the critters on the road to Ivanpah Lake.
+GID00054482	Return to Ranger Jackson at Mojave Outpost.
+GID00054483	Recon the Nipton Town Hall for Ranger Ghost.
+GID00054484	Return to Ranger Ghost at Mojave Outpost.
+GID00054485	Quest Complete.
+GID00054486	Go with Veronica to talk to the Brotherhood of Steel elder at Hidden Valley.
+GID00054487	Return with Veronica to the Brotherhood of Steel elder with evidence of the Brotherhood's misguided priorities.
+GID00054488	Visit the Pawn Shop in Freeside and the Vault 21 gift shop with Veronica.
+GID00054489	Look for the man who bought the rangefinder in Freeside near Mick and Ralph's.
+GID00054490	Ask around to see what became of the rangefinder.
+GID00054491	Recover the rangefinder.
+GID00054492	Bring the rangefinder to the elder at Hidden Valley.
+GID00054493	Find a way to enable the rangefinder at HELIOS One.
+GID00054494	Speak with the director of OSI about his research project.
+GID00054495	Recover the experimental data from Vault 22.
+GID00054496	Bring the data back to the elder at Hidden Valley.
+GID00054497	Access Father Elijah's notes at the comm terminal with Veronica.
+GID00054498	Look for information about the pulse gun at Nellis Air Force Base.
+GID00054499	Recover the pulse gun from Vault 34 if it still exists.
+GID00054500	Bring the pulse gun back to the elder at Hidden Valley
+GID00054501	Discuss your remaining options with Veronica.
+GID00054502	Bring Veronica to check in with the Followers of the Apocalypse outpost.
+GID00054503	Return to the Followers of the Apocalypse outpost when Dr. Schiller is there.
+GID00054504	Talk to Veronica
+GID00054505	Visit your private Suite on the 13th floor of the Tops.
+GID00054506	Talk to Mr. House at the Lucky 38.
+GID00054507	Bring the Platinum Chip to Mr. House.
+GID00054508	Recover the Platinum Chip at the Fort.
+GID00054509	Deliver the Platinum Chip to Mr. House.
+GID00054510	Go to the basement of the Lucky 38.
+GID00054511	Observe as Mr. House upgrades Securitrons.
+GID00054512	Return to Mr. House.
+GID00054513	(Optional) Talk to Mr. House again if you want to work for him.
+GID00054514	Use the Platinum Chip to open the secret bunker at Fortification Hill.
+GID00054515	Enter the secret bunker.
+GID00054516	Upgrade Mr. House's secret Securitron army.
+GID00054517	Report back to Mr. House for further instructions.
+GID00054518	(Optional) Change your mind and upgrade Mr. House's secret Securitron army.
+GID00054519	Convince the Boomers to support Mr. House.
+GID00054520	(Optional) Neutralize the Boomers by killing the tribe's leaders.
+GID00054521	Inform Mr. House that you've won the Boomers' support.
+GID00054522	Inform Mr. House that the Boomers have been neutralized.
+GID00054523	Investigate the Omertas and stop them if their plans oppose Mr. House's interests.
+GID00054524	Inform Mr. House that the Omertas have been neutralized.
+GID00054525	(Optional) Inform Mr. House of the Omertas' treachery.
+GID00054526	Inform Mr. House that the Omertas are hostile to you.
+GID00054527	Wipe out the Brotherhood of Steel by destroying its underground bunker.
+GID00054528	(Optional) Inform Mr. House that you've negotiated a peaceful solution with the Brotherhood.
+GID00054529	Inform Mr. House that the Brotherhood's bunker has been destroyed.
+GID00054530	Go to Hoover Dam and protect President Kimball during his visit.
+GID00054531	Inform Mr. House that President Kimball survived the assassination attempt.
+GID00054532	Inform Mr. House that President Kimball is dead.
+GID00054533	Inform Mr. House that President Kimball's visit was cancelled.
+GID00054534	Return to Mr. House when you're ready to fight the battle for Hoover Dam.
+GID00054535	Speak with the leader of the mercenaries harassing Jacobstown.
+GID00054536	Come to a peaceful arrangement with the mercenaries.
+GID00054537	(Optional) Wipe the mercenaries out.
+GID00054538	Return to Marcus.
+GID00054539	(Optional) Ask Marcus for money to pay off the mercenaries.
+GID00054540	Wipe the mercenaries out.
+GID00054541	Disable the bottle cap press.
+GID00054542	Return to Alice McLafferty and let her know the bottle cap press is out of action.
+GID00054543	Deliver the radio security upgrade codes to each of the Ranger Stations.
+GID00054544	Return to Sergeant Reyes and let her know the radio security upgrade is complete.
+GID00054545	Upgrade Ranger Station Alpha.
+GID00054546	Upgrade Ranger Station Bravo.
+GID00054547	Upgrade Ranger Station Charlie.
+GID00054548	Find out what else Sergeant Reyes needs you to do.
+GID00054549	Confirm Sergeant Reyes' suspicions about the reports from Camp Golf.
+GID00054550	Ask Ranger Lineholm about the battle losses at Ranger Station Alpha.
+GID00054551	Find out about the Super Mutant Legionary attack at Ranger Station Delta.
+GID00054552	Tell Sergeant Reyes that her suspicions about misinformation being fed to the NCR was correct.
+GID00054553	Inform Chief Hanlon what you and Sergeant Reyes discovered.
+GID00054554	Investigate the Deathclaw attacks on Ranger Station Foxtrot.
+GID00054555	Upgrade Ranger Station Delta.
+GID00054556	Upgrade Ranger Station Echo.
+GID00054557	Upgrade Ranger Station Foxtrot.
+GID00054558	Speak to Chief Hanlon in his office.
+GID00054559	Find a ranger to take Chief Hanlon into custody.
+GID00054560	Kill Chief Hanlon.
+GID00054561	(Optional) Ask around Novac for information about who kidnapped Boone's wife.
+GID00054562	(Optional) Look for evidence of the guilty party inside the Dino Dee-lite lobby.
+GID00054563	Send someone in front of Dinky the Dinosaur. Put on the beret to signal to Boone that this is the culprit.
+GID00054564	Return to Boone.
+GID00054565	Explore the Vault 74 Overseer's Office
+GID00054566	Go to the Control Room in Hoover Dam and install the override chip.
+GID00054567	Activate the eastern power plant to power the Securitron Army.
+GID00054568	Destroy the dam generators.
+GID00054569	Exit out to the east side of the Dam.
+GID00054570	Head to the Legate's camp and deal with the Legate and Caesar's Legion.
+GID00054571	Deal with General Oliver and the NCR.
+GID00054572	Return to Yes Man with news of your victory.
+GID00054573	Go to the Control Room in Hoover Dam and install the override chip.
+GID00054574	Activate the eastern power plant to power the Securitron Army.
+GID00054575	Exit out to the east side of the Dam.
+GID00054576	Head to the Legate's camp and deal with the Legate and Caesar's Legion.
+GID00054577	Deal with General Oliver and the NCR.
+GID00054578	Return to Mr House with news of your victory.
+GID00054579	Speak to Knight Lorenzo in Hidden Valley about ED-E.
+GID00054580	Find the patrol Knight Lorenzo told you about to let the Brotherhood of Steel examine ED-E.
+GID00054581	ED-E appears to have some Enclave log data stored that is triggered by some keywords.
+GID00054582	The Followers of the Apocalypse would like to see ED-E to get access to the logs he has stored.
+GID00054583	The patrol Lorenzo mentioned is dead, perhaps there is something on one of the corpses that may be useful.
+GID00054584	There was a password on one of the Brotherhood corpses. Perhaps that could be used to bring ED-E to Lorenzo.
+GID00054585	Lorenzo would like to examine the data on ED-E. He offered to upgrade ED-E's armor while he was working on it.
+GID00054586	ED-E's upgrades are complete.
+GID00054587	Lorenzo is examining ED-E and updating its armor. It should be ready in a few days.
+GID00054588	April Martimer with the Followers would like access to ED-E's data. She promises to upgrade its weapons while she works on it.
+GID00054589	April has ED-E and will be working with it for a few days to access the data and upgrade its weapons.
+GID00054590	(Optional) Bring ED-E to the Gibson Scrapyard in Novac.
+GID00054591	Kill or Disable Mr. House.
+GID00054592	Install Yes Man's A.I. in the Lucky 38's mainframe.
+GID00054593	Meet Yes Man at the Lucky 38.
+GID00054594	Recover the Platinum Chip from Benny at the Fort.
+GID00054595	Recover the Platinum Chip from Benny.
+GID00054596	Deliver the Platinum Chip to Mr. House so he can upgrade his defensive systems.
+GID00054597	Go the basement of the Lucky 38.
+GID00054598	Observe upgrading of Securitrons.
+GID00054599	Return to Yes Man.
+GID00054600	Obtain a Lucky 38 VIP Keycard.
+GID00054601	Make contact with the Boomers at Nellis AFB.
+GID00054602	Go to Red Rock Canyon and make contact with Great Khans.
+GID00054603	Observe the Omertas at their casino, Gomorrah.
+GID00054604	Visit the White Glove Society at the Ultra-Luxe casino.
+GID00054605	Make contact with the Brotherhood of Steel.
+GID00054606	Tell Yes Man that the Boomers have vowed to support you.
+GID00054607	Tell Yes Man that you've killed the Boomers' leaders.
+GID00054608	(Optional) Kill the Boomers' other leader to neutralize the tribe's threat.
+GID00054609	(Optional) Return to Yes Man and tell him that the Boomers can be ignored.
+GID00054610	(Optional) Tell Yes Man that you've visited Gomorrah and wish to ignore the Omertas.
+GID00054611	Inform Yes Man that the Omertas are no longer a threat.
+GID00054612	Inform Yes Man that you approve of the Omertas' plans to attack the Strip.
+GID00054613	Inform Yes Man that the Omertas are hostile to you.
+GID00054614	(Optional) Return to Yes Man and tell him that you plan to ignore the Great Khans.
+GID00054615	Inform Yes Man that you've convinced the Great Khans to support the NCR.
+GID00054616	Inform Yes Man that the Great Khans have been wiped out.
+GID00054617	Inform Yes Man that you convinced the Great Khans to leave the Mojave.
+GID00054618	Inform Yes Man that the Great Khans will perform a suicide attack at Hoover Dam.
+GID00054619	(Optional) Tell Yes Man that you've decided to ignore the White Glove Society.
+GID00054620	Inform Yes Man that you've killed the White Glove Society's leaders.
+GID00054621	Inform Yes Man that you've fixed the White Glove Society's cannibalism problem.
+GID00054622	Inform Yes Man that all is well with the White Glove Society.
+GID00054623	Tell Yes Man that you've convinced the White Glove Society to support Caesar's Legion.
+GID00054624	(Optional) Tell Yes Man that you're familiar with the Brotherhood of Steel and wish to ignore them.
+GID00054625	Inform Yes Man that you've convinced the Brotherhood of Steel to help the NCR.
+GID00054626	Inform Yes Man that you destroyed the Brotherhood of Steel's bunker.
+GID00054627	(Optional) Return to the Brotherhood's bunker at Hidden Valley.
+GID00054628	Learn about the White Glove Society by talking to one of its leaders.
+GID00054629	(Optional) Find out more about the White Glove Society by talking to Marjorie.
+GID00054630	(Optional) Find out more about the White Glove Society by talking to Mortimer.
+GID00054631	(Optional) Destroy the Brotherhood of Steel's bunker.
+GID00054632	With Arcade, convince the Remnants to reunite for one last battle.
+GID00054633	Ask Doctor Henry to come to the Remnants reunion.
+GID00054634	Ask Daisy Whitman to come to the Remnants reunion.
+GID00054635	Ask Cannibal Johnson to come to the Remnants reunion.
+GID00054636	Ask Orion Moreno to come to the Remnants reunion.
+GID00054637	Ask Judah Kreger to come to the Remnants reunion.
+GID00054638	Gain access to the Remnants Bunker.
+GID00054639	Ask the Remnants to support the fight against the Legion or the NCR.
+GID00054640	Try to convince Orion Moreno to stay.
+GID00054641	Acquire Power Armor training from Daisy Whitman.
+GID00054642	Acquire Power Armor training from Orion Moreno.
+GID00054643	Kill Orion Moreno to retrieve the door override keycard.
+GID00054644	Tell Judah Kreger what happened with Orion Moreno.
+GID00054645	Leave the Remnants' command room so they can plan for the coming battle.
+GID00054646	(Optional) Protect President Kimball during his official visit to Hoover Dam before powering up El Dorado Substation.
+GID00054647	Go to the El Dorado power station and install the Override Chip.
+GID00054648	Meet with the Securitron outside El Dorado Substation and follow it.
+GID00054649	Report back to Yes Man.
+GID00054650	Go to Hoover Dam.
+GID00054651	(Optional) Convince the Followers of the Apocalypse to support an Independent Vegas.
+GID00054652	President Kimball's visit has been cancelled. Go to the El Dorado Substation and install the Override Chip.
+GID00054653	Go to the El Dorado Substation and install the override module.
+GID00054654	Meet with the Securitron outside El Dorado Substation and follow it.
+GID00054655	Report back to Mr. House.
+GID00054656	Investigate the East Pump Station.
+GID00054657	Find the source of the Radiation.
+GID00054658	Shut down Vault 34's Reactor to help the Sharecropper Farms
+GID00054659	(Optional) Save Vault 34's trapped dwellers by leaving its Reactor intact, dooming the Sharecropper Farms.
+GID00054660	Find Jack's love interest.
+GID00054661	Tell Jack Janet is interested in him.
+GID00054662	Ask Pearl for permission for Janet to enter Nellis.
+GID00054663	Take the Boomer Outfit to Janet.
+GID00054664	Let Janet know McLafferty agreed to pay her.
+GID00054665	Speak to Alice McLafferty on behalf of Janet.
+GID00054666	Let Janet know McLafferty won't be paying her.
+GID00054667	Return to Jack.
+GID00054668	Meet Janet back at Nellis.
+GID00054669	Janet is dead.
+GID00054670	Find the missing Brotherhood patrol at Black Mountain and retrieve their mission holotape.
+GID00054671	Find the missing Brotherhood patrol at REPCONN HQ and retrieve their mission holotape.
+GID00054672	Find the missing Brotherhood patrol at Nellis AFB and retrieve their mission holotape.
+GID00054673	Return to Elder McNamara with the three patrol mission holotapes.
+GID00054674	Meet with a Brotherhood scout near the NCR Correctional Facility and collect his report.
+GID00054675	Meet with a Brotherhood scout near the town of Nipton and collect his report.
+GID00054676	Meet with a Brotherhood scout near Camp Forlorn Hope and collect his report.
+GID00054677	Return to Elder McNamara with the three scouts' reports.
+GID00054678	Search the vaults in the region for a differential pressure controller.
+GID00054679	Return to Elder McNamara with the news that the air filtration system should be fine.
+GID00054680	Speak to Elder McNamara in the command room.
+GID00054681	(Optional) Talk to Senior Paladin Ramos on Hardin's behalf.
+GID00054682	(Optional) Talk to Senior Scribe Ibsen about accessing the Brotherhood's datastore.
+GID00054683	(Optional) Help Head Paladin Hardin find a way to oust Elder McNamara from his position.
+GID00054684	(Optional) Look at the Brotherhood's history files relating to Elders being dismissed from their positions.
+GID00054685	Speak to Elder McNamara.
+GID00054686	Deal with an NCR Ranger who is camping in one of the bunkers of Hidden Valley.
+GID00054687	Return to Elder McNamara with news that the ranger has been dealt with.
+GID00054688	Speak to Senior Knight Lorenzo regarding the failing air filtration system.
+GID00054689	Return to Senior Knight Lorenzo with the components.
+GID00054690	Search the vaults in the region for a reverse pulse cleaner.
+GID00054691	Search the vaults in the region for several HEPA cartridge filters.
+GID00054692	(Optional) Return to Hardin with the lost patrols' mission discs.
+GID00054693	(Optional) Return to Hardin with your findings about the Chain That Binds.
+GID00054694	(Optional) Ask Paladin Ramos about the Chain That Binds.
+GID00054695	(Optional) Check the datastore for more information on the Chain That Binds.
+GID00054696	Find a Broc Flower and a Xander Root.
+GID00054697	Bring the Broc Flower and Xander Root to Sunny at the Campfire.
+GID00054698	Use the campfire to make Healing Powder.
+GID00054699	Go and meet Trudy at the Prospector Saloon.
+GID00054700	Pay your respects with Cass at her caravan's grave.
+GID00054701	Investigate the wreckage of the Griffin Wares caravan with Cass.
+GID00054702	Track down Durable Dunn's missing caravan with Cass.
+GID00054703	Investigate the Crimson Caravan for reasons behind the attack.
+GID00054704	Investigate the Silver Rush in Freeside for evidence on the Van Graffs' guilt.
+GID00054705	Find Alice McLafferty at the Crimson Caravan Camp and "settle accounts."
+GID00054706	Find Gloria Van Graff at the Silver Rush in Freeside and make that bitch eat her hair.
+GID00054707	Take the evidence of the Caravan attacks to Jackson at the Mojave Outpost.
+GID00054708	Accounts settled.
+GID00054709	Evidence passed to NCR.
+GID00054710	Cass is drowning her sorrows at the Mojave Outpost. Her advice? Go work for the Crimson Caravan.
+GID00054711	Pitch in at the Crimson Caravan company if you're looking for caravan work.
+GID00054712	Return to Cass and see if you can get her to part with the title for Cassidy Caravans.
+GID00054713	Clear the roads for Jackson in Mojave Outpost HQ to allow Cass freedom to leave.
+GID00054714	(Optional) "Remove" Jackson as an obstacle without Cass or anyone the wiser.
+GID00054715	Speak with Corporal Betsy about getting medical help for her trauma.
+GID00054716	Talk to the other members of First Recon about getting help for Betsy.
+GID00054717	Deliver Gorobets' message to Doctor Usanagi at the New Vegas Medical Clinic.
+GID00054718	Tell Lieutenant Gorobets that Corporal Betsy will start receiving treatment.
+GID00054719	Speak with 10 of Spades.
+GID00054720	Speak with Corporal Sterling.
+GID00054721	Speak with Sergeant Bitter-Root.
+GID00054722	Tell Corporal Betsy that the rest of First Recon agrees she needs help.
+GID00054723	Kill Ringo.
+GID00054724	(Optional) Shake down Chet for supplies.
+GID00054725	(Optional) Obtain Doc Mitchell's spare medical supplies for the Powder Gangers.
+GID00054726	Defeat the Goodsprings militia.
+GID00054727	Let Joe Cobb know once you're ready to take over Goodsprings.
+GID00054728	Tell Joe Cobb that Ringo is dead.
+GID00054729	Plan your attack on Goodsprings with Joe Cobb.
+GID00054730	Hand the spare medical supplies over to Joe Cobb.
+GID00054731	Repair the broken solar array panels.
+GID00054732	Find spare array parts.
+GID00054733	[Optional] Improve the solar array's efficiency.
+GID00054734	Tell Loyal the array has been repaired.
+GID00054735	Find the NCR Supply Cache
+GID00054736	Kill the Van Graffs and their men.
+GID00054737	Return to Elder Hardin with the news that the Van Graffs have been eliminated.
+GID00054738	Find the Legion Dropbox.
+GID00054739	Find the Legion Dropbox
+GID00054740	Head to Black Mountain and install the remote signal transmitter in one of the consoles there.
+GID00054741	Report to McNamara that the device has been installed.
+GID00054742	Mr. House is dead. His grand dreams for New Vegas will never be realized.
+GID00054743	You have irrevocably disconnected Mr. House from the Lucky 38's mainframe computers.
+GID00054744	Search Benny's room in the Tops for clues.
+GID00054745	Talk to Yes Man about how to take over Vegas.
+GID00054746	Head to the summit of Black Mountain and end Tabitha's reign of terror.
+GID00054747	(Optional) Meet Neil in the village near the summit of Black Mountain.
+GID00054748	Little escapes the eyes of NCR Rangers. If you continue to work with Caesar's Legion, the NCR will brand you a terrorist.
+GID00054749	The NCR has declared you a terrorist. Wherever the NCR has jurisdiction, you will be shot on sight.
+GID00054750	The NCR has a robust network of informants. If you continue to work with Mr. House, the NCR will no longer accept your help.
+GID00054751	The NCR has a robust network of informants. If you continue to work with Yes Man, the NCR will no longer accept your help.
+GID00054752	The NCR has a robust network of informants. If you continue to work with Mr. House or Yes Man, the NCR will no longer accept your help.
+GID00054753	The NCR knows that you are working against its interests and will no longer accept your help
+GID00054754	The Legion has spies everywhere. If you continue to work against its interests, you will be marked an enemy.
+GID00054755	For aiding and abetting the Legion's enemies, you have been declared "in damnatio memoraie" - an enemy of the Legion in perpetuity. Many will seek your head as a trophy.
+GID00054756	(Optional) Find Mr. House's hidden bunker, buried beneath the Legion Stronghold at Fortification Hill.
+GID00054757	(Optional) Upgrade the Securitron army, to use later for your own purposes.
+GID00054758	(Optional) Destroy the Securitron army by overloading the bunker's reactor.
+GID00054759	Explore the bunker.
+GID00054760	Escape the Lucky 38 until Mr. House's security lockdown expires.
+GID00054761	Escape the Lucky 38 or kill Mr. House as Caesar directed.
+GID00054762	Escape the Lucky 38 or neutralize Mr. House as Colonel Moore directed.
+GID00054763	Escape the Lucky 38 or neutralize Mr. House as Yes Man directed.
+GID00054764	Escape the Lucky 38 or neutralize Mr. House.
+GID00054765	Deliver the Platinum Chip to Mr. House when his 24 hour security lockdown has expired.
+GID00054766	Return to Mr. House when his 24 hour security lockdown has expired if you want to continue working with him.

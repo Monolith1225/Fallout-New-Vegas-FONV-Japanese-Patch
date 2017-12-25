@@ -1,0 +1,319 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc03_terminal_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00093067	**** American High School Network ****
+GID00093069	学生の記録を取得
+GID00093070	記録を取得中...
+GID00093071	>ようこそ、Butz研究員
+GID00093073	ケツをどかせ、Butz!
+GID00093074	メッセージを表示中...
+GID00093075	Fwd: Re: 野砲の試作品
+GID00093076	メッセージを表示中...
+GID00093078	ログ エントリー01
+GID00093079	ログ エントリー02
+GID00093080	ログ エントリー03
+GID00093081	Elijahの日記 2日目
+GID00093082	Elijahの日記 3日目
+GID00093083	Elijahの日記 4日目
+GID00093084	Elijahの日記 4日目-注記
+GID00093085	**** Big Mountain Research Network ****
+GID00093086	X-8 Bio-Mechanical 試験施設
+GID00093088	標的パラメータを再構成
+GID00093089	標的データはクリアされます。注意を払ってください。
+GID00093090	<!>WARNING:標的データが存在しません<!>
+GID00093091	<!>用心してください<!>
+GID00093092	タレットシステムを有効化する
+GID00093093	起動中...
+GID00093094	タレットシステムを無効化する
+GID00093095	停止中...
+GID00093096	オプションを選択して下さい;
+GID00093098	テスト開始
+GID00093099	ステルススーツ Mk IIを装備して下さい。
+GID00093100	テストの状態を表示
+GID00093101	Basic Infiltration Testを実行中...
+GID00093102	テストの状態を表示
+GID00093103	Basic Infiltration Testを実行中
+GID00093104	テストの状態を表示
+GID00093105	Advanced Infiltration Testを実行中...
+GID00093106	テストの状態を表示
+GID00093107	Advanced Infiltration Testを実行中
+GID00093108	テストの状態を表示
+GID00093109	Expert Infiltration Testを実行中...
+GID00093110	テストの状態を表示
+GID00093111	Expert Infiltration Testを実行中...
+GID00093112	テストの状態を表示
+GID00093113	Robot Compliance Testを実行中...
+GID00093114	テストの状態を表示
+GID00093115	Robot Compliance Testを実行中
+GID00093116	テストの選択
+GID00093117	オプションを選択して下さい;
+GID00093119	Basic Infiltration Testの実行
+GID00093120	X-13 簡易検出グリッドオンライン
+GID00093121	Basic Infiltration Testの再実行
+GID00093122	X-13 簡易検出グリッドオンライン
+GID00093123	Basic Infiltration Testの再実行
+GID00093124	X-13 簡易検出グリッドオンライン
+GID00093125	Advanced Infiltration Testの実行
+GID00093126	X-13 検出グリッドオンライン
+GID00093127	Advanced Infiltration Testの再実行
+GID00093128	X-13 検出グリッドオンライン
+GID00093129	Advanced Infiltration Testの再実行
+GID00093130	X-13 検出グリッドオンライン
+GID00093131	Expert Infiltration Testの実行
+GID00093132	X-13 高度検出グリッドオンライン
+GID00093133	Expert Infiltration Testの再実行
+GID00093134	X-13 高度検出グリッドオンライン
+GID00093135	Expert Infiltration Testの再実行
+GID00093136	X-13 高度検出グリッドオンライン
+GID00093137	Robot Compliance Testの実行
+GID00093138	戦術ロボブレインが配備されました
+GID00093139	Robot Compliance Testの再実行
+GID00093140	戦術ロボブレインが配備されました
+GID00093141	Robot Compliance Testの再実行
+GID00093142	戦術ロボブレインが配備されました
+GID00093143	**** American High School Network ****
+GID00093145	学生の記録を取得
+GID00093146	記録を取得中...
+GID00093147	>ようこそ、ユーザーさん
+GID00093149	リクエストオーダー:ホログラム
+GID00093150	Vera Keyes Hologramの経過報告
+GID00093151	**** Big Mountain Research Network ****
+GID00093152	X-8 Bio-Mechanical 試験施設
+GID00093154	EM Pulse Waveモジュールをダウンロード
+GID00093155	モジュールをダウンロード...
+GID00093156	**** Big Mountain Research Network ****
+GID00093157	X-8 Bio-Mechanical 試験施設
+GID00093159	Sonic Emitterのデータ
+GID00093160	ダウンロード中...
+GID00093161	Sonic Emitterのデータ
+GID00093162	モジュールは以前にダウンロードされています...
+GID00093163	>ようこそ、Mendoza助手
+GID00093165	テストエリアA - チェック
+GID00093166	データを表示中...
+GID00093167	これは一体...?!
+GID00093168	メッセージを表示中...
+GID00093169	>ようこそ、Brazos研究員
+GID00093171	Fwd: Re: 野砲の試作品
+GID00093172	メッセージを表示中...
+GID00093173	Mk II グローブの調査
+GID00093174	ノートを表示中...
+GID00093175	>ようこそ、Chayanov研究員
+GID00093177	Fwd: Re: 野砲の試作品
+GID00093178	メッセージを表示中...
+GID00093179	試験観測
+GID00093180	メッセージを表示中...
+GID00093181	X-13施設、’ブルーブラッド’計画
+GID00093182	>\ ようこそ, Captain Hamm.
+GID00093184	RE:X-13 出荷通知
+GID00093185	メッセージを表示中...
+GID00093186	Fwd: Re: 野砲の試作品
+GID00093187	メッセージを表示中...
+GID00093188	**** Big Mountain Research Network ****
+GID00093189	X-8 Bio-Mechanical 試験施設
+GID00093191	Basic Test
+GID00093192	エリアをロードしました...
+GID00093193	Basic Testの再実行
+GID00093194	エリアをロードしました...
+GID00093195	Advanced Test
+GID00093196	エリアをロードしました...
+GID00093197	Advanced Test
+GID00093198	実験材料が不適切な方法で搭載されました...
+GID00093199	Advanced Testの再実行
+GID00093200	エリアをロードしました...
+GID00093201	Advanced Testの再実行
+GID00093202	実験材料が不適切な方法で搭載されました...
+GID00093203	**** Big Mountain Research Network ****
+GID00093204	X-12 研究センター
+GID00093206	X-12 援助要請
+GID00093207	援助の付与
+GID00093208	X-12に封印されたK9000 Cyberdog Gun
+GID00093209	**** Big Mountain Research Network ****
+GID00093211	バックアップジェネレータログ
+GID00093212	ログにアクセス中...
+GID00093213	バックアップジェネレータを起動
+GID00093214	**** Big Mountain Research Network ****
+GID00093215	X-8 Bio-Mechanical 試験施設
+GID00093217	Cyberdogを放つ
+GID00093218	犬を放っています...
+GID00093219	珍しい標本を放つ
+GID00093220	標本を放っています...
+GID00093221	配送部:異常な出荷
+GID00093222	配送部:教えて下さい
+GID00093223	封鎖された配送部
+GID00093224	配送部の封鎖に関して
+GID00093225	>ようこそ、ユーザーさん
+GID00093227	Sierra Madre: テストケース?
+GID00093228	Y-17 Trauma Harness テスト結果
+GID00093229	Y-17 Trauma Harness アクション指定
+GID00093230	**** Big Mountain Research Network ****
+GID00093231	X-8 Bio-Mechanical 試験施設
+GID00093233	標的パラメータの再設定
+GID00093234	標的データがクリアされました。注意してください。
+GID00093235	<!>WARNING:標的データが存在しません<!>
+GID00093236	<!>用心してください<!>
+GID00093237	タレットシステムを有効化
+GID00093238	起動中...
+GID00093239	タレットシステムを無効化
+GID00093240	終了中...
+GID00093241	>\ ようこそ,Paris助手
+GID00093243	Kudos!
+GID00093244	メッセージを表示中...
+GID00093245	RE: 被験者の観測
+GID00093246	メッセージを表示中...
+GID00093247	RE: RE: RE: 被験者の観測
+GID00093248	メッセージを表示中...
+GID00093249	Fwd: Re: 野砲の試作品
+GID00093250	メッセージを表示中...
+GID00093251	>\ ようこそ,Dr. Calis
+GID00093253	ナイトストーカーの調査
+GID00093254	調査ノートの表示
+GID00093255	サーバー探知 - FW: RE: VRテスト
+GID00093256	メッセージを表示中...
+GID00093257	X-13 出荷通知
+GID00093258	メッセージを表示中...
+GID00093259	被験者の観測
+GID00093260	メッセージを表示中...
+GID00093261	RE: RE: 被験者の観測
+GID00093262	メッセージを表示中...
+GID00093263	>\ ようこそ,Skinner技術員
+GID00093265	Fwd: Re: 野砲の試作品
+GID00093266	メッセージを表示中...
+GID00093267	提案
+GID00093268	メッセージを表示中...
+GID00093269	X-13施設、プロジェクト"ブルーブラッド"
+GID00093270	>\ 認証されたスーツシグニチャをスキャン中...
+GID00093272	試験チャンバーへのエレベーターを解除
+GID00093273	アクセスが拒否されました
+GID00093274	試験チャンバーへのエレベーターを解除
+GID00093275	エレベーターのドアを解除
+GID00093276	>ようこそ、Redding研究員
+GID00093278	Fwd: Re: 野砲の試作品
+GID00093279	メッセージを表示中...
+GID00093280	Mk II ブーツの調査
+GID00093281	ノートを表示中...
+GID00093282	警告:この段階でバックアップ電源を動作させると、試作品を損傷または破壊する可能性があります。
+GID00093283	続行を許可しますか?
+GID00093285	はい
+GID00093286	バックアップ用電源を有効化...
+GID00093287	>ようこそ、Mori研究員
+GID00093289	Fwd: Re: 野砲の試作品
+GID00093290	メッセージを表示中...
+GID00093291	Mk II 胸当ての調査
+GID00093292	ノートを表示中...
+GID00093293	>\ ようこそ、Slough技術員
+GID00093295	提案
+GID00093296	メッセージを表示中...
+GID00093297	Fwd: Re: 野砲の試作品
+GID00093298	メッセージを表示中...
+GID00093299	**** Big Mountain Research Network ****
+GID00093300	X-8 Bio-Mechanical 試験施設
+GID00093302	配送部:異常な出荷
+GID00093303	配送部:教えて下さい
+GID00093304	封鎖された配送部
+GID00093305	配送部の封鎖について
+GID00093306	>ようこそ、ユーザーさん
+GID00093308	徴発令: 自動販売機
+GID00093309	自動販売機の財源をアップデート
+GID00093310	**** Big Mountain Research Network ****
+GID00093312	緊急停止手順のログ
+GID00093313	ログにアクセス中...
+GID00093314	緊急シャットダウンを開始する
+GID00093315	緊急シャットダウンを開始しています...
+GID00093316	**** Big Mountain Research Network ****
+GID00093317	X-8 Bio-Mechanical 試験施設
+GID00093319	X-12 援助要請
+GID00093320	援助の付与
+GID00093321	X-12に封印されたK9000 Cyberdog Gun
+GID00093322	**** Big Mountain High School Network ****
+GID00093324	Cherie O'Bannon'のスケジュールを回収
+GID00093325	レコードを取得中...
+GID00093326	>ようこそ、ユーザーさん
+GID00093328	天候テストの開始
+GID00093329	開始中...
+GID00093330	天候テストの終了
+GID00093331	シャットダウン中...
+GID00093332	**** Big Mountain Research Network ****
+GID00093334	X-42 Giant Robo-Scorpionのテストログ
+GID00093335	ログにアクセス中...
+GID00093336	ターゲットドローンの有効性の記録
+GID00093337	ログにアクセス中...
+GID00093338	ターゲットドローンを有効化
+GID00093339	ドローンを強化中...
+GID00093340	**** Big Mountain High School Network ****
+GID00093342	Richie Marcusの中期成績を取得
+GID00093343	記録を取得...
+GID00093344	SoftLock Solutions, Inc
+GID00093345	"あなたのセキュリティは、私たちのセキュリティです。"
+GID00093346	>ようこそ、ユーザーさん
+GID00093348	ロック解除
+GID00093349	除去完了、ロック解除...
+GID00093350	**** Big Mountain Research Network ****
+GID00093351	X-8 Bio-Mechanical 試験施設
+GID00093353	X-8 Test 被験者情報
+GID00093354	X-8 Institutional Test 内部メモ
+GID00093355	X-8 Residential Test 内部メモ
+GID00093356	**** Big Mountain Research Network ****
+GID00093358	新しいターゲット: X-42 Giant Robo-Scorpion
+GID00093359	ターゲットのパラメータを変更中...
+GID00093360	>ようこそ、ユーザーさん
+GID00093362	Requisition Order: Chemical Suits
+GID00093363	**** Big Mountain Research Network ****
+GID00093364	X-8 Bio-Mechanical 試験施設
+GID00093366	Institutional Data 取得
+GID00093367	Residential Cyberdog Guardテストに入る
+GID00093368	エリアをロード中...
+GID00093369	Residential Cyberdog Guardテストに入る
+GID00093370	異常な測定値... 入力時に注意
+GID00093371	珍しい標本のテスト結果
+GID00093372	結果の取得中...
+GID00093373	**** Big Mountain Research Network ****
+GID00093374	X-8 Bio-Mechanical 試験施設
+GID00093376	Bio-Mechanical結合ルール
+GID00093377	ロボットと犬を結合
+GID00093378	結合処理を起動中…
+GID00093379	ロボットと犬を結合
+GID00093380	素材が足りません
+GID00093381	ロボットと犬を結合
+GID00093382	補充中...
+GID00093383	Lobotomiteとロボットを結合
+GID00093384	結合処理を起動中…
+GID00093385	Lobotomiteとロボットを結合
+GID00093386	補充中...
+GID00093387	Lobotomiteと犬を結合
+GID00093388	結合処理を起動中…
+GID00093389	Lobotomiteと犬を結合
+GID00093390	補充中...
+GID00093391	ロボットと珍しい標本を結合
+GID00093392	結合の手続きを開始...
+GID00093393	ロボットと珍しい標本を結合
+GID00093394	補充中...
+GID00093395	結合エリアをクリア
+GID00093396	クリア中...
+GID00093397	結合ルームのセキュリティを無効化
+GID00093398	セキュリティを無効化...
+GID00093399	**** Big Mountain High School Network ****
+GID00093401	Betsy Brightの記録を回収
+GID00093402	記録を取得…
+GID00093403	**** Big Mountain Research Network ****
+GID00093405	研究計画
+GID00093406	現在の研究計画にアクセス中…
+GID00093407	ログエントリー
+GID00093408	ログにアクセス中...
+GID00093409	物資と機器の要求
+GID00093410	取得可能な物資にアクセス中…
+GID00093411	**** Big Mountain Research Network ****
+GID00093412	X-8 Bio-Mechanical 試験施設
+GID00093414	EMパルス波モジュール貸し出し中
+GID00093415	Project: Burke と Project: Hare
+GID00093416	(重要) 自分用備忘録
+GID00093417	**** American High School Network ****
+GID00093419	生徒の記録を回収
+GID00093420	記録の取得中...
+GID00093421	>ようこそ、Mendoza研究員
+GID00093423	これは一体...?!
+GID00093424	メッセージを表示中...
+GID00093425	私が取り組んできたこのmodから出発!
+GID00093426	メッセージを表示中...
+GID00093427	Fwd: Re: 野砲の試作品
+GID00093428	メッセージを表示中...

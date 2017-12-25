@@ -1,0 +1,319 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc03_terminal_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00093067	**** American High School Network ****
+GID00093069	Retrieve Student Records
+GID00093070	Acquiring Records...
+GID00093071	>\ Welcome, Researcher Butz.
+GID00093073	Get off your butt, Butz!
+GID00093074	Displaying Message...
+GID00093075	Fwd: Re: Field Gun Prototype
+GID00093076	Displaying Message...
+GID00093078	Log Entry 01
+GID00093079	Log Entry 02
+GID00093080	Log Entry 03
+GID00093081	Elijah's Journal - Day 2
+GID00093082	Elijah's Journal - Day 3
+GID00093083	Elijah's Journal - Day 4
+GID00093084	Elijah's Journal - Day 4 - Addendum
+GID00093085	**** Big Mountain Research Network ****
+GID00093086	X-8 Bio-Mechanical Testing Facility
+GID00093088	Re-configure Targeting Parameters
+GID00093089	Target Data cleared. Exercise Caution.
+GID00093090	<!>WARNING: No Targeting Data<!>
+GID00093091	<!>Please Exercise Caution<!>
+GID00093092	Activate Turret System
+GID00093093	Booting...
+GID00093094	Deactivate Turret System
+GID00093095	Powering Down...
+GID00093096	Please Select From The Following Options;
+GID00093098	Begin Testing
+GID00093099	Please Equip Stealth Suit Mk II.
+GID00093100	Display Test Status
+GID00093101	Basic Infiltration Test In Progress...
+GID00093102	Display Test Status
+GID00093103	Basic Infiltration Test In Progress
+GID00093104	Display Test Status
+GID00093105	Advanced Infiltration Test In Progress...
+GID00093106	Display Test Status
+GID00093107	Advanced Infiltration Test In Progress
+GID00093108	Display Test Status
+GID00093109	Expert Infiltration Test In Progress...
+GID00093110	Display Test Status
+GID00093111	Expert Infiltration Test In Progress
+GID00093112	Display Test Status
+GID00093113	Robot Compliance Test In Progress...
+GID00093114	Display Test Status
+GID00093115	Robot Compliance Test in Progress
+GID00093116	Test Selection
+GID00093117	Please Select From The Following Options;
+GID00093119	Begin Basic Infiltration Test
+GID00093120	X-13 Simple Detection Grid Online.
+GID00093121	Replay Basic Infiltration Test
+GID00093122	X-13 Simple Detection Grid Online.
+GID00093123	Replay Basic Infiltration Test
+GID00093124	X-13 Simple Detection Grid Online.
+GID00093125	Begin Advanced Infiltration Test
+GID00093126	X-13 Detection Grid Online.
+GID00093127	Replay Advanced Infiltration Test
+GID00093128	X-13 Detection Grid Online.
+GID00093129	Replay Advanced Infiltration Test
+GID00093130	X-13 Detection Grid Online.
+GID00093131	Begin Expert Infiltration Test
+GID00093132	X-13 Advanced Detection Grid Online.
+GID00093133	Replay Expert Infiltration Test
+GID00093134	X-13 Advanced Detection Grid Online.
+GID00093135	Replay Expert Infiltration Test
+GID00093136	X-13 Advanced Detection Grid Online.
+GID00093137	Begin Robot Compliance Test
+GID00093138	Tactical Robobrains Deployed.
+GID00093139	Replay Robot Compliance Test
+GID00093140	Tactical Robobrains Deployed.
+GID00093141	Replay Robot Compliance Test
+GID00093142	Tactical Robobrains Deployed.
+GID00093143	**** American High School Network ****
+GID00093145	Retrieve Student Records
+GID00093146	Acquiring Records...
+GID00093147	>\ Welcome, USER
+GID00093149	Requisition Order: Holograms
+GID00093150	Vera Keyes Hologram Progress Report
+GID00093151	**** Big Mountain Research Network ****
+GID00093152	X-8 Bio-Mechanical Testing Facility
+GID00093154	Download EM Pulse Wave Module
+GID00093155	Module Downloaded...
+GID00093156	**** Big Mountain Research Network ****
+GID00093157	X-8 Bio-Mechanical Testing Facility
+GID00093159	Sonic Emitter Data
+GID00093160	Downloading...
+GID00093161	Sonic Emitter Data
+GID00093162	Module Previously Downloaded...
+GID00093163	>\ Welcome, Assistant Mendoza.
+GID00093165	Test Area A - Review
+GID00093166	Displaying Data...
+GID00093167	What the hell...?!
+GID00093168	Displaying Message...
+GID00093169	>\ Welcome, Researcher Brazos.
+GID00093171	Fwd: Re: Field Gun Prototype
+GID00093172	Displaying Message...
+GID00093173	Mk II Glove Research
+GID00093174	Displaying Note...
+GID00093175	>\ Welcome, Researcher Chayanov.
+GID00093177	Fwd: Re: Field Gun Prototype
+GID00093178	Displaying Message...
+GID00093179	Test Observations
+GID00093180	Displaying Message...
+GID00093181	Facility X-13, Project 'Blue Blood'
+GID00093182	>\ Welcome, Captain Hamm.
+GID00093184	RE: X-13 Shipment Notice
+GID00093185	Displaying Message...
+GID00093186	Fwd: Re: Field Gun Prototype
+GID00093187	Displaying Message...
+GID00093188	**** Big Mountain Research Network ****
+GID00093189	X-8 Bio-Mechanical Testing Facility
+GID00093191	Basic Test
+GID00093192	Area Loaded...
+GID00093193	Replay Basic Test
+GID00093194	Area Loaded...
+GID00093195	Advanced Test
+GID00093196	Area Loaded...
+GID00093197	Advanced Test
+GID00093198	Test Subject Improperly Equipped...
+GID00093199	Replay Advanced Test
+GID00093200	Area Loaded...
+GID00093201	Replay Advanced Test
+GID00093202	Test Subject Improperly Equipped...
+GID00093203	**** Big Mountain Research Network ****
+GID00093204	X-12 Research Center
+GID00093206	X-12 Request for Assistance
+GID00093207	Assistance Granted
+GID00093208	K9000 Cyberdog Gun Sealed in X-12
+GID00093209	**** Big Mountain Research Network ****
+GID00093211	Backup Generator Log
+GID00093212	Accessing log...
+GID00093213	Activate Backup Generator
+GID00093214	**** Big Mountain Research Network ****
+GID00093215	X-8 Bio-Mechanical Testing Facility
+GID00093217	Release Cyberdogs
+GID00093218	Releasing Dogs...
+GID00093219	Release Unusual Specimen
+GID00093220	Releasing Specimen...
+GID00093221	Shipping Department: Unusual Shipment
+GID00093222	Shipping Department: Please Advise
+GID00093223	Shipping Department in Lockdown
+GID00093224	Regarding Shipping Department Lockdown
+GID00093225	>\ Welcome, USER
+GID00093227	Sierra Madre: Test Case?
+GID00093228	Y-17 Trauma Harness Testing Results
+GID00093229	Y-17 Trauma Harness Action Items
+GID00093230	**** Big Mountain Research Network ****
+GID00093231	X-8 Bio-Mechanical Testing Facility
+GID00093233	Re-configure Targeting Parameters
+GID00093234	Target Data cleared. Exercise Caution.
+GID00093235	<!>WARNING: No Targeting Data<!>
+GID00093236	<!>Please Exercise Caution<!>
+GID00093237	Activate Turret System
+GID00093238	Booting...
+GID00093239	Deactivate Turret System
+GID00093240	Powering Down...
+GID00093241	>\ Welcome, Assistant Paris.
+GID00093243	Kudos!
+GID00093244	Displaying Message...
+GID00093245	RE: Test Subject Observations
+GID00093246	Displaying Message...
+GID00093247	RE: RE: RE: Test Subject Observations
+GID00093248	Displaying Message...
+GID00093249	Fwd: Re: Field Gun Prototype
+GID00093250	Displaying Message...
+GID00093251	>\ Welcome, Dr. Calis
+GID00093253	Nightstalker Research
+GID00093254	Displaying Research Notes
+GID00093255	Server Sniffer - FW: RE: VR Test
+GID00093256	Displaying Message...
+GID00093257	X-13 Shipment Notice
+GID00093258	Displaying Message...
+GID00093259	Test Subject Observations
+GID00093260	Displaying Message...
+GID00093261	RE: RE: Test Subject Observations
+GID00093262	Displaying Message...
+GID00093263	>\ Welcome, Technician Skinner.
+GID00093265	Fwd: Re: Field Gun Prototype
+GID00093266	Displaying Message...
+GID00093267	Suggestion.
+GID00093268	Displaying Message...
+GID00093269	Facility X-13, Project 'Blue Blood'
+GID00093270	>\ Scanning for authorized suit signatures...
+GID00093272	Unlock Elevator to Test Chamber
+GID00093273	Access Denied.
+GID00093274	Unlock Elevator to Test Chamber
+GID00093275	Elevator Door Unlocked.
+GID00093276	>\ Welcome, Researcher Redding.
+GID00093278	Fwd: Re: Field Gun Prototype
+GID00093279	Displaying Message...
+GID00093280	Mk II Boot Research
+GID00093281	Displaying Note...
+GID00093282	WARNING: Activating backup power at this stage can damage or destroy the prototype.
+GID00093283	Are you sure you wish to proceed?
+GID00093285	Yes
+GID00093286	Activating backup power...
+GID00093287	>\ Welcome, Researcher Mori.
+GID00093289	Fwd: Re: Field Gun Prototype
+GID00093290	Displaying Message...
+GID00093291	Mk II Torso Research
+GID00093292	Displaying Note...
+GID00093293	>\ Welcome, Technician Slough.
+GID00093295	Suggestion.
+GID00093296	Displaying Message...
+GID00093297	Fwd: Re: Field Gun Prototype
+GID00093298	Displaying Message...
+GID00093299	**** Big Mountain Research Network ****
+GID00093300	X-8 Bio-Mechanical Testing Facility
+GID00093302	Shipping Department: Unusual Shipment
+GID00093303	Shipping Department: Please Advise
+GID00093304	Shipping Department in Lockdown
+GID00093305	Regarding Shipping Department Lockdown
+GID00093306	>\ Welcome, USER
+GID00093308	Requisition Order: Dispensers
+GID00093309	Dispenser Funding Update
+GID00093310	**** Big Mountain Research Network ****
+GID00093312	Emergency Shutdown Procedure Log
+GID00093313	Accessing log...
+GID00093314	Initiate Emergency Shutdown
+GID00093315	Initiating emergency shutdown...
+GID00093316	**** Big Mountain Research Network ****
+GID00093317	X-8 Bio-Mechanical Testing Facility
+GID00093319	X-12 Request for Assistance
+GID00093320	Assistance Granted
+GID00093321	K9000 Cyberdog Gun Sealed in X-12
+GID00093322	**** Big Mountain High School Network ****
+GID00093324	Retrieve Cherie O'Bannon's Schedule
+GID00093325	Records Acquired...
+GID00093326	>\ Welcome, USER
+GID00093328	Begin Weather Test
+GID00093329	Initiating...
+GID00093330	End Weather Test
+GID00093331	Shutting down...
+GID00093332	**** Big Mountain Research Network ****
+GID00093334	X-42 Giant Robo-Scorpion Test Log
+GID00093335	Accessing log...
+GID00093336	Target Drone Effectiveness Log
+GID00093337	Accessing log...
+GID00093338	Activate Target Drones
+GID00093339	Powering up drones...
+GID00093340	**** Big Mountain High School Network ****
+GID00093342	Retrieve Richie Marcus' Midterm Grades
+GID00093343	Records Acquired...
+GID00093344	SoftLock Solutions, Inc
+GID00093345	"Your Security is Our Security"
+GID00093346	>\ Welcome, USER
+GID00093348	Disengage Lock
+GID00093349	Clearance granted, Unlocking...
+GID00093350	**** Big Mountain Research Network ****
+GID00093351	X-8 Bio-Mechanical Testing Facility
+GID00093353	X-8 Test Subject Information
+GID00093354	X-8 Institutional Test Internal Memo
+GID00093355	X-8 Residential Test Internal Memo
+GID00093356	**** Big Mountain Research Network ****
+GID00093358	New Target: X-42 Giant Robo-Scorpion
+GID00093359	Altering target parameters...
+GID00093360	>\ Welcome, USER
+GID00093362	Requisition Order: Chemical Suits
+GID00093363	**** Big Mountain Research Network ****
+GID00093364	X-8 Bio-Mechanical Testing Facility
+GID00093366	Enter Institutional Data Retrieval
+GID00093367	Enter Residential Cyberdog Guard Test
+GID00093368	Area Loaded...
+GID00093369	Enter Residential Cyberdog Guard Test
+GID00093370	Abnormal Readings... Caution When Entering
+GID00093371	Unusual Specimen Test Results
+GID00093372	Retrieving Results...
+GID00093373	**** Big Mountain Research Network ****
+GID00093374	X-8 Bio-Mechanical Testing Facility
+GID00093376	Bio-Mechanical Splicing Rules
+GID00093377	Splice Robot and Dog
+GID00093378	Initiating Splicing Procedure...
+GID00093379	Splice Robot and Dog
+GID00093380	Insufficient Supplies
+GID00093381	Splice Robot and Dog
+GID00093382	Restocking...
+GID00093383	Splice Lobotomite and Robot
+GID00093384	Initiating Splicing Procedure...
+GID00093385	Splice Lobotomite and Robot
+GID00093386	Restocking...
+GID00093387	Splice Lobotomite and Dog
+GID00093388	Initiating Splicing Procedure...
+GID00093389	Splice Lobotomite and Dog
+GID00093390	Restocking...
+GID00093391	Splice Robot and Unusual Specimen
+GID00093392	Initiating Splicing Procedure...
+GID00093393	Splice Robot and Unusual Specimen
+GID00093394	Restocking...
+GID00093395	Clear Splicing Area
+GID00093396	Initiating Clean Up...
+GID00093397	Disable Splicing Room Security
+GID00093398	Security Disabled...
+GID00093399	**** Big Mountain High School Network ****
+GID00093401	Retrieve Betsy Bright's Records
+GID00093402	Records Acquired...
+GID00093403	**** Big Mountain Research Network ****
+GID00093405	Research Projects
+GID00093406	Accessing current research projects...
+GID00093407	Log Entries
+GID00093408	Accessing logs...
+GID00093409	Requisition Supplies and Equipment
+GID00093410	Accessing available supplies...
+GID00093411	**** Big Mountain Research Network ****
+GID00093412	X-8 Bio-Mechanical Testing Facility
+GID00093414	EM Pulse Wave Module on Loan
+GID00093415	Project: Burke and Project: Hare
+GID00093416	Important Reminder to Myself
+GID00093417	**** American High School Network ****
+GID00093419	Retrieve Student Records
+GID00093420	Acquiring Records...
+GID00093421	>\ Welcome, Researcher Mendoza.
+GID00093423	What the hell...?!
+GID00093424	Displaying Message...
+GID00093425	Check out this mod I've been working on!
+GID00093426	Displaying Message...
+GID00093427	Fwd: Re: Field Gun Prototype
+GID00093428	Displaying Message...

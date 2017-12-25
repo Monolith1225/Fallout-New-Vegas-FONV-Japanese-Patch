@@ -1,0 +1,1061 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_awop_dialogue_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00098666	Yeah, that's me and that's my box. Thank you, here take this key and have some caps for the effort.
+GID00098667	You look fine to me.
+GID00098668	I can help but I don't work for free.
+GID00098669	Yeah, just looks like a scratch, but it will still cost you.
+GID00098670	You're a right mess, sorry but this is still gonna cost ya.
+GID00098671	I don't know how you get in here but I can still help... for a price.
+GID00098672	You would not be the first around here. This should be simple enough...
+GID00098673	Yeah, that's it... Awesome, everything is still in here. Well, here is the key as promised and some caps for the effort. Thanks again.
+GID00098674	OK, if you have any requests just give me a shout.
+GID00098675	Hello, my name is Tyra..., Tyra Haggard, nice to meet you.
+GID00098676	Goodbye.
+GID00098677	Well there is something. There is a ghoul who goes by the name of Blaze, a real pice of shit.
+GID00098678	OK, you need party supplies again, you know where to come.
+GID00098679	I go by the name Riazanov and I look after the local apartments and fix things in my spare time.
+GID00098680	I get a lot of free time to tinker with my electronics on account of I don't get many customers down here.
+GID00098681	See Ya.
+GID00098682	There is a spare room as it goes but if you want the key then yer gonna have to do me a favor first.
+GID00098683	Sure, let me take a look.
+GID00098684	Wow, he was still here all along. Thanks for the help... Here take these for the effort...
+GID00098685	Hmm, he could be anywhere by now but I have a feeling he never made it out of this town. I'd check the local caves or maybe the Sewer.
+GID00098686	I'll mark the locations of a few possibilities on your Pipboy.
+GID00098687	Hmm, maybe. When I was first assigned here I had two jobs, first to help maintain order in Goodsrpings.
+GID00098688	Second was to track down a Legion spy by the name of Baxter who was last seen in the Saloon.
+GID00098689	It's been so long now that Baxter has been pretty much forgotten about but I'm sure HQ would still be interested in his whereabouts.
+GID00098690	If you find him and bring me back some proof, preferably his Dog Tags or some other form of ID then I'll make sure you are personally rewarded.
+GID00098691	Yeah, A guy turned up in town two weeks back. He'd tunnelled to safety from a local Vault. God knows how. He was in a state of severe shock.
+GID00098692	I got a few details out of him. There was something about another Vault launching an attack, then something about giant monsters and squirrels...
+GID00098693	He was staying with me until a few days ago when he just left silently in the middle of the night. I have no idea where he went.
+GID00098694	Only place I can think of is back to his Vault...
+GID00098695	NCR have classified the area as off-limits until they have sufficient troops to check the Vault for supplies.
+GID00098696	My guess is that'll never happen but I could still get arrested if I'm seen in the area in the meantime.
+GID00098697	I know where his cave entrance is if you wanna check the place out but it sounds like a death trap to me...
+GID00098698	Not around here. I think your skills would be of more use elsewhere for the time being.
+GID00098699	Good, The Caesar will be pleased. As for your reward I hope this will compensate you for your time.
+GID00098700	Well you certainly chose the wrong tunnels to exlore today. This place is a warzone.
+GID00098701	According to our interrogations there is a vile poisoner known as Frost who resides in this cesspool of filth.
+GID00098702	He's responsible for 90% of the drugs we found in Nipton and The Caesar want's him dead.
+GID00098703	Find him and kill him and I'll make sure that you are well rewarded.
+GID00098704	Very well, then I suggest you stay out of the way of our bullets.
+GID00098705	Go then, there will be time to round up the cowards like you another day.
+GID00098706	Good, go now and bring be something to prove when the job is done.
+GID00098707	That's great news. We have encountered heavy resistance from the local junkie scum here and are still in combat.
+GID00098708	We are purging the junkies and whores from these tunnels. It's proving to be more difficult than I had anticipated.
+GID00098709	We have to stay here to clean up, guard these tunnels and see if we can find anything worth salvaging.
+GID00098710	Very well...
+GID00098711	Well, I do happen to know a recipie which may come in handy out there in the wastes. Here, take it.
+GID00098712	...and have a few ingredients on the house. It's not like we're struggling for supplies down here.
+GID00098713	Nope, just what's on the menu.
+GID00098714	No shit, well it sounds like you wandered into the wrong place at the wrong time... We're in some deep shit here...
+GID00098715	Maybe, maybe not, what's the big deal anyway? It's not like people have a high life expectancy around here...
+GID00098716	Julie needed the Med-X for her bad back...
+GID00098717	The stuff Verona sold in the wastes was just enough to feed the rest of us...
+GID00098718	Well it looks like you found us Captain Adventure. Now are you gonna help us out or just get in my way?
+GID00098719	These Legion freaks have been slowly killing off our friends. I for one have had enough.
+GID00098720	I'm gonna go out there and kill as many as I can and I'll take all the help I can get.
+GID00098721	It sounds like you did most of the hard work already. A little mopping up and I'm out of here...
+GID00098722	Here, take my master key now in case anything happens. Take anythin' you want... and thanks for helping us out.
+GID00098723	I'm getting out of here while I still have the chance...
+GID00098724	Typical..., well whatever, just don't get in my way.
+GID00098725	You freaks make me sick! I gonna kill you all!
+GID00098726	I'll give you the key to my stash room, you can take anything you like. I won't be needing it anymore...
+GID00098727	If I get out of here alive I'm heading to a friends safe house up north. The south is becoming way too dangerous these days.
+GID00098728	Not without a fight you won't.
+GID00098729	Great, take my master key now in case anything happens. Take anythin' you want...
+GID00098730	Right, lets get out there and kick some Legion ass!
+GID00098731	The Legion dumbass. They're taking over the entire southern region and we're in the way.
+GID00098732	We've had problems with them before after one of our group, Verona, was caught with a stash of chems out near Nipton.
+GID00098733	They tortured our location out of him and let him go. Then this moring they paid us a visit.
+GID00098734	Only five of them. We had to scare them off with out greater numbers.
+GID00098735	If they found my chem stash they would have killed everyone so we had no choice.
+GID00098736	I guess new they're back with a whole fucking platoon.
+GID00098737	I was trying to hide my stash when they arrived. Too late now... they're killing everyone...
+GID00098738	Really? Well in that case you may not have come at a better time.
+GID00098739	I'm guessing you are new around here so I'll fill you in on what's going on...
+GID00098740	Centurion Baculus was assigned here only three months ago and in that time he has killed a staggering amount of people.
+GID00098741	Unfortunately nearly half of them have been on our side or our slaves, one or two of them were even personal friends...
+GID00098742	The Caesar seems to love this guy, no idea why but he won't hear a bad word said against him... Something about the power of fear...
+GID00098743	Michaels here has some medical training and says Baculus is dispalying many of the common signs of Psycho addiction...
+GID00098744	Obviously if the Caesar were to be given proof that Baculus was a chem user he would have no choice but to have him executed...
+GID00098745	Now we just need to find his stash or catch him in the act. Will you help us achieve this?
+GID00098746	Really? Well in that case you may not have come at a better time.
+GID00098747	I'm guessing you are new around here so I'll fill you in on what's going on...
+GID00098748	Centurion Baculus was assigned here only three months ago and in that time he has killed a staggering amount of people.
+GID00098749	Unfortunately nearly half of them have been on our side or our slaves, one or two of them were even personal friends...
+GID00098750	The Caeser seems to love this guy, no idea why but he won't hear a bad word said against him... Something about the power of fear...
+GID00098751	Michaels here has some medical training and says Baculus is dispalying many of the common signs of Psycho addiction...
+GID00098752	Obviously if the Caesar were to be given proof that Baculus was a chem user he would have no choice but to have him executed...
+GID00098753	Now we just need to find his stash or catch him in the act. Will you help us achieve this?
+GID00098754	Baculus was placed in charge of Cottonwood after Caesar witnessed his efficiency in combat.
+GID00098755	I never liked the guy. He seemed like a common thug to me.
+GID00098756	Ever since he was put in charge here he has ruled without mercy or forethought.
+GID00098757	From the brutal punishments I have heard from others and even witnessed personally I would describe him as a psychotic sadist.
+GID00098758	My opinion is he has become a liability and he needs to be dealt with as soon as possible.
+GID00098759	Did Baculus send you?
+GID00098760	Yes, this is true, though maybe for the wrong reasons. Regardless I don't have time for autograph hunters right now...
+GID00098761	Not down here you don't... Kill them before they tell anyone about this!
+GID00098762	Well you certainly look like you can handle yourself. Very well. I'll tell you why we are here. Maybe you will be of use to us...
+GID00098763	It is now you cowardly spy!
+GID00098764	Very well, I trust you for now to keep this information to yourself.
+GID00098765	However do not dare to cross me or exspose our plans or I'll personally gut you on a Crucifix.
+GID00098766	Excellent. Return to me once we have the evidence we need and we'll bring this bastard down.
+GID00098767	OK, you seem trustworthy to me. Maybe you will be of use to us after all...
+GID00098768	I don't trust you. Get out of here now before I kill you myself.
+GID00098769	The Caesar would become suspicious and doubtless blame me, though if it becomes unavoidable then I'll happily put the bullet in Baculus myself.
+GID00098770	Very well, I expected this may happen. This is unfortunate but you have still served us well today.
+GID00098771	Take these as a sign of my gratitude.
+GID00098772	Excellent work, here's your reward as promised...
+GID00098773	Now we have the evidence we need it's time we took down that tyrant once and for all.
+GID00098774	That's not your concern. We have some tidying up to do around here, I suggest for now you make yourself scarce.
+GID00098775	The Caesar may not be pleased by your actions even if we all are.
+GID00098776	Go then...
+GID00098777	Ahh, yes, OK, well, the thing is I'm trying to keep that quiet.
+GID00098778	I tried explaining it to one guy around here and he went totally crazy and just ran off into the Nightstalker Den screaming about reality.
+GID00098779	If you could keep my secrets to yourself I'm sure I would really appreciate it.
+GID00098780	OK, Bye
+GID00098781	Oh, really, you found our house then.... so you know about....
+GID00098782	Oh great, blackmail. Well fine, be like that and take these then piss off.
+GID00098783	Yes, that's right. How can I help?
+GID00098784	Thanks, here take these as a sign of my appreciation.
+GID00098785	Things are a bit mad around here right now. Maybe once things have quietened down a bit more we can have a talk.
+GID00098786	Right now I have a lot on so if it's OK with you I'll get back to recalibrating these energy weapons. Those Tech Raiders won't kill themselves.
+GID00098787	Of course, you look like the most interesting person I've met in this place. This should be fun.
+GID00098788	OK, here you go...
+GID00098789	OK, here you go...
+GID00098790	OK, here you go...
+GID00098791	OK, here you go...
+GID00098792	We need some kind of evidence as to what may be causing such powerful ghouls to turn up nearby.
+GID00098793	Plus if you can find out what happened to the gang from the Shipping Bunker I'd really appreciate it.
+GID00098794	Finally don't forget to kill as many of those mindless ferals as possible and bring me back their ears as proof.
+GID00098795	OK, here you go...
+GID00098796	Most of it comes from traders needing repairs from Ms Gibson.
+GID00098797	She knows I know my way around a reloading bench so she gives em to me. We both take a share of the profits.
+GID00098798	Though I have quite a good rep locally now so people know I'm the place to come for bullets around here.
+GID00098799	Nice work. Here you go. I'll just take these out back and burn 'em.
+GID00098800	Nice work. Here you go. I think I'll just bury these deep enough that I can't smell 'em...
+GID00098801	Cool, Here you go...
+GID00098802	That's great, keep 'em comin'.
+GID00098803	Nice work. Here you go.
+GID00098804	That's great. I think I should let you choose your next reward. I have several boxes of ammo you could use and a few grenades.
+GID00098805	Just let me know which is most useful for you...
+GID00098806	After all the hard work you have done for us I think I'll let you choose your own reward again.
+GID00098807	I have three options that may interest you...
+GID00098808	I recently became the owner of a stash of rare chems. I don't use 'em myself...
+GID00098809	Well, apart from a few Mentats here and there...
+GID00098810	Besides those I have a box of spare food supplies. Almost a crate full...
+GID00098811	They won't last much longer in this heat so people are put off by 'em but they are still good for recipies at the very least.
+GID00098812	Finally I recently managed to get hold of a Tri-Beam Laser Rifle. A skav found it up north near a dead Pack Brahmin.
+GID00098813	If you're any good with energy weapons it could be very handy.
+GID00098814	Nice work. Here you go. I think that's all I can pay you for for now. Thanks for all the help though.
+GID00098815	Oh yeah, one more thing, a few of the local's got together to say thanks for all your hard work.
+GID00098816	So this armor is from them...
+GID00098817	Yeah, if you think you can handle yourself in a fight we have ourselves an ever worsening Ghoul problem to the East.
+GID00098818	I have spoken to Manny about it in the past but he thinks they are coming from or at least heading to Repconn to the west.
+GID00098819	I have many reasons to doubt this. First the heavy radiation around the Clark area seems to attract both feral ghouls and geckos in abundance.
+GID00098820	There's one main tactical difference between those two monsters...
+GID00098821	The Gecks have a lot of trouble opening doors. Ferals still seem to have the knack for that sort of thing.
+GID00098822	I have seen for myself ghouls exiting the old Clark Reservoir. I have no idea how many could potentially be down there.
+GID00098823	On top of those I have completely lost contact with a local gang of teens who live in a Bunker nearby.
+GID00098824	Several very dangerous ferals have been spotted in the area. Bigger and faster than the usual others.
+GID00098825	So much so that even the NCR got involved until they lost their entire team to the tunnel system down there.
+GID00098826	The place used to be an underground metro shipping hub. It's a rubble strewn maze now for the most part.
+GID00098827	The bunker was built so the hub could continue to function even after a war. Seems the tunnels themselves were not built as well...
+GID00098828	The gang that lived down there could be pretty obnoxious at times but they were learning and I was helping them out whenever I could.
+GID00098829	I'd like to know what happened to them if possible. Also the NCR are very keen on finding out what is causing those mutations.
+GID00098830	They even have Snipers posted in town now, though usually they wear plain clothes so as not to draw attention.
+GID00098831	If you could find anything that might be causing that I'll reward you in advance. 1000 caps, just like they promised me.
+GID00098832	Also there's one final thing. We need some of those ghouls dealt with permanently...
+GID00098833	For every 12 severed Ghoul ears you bring me back I'll give you something special from my own collection.
+GID00098834	Only those from the east of Novac though - I can't afford for you to take out every Ghoul in the state after all.
+GID00098835	Thanks, I'm really glad someone cares enough to help. I'll mark the areas on your Pipboy map.
+GID00098836	Here, take these too. Those areas will be pretty heavily irradiated so you'll need some protection.
+GID00098837	This explains what happened to the gang in the Bunker and what has been affecting the Ghouls.
+GID00098838	Damn that's so sad. Oh well, I guess those are just the harsh realities of life in the wastes...
+GID00098839	Thanks for letting me know. Here are your rewards as promised...
+GID00098840	OK, enjoy.
+GID00098841	No prob, here you go.
+GID00098842	Good choice. Have fun.
+GID00098843	Sure thing, here you go...
+GID00098844	OK, well, I was born into a family of scavangers and as a result I specialise in two things, guns and junk.
+GID00098845	Guns are expensive though so I took to learning about ammo instead.
+GID00098846	For example did you know that even standard 5mm ammo tears through armor comapred to 5.56? Info like that can save your life.
+GID00098847	Anyway a few years ago I wandered into Novac and eventually settled here in Gibsons junkyard. Lets just say it suits my style.
+GID00098848	OK, Bye.
+GID00098849	Yeah, that's right, each one is a custom job. Mostly my own handywork.
+GID00098850	Since the Tech Raiders took the majority of our robot workforce we have had to focus on making our remaining units more efficient.
+GID00098851	In fact now I think of it I have a few leftover parts that may be of use to an adventurer like yourself. Here, take these...
+GID00098852	Well I could spend the next two hours explaining that to you but I don't think you're gonna get it so lets just leave it there.
+GID00098853	No, that's fine, I got used to it. Too much time in the wastes I guess.
+GID00098854	Well there's the old sewer just north of the Gas Station. There's some mean Mole-Rats down there but not much else that I am aware of.
+GID00098855	Also just to the South East is the old Skydiving Bunker.
+GID00098856	It's been taken over by a gang of Powder Gangers so vicious that even other 'Gangers avoid them.
+GID00098857	It's a real shame, I heard the family that used to live there were very popular around Goodsprings...
+GID00098858	Some guy came crawling out of a Vault near here. I don't know the exact location but speak to Arkus if you want to learn more.
+GID00098859	He was staying with her briefly until he left one day without saying why.
+GID00098860	There's an old cave on the Cliffside. When times get rough we hunt for Rats around there.
+GID00098861	One of the residents snuck in once and spotted some kind of Bunker.
+GID00098862	Unfortunately there have been too many rats inside to risk further investigation so far.
+GID00098863	Well, there are the Gecko hot-spots which are becoming a real nuisance. Very dangerous places...
+GID00098864	Speak to Frankie if you have not already and he'll fill you in on those.
+GID00098865	He's been trying to assemble a crew to re-take the Cigarette factory for months now but no one will attempt another attack after the last time.
+GID00098866	Far to the south by Crescent Canyon there is an old Train Tunnel. I spent some weeks living there after I arrived in Nevada.
+GID00098867	The locals are friendly and may have some supplies to trade though I have not heard from them in a few weeks.
+GID00098868	Hmmm.... There was an old Police Bunker I heard about once near Nipton.
+GID00098869	I believe it is still active but the gang who used to live there have not been seen around here in years.
+GID00098870	I never saw them myself but apparently they were trying to bring back the old-world law system.
+GID00098871	My guess is the new world did not take so kindly to that...
+GID00098872	Nope, that's all the locations I know of for sure. I can ask around and see if I can find out about any more though. Should be fun.
+GID00098873	Nope, nothing worth your attention so far.
+GID00098874	You got that right but I guess he gets results at the end of the day...
+GID00098875	Sure, here you go...
+GID00098876	It's our main HQ in the Southern Region. Used to belong to a General before the old war. He filled the place with art.
+GID00098877	Sounds like he never claimed it and eventually it was taken over by one of the gangs. They did a good job of wrecking everything.
+GID00098878	The Caesar took it over about 10 years ago after our glorious battle for Cottonwood.
+GID00098879	No, not a dog you plum, he's been allowed a female bodyguard. She can't get enough of him from what I hear.
+GID00098880	I still have no idea how he persuaded the Caesar to allow it...
+GID00098881	I think it drives Baculus crazy having a female around here which would be funny if it was not so scary...
+GID00098882	He's our top Sniper. Over 200 confirmed kills. He's something of a celebrity around here, though he does not socialise much.
+GID00098883	Still, neither would I if I had a hot bitch following me around everywhere.
+GID00098884	No, please don't do that, I'll do anything, here, take these...
+GID00098885	I hope that will compensate for my delinquency.
+GID00098886	You're full of shit, he'd kill you before he'd kill me. At least he knows me...
+GID00098887	That would be Centurion Baculus for now. I'd steer clear of him if I were you. He's got serious anger issues.
+GID00098888	If you ask me we'd be better off with Marshal in charge. Baculus has killed more Legion around here than the entire NCR recently.
+GID00098889	OK, Caesar be with you.
+GID00098890	Sure, he you go...
+GID00098891	Fine, here, take them and ask your questsions.
+GID00098892	Well in order to keep this place a hidden from Mr House we had to take certain measures.
+GID00098893	We built a fake but functional Waste Disposal plant on the first level to mask the Redoubt's entrance.
+GID00098894	Since House took over our Vault we strictly limit access to the Redoubt. Whoever goes into the Waste Disposal area has to come back out again.
+GID00098895	Sarah and I trade food and notes via lunchboxes every week or so. She won't ever talk about this place though.
+GID00098896	OK, if you say so, so you don't work for Mr House then?
+GID00098897	Sure..., whatever you say. Just take it easy and tell me what you want.
+GID00098898	Wow, the main portal still works? I had no idea, so you don't work for Mr House then?
+GID00098899	Only that he's a a mean old fucker. I never met him... I was only 13 when he stormed in and tore the place up. Forced everyone out...
+GID00098900	I still remember watching his droids break down and seal off our Vault level by level... searching everywhere... right outside the door...
+GID00098901	They never found me though... and I saw everything. Saw them kill the few who refused to leave...
+GID00098902	Sarah and Michael managed to work out a way to save the top floor of the Vault but it was too late for the others.
+GID00098903	They never speak of it now. House will not allow it.
+GID00098904	No, I never met the guy. I'm sure you know a lot more about him than me.
+GID00098905	That's great news. Oh my... finally, I can leave... go outside I guess... if I feel like it...
+GID00098906	Here, take these keys, they will allow access to the main Vault. You can come and go as you please.
+GID00098907	OK, I believe you. Before we talk more I have to tell you that we have kept this Redoubt hidden from House for over ten years.
+GID00098908	Now I need you to promise that once you leave here you will not talk about this place to anyone. House has cameras everywhere.
+GID00098909	I don't trust you. This conversation is over.
+GID00098910	I've got an answer for you.
+GID00098911	Fine... I guess this was bound to happen eventually... what do you want then?
+GID00098912	Thanks, it's nice to know someone cares, but it's OK, that was a long time ago.
+GID00098913	Thanks, here, take this key. It'll open up the Waste Disposal area. You'll have to access the Strip and Vault via the regular route I'm afraid.
+GID00098914	Take this note too, it will explain how to gain access through the Waste Disposal room.
+GID00098915	That's good to know, even if it was not very funny... but how did you get in here?
+GID00098916	Well..., that's good to know, even if it was not very funny... but how did you get in here?
+GID00098917	Well I'm not saying anymore to a bitch slave of House.
+GID00098918	OK, I'm not saying any more then.
+GID00098919	That's good to know, but how did you get in here?
+GID00098920	Thanks but no thanks. I... don't like the outside...
+GID00098921	Oh thank you so much, I can finally invent some new recipes. Here, take these and thanks again - you just made my whole year.
+GID00098922	Well, I guess I'm fairly self sufficent here... I have most of the things I need already...
+GID00098923	but if you really wanna help me out there are a few things I could use. Basic stuff, food supplies...
+GID00098924	Get me those and I'll give you the key to the Vault Hydroponics area. You can take whatever you need.
+GID00098925	Also our Vault was overstocked with certain foodstuffs. I think one of our ancestor Overseer's had a taste for Steak and Eggs.
+GID00098926	I can't stand the things anymore myself but I learned a few useful recipes for cooking what we had in healthier and more interesting ways.
+GID00098927	Here, take this one now with the list of foods. I'll give you two more as well as the key if you can find me everything on the list.
+GID00098928	Sure, just find that stuff on the list I gave you.
+GID00098929	I'll have a go.
+GID00098930	Sure, if you like... I have lived in this Redoubt for the last ten years, ever since House evicted everyone from our Vault.
+GID00098931	My mom left and never came back. Killed by muggers... I guess I raised myself from then on down here.
+GID00098932	I read just about everything I could find and moved onto the vid-files. Our Vault's files were mainly filled with Sports and gambling results.
+GID00098933	However the sections on medicine, cooking and electronics prooved really handy.
+GID00098934	Though I don't have the nerves for medicine I found I could incorporate many of the lessons into my cooking hobby.
+GID00098935	The electronics came in handy for rewiring the local mainframes to scan for better info files.
+GID00098936	I was also able to prevent the mainframe from reaching decisions based on a random number generator rather than actual data.
+GID00098937	Not that that was of any use since everyone left the Vault. I guess I just wanted to prove to myself that I could do it.
+GID00098938	You're kidding right, please, this is all I have down here...
+GID00098939	Fine, whatever... just take it and leave me alone.
+GID00098940	Fuck you. I'm sick of living in fear.
+GID00098941	No, really, please that's all I have, search the place if you like - there's nothing left.
+GID00098942	Fine, here, that's all I have left. Now just fuck off.
+GID00098943	Vault 21 was once a huge and prosperous place. Everything here was controlled by gambling.
+GID00098944	Even the most mundane of petty squabbles were worked out with a dice or deck of cards. It makes me kinda sick to be honest....
+GID00098945	That's how we lost the Vault. Gambled the damn place away to Mr House. He concreted the whole place up and turfed everyone out.
+GID00098946	That miserable old bastard...
+GID00098947	This is a hidden Vault Reboubt built below The Strip. We went through huge measures to keep this place a secret.
+GID00098948	It was all for nothing... My mother had to abandon her experiments here after Mr House took over our Vault ten years ago.
+GID00098949	Mom died not long after leaving the Vault and the Vault itself is now just a low rent Hotel for the local drunks.
+GID00098950	Somehow we managed to keep this place a secret throughout it all and now it's my home... my safe place... my prison...
+GID00098951	My name is Rose. I live here. Now was there anything else you wanted to know?
+GID00098952	OK, Bye.
+GID00098953	Whatever.
+GID00098954	Nice try hero but rules are rules. We need to be prepared for the future.
+GID00098955	Heh, you're right there. We really owe you one for that. In fact here, take these from my personal stash as a thankyou.
+GID00098956	Good to see you again.
+GID00098957	I used to be a shapeshifter but for some reason I'm stuck in this form here in this world. Luckily I still retain my regenerative powers.
+GID00098958	This pretty much makes me invincible. On top of that I have a key to our old shack. Who knows, you may find something useful in there.
+GID00098959	OK, look, I'll level with you, you seem to be more open minded than most... I'm not even like you. I'm an Alien, from another planet....
+GID00098960	When I first found the Underground I thought it would be a lot of fun, and it was. Though to be honest this place bores the tits of me now.
+GID00098961	Now I just wanna get back out there and see something other than rocks.
+GID00098962	That's great, thank you, and as promised here's the key to our old shack. OK then so what next?
+GID00098963	Of course, must have slipped my mind during all that fighting. That's great news thank you - in that case let's just go and have some fun.
+GID00098964	That's great news, well, anything you wanna know just ask.
+GID00098965	Well I used to be a shapeshifter but for some reason I'm stuck in this form here. Luckily I still retain my regenerative powers.
+GID00098966	This pretty much makes me invincible. On top of that I have a key to our old shack. Who knows, you may find something useful in there.
+GID00098967	OK, what next?
+GID00098968	Sure go right ahead.
+GID00098969	OK, look, I'll level with you, you seem to be more open minded than most... I'm not even like you. I'm an Alien, from another planet....
+GID00098970	When I first found the Underground I thought it would be a lot of fun, and it was. Though to be honest this place bores the tits of me now.
+GID00098971	Now I just wanna get back out there and see something other than rocks.
+GID00098972	Well I come from the planet Hedrolaxia which is a place of extreme Hedonism. The lifestyle was not for me though so I left for Earth.
+GID00098973	When I first arrived I managed to piss off the locals very badly. I'm used to having whatever I wanted whenever I wanted it at home...
+GID00098974	I ended up just taking whatever I wanted and using my powers to get away with it. It was not long before a gang of irate locals tracked me down.
+GID00098975	Luckily Charlie arrived just in time and dragged me out of there before the military showed up.
+GID00098976	Hmmm, to cut a long story short... Our reality and yours are not the same. In our reality there is a war raging on all immortals like us.
+GID00098977	There is another like us. He wants to be the only immortal left and has aligned himself with the governments of our world to kill us all.
+GID00098978	We were teleported here to this reality by an entity who refers to himself as 'God' who lived with us for a while, apparently for our own saftey.
+GID00098979	Not long after a few of us discovered The Underground and I chose to stay and help out around here for a while.
+GID00098980	Then you showed up and here we are.
+GID00098981	Not like me no, well, not exactly. We are all immortal for one reason or another so we tend to stick together.
+GID00098982	Apart from myself there is Charlie who says he is an 'Angel of Retribution', Steve, a vampire,..
+GID00098983	Danny who is a Super Soldier, Matt, a ghost, Tony, a time-travelling inventor and finally Nova, Tony's robot assistant and all around slave.
+GID00098984	I hafta admit, I'm actually starting to miss those guys.
+GID00098985	It's not far from the New Vegas Medical Clinic. We built it in the middle of no-where. Well, near enough.
+GID00098986	If you let me come with you I'll show you the way and give you a key.
+GID00098987	No problem, here let me have a look.... Ok there that should do it.
+GID00098988	OK, fair enough. I guess I'll stick around here for a while longer if you change your mind.
+GID00098989	OK, cool, will do.
+GID00098990	Yeah, up to a point. Let me take a look.
+GID00098991	That's fantastic. I can't wait to listen to these. Here, take this, it's my old rifle... It's powerful enough to scare Deathclaws.
+GID00098992	Well, I guess that's it for now. If I find the loactions of any more discs I'll get back to you. Cheers friend.
+GID00098993	You bet. I'm not gonna lie to you though, these last three are not gonna be easy to get to. At least one is in Tech Raider territory.
+GID00098994	You still up for this?
+GID00098995	OK, great - I seriously cannot thank you enough for this but I'll make sure there is something special waiting on your return.
+GID00098996	Here, let me upload the co-ordinates...
+GID00098997	That's fantastic. I can't wait to listen to these. Here, take this, it's my old rifle... It's powerful enough to scare Deathclaws.
+GID00098998	Well, I guess that's it for now. If I find the loactions of any more discs I'll get back to you. Cheers friend.
+GID00098999	I'm a Sergeant with the NCR. Many of us have been re-assigned to maintain our hold over friendly settlements.
+GID00099000	It's mostly to keep the trade routes open but to be honest I think it's a PR exercize too.
+GID00099001	Despite our greatest efforts we still don't have the best reputation around these parts.
+GID00099002	I had friends here once upon a time. Used to be a good town... well, it still is but after Primm fell many settlers moved north.
+GID00099003	People just wanna escape the Powder Gangers. Can't say that I blame 'em. This place is wide open for attack.
+GID00099004	No, sorry but supplies are stretched too thin as it is.
+GID00099005	OK, you do look like you could use the help. Just don't go around telling people about this OK...
+GID00099006	Yeah, if you heading south east stay away from the old Correctional Facility. The convicts have taken over and all hell has broken loose.
+GID00099007	Nope, sorry.
+GID00099008	Yeah, you seem trustworthy enough. If ever you make it to Camp McCarren head into the terminal, right to the back of the building.
+GID00099009	There's a good fiend of mine works down there, goes by the name of Conteras He has one of the best ammo supplys in the whole NCR.
+GID00099010	Just don't ask where he gets it all from.
+GID00099011	Nope, just look after your weapon and watch your back.
+GID00099012	I volunteered for a Peace Keeping role here. After Primm fell many of our forces got re-assigned.
+GID00099013	On top of the local Powder Ganger threat we have had everything from giant rats to the walking dead come through here the last few days...
+GID00099014	So someone needs to keep an eye out over these folk. Plus, I used to know some people around here. Lived in a bunker to the east
+GID00099015	Dead now. Killed by Powder Gangers. They killed my backup too. Now it's just me and McCarren refuse to send more troops to defend a small town.
+GID00099016	No, not really, I've never been down there myself. From what little I have heard I'm grateful for that.
+GID00099017	Very well...
+GID00099018	OK, here you go...
+GID00099019	OK, after you...
+GID00099020	OK, following from a distance...
+GID00099021	Thanks.
+GID00099022	OK, guarding local area.
+GID00099023	OK, holding position.
+GID00099024	Well, it looks like we have accomplished our mission, thanks to you. I wish I had something to give you... I guess I'm gonna head back to base...
+GID00099025	Hey, good to see you again, anything I can do for you?
+GID00099026	Huh, oh... what the... shit... I must have passed out....
+GID00099027	I'm busted up pretty bad here... I don't think I'm dying..., busted ribs maybe... dislocated left shoulder... pain is fucked up...
+GID00099028	I hate to ask a stanger for help but I think I can fix myself up if you have a spare Doctors Bag. Even a dose of Hydra would do the trick.
+GID00099029	Thanks, I owe you one...
+GID00099030	Thanks, I owe you one...
+GID00099031	Fucking typical... Just get it over with scumbag.
+GID00099032	Shit, I don't know, recon is not my speciality. From the briefing I remember mention of a pre-war underpass... I guess we must be in that.
+GID00099033	We knew there must have been a cave around here somewhere, where all the Deathclaws were hiding.
+GID00099034	I never expected anything like this though....
+GID00099035	Damn right I do. Lets go kick some Deathclaw ass.
+GID00099036	Whatever, I 'aint goin anywhere in a hurry... If you find anything you know where I am.
+GID00099037	There's nine of us, or there used to be anyway. Me and Franco are the Heavy support, then theres the Sarge, a damn fine leader.
+GID00099038	Bruce and Vizzy are our scouts, Nola is our medic, then theres The Lizard, our mute trapper.
+GID00099039	Kendo is our top sniper and finally theres Merrek, whos near useless apart from his lockpick skills.
+GID00099040	If any of 'em are left alive in there I need to find them... and if not, kill as many of those bastard Deathclaws as I can...
+GID00099041	I'm part of an NCR project, 'X13'. Top secret but it's not like I give a shit right now.
+GID00099042	We're all mutants, freaks of nature or in some cases, like myself, just drug fuelled experiements, trained to fight on behalf of the NCR.
+GID00099043	Vizzy was a psycher, they say Kendo could see the future and Sarge could bend girders in a bad mood.
+GID00099044	We all had a speciality. We we're meant to be the toughest sqaud in the entire NCR, capable of holding Hoover Dam without backup if need be.
+GID00099045	This was our first real mission. The briefing seemed simple enough. Loacte the source of the Deathclaw infestation near Primm and kill 'em all.
+GID00099046	We never expected anything like this, even Kendo was surprised. As soon as we stepped into this place I knew we were in trouble.
+GID00099047	We dropped the first few easy enough. Stuck together, kept it tight, picked out specific targets each as we were trained.
+GID00099048	When the big Alphas started showing up we we're in trouble. Nothing was dropping them, even headshots...
+GID00099049	The squad scattered and I took a blow that threw me half the length of this room... I guess I crawled to safety and passed out...
+GID00099050	That's all I remember...
+GID00099051	Bye.
+GID00099052	I'm Major Cobb, and I'm a veteran of the Underground. If anything should happen to Colonel Hoff I would assume command of our army.
+GID00099053	No, we still have too many problems in the South East. Talk to Seargeant McMillan in Dead Man's Pass.
+GID00099054	If you can solve his problems then I will allow you to take a squad of troops into battle with the Tech Raiders.
+GID00099055	No, we have too many problems as it is. An assault now would leave us vunerable to an attack from the South East.
+GID00099056	On top of this there may be a spy about. Go talk to Colonel Hoff in the Power Plant or Sergeant McMillan in Dead Man's Pass if you want to help out.
+GID00099057	No, we still have a spy in our midst and we can't draw up plans for an offensive when we do not know who we can trust.
+GID00099058	After all of your achivements so far I would be a fool to say no.
+GID00099059	However there are a number of things you should know before you lead your attack.
+GID00099060	The Tech Raider HQ is defended by hundreds of well armed lunatics. They have even started to graft armor on to some of thier recruits.
+GID00099061	Even our best weapons made little impressionon these troops and we were unable to recover the armor from the few we have killed.
+GID00099062	If you are going to attempt this assault I fear even Iapicca's team will not be sufficuient backup.
+GID00099063	If you can find troopers Holstromm and Wessels I'm sure you can persuade them to help out too.
+GID00099064	Unfortunately I cannot spare my own team. If your plan fails you may bring down a storm of shit on own home.
+GID00099065	If that happens, we'll need people around to clear up.
+GID00099066	Just report to Corporal Iapicca in Trapper's Pass when you are ready to go.
+GID00099067	Your main enemies will the the Tech Raiders, thier robot guards and the Nightstalkers.
+GID00099068	Also back in the day we had uncomfirmed reports of Caesar's Legion troops around the Boulder City Sewer area.
+GID00099069	About 6 years back we had a spy in the Tech Raider camp. Real method actor, a total piece of shit when he wanted to be.
+GID00099070	He reported that the Tech Raiders had been involved in a skirmish down in Boulder Sewer with foes dressed like the Legion.
+GID00099071	There are emergency access tunnels down there that lead to our old Transit system. Somehow the Legion must have gained access.
+GID00099072	From the sound of it the Tech Raiders got thier asses handed to them. Never thought the Legion would do us a favor but there you go.
+GID00099073	Anyway back when we owned the area we had to seal the place off. The whole area was a radioactive dumping ground after the War.
+GID00099074	If you have already reclaimed our HQ don't expect Iapicca's squad to follow you down there.
+GID00099075	They managed to infest one of our incomplete sectors after the Tech Raiders took over.
+GID00099076	Now the Raider's encourage them. They even breed loyal Nightstakers and use 'em as a meat shield.
+GID00099077	I still don't know how they managed that. I guess they're both mean enough to respect each other.
+GID00099078	They have all sorts in there, from Protectrons to Rob-Co Security-Bots, just like those outside the strip.
+GID00099079	They have access to our main robotics labs and you can expect them to be active and hostile.
+GID00099080	If I were you I'd stock up on EMP gear before trying to take over the HQ itself. The place is filled with turret emplacements.
+GID00099081	The Tech Raiders form the bulk of the forces amassed against us in The Underground.
+GID00099082	They are genrally very well armed on account of they have access to our main armory.
+GID00099083	Expect to run into troops carrying advanced energy weapons and wearing modified Metal or Power Armor.
+GID00099084	We still know little about the crew behind them. All I know is they are well trained and likely to be even better armed than thier troops.
+GID00099085	Some ex-BOS have mentioned in briefings that thier armor sounds very much like that used by a force known as The Enclave.
+GID00099086	By all reports that organisation should no longer exist but if it is the Enclave in control, from what I have heard we have a powerful enemy indeed.
+GID00099087	No, Masseling may be the only assest we have capable of striking fear into these bastards. I can't risk loosing him.
+GID00099088	You are probably right. OK, you can take Masseling. I just hope you know what you are doing...
+GID00099089	No, most of our Energy Weapon specialists end up in the science division. I can't think of anyone spare.
+GID00099090	Yes, I agree. Mlix should be in the Trooper Barracks by the range. I guess under the circumstances she should go along with you.
+GID00099091	Wow, that's incredible. We can't thank you enough for this. Here, take these supllies as a reward.
+GID00099092	So I heard, that's a mighty impressive achivement and everyone around here owes you a real debt.
+GID00099093	I promished you a reward and I have gathered a bunch of supplies and caps as a way of saying thaks.
+GID00099094	It's nothing compared to the resources you have recovered for us but I hope it goes some way to compensate you for your efforts.
+GID00099095	No, not right now. Try checking with the Colonel in the Power Plant or McMillan in Dead Mans Pass.
+GID00099096	No..., not unless you feel like lauching a full scale offensive against the Tech Raiders...
+GID00099097	OK. Bye.
+GID00099098	I'm Corporal Iapicca and it's my job to watch over this end of Trapper's Pass.
+GID00099099	At the first sign of a Tech Raider attack we have orders to fall back, alert the others and defend the Reactor.
+GID00099100	Glad to hear it. You don't know how long I have been waiting for this... OK squad, get ready to move.
+GID00099101	No chance, I wish we could but we have too many problems around here is it is without stirring up that hornet's nest.
+GID00099102	After all the good work you have done clearing out the East and catching our spy I sure as hell don't see why not.
+GID00099103	You'll have to let Major Cobb know first through. Check back with me once you have his permission.
+GID00099104	OK, but if you wan't any of my stuff you'll have to trade for it.
+GID00099105	Well, we're through here. We now have to hold this area in case any Raiders return.
+GID00099106	I can't thank you enough for your help but I can give you my rifle as as sign of my appreciation. It's never let me down.
+GID00099107	When you get chance you may wan't to report back to Major Cobb. I'm sure he will have something for you too.
+GID00099108	Good luck with whatever path you choose to take next.
+GID00099109	I'm right behind you.
+GID00099110	No, we have our orders and we are not moving until that changes.
+GID00099111	OK, I'll go with you. My squad must stay here though... Are you really sure you want to do this now?
+GID00099112	Thanks.
+GID00099113	OK, lets do this.
+GID00099114	OK. I'm Waiting.
+GID00099115	OK, Guarding Area.
+GID00099116	OK. Bye.
+GID00099117	No, sorry, not while I'm on duty.
+GID00099118	Hell, after what you have done for us it would be the least I can do. Take these, I'm sure they will come in handy.
+GID00099119	The is the Freetech Boradcast Tower and safest entrance to The Underground in all of the Mohave.
+GID00099120	I'm Corporal Lam, and it's my job to watch over this area and make sure no Fiends or Tech Raiders try to sneak in.
+GID00099121	The Fiends in particular have become a contant nuisance as of late. I believe they have joined with our old enemy the Tech Raiders.
+GID00099122	Now they are contantly pestering anyone who comes near us despite the best efforts of our snipers.
+GID00099123	No, we have too many problems right now to go worrying about other people troubles.
+GID00099124	Check out the Bar in the Market sector. They have a steady supply of free fresh food for our residents.
+GID00099125	I'm sure they would not mind sharing some with you.
+GID00099126	It's our home... Well, some of it is anyway. It used to all be ours...
+GID00099127	Between mutants and Raiders we have had to abandon over three quarters of the place.
+GID00099128	It was built as a safe haven from the War around 200 years ago. There's caves down there as big as whole cities.
+GID00099129	Very well...
+GID00099130	Now we are through here, if you so choose, I would like to join you. I have not had this much fun in longer than I can remember.
+GID00099131	I'm right behind you.
+GID00099132	Following from a distance...
+GID00099133	OK, guarding local area.
+GID00099134	Excellent news. Lets go and show those Raiders who are the real dominant force around here.
+GID00099135	Thank you.
+GID00099136	Holding position...
+GID00099137	First I'm gonna thank you, not only are we gonna get out of here but we're gonna be heroes.
+GID00099138	Here, I found this stuff in the room I was hiding in. I figure you'll find more use for them than me. Thanks again, you really saved my skin.
+GID00099139	Hey, thanks again for your help.
+GID00099140	Well, if all those Deathclaws are dead I'm gonna thank you stanger and get the hell out of here.
+GID00099141	OK, just don't take all my stuff...
+GID00099142	I'm right behind you.
+GID00099143	OK, following from a distance...
+GID00099144	OK, I'll keep a watch over this area.
+GID00099145	OK, waiting here...Don't forget about me...
+GID00099146	Well, you seem friendly enough, I just hope your as trustworthy as you appear... OK, I'm in.
+GID00099147	Yeah, whatever, I don't have to put up with either of ya if I don't want to.
+GID00099148	Yeah, well, whatever you say tough guy.
+GID00099149	Oh, you've got to be kidding me...
+GID00099150	Hey, if Bulls with you, then so am I...
+GID00099151	I dunno... I don't wanna go back out there... Those things man... what the fuck...?
+GID00099152	OK, You are right... I just hope you know what you are doing...
+GID00099153	No chance, you are on your own.
+GID00099154	Thanks boss.
+GID00099155	OK..., fine, I'm coming, just take it easy OK...
+GID00099156	No way man... No chance, I'd rather take the chance youre bluffing than risk my neck out there again.
+GID00099157	OK, Bye.
+GID00099158	Too right, we were awesome in there. Thank you so much for showing up and saving my ass.
+GID00099159	Here, I don't have much on me but I'm sure these will come in handy in the future. Thanks again.
+GID00099160	Hey, it's good to see you again. I'm fine thanks. Is there anything I can do for you?
+GID00099161	You mean you killed all those Deathclaws? Wow, cool, here take there as my way of saying thankyou.
+GID00099162	OK, here you go.
+GID00099163	OK, I'll be right behind you.
+GID00099164	OK, I'll be watching our six.
+GID00099165	OK, guarding local area.
+GID00099166	OK, hurry back.
+GID00099167	Glad to hear it, this place is a nightmare. I don't know if any of the others made it.
+GID00099168	Oh, fuck no, I'm not going that easy...
+GID00099169	Yeah, the sooner the better.
+GID00099170	Thanks, much appreciated.
+GID00099171	OK, Bye.
+GID00099172	No, to be honest I never have the time to look around for spies. However I wish you the best of luck if that is you aim.
+GID00099173	The names Rogan stranger. I spend my days watching over the road for Raiders and mutants.
+GID00099174	I used to do it for free but now Frankie pays me a good wage. Rusty the robot can be a bit unreliable in a firefight.
+GID00099175	Before that I was a drifter. This place is the closest to a home I have found.
+GID00099176	Yeah, I know enough to stay away. If you wanna go down there stock up on HP and JHP ammo where possible first.
+GID00099177	The critters that live down there don't have access to the same armour we do.
+GID00099178	I hear there's still a safe access point far north of here, not far from the Sunset Sass HQ, but I've never been there myself.
+GID00099179	OK, see ya...
+GID00099180	Sure, have a look....
+GID00099181	Really... thanks, I guess...
+GID00099182	I can try...
+GID00099183	I killed a few of the wrong people and now I live here. I hate it, but the others seem to like me. I guess coz I'm good with chems and shit.
+GID00099184	I can sell you some of my gear if you like... I got good shit. I have it well hidden though, if you kill me you'll never find it.
+GID00099185	Also I know enough to fix up broken crap like weapons, at least if I have enough parts around. Lucklily this place is full of junk.
+GID00099186	Well, it's a junk filled craphole filled with rapists and murderers. Drenzer's managable enough. He keeps the others in line and well away from me.
+GID00099187	Well... most of the time anyway...
+GID00099188	One thing you should know.... There's a big Bank right next door to this building. It's got a vault crammed with loot...
+GID00099189	We figured the door would be blastproof and a frontal raid would have alerted the NCR so we tunnelled through the back instead.
+GID00099190	We got in OK, somewhow the Vault had been opened already but most of the safes were still locked and filled with stuff.
+GID00099191	We were in about two minutes before the flood came... Insects... Dozens of 'em, all shapes and sizes...
+GID00099192	Mantises, Rats, Scorps, Roaches, you name it... and they were all working together... It was so fucked up....
+GID00099193	We laughed at first and stomped on 'em untill the big ones showed up... Then we were screwed. Over a dozen of us were killed. We had to fall back.
+GID00099194	If you're gonna check the area out watch yourself and remember - those dumb mutants can't open up any doors...
+GID00099195	We trapped the area around there pretty good too so I recommend keeping your eyes peeled and light on.
+GID00099196	Whatever, I can't say I don't have this coming. Just make it quick.
+GID00099197	OK, Bye...
+GID00099198	OK, here you go...
+GID00099199	OK, here you go...
+GID00099200	OK, here you go...
+GID00099201	OK, here you go...
+GID00099202	OK, here you go...
+GID00099203	OK, here you go...
+GID00099204	Orders from Iapicca - I'm to guard this area. It looks like we're done here. Thanks for you help.
+GID00099205	Cobb just radioed through to say I can stick with you if you need an extra pair of hands out there.
+GID00099206	We're done here. My orders are to guard this area. Nice work in there.
+GID00099207	Thanks to you we have our HQ back. Now we have to guard the place in case any Raiders return.
+GID00099208	We did it! We beat those Raider scum. Thank you so much for your help. I wish I could join you but I have to stay and guard this area.
+GID00099209	Yeah, we taught those bastards a lesson. Thanks to your assistance we now have our HQ back. My orders now are to guard it.
+GID00099210	I'm right behind you.
+GID00099211	I'm right behind you.
+GID00099212	I'm right behind you.
+GID00099213	I'm right behind you.
+GID00099214	I'm right behind you.
+GID00099215	I'm right behind you.
+GID00099216	OK, after you...
+GID00099217	OK, after you...
+GID00099218	OK, after you...
+GID00099219	OK, after you...
+GID00099220	OK, after you...
+GID00099221	OK, after you...
+GID00099222	Great, It's about time. Lets go.
+GID00099223	OK, I'm ready to go.
+GID00099224	Thanks.
+GID00099225	Thanks.
+GID00099226	Thanks.
+GID00099227	Thanks.
+GID00099228	Thanks.
+GID00099229	Thanks.
+GID00099230	OK, Guarding area.
+GID00099231	OK, Guarding area.
+GID00099232	OK, Guarding area.
+GID00099233	OK, Guarding area.
+GID00099234	OK, Guarding area.
+GID00099235	OK, Guarding area.
+GID00099236	OK, holding position.
+GID00099237	OK, holding position.
+GID00099238	OK, holding position.
+GID00099239	OK, holding position.
+GID00099240	OK, holding position.
+GID00099241	OK, holding position.
+GID00099242	Good. I've been looking forward to this day for a long time...
+GID00099243	OK, Bye.
+GID00099244	OK, Bye.
+GID00099245	OK, Bye.
+GID00099246	OK, Bye.
+GID00099247	OK, Bye.
+GID00099248	OK, Bye.
+GID00099249	As a matter of fact I do, but I gotta tell you it aint goin' cheap. The place is stuffed full of functioning pre-war tech
+GID00099250	I promised the owner I wouldn't let it go for less than 5000 caps.
+GID00099251	Wow, nice work. Here's your key. Your new pad is right next to Doc Mitchells house. I hope you like it...
+GID00099252	Have a look...
+GID00099253	My name's Adornetto and Iv'e lived in The Undergound my entire life. Iv'e seen, fought and lived through it all.
+GID00099254	The 'Lurks, the Raiders, the Nightstalkers, even damn Roaches the size of dogs...
+GID00099255	I might be a barteneder most of the time but I'm a trooper at heart. Only thing is I have a knack for brewing the local beer.
+GID00099256	People tell me I'm doing more good in here than by putting my life on the line out there. I guess I can't complain...
+GID00099257	Yeah, take as much as you like, Dagmar next door donates most of it and I get some supplies from some of the others too.
+GID00099258	A lot of people down here are very happy to have a regular source of good beer so they like to look after me.
+GID00099259	OK, have a good one...
+GID00099260	The damn Tech Raiders is what happened, took over our armory and used our own weapons against us.
+GID00099261	I heard there was someone else involved but you would have to ask one of the military officers for more details...
+GID00099262	Hmmm, not that I can think of... I don't see many unfamiliar faces around here and everything seems normal.
+GID00099263	My name is Chafik and I'm in charge of organising and updating our supply inventories.
+GID00099264	Did you know we have enough food in particular to last our current population for approximately 400 years...?
+GID00099265	This place was designed to house hundreds of people but it never got finished. Luckily for us the storerooms were.
+GID00099266	We have access to some incredible technology here, stuff I never even imagined could exist....
+GID00099267	If only we were still in control of our own Militay HQ... Then we could do some real good up in the wastes too.
+GID00099268	OK, see ya...
+GID00099269	What about my stories? Leave my stuff alone or I'll beat you right up you toilet.
+GID00099270	Are you talking to me?...
+GID00099271	Hmmm, can't really say that I have. I can vouch for everyone who lives in this block too, Iv'e known most of 'em since I was a young 'un.
+GID00099272	I'm Coquet and I've been an Underground resident for about 18 years now.
+GID00099273	It's a great place to live - the ladies, the booze, the music, the company, it's all good...
+GID00099274	I spend a lot of my time looking after our little Deathclaw pal Damm. He won't speak like his father but he's smart and pretty friendly too.
+GID00099275	No worries, catch ya later.
+GID00099276	Nice work, Smorgan's been an asshole spreading rumors for ages..., I'm not suprised he turned out to be a spy...
+GID00099277	Here, take these as a way of saying thankyou...
+GID00099278	Here, take a look...
+GID00099279	I can't say that I have..., nothing suspicious anyway...
+GID00099280	I guess all I can do is wish you the best, but if you do find out who it is then please let me know. Iv'e been trying to figure it out myself.
+GID00099281	Well, I'm ex-NCR, my family were from California and moved out here about thirty years ago. I heard about The Underground on my last tour.
+GID00099282	Most people from outside of Nevada think this place is a myth. I was amazed to actully find it, even with Freetech radio all over the airwaves.
+GID00099283	Now I put my survival skills to use creating unusual and invigorating recipies from the wasteland and local cave's sparse food supply.
+GID00099284	Luckily we have supplies in storage for more than ten times our current population to live healthily for another fifty years or so...
+GID00099285	That is if I got my math right....
+GID00099286	OK, come back any time you need a good meal.
+GID00099287	Sssssspishussss.... errr...yeerr... Smorgaaan muk Eddieh spishusss.
+GID00099289	Buh byee
+GID00099290	OK, I hope to see you again soon.
+GID00099291	No prob. Let me take a look.
+GID00099292	Sure thing, have look around...
+GID00099293	Well, my name is Elias and I have lived in the Underground since I was born. I have been outside plenty of times but I prefer it down here.
+GID00099294	Besides I have my Armor stall to look after and I don't know what they would do without me here in The Underground.
+GID00099295	The troopers need someone to look after thier armor, what with all the potential threats down here.
+GID00099296	I spend most of my time cross stitching over armor plates and soaking clothes in various homemade hardening agents. It's a living...
+GID00099297	Collins?... I don't think the FEV process did him any favours. In his rare moments of clarity he seems to have the mind of a teenager or child...
+GID00099298	He knows what side he's on though and he fights like a true Headbanger.
+GID00099299	I'm Fabrie and I came here from Black Mountain after Tabitha took over the place...
+GID00099300	Back then the Headbangerz owned Spring Mount and they seemed like a good bet for a new home.
+GID00099301	Things turned to shit not long later when Caleb turned up with his goons. I chose my side and the rest is history.
+GID00099302	Now I spend most of my time fixing up broken weapons, though before you ask, no, I cannot fix conventional firearms.
+GID00099303	Yeah, it looks like you have all the parts I need. Nice work finding everything. Just wait there one moment...
+GID00099304	Ok, there you go, try not to burn yourself.
+GID00099305	Yep, it looks like you have all the parts I need. Just wait there a moment...
+GID00099306	...There you go. Have fun banging a few heads for me...
+GID00099307	I can but you are gonna need a lot of parts if you want a beast like mine.
+GID00099308	I'll need a a modified Incinerator, that's one with a big M on it, a fire hoze nozzle, 4 lumps of scrap metal and the following very rare parts...
+GID00099309	1 High Density Pilot Light, 1 Kinetic Power Booster Pack and a Precision Targeting Chip.
+GID00099310	They wont be easy to find though... The only place you'll find most of those parts is on one of Caleb, Klaus or Scabs' Incinerators...
+GID00099311	Here, take this note if you need reminding which parts you need...
+GID00099312	No, we have very limited resources here. However, if you can find the correct parts I can build some very powerful weapons for you.
+GID00099313	At the moment I am only set up for a Modified Heavy Flamer or a Hyper-Super Sledge. Just let me know which you are interested in...
+GID00099314	Sure, they're not so hard to make... I'll need a few things first though...
+GID00099315	Bring me a standard Super Sledge, 4 bundles of scrap electronics, 3 Fission Batteries and a steam gauge assembly.
+GID00099316	Here, take this note in case you need reminding which parts you need....
+GID00099317	OK, watch your back out there...
+GID00099318	Suspicious..., Well I did see someone sneaking around the apartments not long ago but that was you. Does that count?
+GID00099319	Nope, it's been real quiet around this Sector recently.
+GID00099320	I'm Gieling and Iv'e lived down here for nearly 80 years now....
+GID00099321	I guess I sucked up too many rads when Reactor B went critical during the 'Lurk invasion... Those were some bad times.
+GID00099322	Life as a ghoul aint so bad though, especially around these parts. and now I spend most of my time tending to the plants.
+GID00099323	No, like I told him Wiltshire needed it for some kind of 'micro-speaker' project... I aint seen it since....
+GID00099324	Bye.
+GID00099325	OK, see ya.
+GID00099326	Sure, let me take a look.
+GID00099327	Sure, I don't have much but it's all good stuff...
+GID00099328	I'm Hayward and I'm the one who fixed up all the weapons around here to fire properly.
+GID00099329	I have a few weapons and parts that I can sell you, as long as you have the caps...
+GID00099330	Suspicious..., hmmm, well I nearly caught someone sneaking around our Mini Vault about a week ago.
+GID00099331	They ran when they heard the doors go. I figured it was just one of the ravers looking for booze or drugs...
+GID00099332	That happens sometimes... Anyway it looked like they were wearing leather armour if that's any help.
+GID00099333	Well they call me Hermsen and I'm a rare example of a New Vegas success story.
+GID00099334	I came into some money after delivering a package for Mr House about four years back. I couldn't figure what else to do with it so I gambled the lot.
+GID00099335	Needless to say I won, then I won again, took my winnings to another casino and doubled the lot. I walked away with near sixty thou that day.
+GID00099336	Carryin' around all those caps is just as bad as puttin' a target over your head out there though.
+GID00099337	I hired a bodyguard to West Vegas and The Freetech Broadcast Station and brought myself the best home going.
+GID00099338	I found it all down here, freedom, peace, friends, even a wife.
+GID00099339	We took in the Kassberg's a few months ago after Kassberg Senior was taken from us by a damned Nightstalker ambush in Trapper's Pass.
+GID00099340	OK, take it easy...
+GID00099341	Excellent, you shall be well rewarded should you succeed.
+GID00099342	I would try asking some of the residents...the vendors and Troopers have mostly lived here all their lives and I can vouch for them.
+GID00099343	Here, take this key, it will give you access to the reactor so you can ask anyone working down there.
+GID00099344	Be warned though, at the first sign of hostile activity towards us we will all turn on you, and even our citizens are trained and armed.
+GID00099345	To a certain degree, yes, I'm head of the military here.
+GID00099346	For decicions that affect the entire population we defer judgement to a panel of four.
+GID00099347	They consist of myself, Santana, our Chief of Security, Vandereng, our head physician and Roach.
+GID00099348	Try talking with McMillan or Cobb - they're out guarding the south and the east entrances respectively.
+GID00099349	Also Roach may well have a number of things he needs doing.
+GID00099350	Well, I'm glad you asked... It just so happens we have a spy in our midst.
+GID00099351	Hayward has reported missing blueprints and Roach is down another two songs.
+GID00099352	God help us if one of those bastards got in here and sabotaged the reactor...
+GID00099353	Anyway, I need you to ask around with the residents and see if you can figure who it is.
+GID00099354	Well..., I'm Colonel Hoff and I inherited my post as head of the military about ten years back.
+GID00099355	I guess my story really begins long before that though, 27 years ago when I was still a Private in the Underground Military.
+GID00099356	Back then The Underground was a peaceful place to live. All the sectors were clean and lived in and the citizens were happy and prosperous.
+GID00099357	Then, one night, we were assaulted deep in the heart of our own Military HQ by a very well equipped force of Power Armoured troops.
+GID00099358	They caught us by suprise and slaughtered many, siezing control of the HQ and our main armory in the process.
+GID00099359	They executed The General and broadcast the whole thing through the PA system.
+GID00099360	We fell back to the Power Plant and formed a defensive wall but they never came to attack, at least not directly.
+GID00099361	Instead they have slowly built up thier own defenses and have spent time hiring scum from the outside, the damned 'Tech Raiders'...
+GID00099362	Meanwhile our own Second In Command soon turned out to be a drug addled manic depressive. He topped himself eventually.
+GID00099363	He was never the same after he lost his family during the 'Lurk invasion.
+GID00099364	I was next in line but instead of reshuffling the ranks we decided to form the council of four in order to pool our ideas and resources.
+GID00099365	Maybe one day we will find a new General.
+GID00099366	Damn, I should have known. I never liked that guy.
+GID00099367	Thank you for solving our problem. As for your reward you can have these combat supplies. I hope they serve you well.
+GID00099368	Here, take this keycard too. It will allow you access to the Emergency Elevator in the Market Sector. Thanks again for your help.
+GID00099369	Very well.
+GID00099370	We're the smartest and toughest Super Mutant gang around... Or at least we were...
+GID00099371	Not many of us left these days but we can still hold our own against those mindless knuckleheads in the Station.
+GID00099372	Right now there's only six of us left. We used to number in the dozens. Then one day Caleb's boys walked in and decided they were in charge.
+GID00099373	Some fought, some fled and some joined the other side. At the end we had Caleb cornered but we were massively outnumbered...
+GID00099374	Eventually we had to agree to a truce else Scab and Klaus, Caleb's Generals, would have had us torn to pices.
+GID00099375	Now we stick to our turf and they stick to theirs, unless they need something fixing that is..., I can't stand the bastards myself.
+GID00099376	This is Headbanger turf. We own this area and live here.
+GID00099377	Well I'm Koek, formerly a Corporal in the US Marine Corp. I'm one of the rare few who actually volunteered for the FEV process back in 2104...
+GID00099378	I was on the wrong end of a mysterious chemical gas attack and they told me it was either that or face my internal organs slowly turn to mush.
+GID00099379	One day after a scouting mission into the Midwest that lasted many years, my squad and I returned to find the Mariposa base in ruins.
+GID00099380	Mariposa... That was where they made us... By that point it had become a place of nightmares rather than of hope and I was glad to see it go.
+GID00099381	The whole operation was being overseen by some guy calling himself 'The Master'. I only saw him a couple of times...
+GID00099382	He seemed to get increasingly power mad as time went on... No one was safe... I'm glad that bastard is rotting in Hell.
+GID00099383	Once I saw the option to start a new life I grabbed it, as did many others like myself at the time.
+GID00099384	Many years later a few of us stumbled across Spring Mount and it seemed an ideal place to start a new home.
+GID00099385	There was a human who lived there at the time. I remember he had the whole place rigged to blow with explosives.
+GID00099386	Luckily we managed to convince him we were friendly before we suffered any casualties. Alfie..., Crazy Alfie, that was what we called him...
+GID00099387	Ex-Brotherhood if I remember right. I hope he got out of there... I heard Caleb's lot have resorted to eating humans again...
+GID00099388	It was Caleb's mob who forced us to live in this shitty cave... Damn them, one of these days the Headbanger's will reclaim thier territory...
+GID00099389	OK, watch yourself out there...
+GID00099390	OK, thanks for stopping by again.
+GID00099391	Any time, it's been a pleasure...
+GID00099392	Well I'm a second generation US military bred Deathclaw and the oldest living member of my species that I know of...
+GID00099393	My parents we're legends on the battlefield in thier time working as part of an organisation called 'Jackson's Chameleons'.
+GID00099394	The military deemed that I was not considered combat ready on account of my chameleon abilites failed to manifest.
+GID00099395	I spent most of my time up until the great war helping scientists and civilians with thier experiemnts.
+GID00099396	After the war things quickly spiralled into chaos. I eventually found my way to a Vault filled with others like myself.
+GID00099397	The leader Gruthar accepted me into his group and I soon found a kindred spirit in his son Goris, a scholar at the time.
+GID00099398	I even met a mate, Yenny who refused my advances for many years before finaly relenting to me.
+GID00099399	Eventually Goris left to explore the world alongside a human who, I must say reminds me a lot of you... Yenny and I left too too soon after.
+GID00099400	Eventually we wound up here. I thought these tunnels were deserted but we happened upon a young Mr Cobb being picked on my a giant lakelurk.
+GID00099401	He looked like he had taken a beating so I stepped in saved the day. The residents here have been very accomodating ever since.
+GID00099402	About ten years ago now Yenny gave birth to our first and only son Damm.
+GID00099403	Unfortunately I lost Yenny two years ago in Trapper's Pass. If only I had been there maybe I could have helped...
+GID00099404	She was helping Cobb on a recon of the area when they were ambushed and overwhelmed by Power Armored raiders...
+GID00099405	She killed many but they kept on coming relentlessly. Cobb's team were heavily outnumbered and had to fall back...
+GID00099406	I will avenge her death one day...
+GID00099407	Are you sure you want to hear my story... It's a long one.
+GID00099408	Heh, well, some of us can... Although I have not met another like me in longer than I care to remember.
+GID00099409	OK, it's been good talking to you...
+GID00099410	Glad you're on board. Your targets are a 'Lurk we call Lockjaw, another huge ''Lurk we call The Megalurk...
+GID00099411	...And two insane ghouls, Beckett and Gregor. Report back to me once they are dead and I'll make sure you are well rewarded.
+GID00099412	That's great work, now we can start work on plans to reclaim our lost territory. Here take these as a reward...
+GID00099413	No, you've done more than enough around here already. You can try asking around in the residential and market sectors.
+GID00099414	I'm sure Roach in the broadcast tower would have some jobs for you too.
+GID00099415	There's some spare rations on the medicine shelf. Help yourself to food and drink but leave the meds and ammo. We'll need those.
+GID00099416	Nope, not around here...
+GID00099417	I'm Phillipart and I guess I'm a master of all trades...
+GID00099418	Around here I cook, brew spirits, help out around the workshops and deal with minor injuries.
+GID00099419	I have a few supplies for sale if you are in need of food or medicine.
+GID00099420	Yeah, sure, just let me know if you see anything you like...
+GID00099421	OK, Bye.
+GID00099422	Oh shit, I completely forgot about that. It must still be in my apartment. Here take the key.
+GID00099423	It's the second single apartment on the top floor in the residential sector. The toolkit is next to my bed if I remember right...
+GID00099424	I'm Reeves and I'm the head scientist here. I'm actually right in the middle of something at the moment so if you'll excuse me...
+GID00099425	Right...
+GID00099426	Yeah, Reeves wanted to take a look at them, he said maybe they could help with fine tuning the reactor's sub-system hardware.
+GID00099427	You can usually find him down by the reactor.
+GID00099428	No, not that I can think of... The Power Plant is the most monitored building in the Underground.
+GID00099429	If anyone was up to something in here we'd spot them.
+GID00099430	I'm Renzi and I'm the head of Robotics. I basically just keep the robots up and running.
+GID00099431	I'm also proud to say I have over doubled the efficency of our own Sentry Bots in the last three years alone.
+GID00099432	Though with these tools, when you know what you are doing, it's easy work so the hours are good.
+GID00099433	OK, See ya.
+GID00099434	Only whats down on the inventory... You can try talking to Hayward in the Broadcast Building.
+GID00099435	He sometimes has some new modified weapons in stock. He knocks 'em up himself.
+GID00099436	Take a look...
+GID00099437	I guess it can't hurt to say, enough people know already..., I used to work for the Brotherhood of Steel.
+GID00099438	I left not long before we lost HELIOS. That damn place was the end of us. On top of that I could not stand fighting the NCR...
+GID00099439	They used to call me 'The Destroyer' in combat against mutants and raider scum.
+GID00099440	It aint the same when you know the other guy from drinking down the local bar.
+GID00099441	So me and a few buddies went AWOL and found refuge here in The Underground.
+GID00099442	Not long after I was put in control of the armory because of experience with advanced weapons.
+GID00099443	Unfortunately we only have access to the Public Armory. The Tech Raiders took over the military arsenal before I moved in.
+GID00099444	Very well, goodbye.
+GID00099445	I'm Chief of Security Santana. Basically I'm the one who keeps the troopers and officers in line when they party too hard.
+GID00099446	As for my history I was born in The Underground and I'll die here.
+GID00099447	Yeah, there is as a matter of fact..., Go talk to Colonel Hoff in the Power Plant. He believes we have a Tech Raider spy in our midst...
+GID00099448	OK, behave yourself down here or you'll answer to me...
+GID00099449	Ahh, need to increase cognative function eh... well, they're common enough.
+GID00099450	Bring me five small black books, the ones with a blue spine... Then we have a deal.
+GID00099451	Excellent, thank you and here in return are your pills.
+GID00099452	Okay, which one were you thinking of?
+GID00099453	Dammit, I'm not a drug dealer, have you been talking to Tecoult?... Actually nevermind about that.
+GID00099454	As it goes I do happen to have access to a small amount of Concentr8 but if you want some youre gonna have to help me out first.
+GID00099455	Some colours have been harder than others to find, in which case I will ask more of you in return.
+GID00099456	Just let me know what type you are after.
+GID00099457	With a face like yours I can see why... only kidding of course. Yeah, I have plenty of these.
+GID00099458	Just grab me five small green pre-war books and we have a deal.
+GID00099459	Excellent, thank you and here in return are your pills.
+GID00099460	Yeah, you and me both. I'll be honest with you, I can't think of anything small enough for you to carry here in return.
+GID00099461	Tell you what, just for you I'll give you my one-time no barter straight-up offer of 2500 caps per dose.
+GID00099462	Excellent, thank you and here in return are your pills.
+GID00099463	Need to kill something eh..., fair enough. These one's aint exactly rare but they are very popular around these parts.
+GID00099464	Bring me back 10 small red sleeve books, the one's with gold trim and the pills are yours.
+GID00099465	Excellent, thank you and here in return are your pills.
+GID00099466	Have a look...
+GID00099467	Well, since you ask my name is Schulze and I'm a collector and trader, anything else is none of your business.
+GID00099468	I never figured you as the yellow type. I also never really figured out what these one's do but they are still pretty hard to come by.
+GID00099469	I'll sell you those coz I don't really need 'em but I would be robbing myself if I charged you less than 500 caps per dose.
+GID00099470	Excellent, thank you and here in return are your pills.
+GID00099471	Sure, whatever.
+GID00099472	Maybe I am, what's it to you anyway? You don't see me bothering anybody...
+GID00099473	Awww what? That freaking ghoul? You have to be kidding, I love it here, it's... really ...good... why would I jepordise that?
+GID00099474	He did did he... Well I don't know why he would say a thing like that. I keep to myself and stay out of other peoples buisiness. So should you.
+GID00099475	Look, I don't know anything about no spy man... Why won't you just leave me alone...
+GID00099476	Aww, fuck this, I'm sick of these hippy freaks anyway. Die motherfuckers...
+GID00099477	Please, I don't know anything about a spy, just leave me alone.
+GID00099478	Please, I dont know anything about a spy, just leave me alone.
+GID00099479	Aww, fuck this, I'm sick of these hippy freaks anyway. Die motherfuckers...
+GID00099480	Aww, fuck this, I'm sick of these hippy freaks anyway. Die motherfuckers...
+GID00099481	Please, I dont know anything about a spy, just leave me alone...
+GID00099482	Please, I dont know anything about a spy, just leave me alone...
+GID00099483	Aww, fuck this, I'm sick of these hippy freaks anyway. Die motherfuckers...
+GID00099484	No, just you pokin' your nose where it doesn't belong.
+GID00099485	Well I'm Smorgan and I moved down here about three years ago now. Before that I was a travelling merchant.
+GID00099486	My family and I we're trying to find a better home up North. We ended up getting ambushed by a gang of Tech Raiders.
+GID00099487	They slaughtered everyone and left me for dead with a bullet in my shoulder... Somehow I managed to crawl to the Freetech Broadcast Tower.
+GID00099488	The people here have done a good job of looking after me ever since.
+GID00099489	OK, bye...
+GID00099490	Nope, not in this place... all good people here...
+GID00099491	Bah... who cares about the past..., it doesn't matter, what matters is today, and I'll drink to that.
+GID00099492	Have a good one.
+GID00099493	No, sorry, I can't get hold of that stuff. You can try with Shulze in the market...
+GID00099494	I know he has some but I don't think he's selling.
+GID00099495	Sorry, no. I wouldn't really know what to look out for. I still don't know everyone who lives here...
+GID00099496	Yeah, Renzi needed it for some kind of robot optical unit. You should be able to find him in the Power Plant somewhere...
+GID00099497	Nah, not around here friend... I keep a good eye on my own gear most of the time and no problems there either...
+GID00099498	Ahh, looking for the spy eh? Glad to know someone is on the case...
+GID00099499	I have been keeping an eye on the monitors and unfortunately I cannot report anything unusual.
+GID00099500	I have been giving it some thought though. My guess is it would have to be someone who has not been around very long.
+GID00099501	Not many fit that bill... Besides yourself there's Tyra, Smorgan and Hermsen, although none of them seem the type.
+GID00099502	If you are going to investigate this matter further I'd recommend starting with them.
+GID00099503	Basically I just watch the monitors, sometimes deal with brawls at the bar and generally try to maintain the peace around here.
+GID00099504	OK, Bye.
+GID00099505	Sure..., have a good day.
+GID00099506	Yeah..., well there are a few things if you have the time.
+GID00099507	Sure..., well around here we like to call it Freetech - it's made with technology and we have the freedom to do anything with it.
+GID00099508	We make it on computers using a combination of custom software and hardware alongside regular and unique instruments.
+GID00099509	For example we have several electric guitars lying around. You can get a suprisingly scary sound out of one of them if you know how...
+GID00099510	Since before the war I have been a making music and from then up until now there are those who saught to destroy or steal it.
+GID00099511	Not long ago I finally got wise and started installing tracking chips in all of my audiodiscs.
+GID00099512	I have found a few of my missing discs are still in the local area. If you can I want you to find these discs and bring them back to me.
+GID00099513	The areas seem to be defended but to an experienced adventurer like yourself I imagine the opposition will be a walkover.
+GID00099514	So, what do you say, can you help me out? I promise I will reward you well.
+GID00099515	Wow, really..., thanks. Here, I'll give you the locations.
+GID00099516	Excellent..., yes, thats them all right, Hang on a sec while I make another copy. Thank you, here take these as a reward and take this key too.
+GID00099517	The key will open the ammo boxes on the shelf. Hayward just knocked up some useful ammo types. They are now yours.
+GID00099518	Excellent..., yes, they're mine all right, Hang on a sec while I make another copy. Thank you, here take these as a reward and take this key too.
+GID00099519	The key will open the ammo boxes on the shelf. Hayward just knocked up some useful ammo types. They are now yours.
+GID00099520	Yeah, there are a lot more discs where they came from. Not all tracker chipped unfortunately.
+GID00099521	I know of three more but thier locations are heavily guarded. You still up for it?
+GID00099522	Thanks for doing this, I'll make sure I have a special reward waiting on your return.
+GID00099523	That's fantastic, thank you. I have not heard some of these in years.
+GID00099524	As for your reward I hope this will proove as useful to you as it did to me in my adventuring days.
+GID00099525	That's fantastic, thank you. I have not heard some of these in years.
+GID00099526	As for your reward I hope this will proove as useful to you as it did to me in my adventuring days.
+GID00099527	Sure, go ahead.
+GID00099528	Not especially, I try to create for all moods but I have my favourite styles too I guess.
+GID00099529	Also the loud and scary tracks have hidden bonuses like scaring away the mutated insects that live local. Especially the 'Lurks.
+GID00099530	Well that's a very long story... over 240 years old if you know what I mean.
+GID00099531	I'll tell you what, come back sometime after things are a bit calmer around here.
+GID00099532	I'll crack open a couple of beers and tell you everything you want to know.
+GID00099533	No, I get help from most of the people around here one way or another. Even Eddie has helped out on occasion.
+GID00099534	Heh, you must be new around here. Well, I go by the name Roach and for the most part I'm a musician.
+GID00099535	No worries, catch you again sometime...
+GID00099536	Sorry but no, we're full up here but you can try with Riazanov at the Apartment Office across the street.
+GID00099537	Here, have a look...
+GID00099538	Well, since you ask, my name is Marra and I moved down here with a few friends about ten years ago.
+GID00099539	As soon as we found out this place existed we had to come and check it out. I mean, what's not to like...
+GID00099540	Constant partying, friendly atmosphere, loyal guards and back then there was a lot more room too.
+GID00099541	A lot of people left after one of the main Reactors went critical a long way back. When we arrived everyone seemed happy to see a new face.
+GID00099542	Now in my free time alongside looking after this place I make a good wage out of my own home made brand of cigarettes.
+GID00099543	They're better than the real thing if you ask me.
+GID00099544	Don't worry, it's nothing too difficult. I just need you to find my tool kit. It's not like normal tool boxes though.
+GID00099545	It's a box of precision micro-tools for computer and optical tech. I loaned them out to Gieling, who loaned them to Wiltshire and so on.
+GID00099546	Most people down here get so wasted they tend to forget stuff. I don't think anyone has stolen my tools. I trust most of the people around here.
+GID00099547	I'm guessing that means they are around here somewhere just waiting to be found. So, think you can help me out?
+GID00099548	That's great news. Try looking around the local apartments, maybe the school or the main block. I'm guessing it's not very far.
+GID00099549	Look out for a small black box - I think it still has the Gun Runner's logo on it, like with custom gun parts. Thanks for helping out.
+GID00099550	Well friend, my names Wiltshire and I'm the resident Underground DJ. I don't have to do much though. The computers take care of most of it.
+GID00099551	Yeah, as a matter of fact I did, I guess you're the new owner then. Well, I'm glad someone is looking after the place.
+GID00099552	To be honest most of that belonged to my dad, I was sad too see it go, I left a lot of memories there.
+GID00099553	On the other hand I have found life here in the Underground so interesting and exiting that I don't have time to miss anything.
+GID00099554	Well, apart from the non-stop parties, the unusual mix of people and the occasional hostile takover attempt it's actually quite chilled.
+GID00099555	There is rarely any in-fighting here yet everyone is welcoming to outsiders such as yourself and I.
+GID00099556	This can have it's problems, the Tech Raiders are constantly pestering the community with spies but they have yet to launch an organised offensive.
+GID00099557	You would have to talk to one of the Trooper Officers to learn much more about them though.
+GID00099558	Personally I am amazed by all the technology that has been hoarded down here. Also, despite my initial reaction I kinda love Roach's music too.
+GID00099559	Roach..., Well he seems like a grumpy sort but underneath he is a very talkative follow and friendly enough when you get to know him.
+GID00099560	You should go talk with him. I'm sure he would have a lot of things for you to do if you are interested. I know he would reward you well.
+GID00099561	Well human, that's a long story and even I don't know most of it.
+GID00099562	Well I kinda lost my memory, and what I do remember... well to be honest I think I'd rather just forget.
+GID00099563	I took to wandering to find some answers but people were not very welcoming to say the least.
+GID00099564	Eventually I found my way to the Freetech broadcast station and The Underground.
+GID00099565	The people here seemed happy to have me around so I decided to stay. That's about all there is to tell.
+GID00099566	My name is Sergeant McMillan and my job is to watch over this tunnel and look after my sqaud.
+GID00099567	These days just ferals mostly. There's a local gang called The Skeleton Crew, occasionally they stir up the ferals into a frenzy....
+GID00099568	They pump the big ferals full of jet, makes 'em move like lightning. They're still no match for me and my squad though.
+GID00099569	Well they moved in about twenty years ago after Reactor B went critical flooding the local area with radiation.
+GID00099570	They have been a constant nuisance ever since. They only got dangerous once the Skeleton Crew moved in and started to organise them.
+GID00099571	They are a gang of ghouls that live in Ghost Town, it looks like they have joined up with our old enemy, the Tech Raiders.
+GID00099572	They are very well armed but not as well armed as us. They have not been able to breach our defenses so far.
+GID00099573	Well, long before the ghouls and the gangs came the 'Lurks. Many Underground Citizens had gone to work on the unfinished sectors.
+GID00099574	During construction one of the bigger machines ended up parked over another cavern. The floor gave way and it fell through.
+GID00099575	It ended up in a nest of Lakelurks. It turns out most of the unfinished sectors were surrounded by the things.
+GID00099576	They started attacking in the hundreds. No-one was prepared. One of thier sonic blasts must have stuck the reactor.
+GID00099577	Next thing you know the power plant is going into critical status and people are dropping like flies from the 'Lurks and the rads.
+GID00099578	I was only a cadet at the time. I was lucky to escape. Major Cobb grabbed me and a few others to form a counter attack in the next sector.
+GID00099579	The damn 'Lurks kept finding new ways in though and we had to fall back to where we are now
+GID00099580	I don't know who they are or who is pulling thier strings but I can tell you this - they have access to some weapons that put our own to shame.
+GID00099581	They seem to be obsessed by technology and Roach, our local radio legend, or his music at the very least.
+GID00099582	I've lost count of how many newcomers turned out to be Tech Raider spies here to steal our possesions and secrets.
+GID00099583	We don't see them much around this way though. The ferals wont tolerate them.
+GID00099584	If you want to know more about them talk to Major Cobb. He is usually guarding the western end of the Market.
+GID00099585	Well, since you ask, there are a few things you could help me out with.
+GID00099586	The Easten Underground is infested with Ferals and 'Lurks but without co-ordination they are easy enough to dispatch.
+GID00099587	If you could take out thier leaders, it would open the whole of the East up to be reclaimed.
+GID00099588	So, what do you say, up for an assasanation run?
+GID00099589	Yeah, there is as a matter of fact. There is a ghoul who goes by the name of Blaze. He enjoys burning people to death, including my friends.
+GID00099590	Our orders are to stay here and guard this area but you look like you can handle yourself. You interested?
+GID00099591	Fantastic. That bastards had this coming a long time. You'll probably find him around the old Ghost Town apartments.
+GID00099592	He has a mob of armed ghouls around him so be careful. Take this key too so you can get in and out easily.
+GID00099593	Well that's great news. Here, take these as a reward.
+GID00099594	Here, have a look...
+GID00099595	Well my names Tecoult and I supply the chems and the booze for our non-stop Freetech parties.
+GID00099596	The stock aint free though, but it is the next best thing.
+GID00099597	I keep the chems in the safe but you can checkout my inventory and see if I have anything you like.
+GID00099598	Name's Frankie and I run this here Gun Shop. Now what can I do for you?
+GID00099599	Wow, nice work, I'm impressed. Here's the key and a little extra to say thank you. Good luck down there. Even you'll need it.
+GID00099600	Sure, here you go.
+GID00099601	Well, there are a few things that spring to mind. I'll tell you what, I have a key that leads to a place called The Underground.
+GID00099602	I used to live there..., for a while anyways. Used to be a great place... Now it's a damned hellhole but chances are it's still full of loot.
+GID00099603	Personally I never feel the need to go back in there. There's critters in there meaner than anythin I seen out here.
+GID00099604	If you can deal with a few local problems for me then the key is yours. You won't find another entrance south of Bonnie Springs.
+GID00099605	Well, like I said The Underground is a very dangerous place...
+GID00099606	If you want the key then you're gonna hafta proove to me you are tough enough to handle yourself down there.
+GID00099607	OK. I happen to know the location of several huge mutants that have been wreaking havoc with the locals.
+GID00099608	I'll start you off with a few Geckos though. That should be simple enough. Kill them and report back to me once the job is done.
+GID00099609	Excellent, here, I'll upload the loactions to your Pip-Boy.
+GID00099610	Nice work, those beasts have been wreaking havoc round here for months. You might just have what it takes after all.
+GID00099611	Here, take these as a reward, you earned 'em. Now for the real challenge, if yer still up for it that is...
+GID00099612	Well this one's gonna be a little more tricky. There is an old bunker south of here, used to be owned by the NCR.
+GID00099613	Now the place is infested with giant radscorpions, the whole area is crawling with them.
+GID00099614	Take out the big momma, I heard some NCR troops call her 'Bertha'. If you can manage that, I reckon you're just about ready.
+GID00099615	No shame if you want to back out now. I'd understand.
+GID00099616	Ok, here's the location. Good luck.
+GID00099617	Wow, thats impressive, you must be pretty tough.... Y'know, I may just have something of interest to you.
+GID00099618	A key, in fact, to the local Underground access. I won't lie, that place is a death trap but you look like you have a taste for adventure.
+GID00099619	On the other hand you might just get yer head torn off. Tell you what, there's a giant radscorpion, goes by the name of Bertha.
+GID00099620	She's been terrorising the NCR that patrol the area south from here for months now. Last I heard she had broken into one of their bunkers.
+GID00099621	If you can kill her, then I guess that proves you are tough enough to handle The Underground. So, are yer interested?
+GID00099622	Ok, I'll mark the location on your Pipboy. Good luck.
+GID00099623	So Iv'e heard. Sounds like it was you who finally killed that bitch Bertha. You have my thanks for that.
+GID00099624	In fact, I may have something that would be of interest to an adventurer like you. A key to the local Underground Access.
+GID00099625	Though I must warn you that place is like hell on earth. If you're going in, I say be as prepared as possible and keep your wits about you.
+GID00099626	Ok, here you go and good luck.
+GID00099627	No problem, come here.
+GID00099628	OK, if you're sure.
+GID00099629	Sorry, this process still costs caps.
+GID00099630	I guess I can spare a few things.
+GID00099631	Sure, check out my inventory...
+GID00099632	OK, check out my supply list...
+GID00099633	Suit yourself. But you'll find out that your habit will cost you more than that in the end.
+GID00099634	If that's what you think...
+GID00099635	Well, good luck with that.
+GID00099636	Okay. Hold still. I don't want to make this any more painful than it already is.
+GID00099637	Sorry but I don't work for free.
+GID00099638	OK, hold still, this should only take a sec...
+GID00099639	I don't do this for free you know.
+GID00099640	OK, this will only take a sec.
+GID00099641	OK, Hold still while I get to work.
+GID00099642	OK, well come back when you do have the caps.
+GID00099643	OK, hold still while I fix you up.
+GID00099644	Well, sorry but you'll have to get by on your own. I can't afford to treat everyone down here for free you know.
+GID00099645	I'm glad to have been of assistance.
+GID00099646	What can I do for you?
+GID00099647	Very well, 'till the next time then.
+GID00099648	Ok, hope you have a good day.
+GID00099649	Sure, go ahead.
+GID00099650	Hope to see you again soon.
+GID00099651	Thats the best news I've had in ages. Here, take these as a way of saying thankyou.
+GID00099652	OK, Hold still.
+GID00099653	Well then you're gonna hafta come back when you do have the caps.
+GID00099654	Fair enough, I'll be here if you need me again.
+GID00099655	Greetings.
+GID00099656	Hey...
+GID00099657	Hey...
+GID00099658	Hey...
+GID00099659	Hey...
+GID00099660	Hey...
+GID00099661	Hey...
+GID00099662	Hello and welcome to Frankie's Guns and Ammo.
+GID00099663	What are you doing down here?
+GID00099664	Yes?
+GID00099665	Hey, what can I do for you?
+GID00099666	What are you doing here?
+GID00099667	Don't bother me unless Frost is dead and you have some proof.
+GID00099668	What can I do for you?
+GID00099669	You again, what do you want?
+GID00099670	Who are you? What do you want?
+GID00099671	Hey there friend, good to see you again.
+GID00099672	Not now, we still have Legion to kill.
+GID00099673	Who are you? How did you get in here?
+GID00099674	Hey, it's good to see you again.
+GID00099675	What do you want?
+GID00099676	Hello again
+GID00099677	Hello, what can I do for you?
+GID00099678	Hey.
+GID00099679	Hey, hows it going?
+GID00099680	Greetings citizen.
+GID00099681	Hey, are you the rescue party?
+GID00099682	Hey, what can I do for you?
+GID00099683	Hurrrrrr...... <cough>
+GID00099684	Hey, whats up?
+GID00099685	Hey, who are you?
+GID00099686	Hey, what can I do for you?
+GID00099687	I guess you're here to kill me...
+GID00099688	Hey, you came back...
+GID00099689	Can I help you?
+GID00099690	How can I help you?
+GID00099691	Well now, a human visitor? This is a nice suprise... What can I do for you?
+GID00099692	Good to see you again...
+GID00099693	Wow, you must be tough to have made it here... Impressive for a human. So tell me..., how can I be of assistance?
+GID00099694	Hello again. What can I do for you?
+GID00099695	What's all this then...? Another voice in me head....
+GID00099696	Security Deputy Wylkonski at your service.
+GID00099697	Hey...
+GID00099698	Hey...
+GID00099699	Hey...
+GID00099700	Can I help you?
+GID00099701	Hey...
+GID00099702	Hey...
+GID00099703	Hi, how are you?
+GID00099704	Hello.
+GID00099705	Whats up?
+GID00099706	This is not a good time.
+GID00099707	Greetings.
+GID00099708	Feelin' thirsty? I can fix that...
+GID00099709	Hey there, feeling hungry?
+GID00099710	Greetings... Looking for a new weapon?
+GID00099711	Eddieh... gurr der furr...
+GID00099712	Greetings Human...
+GID00099713	Yeah?
+GID00099714	Hey, what can I do for you?
+GID00099715	Hey...
+GID00099716	Yeah?
+GID00099717	Hey, what can I do for you.
+GID00099718	Hey, whats up?
+GID00099719	Hello
+GID00099720	Hey, hows it goin?
+GID00099721	Greetings Friend.
+GID00099722	Hello.
+GID00099723	OK, feeling better now?

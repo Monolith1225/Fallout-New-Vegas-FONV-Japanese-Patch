@@ -1,0 +1,17 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_dlc05_name_ja.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00098272	軽量レザーアーマー
+GID00098273	頑丈なキャラバンショットガン
+GID00098274	キャラバンパック
+GID00098275	Valut 13 アーマードジャンプスーツ
+GID00098276	Vault 13 キャンティーン
+GID00098277	使い込まれた10mmピストル
+GID00098280	クラシックパック
+GID00098281	軽量メタルアーマー
+GID00098282	傭兵用グレネードライフル
+GID00098283	マーセナリーパック
+GID00098284	トライバルパック
+GID00098285	レイダーアーマー・トライバル
+GID00098286	幅広マチェット

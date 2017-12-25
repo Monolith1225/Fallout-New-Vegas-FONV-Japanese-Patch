@@ -1,0 +1,224 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_mod_brzl_terminal_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00110505	(Parking Garage)
+GID00110506	There is a Hacker Wizard here performing a show.
+GID00110508	(Parking Garage) Look Around
+GID00110509	You examine your surroundings...
+GID00110510	Talk to Hooligan
+GID00110511	You acknowledge the Technowizard...
+GID00110512	Talk to Hooligan
+GID00110513	You acknowledge the Technowizard...
+GID00110514	Talk to Hooligan
+GID00110515	You acknowledge the Technowizard...
+GID00110516	Look for Hooligan
+GID00110517	You examine your surroundings...
+GID00110518	Go East
+GID00110519	You walk to the east...
+GID00110520	Inventory
+GID00110521	Vault 101 Access Terminal
+GID00110523	Vault Door Activated
+GID00110524	SECURITY ACCESS ONLY
+GID00110526	Radiation Detected
+GID00110527	Gamma: 125 Grays
+GID00110528	X-Ray: 120 Grays
+GID00110531	Dr. Kevin Rossman Entry 1
+GID00110533	Dr. Kevin Rossman Entry 2
+GID00110535	Dr. Kevin Rossman Entry 3
+GID00110537	Markus Evans Entry 4
+GID00110539	Markus Evans Entry 5
+GID00110541	Power Down Forcefield
+GID00110543	Power Down Forcefield
+GID00110544	Forcefield Powering Down ...
+GID00110547	San Bernardino Scout Reports Part 3
+GID00110549	Wasteland Scout Mission Report 176
+GID00110551	Wasteland Scout Mission Report 214
+GID00110553	Wasteland Scout Mission Report 215
+GID00110556	There is a bar, a weapon shop, and towers here.
+GID00110558	(Downtown) Look Around
+GID00110560	Speak with the Weapons Dealer
+GID00110562	Speak with the Weapons Dealer
+GID00110563	Speak with the Weapons Dealer
+GID00110564	Speak with the Hacker
+GID00110565	You approach the Hacker...
+GID00110566	Speak with Hacker
+GID00110567	You approach the Hacker...
+GID00110568	Speak with Hacker
+GID00110569	You approach the Hacker...
+GID00110570	Go North
+GID00110571	You walk to the north...
+GID00110572	Inventory
+GID00110573	Vault 18 Tier 2 Network
+GID00110574	Terminal 5
+GID00110575	San Bernardino Scout Reports Image Log
+GID00110577	Highway Picture 1
+GID00110579	Highway Picture 2
+GID00110581	Highway Picture 3
+GID00110583	Highway Picture 4
+GID00110585	AUTHORIZED ACCESS ONLY
+GID00110587	Greetings Vault 18 Security!
+GID00110590	Initiate Patrol Routine.
+GID00110592	Initiate Follow Routine.
+GID00110594	Initiate Patrol Routine.
+GID00110596	Vault 18 Tier 1 Network
+GID00110598	Vault 18 History Part 1
+GID00110600	2077.8.23 Vault-Tec
+GID00110601	Loading file...
+GID00110602	Overseer Clarence Duvnic 2077.8.23
+GID00110603	Loading file...
+GID00110604	Guard Chief Clint Dickson 2077.8.25
+GID00110605	Loading file...
+GID00110606	Overseer Clint Dickson 2077.9.25
+GID00110607	Loading file...
+GID00110608	Overseer Clint Dickson 2079.05.3
+GID00110609	Loading file...
+GID00110610	Overseer Clint Dickson 2079.05.8
+GID00110612	Overseer Clint Dickson 2080.08.20
+GID00110616	Shipment Logs
+GID00110622	San Bernardino Scout Local Image Logs
+GID00110630	AUTHORIZED ACCESS ONLY
+GID00110632	Greetings Vault 18 Security!
+GID00110648	Display Tier 4 Network Status
+GID00110649	Tier 3 Network Status
+GID00110650	Welcome, Overseer.
+GID00110652	For Authorized Use Only!
+GID00110653	Turret Control System
+GID00110655	Enable Turret System.
+GID00110658	Peacekeeper Pulse Pistol
+GID00110668	Hooligan's Note
+GID00110669	A UOweMe to the Weapons Dealer Downtown
+GID00110672	Passcode
+GID00110697	WELCOME! USER,
+GID00110702	Welcome, Overseer.
+GID00110705	An Old Robotics Lab is here.
+GID00110707	(Old Robotics Lab) Look Around
+GID00110708	You examine your surroundings...
+GID00110710	You examine your surroundings...
+GID00110711	(Old Robotics Lab) Look Around
+GID00110712	You examine your surroundings...
+GID00110726	Homepage Beta 0.642
+GID00110727	Welcome &pcname; Star! You have, [2] unread messages.
+GID00110735	Pilot: Robert "Cockfight" Sorenson / Mission: "Twilight Lords" / Status: Operation Successful
+GID00110776	San Bernardino Scout Reports Part 2
+GID00110805	San Bernardino Scout Reports Part 2
+GID00110807	Wasteland Scout Mission Report 112
+GID00110808	Loading File...
+GID00110809	Wasteland Scout Mission Report 289 
+GID00110810	Loading file...
+GID00110811	Vault 18 Tier 1 Network
+GID00110812	Terminal 2
+GID00110813	Vault 18 History Part 2
+GID00110815	Vault 10 log - 2242.5.21 - Mr Tubs
+GID00110816	Loading file...
+GID00110817	Vault 3 log - 2242.5.16
+GID00110818	Loading file...
+GID00110819	Vault 76 log 2242.5.10
+GID00110820	Loading file...
+GID00110821	Vault 8 log 2242.5.18
+GID00110822	Loading file...
+GID00110823	Vault 18 Tier 4 Network
+GID00110828	-System offline -
+GID00110829	ERROR 0x03C663A1
+GID00110830	"Network connection not found"
+GID00110831	"Dummy terminal inactive"
+GID00110833	>\ Welcome, USER
+GID00110835	Resume control of Computer: V18//ROBOTICS
+GID00110836	Resuming administrator control to: USER
+GID00110837	SECURITY ACCESS ONLY
+GID00110838	=====================
+GID00110839	Radiation Detected
+GID00110840	Gamma: 125 Grays
+GID00110841	X-Ray: 120 Grays
+GID00110842	Muon: UNABLE TO DETERMINE FIXED RATE
+GID00110844	Dr. Kevin Rossman Entry 1
+GID00110845	Loading note...
+GID00110846	Dr. Kevin Rossman Entry 2
+GID00110847	Loading Note...
+GID00110848	Dr. Kevin Rossman Entry 3
+GID00110849	Loading note...
+GID00110850	Markus Evans Entry 4
+GID00110851	Loading Note...
+GID00110852	Markus Evans Entry 5
+GID00110853	Loading Note...
+GID00110854	Welcome, &pcname; Star!
+GID00110856	Homepage Beta 0.642
+GID00110857	Loading...
+GID00110858	Error 404 - Tier 3 Offline
+GID00110859	Loading...
+GID00110860	WastedGirlz.net
+GID00110861	Loading...
+GID00110862	Error 404 - Tier 3 Offline
+GID00110863	Loading...
+GID00110864	NCR Online 2.0
+GID00110865	Loading...
+GID00110866	Note to Senator Skolls from Vault-Tec
+GID00110867	Loading...
+GID00110868	Vault 101 Security Cell Terminal
+GID00110870	ERROR 0x03C663A1
+GID00110871	"Network connection not found"
+GID00110872	"Terminal inactive"
+GID00110874	-System offline -
+GID00110875	ERROR 0x03C663A1
+GID00110876	"Network connection not found"
+GID00110877	"Terminal inactive"
+GID00110905	You retreat to the south....
+GID00110907	Vault 18 Tier 1 Network
+GID00110909	Vault 18 History Part 4
+GID00110911	Overseer Christianson 2258.10.1
+GID00110913	Overseer Christianson 2258.10.21
+GID00110915	Overseer Christianson 2258.11.1
+GID00110917	Overseer Christianson 2258.11.8
+GID00110919	Vault 18 Tier 2 Network
+GID00110921	San Bernardino Scout Reports Part 4
+GID00111005	Vault 82
+GID00111006	Loading file...
+GID00111007	Vault 3
+GID00111008	Loading file...
+GID00111009	Vault 8
+GID00111010	Loading file...
+GID00111011	Vault 76
+GID00111012	Loading file...
+GID00111013	Vault 88
+GID00111014	Loading file...
+GID00111015	Vault 19
+GID00111016	Loading File...
+GID00111017	Vault 81
+GID00111018	Loading file...
+GID00111019	Vault 119
+GID00111020	Loading file...
+GID00111021	Vault 16
+GID00111022	Loading file...
+GID00111023	Vault 43
+GID00111024	Loading file...
+GID00111025	Vault 65 
+GID00111026	Loading File...
+GID00111027	Vault 52
+GID00111028	Loading file...
+GID00111029	Vault 118
+GID00111030	Loading file...
+GID00111031	Vault 120
+GID00111032	Loading file...
+GID00111033	Vault 121
+GID00111034	Loading file...
+GID00111035	Vault 122
+GID00111036	Loading file...
+GID00111037	Vault 44
+GID00111038	Loading file...
+GID00111039	Shawn Star Presents...
+GID00111040	Cybershock Alpha! ( Beta v0.21)
+GID00111042	(Cityscape) Look Around
+GID00111054	Game Over
+GID00111055	Please play again!
+GID00111061	Welcome,
+GID00111076	Start Up main fusion cell
+GID00111077	ERROR!! Repairs required.
+GID00111078	Start Up main fusion cell
+GID00111079	 .... start-up initiated... okay.
+GID00111080	command startup bootcfq... run startup.exe
+GID00111081	.... transmission active, systems online..
+GID00111082	Run .b6rkconfig.ini // set follow.me == 1
+GID00111083	Hello, I am B6RK, Loyal Roboto Dog! Bark!
+GID00111084	Sat-Nav
+GID00111085	Satellite Uplink ---- OFFLINE
+GID00111086	Current Location: Earth, California Republic, Brazil Hanger

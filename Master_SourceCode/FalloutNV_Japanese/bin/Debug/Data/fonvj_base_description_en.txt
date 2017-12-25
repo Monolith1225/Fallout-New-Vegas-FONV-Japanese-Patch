@@ -1,0 +1,560 @@
+GID99999990	// Fallout: New Vegas Japanese Language Data 
+GID99999991	// File Name: fonvj_base_description_en.txt 
+GID99999992	// Output Date: 2015-11-06 14:02:02 JST 
+GID99999993	// Fallout: New Vegas - Japanese Translation Team http://fonvj.ngnl.org/ 
+GID00000458	Strength is a measure of your raw physical power. It affects how much you can carry, the power of all melee attacks, and your effectiveness with many heavy weapons.
+GID00000459	A high Perception grants a bonus to the Explosives, Lockpick and Energy Weapons skills, and determines when red compass markings appear (which indicate threats).
+GID00000460	Endurance is a measure of your overall physical fitness. A high Endurance gives bonuses to health, environmental resistances, and the Survival and Unarmed skills.
+GID00000461	Having a high Charisma will improve people's disposition toward you, and give bonuses to both the Barter and Speech skills.
+GID00000462	Intelligence affects the Science, Repair and Medicine skills. The higher your Intelligence, the more Skill Points you'll be able to distribute when you level up.
+GID00000463	Agility affects your Guns and Sneak skills, and the number of Action Points available for V.A.T.S.
+GID00000464	Raising your Luck will raise all of your skills a little. Having a high Luck will also improve your critical chance with all weapons.
+GID00000465	The Barter skill affects the prices you get for buying and selling items. In general, the higher your Barter skill, the lower your prices on purchased items.
+GID00000467	The Energy Weapons skill determines your effectiveness with any weapon that uses Small Energy Cells, Micro Fusion Cells, EC Packs, or Flamer Fuel as ammunition.
+GID00000468	The Explosives skill determines the ease of disarming any hostile mines and the effectiveness of any explosive weapon (all mines, all grenades, Missile Launcher, Fat Man, etc.).
+GID00000469	The Lockpick skill is used to open locked doors and containers.
+GID00000470	The Medicine skill determines how many Hit Points you'll replenish upon using a Stimpak, and the effectiveness of Rad-X and RadAway.
+GID00000471	The Melee Weapons skill determines your effectiveness with any melee weapon, from the simple lead pipe all the way up to the high-tech Super Sledge.
+GID00000472	The Repair skill allows you to maintain any weapons and apparel. In addition, Repair allows you to create items and Guns ammunition at reloading benches.
+GID00000473	The Science skill represents your combined scientific knowledge, and is primarily used to hack restricted computer terminals. It can also be used to recycle Energy Weapon ammunition at workbenches.
+GID00000474	Guns determines your effectiveness with any weapon that uses conventional ammunition (.22 LR, .357 Magnum, 5mm, 10mm, 5.56mm, .308, .45-70 Gov't etc.).
+GID00000475	The higher your Sneak skill, the easier it is to remain undetected, steal an item, or pick someone's pocket. Successfully attacking while undetected grants an automatic critical hit.
+GID00000476	The Speech skill governs how much you can influence someone through dialogue, and gain access to information they might otherwise not want to share.
+GID00000477	The Survival skill increases the Hit Points you receive from food and drink. It also helps you create consumable items at campfires.
+GID00000478	The Unarmed skill is used for fighting without a weapon, or with weapons designed for hand-to-hand combat, like Brass Knuckles, Power Fists, and Displacer Gloves.
+GID00000479	Despite relying on energy to harm their victims, Plasma Mines, EMP Grenades, and related items use the Explosives skill to determine their effectiveness.
+GID00000480	EFFECT: When eaten, temporarily knocks out animals.
+GID00000481	Used for medical services.
+GID00000482	Super Mutants in the Mojave Wasteland are remnants of the Master's Army and the Enclave's experiments at Mariposa Military Base.
+GID00000483	Dogs and coyotes can be found throughout the Mojave, typically wherever humans are traveling.
+GID00000484	Despite the best efforts of well-equipped hunters, Deathclaws continue to establish nests across the Mojave Wasteland.
+GID00000485	Securitrons are a creation of Mr. House, the enigmatic de facto ruler of New Vegas.
+GID00000486	Feral Ghouls have lost the ability to reason, and will attack any human on sight.
+GID00000487	Ghouls, both "normal" and Feral, are not only immune to radiation... they're healed by it.
+GID00000488	A Glowing One is a unique Feral Ghoul that has become a living conduit of radiation.
+GID00000489	Lakelurks use a devastating sonic attack to debilitate their foes from afar.
+GID00000490	The Mister Gutsy model of robot was commissioned by the U.S. Army just before the atomic apocalypse of 2077.
+GID00000491	The sturdy Protectron model of robot was created before the great war, and served as a security automaton in both the private and business sectors.
+GID00000492	The Robobrain, constructed by General Atomics International before the great nuclear war, is unique in that it uses an actual organic brain as its central processor.
+GID00000493	This recipe allows you to make Ruby's spicy casserole.
+GID00000494	Agility improves the speed of weapon reloads, drawing, and holstering.
+GID00000495	A Glowing One uses its special ability to deliver radiation to its enemies and heal any nearby Feral Ghouls.
+GID00000496	Mister Gutsy is a combat variant of the popular Mister Handy, and is equipped with a Plasma weapon and flamethrower.
+GID00000497	If someone sees you commit a crime against their faction, expect your reputation with that group to suffer.
+GID00000498	Sleeping in a rented or owned bed will give you a "Well Rested" bonus that boosts your earned XP for several hours.
+GID00000499	Intelligence determines your effectiveness with the Science, Repair and Medicine skills.
+GID00000500	The Medicine skill determines the effectiveness of drugs that help manage radiation, like Rad-X and RadAway.
+GID00000501	Perception determines when red tick marks (which indicate threats) appear on your compass.
+GID00000502	With the second rank of the Animal Friend perk, animals will come to your aid in combat (but not against other animals).
+GID00000503	Once your weapons and armor reach a certain condition level, your Repair skill can be used to maintain them, keeping them at maximum power for longer.
+GID00000504	If you want to stay hidden, stick to the shadows, move slowly, try to stay behind your opponent... and turn off your Pip-Boy light!
+GID00000505	If you have the Robotics Expert perk and sneak up on a hostile robot undetected, you can put that robot into a permanent shutdown state.
+GID00000506	After sleeping in a safe bed, you will wake well rested. You earn 10% more experience points for several hours.
+GID00000507	Your body has been genetically enhanced with the strength and flame resistance of the Grayditch Fire Ants! Your Strength has increased by 1 and you are now 25% resistant to fire.
+GID00000508	Your body has been genetically enhanced with the perception and flame resistance of the Grayditch Fire Ants! Your Perception has increased by 1 and you are now 25% resistant to fire.
+GID00000509	In general, the higher your Barter skill, the lower your prices on purchased items. It can also be used to negotiate for better rewards in conversation.
+GID00000510	The Energy Weapons skill determines your effectiveness with any weapon that uses Energy Cells, Microfusion Cells, EC Packs, Microfusion Breeder, or Flamer Fuel as ammunition.
+GID00000511	The Explosives skill determines the ease of disarming any hostile mines and the effectiveness of any explosive weapon (all mines, all grenades, Missile Launcher, Fat Man, etc.).
+GID00000512	This is to add the feral ghoul reaver visual effects.
+GID00000513	With the Nerves of Steel perk, you regenerate Action Points much more quickly than you normally would.
+GID00000514	With the Rad Absorption perk, your radiation level slowly decreases on its own over time.
+GID00000515	Cass does 15% more damage with all Guns.
+GID00000516	Cass has +50 hit points.
+GID00000517	This perk allows you to regain health by consuming Bloodpacks.
+GID00000518	The Child at Heart perk greatly improves your interactions with children, usually in the form of unique dialogue choices.
+GID00000519	Press and hold your Pip-Boy button to turn the Pip-Boy light off and on.
+GID00000520	The light generated from your Pip-Boy light actually makes you less stealthy. If you want to effectively sneak, turn it off.
+GID00000521	The essence of champions flows through your veins. When you cannibalize corpses, you temporarily gain Caesar's intelligence, Mr. House's luck, The King's charisma, and President Kimball's strength.
+GID00000522	From Frag Grenades to Throwing Spears, you can throw weapons 30% faster at the cost of 25% less range.
+GID00000523	You are a true friend of the night. Your eyes adapt quickly to low-light conditions indoors and when darkness falls across the wasteland.
+GID00000524	The power of your personality inspires die-hard loyalty from your followers. When you drop below 50% Health, your companions temporarily gain much greater resistance to damage.
+GID00000525	Your attacks do much less damage to companions, allowing you to liberally spray an area with reckless abandon.
+GID00000526	You don't fool around with fancy trick shots. Straight to the midsection and down they go. In VATS, you do an additional 15% damage with attacks targeting the torso.
+GID00000527	You've been pushed around long enough! With the Nerd Rage! perk, your Strength is raised to 10 and you gain +15 Damage Threshold whenever your Health drops to 20% or below.
+GID00000528	With the Lead Belly perk, you take 50% less radiation when consuming irradiated food and drink.
+GID00000529	With Paralyzing Palm, you will sometimes perform a special V.A.T.S. palm strike that paralyzes your opponent for 30 seconds. Note that in order to perform the Paralyzing Palm, you must be completely unarmed.
+GID00000530	With Concentrated Fire, your accuracy to hit any body part in V.A.T.S. increases slightly with each subsequent hit on that body part.
+GID00000531	With Infiltrator, if a lock is broken, and can't normally be picked again, you can attempt to pick it again one more time. This includes locks previously broken by a "Force Lock" attempt.
+GID00000532	With the Intense Training perk, you can put a single point into any of your S.P.E.C.I.A.L. attributes.
+GID00000533	Your extensive familiarity with Explosives allows you to ignore a portion of their damage. Your Damage Threshold is increased by 25 against any and all Explosives -- even your own.
+GID00000534	Advanced technology from the Commonwealth has increased your reaction speed, giving you a higher chance to hit in V.A.T.S.
+GID00000535	The slayer walks the earth! The speed of all Melee Weapons and Unarmed attacks is increased by 30%.
+GID00000536	Your martial might is truly legendary. You do a large amount of additional damage through enemy blocks with all Melee Weapons and Unarmed attacks.
+GID00000537	You gain +5 Damage Threshold against all Melee Weapons and Unarmed attacks and cannot be knocked down in combat.
+GID00000538	You truly are a rad child. As you go through the increasingly devastating stages of radiation sickness, you will regenerate more and more health.
+GID00000539	Sell items through Barter.
+GID00000540	Heal damage with stimpaks.
+GID00000541	Heal with food.
+GID00000542	Play slots.
+GID00000543	Play blackjack.
+GID00000544	Play roulette games.
+GID00000545	Win at Caravan.
+GID00000546	Lose at Caravan.
+GID00000547	From the humble Laser Pistol to the mighty Gatling Laser, you do +15% damage and have +10% chance to critically hit with any laser weapon.
+GID00000548	Your precision with a scattergun is something to behold. When using shotguns, regardless of ammunition used, you ignore an additional 10 points of a target's Damage Threshold.
+GID00000549	You possess the amazing ability to repair any item using a roughly similar item. Fix a Trail Carbine with a Hunting Rifle, a Plasma Defender with a Laser Pistol, or even Power Armor with Metal Armor. How does it work? Nobody knows... except you.
+GID00000550	Waste not, want not. When you use Energy Weapons, you are more likely to recover drained ammunition. You also have more efficient recycling recipes available at the Workbench.
+GID00000551	You know your way around a reloading bench and don't let good brass and hulls go to waste. When you use Guns, you are more likely to recover cases and hulls. You also have all hand load recipes unlocked at the Reloading Bench.
+GID00000552	You have unraveled some of the greatest mysteries of Pre-War masters: formulas for developing special Nuka-Colas! This perk unlocks special Nuka-Cola recipes at the Workbench.
+GID00000553	Up close and personal, that's how you like it. Your Sneak Attack Criticals with pistols, revolvers, and submachine guns, whether Guns or Energy Weapons, all inflict an additional 20% damage.
+GID00000554	You're just so excited about plasma that you can't (magnetically) contain yourself! The AP costs for all plasma weapons (including Plasma Grenades) are reduced by 20%.
+GID00000555	When you're deep in enemy territory, you just start chucking grenades and hope for the best. All Explosives have a 25% larger area of effect.
+GID00000556	While wearing light armor or no armor, you run 10% faster.
+GID00000557	Weapon Strength Requirements are now 2 points lower than normal for you.
+GID00000558	You have learned how to pack mountains of gear for the Long Haul. Being over-encumbered no longer prevents you from using Fast Travel.
+GID00000559	Living Anatomy allows you to see the Health and Damage Threshold of any target. It also gives you a +5% bonus to damage against Humans and non-feral Ghouls.
+GID00000560	Meltdown causes foes killed by your Energy Weapons to give off a corona of harmful energy. Note: this can cause a chain reaction.
+GID00000561	You have learned the value of careful packing. Items with a weight of 2 or less weigh half as much for you.
+GID00000562	Quite an arm you've got there. All thrown weapons fly farther and faster for you.
+GID00000563	The Run 'n Gun perk reduces accuracy penalties with one-handed Guns and Energy Weapons while walking or running.
+GID00000564	All Melee Weapons (except thrown) and Unarmed attacks have a chance of knocking your target down.
+GID00000565	Piercing Strike makes all of your Unarmed and Melee Weapons (including thrown) negate 15 points of Damage Threshold on the target.
+GID00000566	All weapons have two requirements: Strength and Skill. If you don't meet the requirements, the weapon may be less accurate (if a firearm) or attack more slowly (if an Unarmed or Melee Weapon).
+GID00000567	At Workbenches, the Science skill can help you recycle Energy Weapon ammo and craft other useful items like Stimpaks.
+GID00000568	In 2277, NCR forces defeated Caesar's Legion during the Battle of Hoover Dam. The NCR has held Hoover Dam since then, but the Legion has not made it easy for them.
+GID00000569	Aaron Kimball is a former war hero and the current president of the New California Republic. His insistence on defending Hoover Dam has kept NCR troops in Nevada for years.
+GID00000570	Though their power in the west has diminished greatly over the years, the Brotherhood of Steel still maintains hidden, heavily fortified bunkers throughout the Mojave.
+GID00000571	Though they have had a rough history, the legendary Great Khans are one of the longest-lived gangs to come out of the southwest.
+GID00000572	Brutalized by the NCR, the once-legendary Vipers and Jackals gangs have become little more than opportunistic, petty raiders.
+GID00000573	The New California Republic Rangers are volunteer elite special forces renowned as much for their shrewd reconnaissance capabilities as their bravery and combat prowess.
+GID00000574	Troopers are volunteer and conscripted forces in NCR's military. They vary widely in devotion, experience, and even in basic equipment. What they lack in consistency they make up for in numbers.
+GID00000575	Explorers are Caesar's advance scouts. Typically equipped in light armor and carrying binoculars, they are the Legion's message runners and keen eyes across the Mojave.
+GID00000576	Caesar's most trusted commanders are the centurions: battle-hardened front-line officers who dress in patchwork armor pieced together from their fallen foes.
+GID00000577	Legionaries are the standard soldiers in Caesar's Legion. Their level of experience and overall toughness can be determined by noting the color of their armor.
+GID00000578	Not commonly seen on the front lines, the vexillarius is a standard-bearer for Caesar's Legion. Their presence on the battlefield inspires legionaries to fight to the death for the glory of Caesar.
+GID00000579	Mr. House is the mysterious overlord of The Strip. He controls his small empire from the confines of the Lucky 38 casino, where no other living person has set foot for over two hundred years.
+GID00000580	The Followers of the Apocalypse are an organization with roots in the pre-NCR Boneyard. Dedicated to teaching the poor and healing the sick, they are also considered anarchist revolutionaries by many people in positions of power.
+GID00000581	Wearing outfits that are associated with high-profile factions can be an effective disguise... or a good way to get shot, depending on present company.
+GID00000582	Couriers for the Mojave Express regularly and rapidly carry packages between convenient (for the Mojave Wasteland) drop boxes in several communities.
+GID00000583	.38 Special can be fired from any weapon that uses .357 Magnum. Similarly, .44 Special can be fired from any weapon that uses .44 Magnum and .223 can be fired from any weapon that uses 5.56mm.
+GID00000584	Travelers say there are two ways to get into the New Vegas Strip: through Freeside or via the monorail to Camp McCarran. Only military personnel and NCR VIPs are allowed to use the monorail.
+GID00000585	In Hardcore mode, keep an eye on your dehydration (H2O), starvation (FOD), and sleep deprivation (SLP) meters. If you let them get too high, you can suffer serious penalties - including death!
+GID00000586	You can toggle "true" iron sights for firearms on and off in your Game Settings.
+GID00000587	Caravan is not played in casinos, but is very popular among caravan guards and other frequent travelers on the Long 15.
+GID00000588	Because Caravan allows players to build decks from any cards they can find, crafty caravan guards often come up with devious decks and strategies.
+GID00000589	Caravan is played for standard money of any and all kinds: caps, NCR dollars, or Legion coins. Because the players are often poor, the stakes tend to be low.
+GID00000590	Crafting can be done at any Workbench, Campfire, or Reloading Bench. Some companions even have the ability to help the player craft anywhere in the wasteland.
+GID00000591	Though you can see many crafting recipes at the start of the game, some recipes will not show up until you take special perks or have discovered them in the wasteland.
+GID00000592	Whether you're good, bad, or somewhere in between, all major communities and organizations in the Mojave Wasteland will pay attention to your reputation.
+GID00000593	Stealing, hurting people, and otherwise being a nuisance can negatively impact your reputation with a group.
+GID00000594	The Boomers are said to be xenophobic tribals armed with even more firepower than the Gun Runners. No one ventures into or out of their heavily guarded lands.
+GID00000595	Damage Threshold is subtracted directly from the DAM a weapon does. If DT is higher than the DAM of a weapon, very little damage gets through.
+GID00000596	If you see a red shield next to an enemy's health, it means that their armor's Damage Threshold is absorbing your weapon's damage. A broken red shield means you have completely negated their Damage Threshold.
+GID00000597	If you see a shield next to a your health HUD, it means that your Damage Threshold is absorbing an enemy weapon's damage. A broken shield means they have completely negated your Damage Threshold.
+GID00000598	Travelers along the Long 15 have complained to NCR rangers that caravans have been harassed and attacked by fearsome Super Mutants living in the irradiated ruins of Black Mountain.
+GID00000599	Travelers from northern NCR have been whispering about a small community of Super Mutants located high in the snow-capped mountains west of New Vegas.
+GID00000600	Players win and winners play, but the Strip's casinos don't generally tolerate openly worn weapons or gamblers who are too lucky at the tables.
+GID00000601	Food heals more slowly than stimpaks, but is more common in the Mojave Wasteland. The Survival skill can increase the healing benefits of all forms of food, including Campfire crafting recipes.
+GID00000602	As your Unarmed skill increases, you will unlock the ability to do uppercuts (50 Unarmed) and crosses (75 Unarmed) - both inside V.A.T.S. and out.
+GID00000603	Some individuals in the wasteland have the ability to teach you special unarmed moves.
+GID00000604	All companions give the player a bonus perk while they are in the party. Keep two companions around for double the perks!
+GID00000605	XP for kills made by companions is awarded to the player.
+GID00000606	Companions will heal themselves if they get a chance, but if you want to ensure they live a long life in your service, use the Companion Wheel to administer stimpaks directly.
+GID00000607	With the expansion of post-apocalyptic society across the American southwest, courier groups like the Mojave Express have appeared to take on the difficult task of carrying letters and packages over enormous distances.
+GID00000608	The higher the Charisma, the higher the Nerve. Nerve grants significant combat bonuses to all companions.
+GID00000609	"Prospector" is a polite word for "scavenger". Prospectors can be found all over the Mojave Wasteland, usually looking for the rare unopened safe at the bottom of an irradiated mineshaft.
+GID00000610	Though people around New Vegas have little interest in Pre-War tourist trinkets, there is one influential figure who has a soft spot for snow globes...
+GID00000611	Magazines provide temporary bonuses to skills but are much more common than the highly-prized skill books.
+GID00000612	The Wild Wasteland trait converts a few normally "ordinary" occurences into zany, wacky encounters. Do not take this trait unless you prefer your Fallout experience to be a bit more goofy than usual.
+GID00000613	The Shotgun Surgeon perk negates 10 points of enemy Damage Threshold while you are using any shotgun - handy for taking out lightly-armored opponents who would normally foil your buckshot.
+GID00000614	With Splash Damage, all of your explosions are increased in size, allowing you to carpet bomb an even larger area.
+GID00000615	Sad that you're too weak to keep a light machine gun on target? Take the Weapon Handling perk to remove 2 points from all weapon Strength requirements.
+GID00000616	Do companions annoy you by constantly running into your bullets and missiles? Take the Spray and Pray perk to drastically reduce the amount of damage your attacks inflict on all currently hired companions.
+GID00000617	Not sure what your reputation is with a current group? If you've earned one, you can find it in your Pip-Boy under Stats - General.
+GID00000618	The distinctive black ranger combat armor consists of the Desert Rangers' traditional trench coat worn with Pre-War riot armor. Ranger patrol armor is hand-manufactured in the NCR.
+GID00000619	Chief Hanlon is the head of the NCR Rangers and one of of its longest serving members. He coordinates the actions of the Rangers from their headquarters at Camp Golf.
+GID00000620	Legate Lanius, the Monster of the East, is the military commander of all Caesar's forces in the field. He is legendary for his devotion to Caesar and for his ability to sense weakness in any army.
+GID00000621	After the Legion lost the Battle of Hoover Dam, Caesar had his legate, Joshua Graham, covered in pitch, set on fire, and thrown into the Grand Canyon. Superstitious legionaries and tribals believe he lives on as the Burned Man.
+GID00000622	The King is dedicated to the cause of independence and personal liberty in Freeside. His gang, the Kings, attempts to keep some semblance of order in the streets.
+GID00000623	Due to disagreements over how technology should be controlled in the wasteland, the Brotherhood of Steel waged a long and bloody war against the NCR. Despite superior equipment and training, the Brotherhood eventually went into retreat.
+GID00000624	Though they were a powerful force in the west decades ago, the Enclave has not been seen or heard from in the Mojave Wasteland for years. Members who were not hunted down are believed to have traveled east - or successfully integrated into the NCR.
+GID00000625	Disable a robot's Combat Inhibitor, and the confused machine will go into a killing frenzy, attacking friend and foe alike.
+GID00000626	Silences the weapon.
+GID00000627	Silences the weapon.
+GID00000628	Your frequent water consumption has led to improved benefits from drinking hydrating fluids.
+GID00000629	A weapon's DAM indicates its damage per shot, and is modified by factors like the weapon's condition and its associated skill.
+GID00000630	Do damage with Melee weapons.
+GID00000631	Do damage with Explosive weapons.
+GID00000632	Do damage with Energy weapons.
+GID00000633	Do damage with Guns weapons.
+GID00000634	Discover more Locations.
+GID00000635	Pick Pockets.
+GID00000636	Do damage with Unarmed weapons.
+GID00000637	Silences weapon.
+GID00000638	Cazadores are a new predator in the Mojave Wasteland and often fight with Night Stalkers over their prey.
+GID00000639	Due to their brutal initiation rituals, Great Khans are extremely tough. Don't expect them to go down easily.
+GID00000640	Made savage by excessive chem use, the Fiends of New Vegas are the most numerous and troublesome raiders of the Mojave Wasteland.
+GID00000642	Agility affects your Guns and Sneak skills as well as the number of Action Points available for V.A.T.S.
+GID00000643	High Charisma gives bonuses to both the Barter and Speech skills as well as your companions' Nerve.
+GID00000644	A high Endurance gives bonuses to Health, environmental resistances, and the Survival and Unarmed skills.
+GID00000645	The higher your Intelligence, the more Skill Points you'll be able to distribute when you level up.
+GID00000646	The Lockpick skill is used to open locked doors and containers.
+GID00000647	Raising your Luck raises all of your skill values and improves your Critical Chance with all weapons. It also slightly influences the outcome of gambling games.
+GID00000648	The Unarmed skill is used for fighting without a weapon, or with weapons designed for hand-to-hand combat, like Brass Knuckles, Power Fists, and Displacer Gloves.
+GID00000649	The Medicine skill determines the effectiveness of a Stimpak, Super Stimpak, and Doctor's Bag used to heal Health or damaged limbs.
+GID00000650	The Melee Weapons skill determines your effectiveness with any melee weapon, from the simple lead pipe all the way up to the high-tech Super Sledge.
+GID00000651	A high Perception grants a bonus to the Explosives, Lockpick and Energy Weapons skills.
+GID00000652	The Repair skill allows you to optimize and maintain weapons and apparel. At Reloading Benches, it also allows you to craft ammo for your Guns.
+GID00000653	The Science skill represents your combined scientific knowledge, and is primarily used to hack restricted computer terminals.
+GID00000654	Guns determines your effectiveness with any weapon that uses conventional ammunition (.22 LR, .357 Magnum, 5mm, 10mm, 5.56mm, .308, .45-70 Gov't etc.).
+GID00000655	The Lockpick skill is used to open locked doors and containers.
+GID00000656	The Speech skill governs how much you can influence someone through dialogue, and gain access to information they might otherwise not want to share.
+GID00000657	Strength is a measure of your raw physical power. It affects how much you can carry, the power of all melee attacks, and your effectiveness with many heavy weapons.
+GID00000658	Win at Caravan.
+GID00000659	Increases rate of fire.
+GID00000660	Your muscle mass has been enhanced with the Hypertrophy Accelerator, increasing your Strength by 1.
+GID00000661	Your central nervous node has been enhanced with the Reflex Booster, increasing your Agility by 1.
+GID00000662	Your optic nerve has been enhanced with the Optics Enhancer, increasing your Perception by 1.
+GID00000663	Your nervous system has been enhanced with the Nociception Regulator, increasing your Endurance by 1.
+GID00000664	Your prefrontal cortex has been enhanced with the Empathy Synthesizer, increasing your Charisma by 1.
+GID00000665	Your cerebral cortex has been enhanced with the Logic Co-Processor, increasing your Intelligence by 1.
+GID00000666	Your frontal lobe has been enhanced with the Probability Calculator, increasing your Luck by 1.
+GID00000667	Decreases weight (50%)
+GID00000668	In some conversations, you gain the ability to initiate combat while terrifying a mob of opponents, sending them fleeing away for safety.
+GID00000669	Increases rate of fire.
+GID00000670	Increases condition (+50%).
+GID00000671	Increases ammunition capacity (+110).
+GID00000672	Replenishes ammunition (1/4 shots).
+GID00000673	Increases rate of fire.
+GID00000674	Increases range (+100%).
+GID00000675	Increases rate of fire.
+GID00000676	Increases ammunition capacity (+4).
+GID00000677	Decreases spread, adds laser sight effect.
+GID00000678	Adds short-range scope.
+GID00000679	Increases condition (+50%).
+GID00000680	Increases ammunition capacity (+10).
+GID00000681	Decreases spread.
+GID00000682	Increases ammunition capacity (+60).
+GID00000683	Adds long-range scope.
+GID00000684	Increases rate of fire.
+GID00000685	Increases ammunition capacity (+5).
+GID00000686	Increases ammunition capacity (+6).
+GID00000687	Reduces weapon noise.
+GID00000688	Decreases weight (-5).
+GID00000689	Reduces spread.
+GID00000690	Increases rate of fire.
+GID00000691	Adds long-range scope.
+GID00000692	Increases damage (+3).
+GID00000693	Creates two beams that together do increased damage (+30%).
+GID00000694	Increases speed of plasma projectile.
+GID00000695	Increases damage (+3).
+GID00000696	Decreases weight (50%).
+GID00000697	Decreases spread.
+GID00000698	Increases ammunition capacity (+60).
+GID00000699	Your skin has been toughened by the NEMEAN Sub-Dermal Armor, increasing your total Damage Threshold by 4.
+GID00000700	Your regenerative ability has been enhanced by the PHOENIX Monocyte Breeder implant, causing you to slowly regenerate lost hit points.
+GID00000701	Wild Wasteland unleashes the most bizarre and silly elements of post-apocalyptic America. Not for the faint of heart or the serious of temperament.
+GID00000702	You wrote the book on how to survive in the Wasteland, and have shared your secrets with humanity. You've gained +6% bonus to Poison Resistance and Radiation Resistance, and +15 points to maximum Health.
+GID00000703	You've been tested in some of the most dangerous parts of the wastes, and you've not only survived - you've learned a few things. You've gained +4% bonus to Poison Resistance and Radiation Resistance, and +10 points to maximum Health.
+GID00000704	You've been tested in some of the most dangerous parts of the wastes, and you're still alive to tell the tale. You've gained +2% bonus to Poison Resistance and Radiation Resistance, and +5 points to maximum Health.
+GID00000705	Adds mid-range scope.
+GID00000706	Increases condition (+50%).
+GID00000707	Increases rate of fire.
+GID00000708	Increases ammunition capacity (+4).
+GID00000709	Decreases weight.
+GID00000710	Adds short-range scope.
+GID00000711	Increases ammunition capacity (+7).
+GID00000712	Silences the weapon.
+GID00000713	Increases ammunition capacity (+3).
+GID00000714	Increases condition (+50%).
+GID00000715	Increases damage (+3).
+GID00000716	Adds long-range night scope.
+GID00000717	With the Retention perk, the bonuses granted by skill magazines last three times as long.
+GID00000718	Vault 11 has been abandoned for decades, though few people know the story of its terrible past.
+GID00000719	At the Battle of Hoover Dam, the tide turned for NCR when rangers and 1st Recon sharpshooters lured Caesar's soldiers into the booby-trapped ruins of Boulder City.
+GID00000720	Established long ago in California, the Crimson Caravan Company and the Gun Runners are two of NCR's oldest and most powerful merchant houses.
+GID00000721	The families that now run the Strip of New Vegas were little more than squabbling tribes a few decades ago.
+GID00000722	Mojave Outpost is the site where the NCR Rangers and Desert Rangers of Nevada signed the Ranger Unification Treaty. It also marks the boundary of fully NCR-controlled territory.
+GID00000723	All territory east of the Colorado River is recognized as Caesar's land, an area indisputably under the control of the Legion and agents acting on Caesar's behalf.
+GID00000724	If you start a fight you can't finish, try putting away your weapon. Your opponent just might forgive you...
+GID00000725	After an experimental treatment, intense radiation keeps your body operating at peak performance regardless of crippling injuries... right up until death. When you suffer from Advanced Radiation Poisoning, crippled limbs automatically regenerate.
+GID00000726	Increases ammunition capacity (+3).
+GID00000727	Decreases spread.
+GID00000729	Increases ammunition capacity (+30).
+GID00000730	Things a bit too tough, or too easy? You can pause the game and modify the difficulty at any time.
+GID00000731	Rad Resistance allows you to -- what else? -- resist radiation. This perk grants an additional 25% to Radiation Resistance.
+GID00000732	With the Scrounger perk, you'll find considerably more ammunition in containers than you normally would.
+GID00000733	With each rank of this perk, all of your explosive weapons do an additional 20% damage.
+GID00000734	The Here and Now perk immediately grants an additional experience level, complete with all the advantages that brings.
+GID00000735	With the Mister Sandman perk, when you're in Sneak mode, you gain the option to silently kill any human or Ghoul while they're sleeping. And, all Mister Sandman kills earn bonus XP.
+GID00000736	With the Life Giver perk, you gain an additional 30 Hit Points.
+GID00000737	With the Pyromaniac perk, you do +50% damage with fire-based weapons, like the Flamer and Shishkebab.
+GID00000738	With the Silent Running perk, running no longer factors into a successful sneak attempt.
+GID00000739	With the Sniper perk, your chance to hit an opponent's head in V.A.T.S. is significantly increased.
+GID00000740	At the first rank of this perk, animals simply won't attack. At the second rank, they will actually come to your aid in combat, but never against another animal.
+GID00000741	With the Light Step perk, you'll never set off an enemy's mines or floor-based traps.
+GID00000742	With the Action Boy perk, you gain an additional 15 Action Points to use in V.A.T.S.
+GID00000743	With the Better Criticals perk, you gain a 50% damage bonus every time a critical hit is scored on an opponent.
+GID00000744	You've gained your own personal guardian angel... armed with a fully loaded .44 Magnum. With this perk, the Mysterious Stranger will appear occasionally in V.A.T.S. mode to lend a hand, with deadly efficiency.
+GID00000745	The Tag! perk allows you to select a fourth Skill to be a Tag skill, which instantly raises it by 15 points.
+GID00000746	With the Robotics Expert perk, you do an additional 25% damage to any robot. But, even better, sneaking up on a hostile robot undetected and activating it will put that robot into a permanent shutdown state.
+GID00000747	Fail a hack attempt and get locked out of a computer? Not if you're a Computer Whiz! With this perk, you can attempt to re-hack any computer you were previously locked out of.
+GID00000748	With the Solar Powered perk, you gain an additional 2 points to Strength when in direct sunlight, and slowly regenerate lost Health.
+GID00000749	The Ninja perk grants you the power of the fabled shadow warriors. When attacking with either Melee or Unarmed, you gain a +15% critical chance on every strike. Sneak attack criticals do 25% more damage than normal.
+GID00000750	With each rank in the Swift Learner perk, you gain an additional 10% to total Experience Points whenever Experience Points are earned.
+GID00000751	With the Educated perk, you gain two more skill points every time you advance in level. This perk is best taken early on, to maximize its effectiveness.
+GID00000752	With the Entomologist perk, you do an additional +50% damage every time you attack a mutated insect, like the Radroach, Giant Mantis, or Radscorpion.
+GID00000753	With the Strong Back perk, you can carry 50 more pounds of equipment.
+GID00000754	With the Toughness perk, you gain +3 to overall Damage Threshold. This perk may be taken twice, with the second rank granting an additional +3.
+GID00000755	With the Comprehension perk, you gain double the bonus from reading magazines and one additional point from skill books.
+GID00000756	With the Fortune Finder perk, you'll find considerably more bottle caps in containers than you normally would.
+GID00000757	When you choose the Explorer perk, every location in the world is revealed on your map. So get out there and explore!
+GID00000758	Goodsprings was a ghost town before the war but continues to be important to Long 15 travelers for its fresh water supply.
+GID00000759	Often the first place NCR travelers stop after the Mojave Outpost, Primm is also where a lot of folks realize they left New Vegas with barely enough money to make the long trek back to The Hub.
+GID00000760	Though Boulder City survived the Great War without much damage, the NCR intentionally razed most of the town with a series of explosions during the Battle of Hoover Dam.
+GID00000761	The Silver Rush casino was in competition with The Atomic Wrangler until the owners ran afoul of the Van Graff family.
+GID00000762	The Old Mormon Fort is the oldest building in New Vegas and was recently occupied by the Followers of the Apocalypse.
+GID00000763	The King's School of Impersonation is the "world" headquarters of the Freeside gang known as The Kings.
+GID00000764	Mr. House's Lucky 38 casino towers over the New Vegas Strip, mysterious and impenetrable to visitors and locals alike.
+GID00000765	Fully renovated by The Chairmen, the Tops is billed throughout New Vegas as a place for men to kick back, drink, laugh, and have a good time.
+GID00000766	The Omerta family sells a variety of services and delights to its patrons at Gomorrah, but most visitors are there for one thing: sex.
+GID00000767	The pinnacle of New Vegas refinement and class, the Ultra-Luxe casino is home to the discriminating White Glove Society and their pampered guests.
+GID00000768	Freeside was built up around the intersection of Fremont Street and Las Vegas Boulevard. The influx of destitute travelers in recent months has created problems for its local residents.
+GID00000769	The Strip is the heart of New Vegas, where Mr. House and the casino families are rebuilding the city in the image of its Pre-War glory.
+GID00000770	The NCR has maintained an embassy on The Strip for several years, but has had little success in building friendly relations with Mr. House or the ruling families.
+GID00000771	Though New Vegas is littered with debris of the Pre-War world, Michael Angelo continues to create new art and signs for Mr. House in his workshop on The Strip.
+GID00000772	It's not much to look at, but if you can't afford to get into The Strip, the Atomic Wrangler's the best place to gamble in Freeside.
+GID00000773	Not sure what skill a weapon uses? Look at the lower left corner of its Pip-Boy icon and compare it to the weapon skills.
+GID00000774	Explosive weapons are best used when dealing with crowds or in situations where precision is not a high priority.
+GID00000775	Guns are the most common ranged weapons in the Mojave Wasteland. They are numerous and varied and ammunition is relatively easy to acquire.
+GID00000776	Most Melee Weapons are completely silent, making them excellent stealth weapons.
+GID00000777	When your character's Melee Weapons score hits 50, you will be able to perform special power attacks and V.A.T.S. moves with different Melee Weapons.
+GID00000778	Talented Unarmed combatants in the Mojave Wasteland can teach specialized fighting styles to improve your abilities.
+GID00000779	Most Energy Weapons fall into one of two categories: laser, which is fast, accurate, and low-damage, and plasma, which is slow-moving and very high-damage.
+GID00000780	Energy Weapons are less common and varied than Guns, but have a small number of ammunition types and can be quite potent.
+GID00000781	A weapon's DPS is its Damage Per Second and is calculated using the weapon's base damage (modified by condition), your weapon skill, and the weapon's rate of fire.
+GID00000782	If you do not meet a weapon's Strength requirement, you may be less accurate with it or attack more slowly.
+GID00000783	At 75% Condition, a weapon will never jam and does maximum damage. At 50% Condition, armor protects against maximum damage.
+GID00000784	A wide variety of weapon mods are available from merchants for Guns, Energy Weapons, and even a few Explosives. Attaching them is as simple as using your Pip-Boy and opening the mod menu for your weapon.
+GID00000785	Weapon mods can increase ammo capacity and damage, reduce spread and weight, or add special equipment like scopes.
+GID00000786	You've been tested in some of the most dangerous parts of the wastes, and you're still alive to tell the tale. You've gained +2% bonus to Poison Resistance and Radiation Resistance, and 2 points to both the Medicine and Science skills.
+GID00000787	You've been tested in some of the most dangerous parts of the wastes, and you're still alive to tell the tale. You've gained +2% bonus to Poison Resistance, Radiation Resistance and Damage Resistance.
+GID00000788	You've been tested in some of the most dangerous parts of the wastes, and you're still alive to tell the tale. You've gained +2% bonus to Poison Resistance & Radiation Resistance, and 2 points to both the Speech and Sneak skills.
+GID00000789	You've been tested in some of the most dangerous parts of the wastes, and you're still alive to tell the tale. You've gained +2% bonus to Poison Resistance and Radiation Resistance, and a +1% bonus to Critical Chance.
+GID00000790	You've been tested in some of the most dangerous parts of the wastes, and you've not only survived - you've learned a few things. You've gained +4% bonus to Poison Resistance and Radiation Resistance, and 4 points to both the Medicine and Science skills.
+GID00000791	You've been tested in some of the most dangerous parts of the wastes, and you've not only survived - you've learned a few things. You've gained +4% bonus to Poison Resistance, Radiation Resistance and Damage Resistance.
+GID00000792	You've been tested in some of the most dangerous parts of the wastes, and you've not only survived - you've learned a few things. You've gained +4% bonus to Poison Resistance & Radiation Resistance, and 4 points to both the Speech and Sneak skills.
+GID00000793	You've been tested in some of the most dangerous parts of the wastes, and you've not only survived - you've learned a few things. You've gained +4% bonus to Poison Resistance and Radiation Resistance, and a +2% bonus to Critical Chance.
+GID00000794	You wrote the book on how to survive in the Wasteland, and have shared your secrets with humanity. You've gained +6% bonus to Poison Resistance and Radiation Resistance, and 6 points to both the Medicine and Science skills.
+GID00000795	You wrote the book on how to survive in the Wasteland, and have shared your secrets with humanity. You've gained +6% bonus to Poison Resistance, Radiation Resistance and Damage Resistance.
+GID00000796	You wrote the book on how to survive in the Wasteland, and have shared your secrets with humanity. You've gained +6% bonus to Poison Resistance & Radiation Resistance, and 6 points to both the Speech and Sneak skills.
+GID00000797	You wrote the book on how to survive in the Wasteland, and have shared your secrets with humanity. You've gained +6% bonus to Poison Resistance & Radiation Resistance, and +3% bonus to Critical Chance.
+GID00000798	You can run faster with your two-handed weapons holstered. One-handed weapons will not slow you down.
+GID00000799	Repair your weapons and armor regularly -- the lower their condition, the worse they will perform.
+GID00000800	For ideal shooting conditions, make sure you stop, crouch, and aim before firing.
+GID00000801	In Casual Mode, limb damage can be repaired directly by applying Stimpaks to affected areas, using the Pip-Boy. In Hardcore Mode, a Doctor's Bag or an actual doctor is required.
+GID00000802	Two-handed weapons and medium or heavy apparel will slow you down when they're equipped.
+GID00000803	If your weapons aren't strong enough to penetrate an enemy's armor, use armor-piercing ammo, attack from stealth, or use a weapon with higher DAM!
+GID00000804	You can restore Health by using a Stimpak, eating food, drinking from a water source, or sleeping in a bed.
+GID00000805	A weapon with high DPS but low DAM is best used against unarmored opponents.
+GID00000806	Drinking water provides healing but may increase your radiation level. In Hardcore Mode, drinking water is vital for keeping your dehydration level down.
+GID00000807	Running is noisier than walking and makes you easier to detect, even if you are sneaking.
+GID00000808	In combat, you do +10% damage against male opponents. Outside of combat, you'll sometimes have access to unique dialogue options when dealing with the opposite sex.
+GID00000809	In combat, you do +10% damage against female opponents. Outside of combat, you'll sometimes have access to unique dialogue options when dealing with the opposite sex.
+GID00000810	With the Bloody Mess perk, characters and creatures you kill will often explode into a red, gut-ridden, eyeball-strewn paste. Fun! Oh, and you'll do 5% extra damage with all weapons.
+GID00000811	While using a pistol (or similar one-handed weapon), your accuracy in V.A.T.S. is significantly increased.
+GID00000812	With the Cannibal perk, when you're in Sneak mode, you gain the option to eat a corpse to regain Health. But every time you feed, you lose Karma, and if the act is witnessed, it is considered a crime against nature.
+GID00000813	When the sun is down, a Night Person gains +2 to both Intelligence and Perception (up to a maximum of 10). This perk directly affects your "internal clock," and remains active both inside and outside.
+GID00000814	With the Fast Metabolism perk, you gain a 20% Health bonus when using Stimpaks.
+GID00000815	With the Finesse perk, you have a higher chance to score a critical hit on an opponent in combat, equivalent to 5 extra points of Luck.
+GID00000816	With the Adamantium Skeleton perk, your limbs only receive 50% of the damage they normally would.
+GID00000817	You are able to optimize your Pip-Boy's V.A.T.S. logic, reducing all AP costs by 10%.
+GID00000818	While wearing any type of glasses, you have +1 PER. Without glasses, you have -1 PER.
+GID00000819	Your melee and unarmed attacks do more damage, but less critical hit damage.
+GID00000820	Due to your small size, you have +1 AGL but your limbs are more easily crippled.
+GID00000821	While using Guns and Energy Weapons, you fire 20% more quickly but your shots are 20% less accurate.
+GID00000822	While using Guns and Energy Weapons, you fire 20% more slowly but are 20% more accurate.
+GID00000823	With Ghastly Scavenger, when you're in Sneak mode, you gain the option to eat a Super Mutant or Feral Ghoul corpse to regain Health. Every time you feed, you lose Karma, and if the act is witnessed, it is considered a crime against nature.
+GID00000824	You have +10 Action Points but your reckless nature causes you to have -2 Damage Threshold.
+GID00000825	In combat, you do +75% Critical Damage against animals and mutated animals.
+GID00000826	Raising the game's difficulty will make combat more challenging but has no effect on the amount of XP you receive.
+GID00000827	As a purifier of the wasteland, you do +50% damage with Melee and Unarmed weapons against Centaurs, Nightstalkers, Spore Plants, Spore Carriers, Deathclaws, Super Mutants, and Feral Ghouls.
+GID00000828	Want to prevent an enemy from fleeing? Cripple the legs.
+GID00000829	In combat, you do +10% damage against female opponents. Outside of combat, you'll sometimes have access to unique dialogue options when dealing with the same sex.
+GID00000830	In combat, you do +10% damage against male opponents. Outside of combat, you'll sometimes have access to unique dialogue options when dealing with the same sex.
+GID00000831	You've been exposed to Harold's mutation and your skin is now as hard as tree bark. As a result, you've gained a permanent +5% to Damage Resistance.
+GID00000832	This recipe allows you to make Rose's famous deathclaw omelet!
+GID00000833	COMPANION ONLY - Veronica gains +4 DT.
+GID00000834	COMPANION ONLY - Veronica's Unarmed attack rate goes up by 30%.
+GID00000835	Rapid Reload makes all of your weapon reloads 25% faster than normal.
+GID00000836	Quick Draw makes all of your weapon equipping and holstering 50% faster.
+GID00000837	Just when your enemies think they have the upper hand, Miss Fortune appears to turn their world upside down. Appearing only in V.A.T.S., she has the ability to snatch defeat from the jaws of victory.
+GID00000838	You're Good Natured at heart, more prone to solving problems with your mind than violence. You gain +5 to Barter, Medicine, Repair, Science, and Speech, but have -5 to Energy Weapons, Explosives, Guns, Melee Weapons, and Unarmed.
+GID00000839	The Flamer that burns twice as bright burns half as long. All weapons have +3% chance to Critically Hit, but equipment condition decays 15% faster.
+GID00000840	You do 25% more damage when using any revolver, lever-action firearm, dynamite, knife, or hatchet.
+GID00000841	You have received the specialized training needed to move in any form of Power Armor.
+GID00000842	Having the Chem Resistant perk means you're 50% less likely to develop an addiction to chems, like Psycho or Jet.
+GID00000843	While using a rifle (or similar two-handed weapon), your accuracy in V.A.T.S. is significantly increased.
+GID00000844	With the Chemist perk, any chems you take last twice as long.
+GID00000845	If you kill a target in V.A.T.S., 20 Action Points are restored upon exiting V.A.T.S.
+GID00000846	Picking someone's pocket and placing a mine or grenade in their inventory will activate the explosive... and cause one heck of a mess.
+GID00000847	The NCR's military doesn't like being in the role of "peace-keeper". Crimes across the Mojave are typically punished by death.
+GID00000848	Stealth is affected by many factors, including light level, sound generated, weight and bulk of worn apparel, and line-of-sight.
+GID00000849	With the Animal Friend perk, you will never be the victim of an unprovoked attack from any animal.
+GID00000850	With the Action Boy perk, you gain an additional 15 Action Points to use in V.A.T.S.
+GID00000851	With the Better Criticals perk, you gain a 50% damage bonus every time a critical hit is scored on an opponent.
+GID00000852	With the Action Girl perk, you gain an additional 15 Action Points to use in V.A.T.S.
+GID00000853	By relying on the dirty unarmed fighting tricks of the Great Khans, you can throw dust into the eyes of your enemies, temporarily stunning them. Perform a Power Attack while moving left or right to execute the Khan Trick.
+GID00000854	When caught without their weapons, NCR's rangers rely on the Ranger Takedown to quickly incapacitate opponents. Perform a Power Attack while moving backwards to execute a Ranger Takedown.
+GID00000855	Caesar's elite cadre of bodyguards, the legendary praetorians, use an aggressive Legion Assault to brutalize enemies. Perform a Power Attack while running forward to execute the Legion Assault.
+GID00000856	Scribes in the Brotherhood of Steel are often not well-trained in the combat use of the high-tech gear employed by Paladins. They rely on unarmed defensive moves like the Scribe Counter to keep enemies at bay. Perform a standard attack out of a block hit reaction to execute a Scribe Counter.
+GID00000857	COMPANIONS ONLY[CRLF]* Mult Weap DAM 0.75[CRLF]* Mult Target DT 0.75[CRLF]* Decrease Carry Weight 75[CRLF]* Increase DR 33%
+GID00000858	Two major routes lead into the city of New Vegas from the south: Interstate 15 and Highway 95.
+GID00000859	While Arcade is a companion, the player regains more health from all sources.
+GID00000860	While Boone is a companion, hostile targets are highlighted whenever the player is actively aiming.
+GID00000861	While Cass is a companion, she and the player gain Damage Threshold when they drink Whiskey. Additionally, the player does not suffer intelligence loss from consuming alcohol and ignores the negative effects of alcohol addiction.
+GID00000862	While ED-E is a companion, the player can detect enemies at an increased range. Additionally, enemies will appear on the player's compass and can be targeted in V.A.T.S. even when cloaked.
+GID00000863	While Lily is a companion, the duration of Stealth Boys is increased by 200% and all Sneak Attack Critical Hits do an additional 10% damage.
+GID00000864	While Raul is a companion, the Condition of weapons and armor decays more slowly.
+GID00000865	While Rex is a companion, unequipped chems, firearms, and ammunition within a short distance are highlighted when you zoom the camera.
+GID00000866	While Veronica is a companion, the player can craft Workbench items through Veronica's dialogue.
+GID00000867	With the Comprehension perk, you gain more skill points when reading skill magazines and one additional skill point whenever a skill book is read.
+GID00000868	With Concentrated Fire, your accuracy to hit any body part in V.A.T.S. increases slightly with each subsequent hit on that body part.
+GID00000869	The Retention perk greatly increases the duration of skill-boosting magazines.
+GID00000870	With each rank of the Demolition Expert perk, all of your explosive weapons do an additional 20% damage.
+GID00000871	With the Educated perk, you gain two more skill points every time you advance in level.
+GID00000872	With the Entomologist perk, you do an additional +50% damage every time you attack a mutated insect.
+GID00000873	When you choose the Explorer perk, every location in the world is revealed on your map. So get out there and explore!
+GID00000874	The Run 'n Gun perk reduces accuracy penalties with one-handed Guns and Energy Weapons while walking or running.
+GID00000875	With the Fortune Finder perk, you'll find considerably more Nuka-Cola caps in containers than you normally would.
+GID00000876	The Here and Now perk immediately grants an additional experience level, complete with all the advantages that brings.
+GID00000877	With the Cowboy perk, attacking enemies with revolvers, lever-action firearms, dynamite, knives, and hatchets does +25% damage.
+GID00000878	With the Infiltrator perk, you gain one more chance to pick any lock broken by an unsuccessful "Force Lock" attempt.
+GID00000879	With the Intense Training perk, you can put a single point into any of your S.P.E.C.I.A.L. attributes.
+GID00000880	With the Plasma Spaz perk, all AP costs for plasma weapons (including grenades) are reduced by 10%.
+GID00000881	Fail a hack attempt and get locked out of a computer? Not if you're a Computer Whiz! With this perk, you can attempt to re-hack any computer you were previously locked out of.
+GID00000882	Once you have the Heave, Ho! perk, all thrown weapons can be thrown much farther.
+GID00000883	With the Lead Belly perk, you take 50% less radiation every time you drink from an irradiated water source.
+GID00000884	With the Life Giver perk, you gain an additional 30 Hit Points.
+GID00000885	With the Light Step perk, you'll never set off an enemy's mines or floor-based mechanical traps.
+GID00000886	The Math Wrath perk optimizes your Pip-Boy's V.A.T.S. logic, reducing all AP costs by 10%.
+GID00000887	The Slayer perk increases the speed of your attacks with all Unarmed and Melee Weapons.
+GID00000888	With the Friend of the Night perk, you gain low-light vision after the sun goes down.
+GID00000889	When you take the Pack Rat perk, the weight of all lightweight items is cut in half.
+GID00000890	With the Mister Sandman perk, you can perform a special move that instantly kills any sleeping character, and will gain bonus XP for doing so.
+GID00000891	With the Finesse perk, you gain an additional +5% chance to score a critical hit on an opponent in combat.
+GID00000892	With the Mysterious Stranger perk, your own personal guardian angel will appear occasionally in V.A.T.S. mode to lend a hand... with deadly efficiency.
+GID00000893	You've been pushed around long enough! With the Nerd Rage perk, your Strength is raised to 10 and you gain 15 points to Damage Threshold whenever your Health drops to 20% or below.
+GID00000894	The Ninja perk grants you the power of the fabled shadow warriors, and increases your chance to do critical hits, and the damage of each.
+GID00000895	With the Paralyzing Palm perk, you will sometimes perform a special V.A.T.S. palm strike that paralyzes your opponent for 30 seconds.
+GID00000896	With the Pyromaniac perk, you do +50% damage with fire-based weapons, like the Flamer and Shishkebab.
+GID00000897	Rad Resistance allows you to -- what else? -- resist radiation. This Perk grants an additional 25% to Radiation Resistance.
+GID00000898	With the Robotics Expert perk, you do an additional 25% damage to any robot in combat.
+GID00000899	The Meltdown perk creates a damaging corona of energy every time you vaporize or melt a target with lasers or plasma.
+GID00000900	With the Scrounger perk, you'll find considerably more ammunition in containers than you normally would.
+GID00000901	With the Silent Running perk, running no longer factors into a successful sneak attempt.
+GID00000902	With the Sniper Perk, your chance to hit an opponent's head in V.A.T.S. is significantly increased.
+GID00000903	With the Solar Powered perk, you gain an additional 2 points to Strength when in direct sunlight, and slowly regenerate lost Health.
+GID00000904	With the Strong Back perk, you can carry 50 more pounds of equipment.
+GID00000905	With each rank in the Swift Learner perk, you gain an additional 10% to total Experience Points whenever Experience Points are earned.
+GID00000906	The Tag! perk allows you to select a fourth Skill to be a Tag Skill, meaning it immediately raises by 15 points.
+GID00000907	Tired of having to drop gear to make a trip back to the store? With the Long Haul perk, you can fast travel even when you are over-encumbered.
+GID00000908	With the Toughness perk, you gain +3 to your Damage Threshold.
+GID00000909	While Raul is a companion, the Condition of weapons and armor decays 75% slower.
+GID00000910	Raul's rate of fire with revolvers and lever action firearms is 33% faster than normal.
+GID00000911	Repeatedly breaking bones has led them to become stronger (somehow).
+GID00000912	Pulling the legs off ants suits you well. You gain a damage bonus against insects.
+GID00000913	You've done enough chems to know how to hang on to the effects just a while longer.
+GID00000914	You've slowed things down enough to gain additional time when using Turbo.
+GID00000915	You gain enhanced effects from Rad-Away.
+GID00000916	There's nothing abominable about your damage bonus against Abominations.
+GID00000917	You grind the gears of the machines and gain a damage bonus against robots.
+GID00000918	You're laser-crazy and it shows! Minor bonus to critically hit with all laser weapons.
+GID00000919	You hack just a little faster.
+GID00000920	Reduce the AP Cost of Unarmed Attacks in VATS.
+GID00000921	You handle animals really well when they are dead and gain a damage bonus against the living ones.
+GID00000922	With the Dine and Dash perk, when you're in Sneak mode, you gain the option to take corpse parts for eating at a later time.
+GID00000923	Your savvy at Mutant killing grants you a damage bonus to killing them.
+GID00000924	Your special VATS friends have gotten used to helping you out and will strive to do so more often.
+GID00000925	You gain a damage bonus against everything, because you like killing everything.
+GID00000926	Use doctor's bags.
+GID00000927	Complete Quests.
+GID00000928	Miss Fortune appearances.
+GID00000929	Mysterious Stranger appearances.
+GID00000930	Cripple limbs.
+GID00000931	Have your own limbs become crippled.
+GID00000932	Cripple enemy heads.
+GID00000933	Cripple enemy torsos.
+GID00000934	Cripple enemies' right arms (or equivalent).
+GID00000935	Kill enemies with thrown weapons.
+GID00000936	Knock down enemies.
+GID00000937	Use Turbo.
+GID00000938	Use Rad-X.
+GID00000939	Use Rad Away.
+GID00000940	Craft items at a Workbench, Campfire, Reloading Bench, or elsewhere.
+GID00000941	Craft more items at a Workbench, Campfire, Reloading Bench, or elsewhere.
+GID00000942	Apply mods to weapons.
+GID00000943	Dismember limbs.
+GID00000944	Inflict damage with rifle-grip Energy weapons.
+GID00000945	Drink water items.
+GID00000946	Repair items in your inventory yourself.
+GID00000947	Score Critical Hits with rifle-grip Energy Weapons.
+GID00000948	Score Critical Hits with one-handed Energy Weapons.
+GID00000949	Kill enemies with Guns.
+GID00000950	Kill enemies with Guns.
+GID00000951	Damage enemy heads with non-automatic Guns rifles.
+GID00000952	Inflict damage to enemy heads with one-handed Guns.
+GID00000953	Inflict damage to enemy heads with automatic rifle-grip Guns.
+GID00000954	Disintegrate enemies with laser weapons.
+GID00000955	Kill enemies with Energy Weapons.
+GID00000956	Kill more enemies with Energy weapons.
+GID00000957	Score Critical Hits with rifle-grip Guns.
+GID00000958	Score Critical Hits with one-handed pistols.
+GID00000959	Inflict damage with shotguns.
+GID00000960	Inflict damage with rifle-grip Guns.
+GID00000961	Do damage with any submachine gun, the light machine gun, or minigun.
+GID00000962	Kill enemies with Explosives.
+GID00000963	Kill more enemies with Explosives.
+GID00000964	Disable enemy limbs with two-handed Melee Weapons.
+GID00000965	Explode enemy pants.
+GID00000966	Inflict damage to enemy heads with Energy Weapons.
+GID00000967	Damage enemies with one-handed laser weapons.
+GID00000968	Inflict damage with mines and thrown grenades.
+GID00000969	Inflict damage with Explosives launchers.
+GID00000970	Disable mines.
+GID00000971	Kill enemies with Melee Weapons.
+GID00000972	Kill enemies with Melee Weapons.
+GID00000973	Inflict damage with two-handed Melee Weapons.
+GID00000974	Kill enemies with one-handed Melee Weapons.
+GID00000975	Score Critical Hits with one-handed Melee Weapons.
+GID00000976	Kill enemies using Unarmed weapons.
+GID00000977	Kill enemies using Unarmed weapons.
+GID00000978	Inflict damage with Unarmed weapons.
+GID00000979	Inflict damage with Unarmed weapons.
+GID00000980	Inflict damage to enemy heads with Unarmed weapons.
+GID00000981	Score 100 Critical Hits with Unarmed weapons.
+GID00000982	Disable enemy torsos with Unarmed weapons.
+GID00000983	Cripple enemy heads with Unarmed weapons.
+GID00000984	Kill Mutated Insects.
+GID00000985	Kill Super Mutants.
+GID00000986	Kill Robot enemies.
+GID00000987	Kill Abominations.
+GID00000988	Kill Mutated Animals.
+GID00000989	Eat corpses.
+GID00000990	Eat more corpses.
+GID00000991	Kill anything.
+GID00000992	Kill anything (just more of it).
+GID00000993	Kill anything (and pretty much everything).
+GID00000994	Use addictive chems.
+GID00000995	Take more chems.
+GID00000996	Hack computer terminals.
+GID00000997	Hack more computer terminals.
+GID00000998	Pick locks.
+GID00000999	Pick locks.
+GID00001000	Achieve Speech successes.
+GID00001001	Achieve Speech failures.
+GID00001002	Become addicted (over and over).
+GID00001003	Discover locations.
+GID00001004	Find Vault 11.
+GID00001005	Find Vault 19.
+GID00001006	Complete challenges.
+GID00001007	Kill enemies with rifle-grip Guns.
+GID00001008	Use any large two-handled weapon to kill enemies.
+GID00001009	Use any shoulder mounted weapon to kill enemies.
+GID00001010	Kill enemies with one-handed Guns.
+GID00001011	Find Vault 22.
+GID00001012	Find Vault 3.
+GID00001013	Find Vault 34.
+GID00001014	Use stimpaks.
+GID00001015	Night Stalkers are fearsome nocturnal predators created by splicing together coyote and rattlesnake DNA.
+GID00001016	Disabling the antennae of insects, like Giant Ants or Giant Mantises, will make them frenzy and attack anything nearby.
